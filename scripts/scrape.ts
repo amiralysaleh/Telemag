@@ -14,14 +14,22 @@ const CHANNELS = [
   'Break_the_barriers',
   'MatinSenPaii',
   'configraygan',
-  'NetAccount',
-  'iliaen',
-  'newscenter',
-  'prrofile_purple',
-  'mizangorup'
+  'NetAccount'
 ];
 
 const DATA_FILE = path.join(__dirname, '../public/data.json');
+
+function parseSizeMB(sizeStr: string): number {
+  const match = sizeStr.match(/([\d.]+)\s*(KB|MB|GB|B)/i);
+  if (!match) return 0;
+  const val = parseFloat(match[1]);
+  const unit = match[2].toUpperCase();
+  if (unit === 'GB') return val * 1024;
+  if (unit === 'MB') return val;
+  if (unit === 'KB') return val / 1024;
+  if (unit === 'B') return val / (1024 * 1024);
+  return 0;
+}
 
 interface Message {
   id: string;
@@ -70,12 +78,20 @@ async function scrapeChannel(channelName: string): Promise<Message[]> {
       });
 
       // Files (basic extraction)
+      let hasLargeFile = false;
       const files: { name: string; size: string }[] = [];
       $el.find('.tgme_widget_message_document').each((k, fileEl) => {
           const name = $(fileEl).find('.tgme_widget_message_document_title').text().trim();
           const size = $(fileEl).find('.tgme_widget_message_document_extra').text().trim();
-          if (name) files.push({ name, size });
+          if (name) {
+            if (parseSizeMB(size) > 5) {
+              hasLargeFile = true;
+            }
+            files.push({ name, size });
+          }
       });
+
+      if (hasLargeFile) return; // Skip message if it contains a file > 5MB
 
       messages.push({
         id,
@@ -136,8 +152,13 @@ async function main() {
   // Add new (overwriting if updated)
   allNewMessages.forEach(msg => dataMap.set(msg.id, msg));
 
-  // Convert back to array and sort by date (newest first)
-  const sortedData = Array.from(dataMap.values()).sort((a, b) => b.timestamp - a.timestamp);
+  // Convert back to array, filter out messages older than 24 hours, and sort by date
+  const now = Date.now();
+  const TWENTY_FOUR_HOURS = 24 * 60 * 60 * 1000;
+  
+  const sortedData = Array.from(dataMap.values())
+    .filter(msg => (now - msg.timestamp) <= TWENTY_FOUR_HOURS)
+    .sort((a, b) => b.timestamp - a.timestamp);
 
   // Limit to prevent infinite growth in this demo (optional, but good for JSON performance)
   // Let's keep 500 for now.

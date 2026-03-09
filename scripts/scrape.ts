@@ -14,10 +14,10 @@ const CHANNELS = [
   'Break_the_barriers',
   'MatinSenPaii',
   'configraygan',
-  'NetAccount'
-  'iliaen'
-  'newscenter'
-  'prrofile_purple'
+  'NetAccount',
+  'iliaen',
+  'newscenter',
+  'prrofile_purple',
   'mizangorup'
 ];
 

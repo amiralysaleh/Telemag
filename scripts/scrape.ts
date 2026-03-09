@@ -15,6 +15,10 @@ const CHANNELS = [
   'MatinSenPaii',
   'configraygan',
   'NetAccount'
+  'iliaen'
+  'newscenter'
+  'prrofile_purple'
+  'mizangorup'
 ];
 
 const DATA_FILE = path.join(__dirname, '../public/data.json');

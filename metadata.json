@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Channel Scraper",
+  "description": "Scrapes and displays content from Telegram channels.",
+  "requestFramePermissions": []
+}

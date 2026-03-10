@@ -13,7 +13,7 @@ const CHANNELS = [
   'hddify',
   'Break_the_barriers',
   'MatinSenPaii',
-  'configraygan',
+  'worldsmoments',
   'iliaen',
   'newscenter',
   'soskeynet',

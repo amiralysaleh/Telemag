@@ -1,5 +1,238 @@
 [
   {
+    "id": "Break_the_barriers/728",
+    "channel": "Break_the_barriers",
+    "text": "جهت دور زدن محدودیت‌های اینترنت هم‌راه و خانگی روی ترافیک DNS، می‌تونید با داشتن یک سرور ایران و iptables ترافیک رو از طریق تانل دیتاسنتر بفرستید.این مجموعه دستورات به شما اجازه می‌ده تا ترافیک ورودی به سرور شخصی روی یک پورت خاص رو به یک DNS Resolver هدایت کنید و هم‌چنین آدرس IP سرور رو برای حفظ حریم خصوصی در ترافیک DNS مخفی کنید.این ساده‌ترین روش برای دور زدن محدودیت‌هاست، ازش ایده بگیرید و خودتون توسعه بدید برای بهتر شدن.دستورات زیر رو برای خودتون کپی کنید، مقادیر زیر رو با مقادیر واقعی جایگزین کنید:PORT: پورت دلخواهی که می‌خواید ترافیک رو روش بفرستیدDNS-RESOLVER-IP: آدرس آی‌پی ریزالور سالمدر ابتدا تمام قوانین iptables رو حذف کنید:iptables -Fiptables -X⚠️ دقت داشته باشید که اگر از قبل قوانین خاصی دارید، این دستور رو نزنید و مستقیم برید سراغ دستورات بعدی.sudo iptables -A FORWARD -p tcp --dport PORT -j ACCEPTsudo iptables -A FORWARD -p udp --dport PORT -j ACCEPTsudo iptables -t nat -A PREROUTING -p tcp --dport PORT -j DNAT --to-destination DNS-RESOLVER-IP:53sudo iptables -t nat -A PREROUTING -p udp --dport PORT -j DNAT --to-destination DNS-RESOLVER-IP:53sudo iptables -t nat -A POSTROUTING -p tcp -d DNS-RESOLVER-IP --dport 53 -j MASQUERADEsudo iptables -t nat -A POSTROUTING -p udp -d DNS-RESOLVER-IP --dport 53 -j MASQUERADE#DNSTT#slipstream@break_the_barriers",
+    "html": "جهت دور زدن محدودیت‌های اینترنت هم‌راه و خانگی روی ترافیک DNS، می‌تونید با داشتن یک سرور ایران و iptables ترافیک رو از طریق تانل دیتاسنتر بفرستید.<br><br>این مجموعه دستورات به شما اجازه می‌ده تا ترافیک ورودی به سرور شخصی روی یک پورت خاص رو به یک DNS Resolver هدایت کنید و هم‌چنین آدرس IP سرور رو برای حفظ حریم خصوصی در ترافیک DNS مخفی کنید.<br><br>این ساده‌ترین روش برای دور زدن محدودیت‌هاست، ازش ایده بگیرید و خودتون توسعه بدید برای بهتر شدن.<br><br>دستورات زیر رو برای خودتون کپی کنید، مقادیر زیر رو با مقادیر واقعی جایگزین کنید:<br>PORT: پورت دلخواهی که می‌خواید ترافیک رو روش بفرستید<br><br>DNS-RESOLVER-IP: آدرس آی‌پی ریزالور سالم<br><br>در ابتدا تمام قوانین iptables رو حذف کنید:<br><code>iptables -F<br>iptables -X</code><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> دقت داشته باشید که اگر از قبل قوانین خاصی دارید، این دستور رو نزنید و مستقیم برید سراغ دستورات بعدی.<br><br><br><code>sudo iptables -A FORWARD -p tcp --dport PORT -j ACCEPT<br><br>sudo iptables -A FORWARD -p udp --dport PORT -j ACCEPT<br><br>sudo iptables -t nat -A PREROUTING -p tcp --dport PORT -j DNAT --to-destination DNS-RESOLVER-IP:53<br><br>sudo iptables -t nat -A PREROUTING -p udp --dport PORT -j DNAT --to-destination DNS-RESOLVER-IP:53<br><br>sudo iptables -t nat -A POSTROUTING -p tcp -d DNS-RESOLVER-IP --dport 53 -j MASQUERADE<br><br>sudo iptables -t nat -A POSTROUTING -p udp -d DNS-RESOLVER-IP --dport 53 -j MASQUERADE</code><br><br><br><a href=\"?q=%23DNSTT\">#DNSTT</a><br><a href=\"?q=%23slipstream\">#slipstream</a><br><a href=\"https://t.me/break_the_barriers\" target=\"_blank\">@break_the_barriers</a>",
+    "date": "2026-03-10T19:39:46+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/728",
+    "timestamp": 1773171586000
+  },
+  {
+    "id": "Break_the_barriers/729",
+    "channel": "Break_the_barriers",
+    "text": "از اون‌جایی که خیلی فیدبک مثبت نگرفتم، به دلایلی که گفتم چرا باعثش می‌شه، کانفیگ تست رو حذف کردم تا پخش نشه و برای دیگران اذیت به هم‌راه نداشته باشه.",
+    "html": "از اون‌جایی که خیلی فیدبک مثبت نگرفتم، به دلایلی که گفتم چرا باعثش می‌شه، کانفیگ تست رو حذف کردم تا پخش نشه و برای دیگران اذیت به هم‌راه نداشته باشه.",
+    "date": "2026-03-10T19:39:46+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/729",
+    "timestamp": 1773171586000
+  },
+  {
+    "id": "iliaen/3502",
+    "channel": "iliaen",
+    "text": "ساعت ۲۳:۰۸ سه‌شنبه؛ صدای جنگنده و انفجار در تهران، کرج، شهریار، اسلامشهر و شهر ری شنیده شد. @iliaen",
+    "html": "ساعت ۲۳:۰۸ سه‌شنبه؛ صدای جنگنده و انفجار در تهران، کرج، شهریار، اسلامشهر و شهر ری شنیده شد. <br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-03-10T19:38:42+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/iliaen/3502",
+    "timestamp": 1773171522000
+  },
+  {
+    "id": "NetAccount/15947",
+    "channel": "NetAccount",
+    "text": "صدای انفجار در شهریار",
+    "html": "صدای انفجار در شهریار",
+    "date": "2026-03-10T19:38:34+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/15947",
+    "timestamp": 1773171514000
+  },
+  {
+    "id": "newscenter/60423",
+    "channel": "newscenter",
+    "text": "گزارش ها از انفجار در شهریار و اسلامشهر✅ @newscenter",
+    "html": "گزارش ها از انفجار در شهریار و اسلامشهر<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-10T19:36:58+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60423",
+    "timestamp": 1773171418000
+  },
+  {
+    "id": "NetAccount/15946",
+    "channel": "NetAccount",
+    "text": "چند صدای انفجار در تهران",
+    "html": "چند صدای انفجار در تهران",
+    "date": "2026-03-10T19:36:33+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/15946",
+    "timestamp": 1773171393000
+  },
+  {
+    "id": "newscenter/60422",
+    "channel": "newscenter",
+    "text": "چندین انفجار در تهران گزارش شده✅ @newscenter",
+    "html": "چندین انفجار در تهران گزارش شده<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-10T19:36:12+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60422",
+    "timestamp": 1773171372000
+  },
+  {
+    "id": "newscenter/60421",
+    "channel": "newscenter",
+    "text": "استرالیا یک فروند هواپیمای آواکس E-7 Wedgetail را به همراه ۸۵ پرسنل به امارات متحده عربی اعزام کرده است تا به ارائه قابلیت‌های اضافی هشدار اولیه و نظارتی کمک کند.✅ @newscenter",
+    "html": "استرالیا یک فروند هواپیمای آواکس E-7 Wedgetail را به همراه ۸۵ پرسنل به امارات متحده عربی اعزام کرده است تا به ارائه قابلیت‌های اضافی هشدار اولیه و نظارتی کمک کند.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-10T19:35:37+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/KwDmwQ48mnIfx_pG27xhECOVJAiZ4xKoHokQdH1g_9W0V_BSfTACuBuPvWBxZDlu8_uIOwHYjNjRfT4O1HD4rwDWR9SDh5W6qKojBQ4Ymqs4feG0ZztD2dSRsmikvjEYxSO7MXkheNNhQF8GctVu5RvRM_0jLFN55hIWbtyPrpYLMTMcA5JZS9iYzXZUs3lEpMnzuV-TGGNehVejVMOM4CSFXF-PQxnigNFu3c5qkqX2OV9umiZnKlFht1Z8N34zDkXM1w43NSDTp0muXm6Vg2Nrdi-hEEttRs-KV9JN7nuITRkwOcgkwh5CxCN64p1IbncwGGBwxrTqm2oav_WgmA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/newscenter/60421",
+    "timestamp": 1773171337000
+  },
+  {
+    "id": "NetAccount/15945",
+    "channel": "NetAccount",
+    "text": "این پست برای افراد خارج از کشوره:اگه استارلینک دارین (مهم نیست ساکن کدوم کشور خارجی باشین) و میخواین به افراد داخل کشور کمک کنین که بتونیم براشون کانفیگ بسازیم و بذاریم تا بتونن به نت وصل شن، به دایرکت چنل پیام بدین:t.me/NetAccount?directمیخوایم امتحان کنیم اگه بشه خیلیا به نت وصل میشن",
+    "html": "این پست برای افراد خارج از کشوره:<br><br>اگه استارلینک دارین (مهم نیست ساکن کدوم کشور خارجی باشین) و میخواین به افراد داخل کشور کمک کنین که بتونیم براشون کانفیگ بسازیم و بذاریم تا بتونن به نت وصل شن، به دایرکت چنل پیام بدین:<br><a href=\"http://t.me/NetAccount?direct\" target=\"_blank\" rel=\"noopener\">t.me/NetAccount?direct</a><br><br>میخوایم امتحان کنیم اگه بشه خیلیا به نت وصل میشن",
+    "date": "2026-03-10T19:35:26+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/15945",
+    "timestamp": 1773171326000
+  },
+  {
+    "id": "iliaen/3501",
+    "channel": "iliaen",
+    "text": "ساعت ۲۳:۰۴ سه‌شنبه؛ چند صدای انفجار در تهران شنیده شد.@iliaen",
+    "html": "ساعت ۲۳:۰۴ سه‌شنبه؛ چند صدای انفجار در تهران شنیده شد.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-03-10T19:34:56+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/iliaen/3501",
+    "timestamp": 1773171296000
+  },
+  {
+    "id": "persianvpnhub/20228",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: South Africa 🇿🇦📶 پینگ: 270ms#VLESS #VPN🕒 انتشار: 22:27 - 1404/12/19💡 منبع: @AzadNet🔍 QRcodevless://f9a84da7-102f-4066-8593-095c4a4af003@102.37.157.78:6013?path=%2F&security=none&encryption=none&host=soft98.ir&type=ws#%40AzadNet",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: South Africa <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BFF09F87A6.png')\"><b>🇿🇦</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 270ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 22:27 - 1404/12/19<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/AzadNet\" target=\"_blank\">@AzadNet</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=vless%3A%2F%2Ff9a84da7-102f-4066-8593-095c4a4af003%40102.37.157.78%3A6013%3Fpath%3D%252F%26security%3Dnone%26encryption%3Dnone%26host%3Dsoft98.ir%26type%3Dws%23%2540AzadNet\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>vless://f9a84da7-102f-4066-8593-095c4a4af003@102.37.157.78:6013?path=%2F&amp;security=none&amp;encryption=none&amp;host=soft98.ir&amp;type=ws#%40AzadNet</pre>",
+    "date": "2026-03-10T19:33:48+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/20228",
+    "timestamp": 1773171228000
+  },
+  {
+    "id": "iliaen/3500",
+    "channel": "iliaen",
+    "text": "سه‌شنبه شب؛ آشیانه‌ی تعمیر و‌ نگهداری فرودگاه شهرکرد (چهارمحال بختیاری) هدف اصابت دو موشک قرار گرفت.@iliaen",
+    "html": "سه‌شنبه شب؛ آشیانه‌ی تعمیر و‌ نگهداری فرودگاه شهرکرد (چهارمحال بختیاری) هدف اصابت دو موشک قرار گرفت.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-03-10T19:28:25+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/iliaen/3500",
+    "timestamp": 1773170905000
+  },
+  {
+    "id": "newscenter/60420",
+    "channel": "newscenter",
+    "text": "سپاه پاسداران: دقایقی قبل یک فروند پهپاد هرمس ۹۰۰ در آسمان استان فارس رهگیری و منهدم شد✅ @newscenter",
+    "html": "<b>سپاه پاسداران: دقایقی قبل یک فروند پهپاد هرمس ۹۰۰ در آسمان استان فارس رهگیری و منهدم شد</b><br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-10T19:26:21+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60420",
+    "timestamp": 1773170781000
+  },
+  {
+    "id": "Break_the_barriers/727",
+    "channel": "Break_the_barriers",
+    "text": "٢ روز پیش وقتی آدرس DNS سرور رو گذاشتم، خیلی فیدبک‌های مثبتی گرفتم.اما دقیقاً از دیروز محدودیت‌های ارسال دیتا از طریق DNS خیلی زیاد شده.احتمال منطقه‌ای بودن هم هست.به‌هرحال من دارم از ریزالورهای موجود استفاده می‌کنم و حتی دیتاسنتر هم اون‌قدری محدودیت‌ها رو کم‌تر نمی‌کنه.این روش وقتی قطعی به همه جواب می‌داد، که سرور تانل شده بود به خارج.به گمانم به درد مصرف منطقه‌ای و شخصی می‌خوره.یک روش خیلی آسان‌تر از چیزی که خودم اجرا کردم، برای بهره بردن از محدودیت کم‌تر دیتاسنتر در برابر DNS سرورها رو می‌نویسم براتون که دقیقاً همون کار رو انجام می‌ده و اجراش خیلی راحته، یک کپی پیست ساده است.",
+    "html": "٢ روز پیش وقتی آدرس DNS سرور رو گذاشتم، خیلی فیدبک‌های مثبتی گرفتم.<br><br>اما دقیقاً از دیروز محدودیت‌های ارسال دیتا از طریق DNS خیلی زیاد شده.<br><br>احتمال منطقه‌ای بودن هم هست.<br><br>به‌هرحال من دارم از ریزالورهای موجود استفاده می‌کنم و حتی دیتاسنتر هم اون‌قدری محدودیت‌ها رو کم‌تر نمی‌کنه.<br><br>این روش وقتی قطعی به همه جواب می‌داد، که سرور تانل شده بود به خارج.<br><br>به گمانم به درد مصرف منطقه‌ای و شخصی می‌خوره.<br><br>یک روش خیلی آسان‌تر از چیزی که خودم اجرا کردم، برای بهره بردن از محدودیت کم‌تر دیتاسنتر در برابر DNS سرورها رو می‌نویسم براتون که دقیقاً همون کار رو انجام می‌ده و اجراش خیلی راحته، یک کپی پیست ساده است.",
+    "date": "2026-03-10T19:18:22+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/727",
+    "timestamp": 1773170302000
+  },
+  {
+    "id": "worldsmoments/89941",
+    "channel": "worldsmoments",
+    "text": "سخنگوی مسلح جمهوری اسلامی: انتقام دیروز و امروز در راه است. @worldsmoments",
+    "html": "سخنگوی مسلح جمهوری اسلامی: انتقام دیروز و امروز در راه است. <br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-03-10T19:13:18+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/89941",
+    "timestamp": 1773169998000
+  },
+  {
+    "id": "newscenter/60419",
+    "channel": "newscenter",
+    "text": "کارولین لیویت، سخنگوی کاخ سفید، در مورد حمله مرگبار مدرسه میناب: تحقیقات ادامه دارد، رئیس جمهور ترامپ نتیجه تحقیقات را، هر چه که باشد، خواهد پذیرفت✅ @newscenter",
+    "html": "کارولین لیویت، سخنگوی کاخ سفید، در مورد حمله مرگبار مدرسه میناب: تحقیقات ادامه دارد، رئیس جمهور ترامپ نتیجه تحقیقات را، هر چه که باشد، خواهد پذیرفت<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-10T19:07:57+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60419",
+    "timestamp": 1773169677000
+  },
+  {
+    "id": "newscenter/60418",
+    "channel": "newscenter",
+    "text": "سخنگوی کاخ سفید :  ایران قصد داشت به آمریکا حمله کنه، اما ترامپ اجازه نداد این اتفاق بیفته و مردم امریکا باید بابتش قدردان باشن. از نظر دولت آمریکا، عملیات علیه ایران هم تا وقتی ادامه پیدا می‌کنه که ترامپ تشخیص بده اهداف نظامی کامل انجام شده و ایران عملاً…کارولین لیویت، سخنگوی کاخ سفید: اگر لازم باشد ایالات متحده آمریکا اسکورت نفتکش ها برای عبور از تنگه هرمز را آغاز می‌کند ولی تا این لحظه چنین چیزی رخ نداده است✅ @newscenter",
+    "html": "سخنگوی کاخ سفید :  ایران قصد داشت به آمریکا حمله کنه، اما ترامپ اجازه نداد این اتفاق بیفته و مردم امریکا باید بابتش قدردان باشن. از نظر دولت آمریکا، عملیات علیه ایران هم تا وقتی ادامه پیدا می‌کنه که ترامپ تشخیص بده اهداف نظامی کامل انجام شده و ایران عملاً…",
+    "date": "2026-03-10T19:02:32+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60418",
+    "timestamp": 1773169352000
+  },
+  {
+    "id": "iliaen/3499",
+    "channel": "iliaen",
+    "text": "در جریان حملات امروز و دیروز در استان ایلام، مقر اصلی نیروی انتظامی استان ایلام، ستاد وزارت اطلاعات استان ایلام، مجتمع نیروهای واحد بسیج استان ایلام، فرماندهی سپاه پاسداران استان ایلام و فرماندهی یگان سرکوب استان ایلام هدف قرار گرفتند.@iliaen",
+    "html": "در جریان حملات امروز و دیروز در استان ایلام، مقر اصلی نیروی انتظامی استان ایلام، ستاد وزارت اطلاعات استان ایلام، مجتمع نیروهای واحد بسیج استان ایلام، فرماندهی سپاه پاسداران استان ایلام و فرماندهی یگان سرکوب استان ایلام هدف قرار گرفتند.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-03-10T18:58:57+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/iliaen/3499",
+    "timestamp": 1773169137000
+  },
+  {
+    "id": "newscenter/60417",
+    "channel": "newscenter",
+    "text": "سخنگوی کاخ سفید : ایران قصد داشت به آمریکا حمله کنه، اما ترامپ اجازه نداد این اتفاق بیفته و مردم امریکا باید بابتش قدردان باشن.از نظر دولت آمریکا، عملیات علیه ایران هم تا وقتی ادامه پیدا می‌کنه که ترامپ تشخیص بده اهداف نظامی کامل انجام شده و ایران عملاً در موقعیت تسلیم کامل و بدون قید و شرط قرار گرفته؛ حتی اگه خودشون رسماً اعلام نکنن.در عین حال، درباره فرستادن نیروی زمینی به ایران هم ترامپ فعلا هیچ گزینه‌ای رو از روی میز برنداشته(یعنی امکان داره دستور بده زمینی حمله کنن).✅ @newscenter",
+    "html": "سخنگوی کاخ سفید : <br><blockquote>ایران قصد داشت به آمریکا حمله کنه، اما ترامپ اجازه نداد این اتفاق بیفته و مردم امریکا باید بابتش قدردان باشن.</blockquote><br><blockquote>از نظر دولت آمریکا، عملیات علیه ایران هم تا وقتی ادامه پیدا می‌کنه که ترامپ تشخیص بده </blockquote><blockquote><b>اهداف نظامی کامل انجام شده و ایران عملاً در موقعیت تسلیم کامل و بدون قید و شرط قرار گرفته</b></blockquote><blockquote>؛ حتی اگه خودشون رسماً اعلام نکنن.</blockquote><br><b>در عین حال، درباره</b> <b>فرستادن نیروی زمینی به ایران هم ترامپ فعلا هیچ گزینه‌ای رو از روی میز برنداشته(یعنی امکان داره دستور بده زمینی حمله کنن).<br><br></b><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-10T18:58:40+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60417",
+    "timestamp": 1773169120000
+  },
+  {
+    "id": "worldsmoments/89940",
+    "channel": "worldsmoments",
+    "text": "🔴لیویت، سخنگوی کاخ سفید🇺🇸 : بالا رفتن قیمت نفت و گاز به خاطر این درگیری‌ها موقتیه و وقتی این عملیات تموم بشه، در بلندمدت قیمت سوخت پایین‌تر هم میاد. ترامپ هم از اول انتظار داشت که رژیم ایران سعی کنه بازارهای جهانی و قیمت انرژی رو به هم بریزه. توان نظامی آمریکا…🔴لیویت، سخنگوی کاخ سفید : ایران قصد داشت به آمریکا حمله کنه، اما ترامپ اجازه نداد این اتفاق بیفته و مردم امریکا باید بابتش قدردان باشن.از نظر دولت آمریکا، عملیات علیه ایران هم تا وقتی ادامه پیدا می‌کنه که ترامپ تشخیص بده اهداف نظامی کامل انجام شده و ایران عملاً در موقعیت تسلیم کامل و بدون قید و شرط قرار گرفته؛ حتی اگه خودشون رسماً اعلام نکنن.در عین حال، درباره فرستادن نیروی زمینی به ایران هم ترامپ فعلا هیچ گزینه‌ای رو از روی میز برنداشته.@worldsmoments",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>لیویت، سخنگوی کاخ سفید<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i> : بالا رفتن قیمت نفت و گاز به خاطر این درگیری‌ها موقتیه و وقتی این عملیات تموم بشه، در بلندمدت قیمت سوخت پایین‌تر هم میاد. ترامپ هم از اول انتظار داشت که رژیم ایران سعی کنه بازارهای جهانی و قیمت انرژی رو به هم بریزه. توان نظامی آمریکا…",
+    "date": "2026-03-10T18:57:39+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/89940",
+    "timestamp": 1773169059000
+  },
+  {
+    "id": "NetAccount/15944",
+    "channel": "NetAccount",
+    "text": "واکنش ایرانیان داخل کشور به هنگام حملات هوایی آمریکا و اسرائیل، اسفند ۱۴۰۴ @hafezeye_tarikhi",
+    "html": "واکنش ایرانیان داخل کشور به هنگام حملات هوایی آمریکا و اسرائیل، اسفند ۱۴۰۴ <br><a href=\"https://t.me/hafezeye_tarikhi\" target=\"_blank\">@hafezeye_tarikhi</a>",
+    "date": "2026-03-10T18:55:34+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/15944",
+    "timestamp": 1773168934000
+  },
+  {
     "id": "worldsmoments/89939",
     "channel": "worldsmoments",
     "text": "سردار رادان:تا امروز ۸۱ نفر از وطن فروشهایی که در فضای مجازی اخبار داخل را به دشمن و رسانه های دشمن می دادند شناسایی و بازداشت شده اند.@worldsmoments",
@@ -4390,38 +4623,5 @@
     "files": [],
     "link": "https://t.me/configraygan/5323",
     "timestamp": 1773085436000
-  },
-  {
-    "id": "persianvpnhub/20167",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SS📍 لوکیشن: Malaysia 🇲🇾📶 پینگ: 172ms#Shadowsocks #VPN🕒 انتشار: 23:03 - 1404/12/18💡 منبع: @makvaslim🔍 QRcodess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM@124.217.247.205:51348#%5Bopenproxylist.com%5D%20MY%2013267967",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Malaysia <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B2F09F87BE.png')\"><b>🇲🇾</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 172ms<br><br><a href=\"?q=%23Shadowsocks\">#Shadowsocks</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 23:03 - 1404/12/18<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM%40124.217.247.205%3A51348%23%255Bopenproxylist.com%255D%2520MY%252013267967\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN3eUEzd201YXRoNGo5WTM@124.217.247.205:51348#%5Bopenproxylist.com%5D%20MY%2013267967</pre>",
-    "date": "2026-03-09T19:34:30+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20167",
-    "timestamp": 1773084870000
-  },
-  {
-    "id": "NetAccount/15878",
-    "channel": "NetAccount",
-    "text": "#ارسالی درودخمین شهر موشکی رو مدام بمباران میکنن لانچرهارو آوردن داخل مناطق روستایی و دارن از روستاها موشک شلیک میکننوقتی موشک میزنن خونه هارو روستا می لرزه و مردم میترسن، ماهایی که از شهر اومدیم روستا آرامش باشه یکم اینجا هم ولمون نمیکننبین روستای لکان و خان آباد",
-    "html": "<a href=\"?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C\">#ارسالی</a> درود<br>خمین شهر موشکی رو مدام بمباران میکنن <br>لانچرهارو آوردن داخل مناطق روستایی و دارن از روستاها موشک شلیک میکنن<br>وقتی موشک میزنن خونه هارو روستا می لرزه و مردم میترسن، ماهایی که از شهر اومدیم روستا آرامش باشه یکم اینجا هم ولمون نمیکنن<br>بین روستای لکان و خان آباد",
-    "date": "2026-03-09T19:14:21+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/15878",
-    "timestamp": 1773083661000
-  },
-  {
-    "id": "SOSkeyNET/21483",
-    "channel": "soskeynet",
-    "text": "کانفیگ‌های پرسرعت 🚨vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@est.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#⚡Telegram = @SOSkeyNETss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#⚡Telegram = @SOSkeyNETss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#⚡Telegram = @SOSkeyNETvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?path=/?ed=2560&telegram🇨🇳#⚡Telegram = @SOSkeyNETvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&type=ws&host=ca.adobe-connect.top&path=%2F#⚡Telegram = @SOSkeyNETvless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#⚡Telegram = @SOSkeyNETvless://eb071647-72a6-46be-8e89-ff3d228d52f6@80.75.212.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.jojack.ru&fp=chrome&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&sid=6bb3c7f9f97b45b8&type=tcp&headerType=none#⚡Telegram = @SOSkeyNETvless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.jojack.ru&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=8dc4fccb2bcfc99d&type=tcp&headerType=none#⚡Telegram = @SOSkeyNETvless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&security=tls&encryption=none&insecure=0&host=efixshop.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#⚡Telegram = @SOSkeyNET```👈 آموزش اتصال 👉⚡️Telegram = @SOSkeyNET عضو شو",
-    "html": "<b>کانفیگ‌های پرسرعت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></b><br><br><pre>vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@est.pink-service.ru:443?security=reality&amp;encryption=none&amp;pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=86b80f1e713a33ad#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?path=/?ed=2560&amp;telegram<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A8F09F87B3.png')\"><b>🇨🇳</b></i></pre>#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = <a href=\"https://t.me/SOSkeyNET\" target=\"_blank\">@SOSkeyNET</a><br><pre><br></pre>vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&amp;security=tls&amp;sni=ca.adobe-connect.top&amp;alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&amp;fp=chrome&amp;type=ws&amp;host=ca.adobe-connect.top&amp;path=%2F#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = <a href=\"https://t.me/SOSkeyNET\" target=\"_blank\">@SOSkeyNET</a><br><pre><br></pre>vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=google.com&amp;fp=chrome&amp;pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&amp;sid=9f35da6c9412b832&amp;type=tcp&amp;headerType=none#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = <a href=\"https://t.me/SOSkeyNET\" target=\"_blank\">@SOSkeyNET</a><br><pre><br></pre>vless://eb071647-72a6-46be-8e89-ff3d228d52f6@80.75.212.10:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=nl.jojack.ru&amp;fp=chrome&amp;pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&amp;sid=6bb3c7f9f97b45b8&amp;type=tcp&amp;headerType=none#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = <a href=\"https://t.me/SOSkeyNET\" target=\"_blank\">@SOSkeyNET</a><br><pre><br></pre>vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=at.jojack.ru&amp;fp=chrome&amp;pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&amp;sid=8dc4fccb2bcfc99d&amp;type=tcp&amp;headerType=none#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = <a href=\"https://t.me/SOSkeyNET\" target=\"_blank\">@SOSkeyNET</a><br><pre><br></pre>vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = <a href=\"https://t.me/SOSkeyNET\" target=\"_blank\">@SOSkeyNET</a><br><pre><br></pre>vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=efixshop.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=default.ssl.fastly.net#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = <a href=\"https://t.me/SOSkeyNET\" target=\"_blank\">@SOSkeyNET</a><br>```<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> <a href=\"https://t.me/SOSkeyNET/7\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>آموزش اتصال</b></a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>Telegram = </b><a href=\"https://t.me/SOSkeyNET\" target=\"_blank\"><b>@SOSkeyNET</b></a><b> عضو شو</b>",
-    "date": "2026-03-09T19:12:32+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/soskeynet/21483",
-    "timestamp": 1773083552000
   }
 ]

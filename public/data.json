@@ -1,5 +1,114 @@
 [
   {
+    "id": "NetAccount/15923",
+    "channel": "NetAccount",
+    "text": "تعدادی DNS متصل برای AM Tunnel در بخش SuperDNS بزنید:udp://217.219.131.130udp://87.107.110.85udp://46.38.143.236udp://37.148.57.40udp://185.49.84.2udp://91.92.208.43",
+    "html": "تعدادی DNS متصل برای AM Tunnel در بخش SuperDNS بزنید:<br><br><code>udp://217.219.131.130</code><br><code>udp://87.107.110.85</code><br><code>udp://46.38.143.236</code><br><code>udp://37.148.57.40</code><br><code>udp://185.49.84.2</code><br><code>udp://91.92.208.43</code>",
+    "date": "2026-03-10T06:53:31+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/15923",
+    "timestamp": 1773125611000
+  },
+  {
+    "id": "mitivpn/16180",
+    "channel": "mitivpn",
+    "text": "بانک ملیم گزارش دادین همینطور...هک شدن مهم نیست تمامی حسابهای نظامی و دولتی در این دو بانک قرار داشتند.",
+    "html": "بانک ملیم گزارش دادین همینطور...",
+    "date": "2026-03-10T06:53:18+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mitivpn/16180",
+    "timestamp": 1773125598000
+  },
+  {
+    "id": "NetAccount/15922",
+    "channel": "NetAccount",
+    "text": "کپی کنید توی npv بزنید:{\"remarks\":\"NetAccount\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vmess\",\"settings\":{\"vnext\":[{\"address\":\"217.218.26.73\",\"port\":10000,\"users\":[{\"id\":\"3de2f80c-67f3-464e-ac80-0a8d4b5fb74b\",\"security\":\"auto\",\"level\":8}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"none\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}",
+    "html": "کپی کنید توی npv بزنید:<br><br><blockquote expandable=\"\">{\"remarks\":\"NetAccount\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vmess\",\"settings\":{\"vnext\":[{\"address\":\"<a href=\"http://217.218.26.73/\" target=\"_blank\" rel=\"noopener\">217.218.26.73</a>\",\"port\":10000,\"users\":[{\"id\":\"3de2f80c-67f3-464e-ac80-0a8d4b5fb74b\",\"security\":\"auto\",\"level\":8}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"none\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"<a href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\">1.1.1.1</a>\"],\"hosts\":{\"domain:<a href=\"http://googleapis.cn/\" target=\"_blank\" rel=\"noopener\">googleapis.cn</a>\":\"<a href=\"http://googleapis.com/\" target=\"_blank\" rel=\"noopener\">googleapis.com</a>\",\"<a href=\"http://dns.alidns.com/\" target=\"_blank\" rel=\"noopener\">dns.alidns.com</a>\":[\"<a href=\"http://223.5.5.5/\" target=\"_blank\" rel=\"noopener\">223.5.5.5</a>\",\"<a href=\"http://223.6.6.6/\" target=\"_blank\" rel=\"noopener\">223.6.6.6</a>\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"<a href=\"http://one.one.one.one/\" target=\"_blank\" rel=\"noopener\">one.one.one.one</a>\":[\"<a href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\">1.1.1.1</a>\",\"<a href=\"http://1.0.0.1/\" target=\"_blank\" rel=\"noopener\">1.0.0.1</a>\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"<a href=\"http://dot.pub/\" target=\"_blank\" rel=\"noopener\">dot.pub</a>\":[\"<a href=\"http://1.12.12.12/\" target=\"_blank\" rel=\"noopener\">1.12.12.12</a>\",\"<a href=\"http://120.53.53.53/\" target=\"_blank\" rel=\"noopener\">120.53.53.53</a>\"],\"<a href=\"http://dns.google/\" target=\"_blank\" rel=\"noopener\">dns.google</a>\":[\"<a href=\"http://8.8.8.8/\" target=\"_blank\" rel=\"noopener\">8.8.8.8</a>\",\"<a href=\"http://8.8.4.4/\" target=\"_blank\" rel=\"noopener\">8.8.4.4</a>\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"<a href=\"http://dns.quad9.net/\" target=\"_blank\" rel=\"noopener\">dns.quad9.net</a>\":[\"<a href=\"http://9.9.9.9/\" target=\"_blank\" rel=\"noopener\">9.9.9.9</a>\",\"<a href=\"http://149.112.112.112/\" target=\"_blank\" rel=\"noopener\">149.112.112.112</a>\",\"2620:fe::fe\",\"2620:fe::9\"],\"<a href=\"http://common.dot.dns.yandex.net/\" target=\"_blank\" rel=\"noopener\">common.dot.dns.yandex.net</a>\":[\"<a href=\"http://77.88.8.8/\" target=\"_blank\" rel=\"noopener\">77.88.8.8</a>\",\"<a href=\"http://77.88.8.1/\" target=\"_blank\" rel=\"noopener\">77.88.8.1</a>\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"<a href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\">1.1.1.1</a>\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"<a href=\"http://223.5.5.5/\" target=\"_blank\" rel=\"noopener\">223.5.5.5</a>\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}</blockquote>",
+    "date": "2026-03-10T06:50:04+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/15922",
+    "timestamp": 1773125404000
+  },
+  {
+    "id": "persianvpnhub/20202",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ TROJAN📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 89ms#TROJAN #VPN🕒 انتشار: 10:02 - 1404/12/19💡 منبع: @privatevpns🔍 QRcodetrojan://telegram-id-privatevpns@3.127.171.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 89ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 10:02 - 1404/12/19<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/privatevpns\" target=\"_blank\">@privatevpns</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=trojan%3A%2F%2Ftelegram-id-privatevpns%403.127.171.45%3A22222%3Fsecurity%3Dtls%26alpn%3Dhttp%2F1.1%26headerType%3Dnone%26type%3Dtcp%26sni%3Dtrojan.burgerip.co.uk%23%28S101%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>trojan://telegram-id-privatevpns@3.127.171.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i>t.me/PrivateVPNs</pre>",
+    "date": "2026-03-10T06:36:25+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/20202",
+    "timestamp": 1773124585000
+  },
+  {
+    "id": "persianvpnhub/20201",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 09:56 - 1404/12/19💡 منبع: @ByGFW",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:56 - 1404/12/19<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/ByGFW\" target=\"_blank\">@ByGFW</a>",
+    "date": "2026-03-10T06:36:20+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@ByGFW (3).npvt",
+        "size": "2 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/20201",
+    "timestamp": 1773124580000
+  },
+  {
+    "id": "persianvpnhub/20200",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 09:30 - 1404/12/19💡 منبع: @ehsawn8",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:30 - 1404/12/19<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/ehsawn8\" target=\"_blank\">@ehsawn8</a>",
+    "date": "2026-03-10T06:36:16+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@ehsawn8(108).npvt",
+        "size": "1.1 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/20200",
+    "timestamp": 1773124576000
+  },
+  {
+    "id": "SOSkeyNET/21491",
+    "channel": "soskeynet",
+    "text": "کانفیگ‌های پرسرعت 🚨vless://3e0302d2-c45d-440e-b619-ba69faf185f6@USA-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&encryption=none&host=google.com.&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://3e0302d2-c45d-440e-b619-ba69faf185f6@DE-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&encryption=none&host=speedtest.net.&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva-AlphaOmega.AlphaOmegaVIP.IR:100?security=none&encryption=none&host=www.soft98.ir.&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva2-AlphaOmega.AlphaOmegaVIP.IR:200?security=none&encryption=none&host=www.soft98.ir.&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva4-AlphaOmega.AlphaOmegaVIP.IR:400?security=none&encryption=none&host=www.telewebion.ir.&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva5-AlphaOmega.AlphaOmegaVIP.IR:500?security=none&encryption=none&host=www.telewebion.ir.&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva3-AlphaOmega.AlphaOmegaVIP.IR:300?security=none&encryption=none&host=zula.ir&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://71ba6556-2f58-4bbf-92f7-935a45c2e941@2.188.241.144:29332?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETss://YWVzLTI1Ni1nY206T3UyZkZ4c2VmR2h3ZU4yUEJkWA@195.230.107.5:10594?type=tcp#⚡Telegram = @SOSkeyNETtrojan://telegram-id-directvpn@3.127.171.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET👈 آموزش اتصال 👉⚡️Telegram = @SOSkeyNET عضو شو",
+    "html": "<b>کانفیگ‌های پرسرعت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></b><br><br><pre>vless://3e0302d2-c45d-440e-b619-ba69faf185f6@USA-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=google.com.&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://3e0302d2-c45d-440e-b619-ba69faf185f6@DE-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=speedtest.net.&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva-AlphaOmega.AlphaOmegaVIP.IR:100?security=none&amp;encryption=none&amp;host=www.soft98.ir.&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva2-AlphaOmega.AlphaOmegaVIP.IR:200?security=none&amp;encryption=none&amp;host=www.soft98.ir.&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva4-AlphaOmega.AlphaOmegaVIP.IR:400?security=none&amp;encryption=none&amp;host=www.telewebion.ir.&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva5-AlphaOmega.AlphaOmegaVIP.IR:500?security=none&amp;encryption=none&amp;host=www.telewebion.ir.&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://3e0302d2-c45d-440e-b619-ba69faf185f6@IR-FanAva3-AlphaOmega.AlphaOmegaVIP.IR:300?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://71ba6556-2f58-4bbf-92f7-935a45c2e941@2.188.241.144:29332?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>ss://YWVzLTI1Ni1nY206T3UyZkZ4c2VmR2h3ZU4yUEJkWA@195.230.107.5:10594?type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>trojan://telegram-id-directvpn@3.127.171.45:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> <a href=\"https://t.me/SOSkeyNET/7\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>آموزش اتصال</b></a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>Telegram = </b><a href=\"https://t.me/SOSkeyNET\" target=\"_blank\"><b>@SOSkeyNET</b></a><b> عضو شو</b>",
+    "date": "2026-03-10T06:32:52+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/soskeynet/21491",
+    "timestamp": 1773124372000
+  },
+  {
+    "id": "mitivpn/16177",
+    "channel": "mitivpn",
+    "text": "بانک سپه اعلام کرد حساب ها و خدمات بانکیش غیرفعال شدهبانک ملیم گزارش دادین همینطور...",
+    "html": "بانک سپه اعلام کرد حساب ها و خدمات بانکیش غیرفعال شده",
+    "date": "2026-03-10T06:31:53+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mitivpn/16177",
+    "timestamp": 1773124313000
+  },
+  {
+    "id": "mitivpn/16176",
+    "channel": "mitivpn",
+    "text": "بانک سپه اعلام کرد حساب ها و خدمات بانکیش غیرفعال شده",
+    "html": "<b>بانک سپه اعلام کرد حساب ها و خدمات بانکیش غیرفعال شده</b>",
+    "date": "2026-03-10T06:28:26+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mitivpn/16176",
+    "timestamp": 1773124106000
+  },
+  {
     "id": "persianvpnhub/20199",
     "channel": "persianvpnhub",
     "text": "📂 کانفیگ VLESS📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 167ms#VLESS #VPN🕒 انتشار: 09:01 - 1404/12/19💡 منبع: @Proxymelimon🔍 QRcodevless://1eab4b77-893d-4182-a86a-a213ef23f3af@DE-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&encryption=none&host=speedtest.net.&headerType=none&type=tcp#proxymelimon",
@@ -3083,65 +3192,5 @@
     "files": [],
     "link": "https://t.me/NetAccount/15853",
     "timestamp": 1773041449000
-  },
-  {
-    "id": "MatinSenPaii/2266",
-    "channel": "MatinSenPaii",
-    "text": "یه روشی برای کانکت شدن به تلگرام با استفاده از اسلیپنت هست که بعضی‌ چنل‌ها گفتن و برا بعضیا جواب داده:‌🔷 روش اتصال‌1- ابتدا وارد تنظیمات اسلیپنت شوید.‌2-گزینه Proxy-only mode را فعال کنید.‌3- سپس یک کانفیگ جدید اضافه کنید تا اتصال برقرار شود. اگه برقرار نشد قلم کنار اسم فایل رو بزنید و در کادر DNS Resolver ، یک دی‌ان‌اس وصل بزارید.با استفاده از دو فایلی که چندهزار dns توش بود یا همینایی که الان میگم و قبلا توضیح دادم چجوری داخل همون برنامه تست میشن میتونین یه dns وصل پیدا کنید و در کادر قرار دهید.‌213.207.195.18037.148.51.30102.23.231.196212.86.72.72102.23.231.245217.219.131.13046.245.80.20693.126.25.1093.126.18.9593.126.12.2293.126.2.25293.126.12.20431.130.181.23346.100.13.158188.121.147.14102.23.226.70‌185.49.84.2217.144.107.16281.12.94.7477.237.82.12387.107.137.25037.148.57.40102.22.81.201102.22.81.175102.23.223.130102.22.81.183102.22.83.142102.22.72.46102.22.81.201102.22.83.12102.22.81.133102.22.81.175102.23.226.96102.23.231.204185.120.220.155‌4- پس از اتصال، به تلگرام رفته و پروکسی SOCKS مانند این مثال را وارد کنید:‌https://t.me/socks?server=79.127.32.186&port=2026&user=reza&pass=561440‌5- پس از چند دقیقه، اتصال برقرار خواهد شد.‌طبق چیزی که میگن این روش برای اتصال با رایتل مبین نت ایرانسل به همین شکل عمل می‌کند.",
-    "html": "یه روشی برای کانکت شدن به تلگرام با استفاده از اسلیپنت هست که بعضی‌ چنل‌ها گفتن و برا بعضیا جواب داده:<br>‌<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B7.png')\"><b>🔷</b></i> روش اتصال<br>‌<br>1- ابتدا وارد تنظیمات اسلیپنت شوید.<br>‌<br>2-گزینه Proxy-only mode را فعال کنید.<br>‌<br>3- سپس یک کانفیگ جدید اضافه کنید تا اتصال برقرار شود. اگه برقرار نشد قلم کنار اسم فایل رو بزنید و در کادر DNS Resolver ، یک دی‌ان‌اس وصل بزارید.<br>با استفاده از دو فایلی که چندهزار dns توش بود یا همینایی که الان میگم و قبلا توضیح دادم چجوری داخل همون برنامه تست میشن میتونین یه dns وصل پیدا کنید و در کادر قرار دهید.<br>‌<br><a href=\"http://213.207.195.180/\" target=\"_blank\" rel=\"noopener\">213.207.195.180</a><br><a href=\"http://37.148.51.30/\" target=\"_blank\" rel=\"noopener\">37.148.51.30</a><br><a href=\"http://102.23.231.196/\" target=\"_blank\" rel=\"noopener\">102.23.231.196</a><br><a href=\"http://212.86.72.72/\" target=\"_blank\" rel=\"noopener\">212.86.72.72</a><br><a href=\"http://102.23.231.245/\" target=\"_blank\" rel=\"noopener\">102.23.231.245</a><br><a href=\"http://217.219.131.130/\" target=\"_blank\" rel=\"noopener\">217.219.131.130</a><br><a href=\"http://46.245.80.206/\" target=\"_blank\" rel=\"noopener\">46.245.80.206</a><br><a href=\"http://93.126.25.10/\" target=\"_blank\" rel=\"noopener\">93.126.25.10</a><br><a href=\"http://93.126.18.95/\" target=\"_blank\" rel=\"noopener\">93.126.18.95</a><br><a href=\"http://93.126.12.22/\" target=\"_blank\" rel=\"noopener\">93.126.12.22</a><br><a href=\"http://93.126.2.252/\" target=\"_blank\" rel=\"noopener\">93.126.2.252</a><br><a href=\"http://93.126.12.204/\" target=\"_blank\" rel=\"noopener\">93.126.12.204</a><br><a href=\"http://31.130.181.233/\" target=\"_blank\" rel=\"noopener\">31.130.181.233</a><br><a href=\"http://46.100.13.158/\" target=\"_blank\" rel=\"noopener\">46.100.13.158</a><br><a href=\"http://188.121.147.14/\" target=\"_blank\" rel=\"noopener\">188.121.147.14</a><br><a href=\"http://102.23.226.70/\" target=\"_blank\" rel=\"noopener\">102.23.226.70</a><br>‌<br><a href=\"http://185.49.84.2/\" target=\"_blank\" rel=\"noopener\">185.49.84.2</a><br><a href=\"http://217.144.107.162/\" target=\"_blank\" rel=\"noopener\">217.144.107.162</a><br><a href=\"http://81.12.94.74/\" target=\"_blank\" rel=\"noopener\">81.12.94.74</a><br><a href=\"http://77.237.82.123/\" target=\"_blank\" rel=\"noopener\">77.237.82.123</a><br><a href=\"http://87.107.137.250/\" target=\"_blank\" rel=\"noopener\">87.107.137.250</a><br><a href=\"http://37.148.57.40/\" target=\"_blank\" rel=\"noopener\">37.148.57.40</a><br><a href=\"http://102.22.81.201/\" target=\"_blank\" rel=\"noopener\">102.22.81.201</a><br><a href=\"http://102.22.81.175/\" target=\"_blank\" rel=\"noopener\">102.22.81.175</a><br><a href=\"http://102.23.223.130/\" target=\"_blank\" rel=\"noopener\">102.23.223.130</a><br><a href=\"http://102.22.81.183/\" target=\"_blank\" rel=\"noopener\">102.22.81.183</a><br><a href=\"http://102.22.83.142/\" target=\"_blank\" rel=\"noopener\">102.22.83.142</a><br><a href=\"http://102.22.72.46/\" target=\"_blank\" rel=\"noopener\">102.22.72.46</a><br><a href=\"http://102.22.81.201/\" target=\"_blank\" rel=\"noopener\">102.22.81.201</a><br><a href=\"http://102.22.83.12/\" target=\"_blank\" rel=\"noopener\">102.22.83.12</a><br><a href=\"http://102.22.81.133/\" target=\"_blank\" rel=\"noopener\">102.22.81.133</a><br><a href=\"http://102.22.81.175/\" target=\"_blank\" rel=\"noopener\">102.22.81.175</a><br><a href=\"http://102.23.226.96/\" target=\"_blank\" rel=\"noopener\">102.23.226.96</a><br><a href=\"http://102.23.231.204/\" target=\"_blank\" rel=\"noopener\">102.23.231.204</a><br><a href=\"http://185.120.220.155/\" target=\"_blank\" rel=\"noopener\">185.120.220.155</a><br>‌<br>4- پس از اتصال، به تلگرام رفته و پروکسی SOCKS مانند این مثال را وارد کنید:<br>‌<br><a href=\"https://t.me/socks?server=79.127.32.186&amp;port=2026&amp;user=reza&amp;pass=561440\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=79.127.32.186&amp;port=2026&amp;user=reza&amp;pass=561440</a><br>‌<br>5- پس از چند دقیقه، اتصال برقرار خواهد شد.<br>‌<br>طبق چیزی که میگن این روش برای اتصال با رایتل مبین نت ایرانسل به همین شکل عمل می‌کند.",
-    "date": "2026-03-09T06:45:28+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/MatinSenPaii/2266",
-    "timestamp": 1773038728000
-  },
-  {
-    "id": "MatinSenPaii/2265",
-    "channel": "MatinSenPaii",
-    "text": "DNSScanner.apkلاگ نسخه ی اخرتغییرات v1.3 (بر پایه هسته اسکن واقعی)فیلتر سبز نهایی: فقط Resolverهای قوی با CLIENT_READY_OK به‌عنوان سبز نهایی نمایش داده می‌شوند تا خروجی به اتصال واقعی در کلاینت‌های مشابه NetMod نزدیک‌تر شود.سورت هوشمند نتایج: نمایش بهترین Resolverها در اول لیست با اولویت CLIENT_READY_OK سپس STABLE_TUNNEL_OK و بعد REAL_TUNNEL_OK بر اساس Score، Stable Seconds و Latency.همخوانی کامل UI با هسته جدید: اصلاح نمایش وضعیت‌ها تا MAYBE و STABLE_TUNNEL_OK دیگر سبز دیده نشوند و فقط نتیجه‌های نهایی قابل اتکا سبز باشند.هسته سخت‌گیرانه‌تر اسکن: ارتقای Native Probe به منطق محافظه‌کارانه‌تر برای کاهش False Positive با درنظر گرفتن Score، SSH Latency، Timeout Count و پایداری واقعی تونل.خروجی نزدیک‌تر به اتصال واقعی: اسکنر حالا به‌جای صرفاً تشخیص Tunnel پایدار، Resolverهایی را بالاتر می‌آورد که احتمال اتصال واقعی آن‌ها در اینترنت ایران بیشتر است.",
-    "html": "DNSScanner.apk",
-    "date": "2026-03-09T06:38:52+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/MatinSenPaii/2265",
-    "timestamp": 1773038332000
-  },
-  {
-    "id": "MatinSenPaii/2264",
-    "channel": "MatinSenPaii",
-    "text": "این رو یکی از دوستان نوشتن برای اندرویدپروژه رو امروز روی گیتهاب هم می‌ذارنیه تست بگیرید رفقا",
-    "html": "این رو یکی از دوستان نوشتن برای اندروید<br>پروژه رو امروز روی گیتهاب هم می‌ذارن<br>یه تست بگیرید رفقا",
-    "date": "2026-03-09T06:38:08+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "DNSScanner.apk",
-        "size": "17.7 MB"
-      }
-    ],
-    "link": "https://t.me/MatinSenPaii/2264",
-    "timestamp": 1773038288000
-  },
-  {
-    "id": "SOSkeyNET/21470",
-    "channel": "soskeynet",
-    "text": "کانفیگ‌های پرسرعت 🚨vless://b83264f1-be67-4d09-9e32-fe3f28895f02@fn44.finuxmaster.shop:2087?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNETvless://280c9ff0-7efd-449f-818e-fe46b21aeafe@s3.tomandjery.eu:1004?security=reality&encryption=none&pbk=J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#⚡Telegram = @SOSkeyNETvless://280c9ff0-7efd-449f-818e-fe46b21aeafe@www.tomandjery.eu:1003?security=reality&encryption=none&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#⚡Telegram = @SOSkeyNETvless://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETvless://14110bc1-454f-4536-9ac5-74754e77b4d5@g1-de2-user.a1mshop.ir:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#⚡Telegram = @SOSkeyNETss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#⚡Telegram = @SOSkeyNETvless://778656bd-0721-466f-b48b-aadb46a9e789@mp.kharazmi.top:30086?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNETtrojan://telegram-id-privatevpns@63.176.126.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNETvless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=&encryption=none&headerType=http&type=tcp#⚡Telegram = @SOSkeyNETtrojan://telegram-id-directvpn@63.176.126.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET👈 آموزش اتصال 👉⚡️Telegram = @SOSkeyNET عضو شو",
-    "html": "<b>کانفیگ‌های پرسرعت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></b><br><br><pre>vless://b83264f1-be67-4d09-9e32-fe3f28895f02@fn44.finuxmaster.shop:2087?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://280c9ff0-7efd-449f-818e-fe46b21aeafe@s3.tomandjery.eu:1004?security=reality&amp;encryption=none&amp;pbk=J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=6ba85179e30d4fc2#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://280c9ff0-7efd-449f-818e-fe46b21aeafe@www.tomandjery.eu:1003?security=reality&amp;encryption=none&amp;pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=6ba85179e30d4fc2#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://ab8543cd-0e65-4b74-f5ad-932cffe0a12a@37.156.145.183:40652?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://14110bc1-454f-4536-9ac5-74754e77b4d5@g1-de2-user.a1mshop.ir:14300?security=none&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://778656bd-0721-466f-b48b-aadb46a9e789@mp.kharazmi.top:30086?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>trojan://telegram-id-privatevpns@63.176.126.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><pre>trojan://telegram-id-directvpn@63.176.126.9:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡</b></i>Telegram = @SOSkeyNET<br></pre><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> <a href=\"https://t.me/SOSkeyNET/7\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>آموزش اتصال</b></a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>Telegram = </b><a href=\"https://t.me/SOSkeyNET\" target=\"_blank\"><b>@SOSkeyNET</b></a><b> عضو شو</b>",
-    "date": "2026-03-09T06:32:48+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/soskeynet/21470",
-    "timestamp": 1773037968000
-  },
-  {
-    "id": "MatinSenPaii/2263",
-    "channel": "MatinSenPaii",
-    "text": "امروز یه آموزش pdf دیگه می‌ذارمموضوعش هم اینه که چطوری اگر استارلینک یا سیمکارت مرزی حتی دارید، بتونید ازش کانفیگ V2ray در بیارید و روی شبکه داخلی به بقیه بدید",
-    "html": "امروز یه آموزش pdf دیگه می‌ذارم<br>موضوعش هم اینه که چطوری اگر استارلینک یا سیمکارت مرزی حتی دارید، بتونید ازش کانفیگ V2ray در بیارید و روی شبکه داخلی به بقیه بدید",
-    "date": "2026-03-09T06:30:32+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/MatinSenPaii/2263",
-    "timestamp": 1773037832000
   }
 ]

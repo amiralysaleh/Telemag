@@ -14,6 +14,9 @@ const CHANNELS = [
   'Break_the_barriers',
   'MatinSenPaii',
   'configraygan',
+  'iliaen',
+  'newscenter',
+  'soskeynet',
   'NetAccount'
 ];
 

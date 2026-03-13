@@ -16,7 +16,7 @@ const CHANNELS = [
   'worldsmoments',
   'iliaen',
   'newscenter',
-  'soskeynet',
+  'dirty_kids',
   'NetAccount'
 ];
 

@@ -1,5 +1,360 @@
 [
   {
+    "id": "MatinSenPaii/2374",
+    "channel": "MatinSenPaii",
+    "text": "#موقت رفقا من برای توسعه‌ی بات نیاز به دانلود mongo db روی سیستم خودم دارم لوکال و حجمش روی 800 مگابایته سافت 98 نداشت از خود سایتش هم بخوام بگیرم کانفیگم حجمش تموم میشه کلا قطع میشم از دنیا😂😂  کسی میرور داخلی یا سایتی میشناسه که گذاشته باشن؟بچه ها دمتون گرم لینک داخلی پیدا شد",
+    "html": "#موقت رفقا من برای توسعه‌ی بات نیاز به دانلود mongo db روی سیستم خودم دارم لوکال و حجمش روی 800 مگابایته سافت 98 نداشت از خود سایتش هم بخوام بگیرم کانفیگم حجمش تموم میشه کلا قطع میشم از دنیا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i>  کسی میرور داخلی یا سایتی میشناسه که گذاشته باشن؟",
+    "date": "2026-03-13T23:30:10+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/2374",
+    "timestamp": 1773444610000
+  },
+  {
+    "id": "newscenter/60578",
+    "channel": "newscenter",
+    "text": "وال استریت ژورنال: پنج فروند هواپیمای سوخت‌رسان نیروی هوایی آمریکا در پایگاه هوایی پرنس سلطان در عربستان سعودی در روزهای اخیر در جریان یک حمله موشکی ایران هدف قرار گرفته و آسیب دیده‌اند، به گفته دو مقام آمریکایی. تلفات جانی گزارش نشده است.  پ.ن: آمریکا کلا ۵۰۰ تا هواپیمای سوخت رسان داره✅ @newscenter",
+    "html": "وال استریت ژورنال: پنج فروند هواپیمای سوخت‌رسان نیروی هوایی آمریکا در پایگاه هوایی پرنس سلطان در عربستان سعودی در روزهای اخیر در جریان یک حمله موشکی ایران هدف قرار گرفته و آسیب دیده‌اند، به گفته دو مقام آمریکایی. تلفات جانی گزارش نشده است.&nbsp; <br><br>پ.ن: آمریکا کلا ۵۰۰ تا هواپیمای سوخت رسان داره<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T23:25:44+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60578",
+    "timestamp": 1773444344000
+  },
+  {
+    "id": "NetAccount/16205",
+    "channel": "NetAccount",
+    "text": "کپی کنید توی npv بزنید:{\"remarks\":\"NetAccount\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vmess\",\"settings\":{\"vnext\":[{\"address\":\"217.218.26.73\",\"port\":10000,\"users\":[{\"id\":\"3de2f80c-67f3-464e-ac80-0a8d4b5fb74b\",\"security\":\"auto\",\"level\":8}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"none\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}",
+    "html": "کپی کنید توی npv بزنید:<br><br><blockquote expandable=\"\">{\"remarks\":\"NetAccount\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vmess\",\"settings\":{\"vnext\":[{\"address\":\"<a href=\"http://217.218.26.73/\" target=\"_blank\" rel=\"noopener\">217.218.26.73</a>\",\"port\":10000,\"users\":[{\"id\":\"3de2f80c-67f3-464e-ac80-0a8d4b5fb74b\",\"security\":\"auto\",\"level\":8}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"none\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"<a href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\">1.1.1.1</a>\"],\"hosts\":{\"domain:<a href=\"http://googleapis.cn/\" target=\"_blank\" rel=\"noopener\">googleapis.cn</a>\":\"<a href=\"http://googleapis.com/\" target=\"_blank\" rel=\"noopener\">googleapis.com</a>\",\"<a href=\"http://dns.alidns.com/\" target=\"_blank\" rel=\"noopener\">dns.alidns.com</a>\":[\"<a href=\"http://223.5.5.5/\" target=\"_blank\" rel=\"noopener\">223.5.5.5</a>\",\"<a href=\"http://223.6.6.6/\" target=\"_blank\" rel=\"noopener\">223.6.6.6</a>\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"<a href=\"http://one.one.one.one/\" target=\"_blank\" rel=\"noopener\">one.one.one.one</a>\":[\"<a href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\">1.1.1.1</a>\",\"<a href=\"http://1.0.0.1/\" target=\"_blank\" rel=\"noopener\">1.0.0.1</a>\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"<a href=\"http://dot.pub/\" target=\"_blank\" rel=\"noopener\">dot.pub</a>\":[\"<a href=\"http://1.12.12.12/\" target=\"_blank\" rel=\"noopener\">1.12.12.12</a>\",\"<a href=\"http://120.53.53.53/\" target=\"_blank\" rel=\"noopener\">120.53.53.53</a>\"],\"<a href=\"http://dns.google/\" target=\"_blank\" rel=\"noopener\">dns.google</a>\":[\"<a href=\"http://8.8.8.8/\" target=\"_blank\" rel=\"noopener\">8.8.8.8</a>\",\"<a href=\"http://8.8.4.4/\" target=\"_blank\" rel=\"noopener\">8.8.4.4</a>\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"<a href=\"http://dns.quad9.net/\" target=\"_blank\" rel=\"noopener\">dns.quad9.net</a>\":[\"<a href=\"http://9.9.9.9/\" target=\"_blank\" rel=\"noopener\">9.9.9.9</a>\",\"<a href=\"http://149.112.112.112/\" target=\"_blank\" rel=\"noopener\">149.112.112.112</a>\",\"2620:fe::fe\",\"2620:fe::9\"],\"<a href=\"http://common.dot.dns.yandex.net/\" target=\"_blank\" rel=\"noopener\">common.dot.dns.yandex.net</a>\":[\"<a href=\"http://77.88.8.8/\" target=\"_blank\" rel=\"noopener\">77.88.8.8</a>\",\"<a href=\"http://77.88.8.1/\" target=\"_blank\" rel=\"noopener\">77.88.8.1</a>\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"<a href=\"http://1.1.1.1/\" target=\"_blank\" rel=\"noopener\">1.1.1.1</a>\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"<a href=\"http://223.5.5.5/\" target=\"_blank\" rel=\"noopener\">223.5.5.5</a>\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}</blockquote>",
+    "date": "2026-03-13T23:24:36+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16205",
+    "timestamp": 1773444276000
+  },
+  {
+    "id": "MatinSenPaii/2373",
+    "channel": "MatinSenPaii",
+    "text": "#موقترفقا من برای توسعه‌ی بات نیاز به دانلود mongo db روی سیستم خودم دارم لوکالو حجمش روی 800 مگابایتهسافت 98 نداشتاز خود سایتش هم بخوام بگیرم کانفیگم حجمش تموم میشه کلا قطع میشم از دنیا😂😂 کسی میرور داخلی یا سایتی میشناسه که گذاشته باشن؟",
+    "html": "<a href=\"?q=%23%D9%85%D9%88%D9%82%D8%AA\">#موقت</a><br>رفقا من برای توسعه‌ی بات نیاز به دانلود mongo db روی سیستم خودم دارم لوکال<br>و حجمش روی 800 مگابایته<br>سافت 98 نداشت<br>از خود سایتش هم بخوام بگیرم کانفیگم حجمش تموم میشه کلا قطع میشم از دنیا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i> <br>کسی میرور داخلی یا سایتی میشناسه که گذاشته باشن؟",
+    "date": "2026-03-13T23:17:48+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/2373",
+    "timestamp": 1773443868000
+  },
+  {
+    "id": "mitivpn/16259",
+    "channel": "mitivpn",
+    "text": "تست",
+    "html": "تست",
+    "date": "2026-03-13T23:15:14+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "کیووومرث (2).npvt",
+        "size": "10.3 KB"
+      }
+    ],
+    "link": "https://t.me/mitivpn/16259",
+    "timestamp": 1773443714000
+  },
+  {
+    "id": "iliaen/3677",
+    "channel": "iliaen",
+    "text": "ترامپ: لحظاتی پیش، با دستور مستقیم من، فرماندهی مرکزی ایالات متحده، یکی از سنگین‌ترین حملات هوایی در تاریخ خاورمیانه را به اجرا گذاشت و تمامی اهداف نظامی را در “نگینِ درخشانِ ایران” یعنی جزیره خارک، به‌طور کامل منهدم کرد.@iliaen",
+    "html": "ترامپ: لحظاتی پیش، با دستور مستقیم من، فرماندهی مرکزی ایالات متحده، یکی از سنگین‌ترین حملات هوایی در تاریخ خاورمیانه را به اجرا گذاشت و تمامی اهداف نظامی را در “نگینِ درخشانِ ایران” یعنی جزیره خارک، به‌طور کامل منهدم کرد.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-03-13T23:10:07+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/OUc9T9lxYL4zdtnQNEb2Z13UoBRlR32Dw4G-5JxNoQsWyLhOTV3_VwBVAmgRw-_D2qnOTdHGqtKqLj94GbU-rj7WPpp9e9v2MHmWwOlUsKGdyzwQqxtKdBtYhBEsSQlNQm8mBzVE6FqAwSXPaEds3CAXRq24ZYgNkkcplraXvVK_qRAtCg1WDWKsuFrjNl0nF2OToQe8MbpbiDMWfDY1HT4ETcpcJMv1s1-wmlDU8B9sSNSiUZqa0_AOp3-KU9wF4CTfEjH18gvCv0b3qBWFPrVCDqdtJE1LQsR1sou3OdlLpj9MlRP7cALtZCHkzvgYi1a4KEKERs7Qy7vvNuUYag.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/iliaen/3677",
+    "timestamp": 1773443407000
+  },
+  {
+    "id": "persianvpnhub/20514",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 02:04 - 1404/12/23💡 منبع: @ghalagyann",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:04 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/ghalagyann\" target=\"_blank\">@ghalagyann</a>",
+    "date": "2026-03-13T23:07:23+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@ghalagyann👈 استارلینک1🪂.npvt",
+        "size": "2.9 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/20514",
+    "timestamp": 1773443243000
+  },
+  {
+    "id": "persianvpnhub/20513",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 02:04 - 1404/12/23💡 منبع: @ghalagyann",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:04 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/ghalagyann\" target=\"_blank\">@ghalagyann</a>",
+    "date": "2026-03-13T23:07:19+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@ghalagyann👈 استارلینک2🪂.npvt",
+        "size": "3 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/20513",
+    "timestamp": 1773443239000
+  },
+  {
+    "id": "persianvpnhub/20512",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 02:04 - 1404/12/23💡 منبع: @ghalagyann",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:04 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/ghalagyann\" target=\"_blank\">@ghalagyann</a>",
+    "date": "2026-03-13T23:07:14+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@ghalagyann👈 استارلینک3🪂.npvt",
+        "size": "2.9 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/20512",
+    "timestamp": 1773443234000
+  },
+  {
+    "id": "persianvpnhub/20511",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 02:04 - 1404/12/23💡 منبع: @ghalagyann",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:04 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/ghalagyann\" target=\"_blank\">@ghalagyann</a>",
+    "date": "2026-03-13T23:07:10+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@ghalagyann👈 استارلینک4🪂.npvt",
+        "size": "3 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/20511",
+    "timestamp": 1773443230000
+  },
+  {
+    "id": "persianvpnhub/20510",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 01:32 - 1404/12/23💡 منبع: @mitivpn",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 01:32 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/mitivpn\" target=\"_blank\">@mitivpn</a>",
+    "date": "2026-03-13T23:07:05+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "wifi.npvt",
+        "size": "3.3 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/20510",
+    "timestamp": 1773443225000
+  },
+  {
+    "id": "persianvpnhub/20509",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SS📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 2ms#Shadowsocks #VPN🕒 انتشار: 11:30 - 1404/12/21💡 منبع: @outlinevpn_ru🔍 QRcodess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTZFb3RCUHJDMFU4VnBoeThjS0Vi@104.192.227.162:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23Shadowsocks\">#Shadowsocks</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 11:30 - 1404/12/21<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/outlinevpn_ru\" target=\"_blank\">@outlinevpn_ru</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTZFb3RCUHJDMFU4VnBoeThjS0Vi%40104.192.227.162%3A443%2F%3Foutline%3D1%26prefix%3D%2516%2503%2501%2500%25C2%25A8%2501%2501%23%F0%9F%87%BA%F0%9F%87%B8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTZFb3RCUHJDMFU4VnBoeThjS0Vi@104.192.227.162:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i></pre>",
+    "date": "2026-03-13T23:06:54+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/20509",
+    "timestamp": 1773443214000
+  },
+  {
+    "id": "persianvpnhub/20508",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SS📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 43ms#Shadowsocks #VPN🕒 انتشار: 17:30 - 1404/12/20💡 منبع: @key_outline🔍 QRcodess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4V2ZHaDJkbG5XQ3Fna3ZsT1RrdnhW@216.105.168.18:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 43ms<br><br><a href=\"?q=%23Shadowsocks\">#Shadowsocks</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 17:30 - 1404/12/20<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/key_outline\" target=\"_blank\">@key_outline</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4V2ZHaDJkbG5XQ3Fna3ZsT1RrdnhW%40216.105.168.18%3A443%2F%3Foutline%3D1%26prefix%3D%2516%2503%2501%2500%25C2%25A8%2501%2501%23%F0%9F%87%BA%F0%9F%87%B8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4V2ZHaDJkbG5XQ3Fna3ZsT1RrdnhW@216.105.168.18:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i></pre>",
+    "date": "2026-03-13T23:06:50+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/20508",
+    "timestamp": 1773443210000
+  },
+  {
+    "id": "NetAccount/16204",
+    "channel": "NetAccount",
+    "text": "پست جدید ترامپ در تروث:لحظاتی پیش، به دستور من، فرماندهی مرکزی ایالات متحده یکی از قدرتمندترین حملات بمباران در تاریخ خاورمیانه را اجرا کرد و تمام اهداف نظامی در «جزیره خارگ»، نگین درخشان ایران را به‌طور کامل نابود کرد. سلاح‌های ما قدرتمندترین و پیشرفته‌ترین سلاح‌هایی هستند که جهان تاکنون به خود دیده است، اما به دلایل اخلاقی و انسانی، من تصمیم گرفتم که زیرساخت‌های نفتی این جزیره را از بین نبرم.با این حال، اگر ایران یا هر کس دیگری، اقدامی برای اختلال در عبور آزاد و ایمن کشتی‌ها از تنگه هرمز انجام دهد، من بلافاصله در این تصمیم تجدیدنظر خواهم کرد. من در دوره اول ریاست‌جمهوری‌ام و در حال حاضر، ارتش ما را به مرگبارترین، قدرتمندترین و مؤثرترین نیرو در سراسر جهان تبدیل کرده‌ام. ایران هیچ توانایی برای دفاع از چیزی که ما بخواهیم به آن حمله کنیم ندارد؛ آن‌ها هیچ کاری نمی‌توانند در برابر آن انجام دهند!ایران هرگز سلاح هسته‌ای نخواهد داشت و توانایی تهدید ایالات متحده آمریکا، خاورمیانه یا در واقع جهان را نخواهد داشت! برای ارتش ایران و تمام کسانی که با این رژیم تروریستی همکاری می‌کنند، هوشمندانه خواهد بود که سلاح‌های خود را زمین بگذارند و آنچه از کشورشان باقی مانده است را نجات دهند، که البته چیز زیادی هم نیست!از توجه شما به این موضوع سپاسگزارم.",
+    "html": "پست جدید ترامپ در تروث:<br><br>لحظاتی پیش، به دستور من، فرماندهی مرکزی ایالات متحده یکی از قدرتمندترین حملات بمباران در تاریخ خاورمیانه را اجرا کرد و تمام اهداف نظامی در «جزیره خارگ»، نگین درخشان ایران را به‌طور کامل نابود کرد. سلاح‌های ما قدرتمندترین و پیشرفته‌ترین سلاح‌هایی هستند که جهان تاکنون به خود دیده است، اما به دلایل اخلاقی و انسانی، من تصمیم گرفتم که زیرساخت‌های نفتی این جزیره را از بین نبرم.<br>با این حال، اگر ایران یا هر کس دیگری، اقدامی برای اختلال در عبور آزاد و ایمن کشتی‌ها از تنگه هرمز انجام دهد، من بلافاصله در این تصمیم تجدیدنظر خواهم کرد. من در دوره اول ریاست‌جمهوری‌ام و در حال حاضر، ارتش ما را به مرگبارترین، قدرتمندترین و مؤثرترین نیرو در سراسر جهان تبدیل کرده‌ام. ایران هیچ توانایی برای دفاع از چیزی که ما بخواهیم به آن حمله کنیم ندارد؛ آن‌ها هیچ کاری نمی‌توانند در برابر آن انجام دهند!<br>ایران هرگز سلاح هسته‌ای نخواهد داشت و توانایی تهدید ایالات متحده آمریکا، خاورمیانه یا در واقع جهان را نخواهد داشت! برای ارتش ایران و تمام کسانی که با این رژیم تروریستی همکاری می‌کنند، هوشمندانه خواهد بود که سلاح‌های خود را زمین بگذارند و آنچه از کشورشان باقی مانده است را نجات دهند، که البته چیز زیادی هم نیست!<br>از توجه شما به این موضوع سپاسگزارم.",
+    "date": "2026-03-13T23:05:40+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16204",
+    "timestamp": 1773443140000
+  },
+  {
+    "id": "NetAccount/16203",
+    "channel": "NetAccount",
+    "text": "",
+    "html": "",
+    "date": "2026-03-13T23:05:37+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/nZz2h9qK8wjs-rpqbAwP2Wl6H0iUMuvK-BnKlQdjmPgHE3OiMvH6k8pu6NAQNginKCVa58OMl1SYNYUhczXQtCVhFPmwX7L_3qJ-oFxabE3hlVYpTJrvPumLaR-HMD4yY1yi6xwao89UpX3KAFvevaeBPHWeAqF2LH_UQ10piiHlE839c1eZQqn1Q8vayw1RFacQ4AjOkQdxY9M2PQThIMcwSBxQj0ddMlUHAgz-CNwOzz3PjviqoBXOkGWVlqWB91X1iB2UrZMqG7OVk-kn5IxUkhLdIr5uufths-sV2TbAENqVnigj_cYi_n-RFr2_K8YlvhMh5odLkAJduA9xWg.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/NetAccount/16203",
+    "timestamp": 1773443137000
+  },
+  {
+    "id": "iliaen/3676",
+    "channel": "iliaen",
+    "text": "جزیره خارک بمباران شد.@iliaen",
+    "html": "جزیره خارک بمباران شد.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-03-13T23:03:47+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/iliaen/3676",
+    "timestamp": 1773443027000
+  },
+  {
+    "id": "newscenter/60577",
+    "channel": "newscenter",
+    "text": "همون خارگ بودهپست جدید ترامپ: لحظاتی پیش، به دستور من، فرماندهی مرکزی ایالات متحده یکی از قدرتمندترین بمباران‌های تاریخ خاورمیانه را انجام داد و تمام اهداف نظامی در جزیره خارک، گوهر تاج ایران، را کاملاً نابود کرد. سلاح‌های ما قدرتمندترین و پیشرفته‌ترین سلاح‌هایی هستند که جهان تاکنون به خود دیده است، اما به دلایل نجابت، من تصمیم گرفتم زیرساخت‌های نفتی این جزیره را نابود نکنم. با این حال، اگر ایران یا هر کس دیگری کاری برای ایجاد اختلال در عبور آزاد و ایمن کشتی‌ها از تنگه هرمز انجام دهد، فوراً در این تصمیم تجدیدنظر خواهم کرد. در طول دوره اول ریاست جمهوری‌ام، و در حال حاضر، ارتش خود را به کشنده‌ترین، قدرتمندترین و مؤثرترین نیرو، تا به امروز، در هر کجای جهان، بازسازی کرده‌ام. ایران هیچ توانایی برای دفاع از هر چیزی که ما می‌خواهیم به آن حمله کنیم، ندارد - آنها هیچ کاری نمی‌توانند در مورد آن انجام دهند! ایران هرگز سلاح هسته‌ای نخواهد داشت و همچنین توانایی تهدید ایالات متحده آمریکا، خاورمیانه یا به طور کلی، جهان را نخواهد داشت.» دنیا! ارتش ایران و همه کسانی که با این رژیم تروریستی در ارتباط هستند، عاقلانه است که سلاح‌های خود را زمین بگذارند و آنچه از کشورشان باقی مانده را نجات دهند، که چیز زیادی نیست!✅ @newscenter",
+    "html": "همون خارگ بوده",
+    "date": "2026-03-13T23:03:30+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/rXYdSf8F2pHCSAu6VqdRJVtCn5Mx0WEDs6-NxBFvNpBQK68euyhggPZPlV3VtJdrRPOV2w7-ZXm0iRbB0NUT7biDGn_h3xOePipKMDsT91ckGvjCZ_Jt-2kwFiPkWA4-2lb1djsYQvkEyxh8AGe85df-HCihYvNE-aEvfDuP_xpcZr0qoOco49pKD65gIQVCFaj4MC2JR1kLruRw5EmpWnLVo2tZFYvYmgQnn9sS7yyT-UMmhxUuwcQ6n9KQeuxanAt6h_1epW7gdBq9EJAoITGzdntLPoQ-JjUvhD9amApBDDSXOZhAq8U_T3-YelnQmWdIfXquDfp1ohuvFr0LyQ.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/newscenter/60577",
+    "timestamp": 1773443010000
+  },
+  {
+    "id": "newscenter/60576",
+    "channel": "newscenter",
+    "text": "گزارش کاربران: من بندر گناوم نمیدونم خارگ یا بوشهر یجایی رو خیلی بد میزنن صداش تا اینجا میاد کل خونه داره میلرزه الان 1 ساعت میشه  طبق گزارش بقیه کاربرا احتمالا جزیره خارگ هدف بوده  ✅ @newscenterهمون خارگ بوده",
+    "html": "گزارش کاربران: من بندر گناوم نمیدونم خارگ یا بوشهر یجایی رو خیلی بد میزنن صداش تا اینجا میاد کل خونه داره میلرزه الان 1 ساعت میشه  طبق گزارش بقیه کاربرا احتمالا جزیره خارگ هدف بوده  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @newscenter",
+    "date": "2026-03-13T23:02:00+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60576",
+    "timestamp": 1773442920000
+  },
+  {
+    "id": "newscenter/60575",
+    "channel": "newscenter",
+    "text": "وزارت خارجه آمریکا: کارمندان غیرضروری دولت و خانوادههای آنها به دلیل خطرات ایمنی دستور خروج از عمان را صادر کردند✅ @newscenter",
+    "html": "وزارت خارجه آمریکا: کارمندان غیرضروری دولت و خانوادههای آنها به دلیل خطرات ایمنی دستور خروج از عمان را صادر کردند<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:59:49+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60575",
+    "timestamp": 1773442789000
+  },
+  {
+    "id": "newscenter/60574",
+    "channel": "newscenter",
+    "text": "انفجار های شدید در دوحه قطر✅ @newscenter",
+    "html": "انفجار های شدید در دوحه قطر<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:52:32+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60574",
+    "timestamp": 1773442352000
+  },
+  {
+    "id": "newscenter/60573",
+    "channel": "newscenter",
+    "text": "ترامپ وقتی از او پرسیده شد که آیا نیروی دریایی ایالات متحده نفتکش ها را از تنگه هرمز همراهی خواهد کرد: \"به زودی ، خیلی زود اتفاق خواهد افتاد.”✅ @newscenter",
+    "html": "ترامپ وقتی از او پرسیده شد که آیا نیروی دریایی ایالات متحده نفتکش ها را از تنگه هرمز همراهی خواهد کرد: \"به زودی ، خیلی زود اتفاق خواهد افتاد.”<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:52:01+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60573",
+    "timestamp": 1773442321000
+  },
+  {
+    "id": "newscenter/60572",
+    "channel": "newscenter",
+    "text": "ترامپ: امروز ضربه محکمی به ایران زدیم  ✅ @newscenter🔴 ترامپ: جنگ علیه ایران تا زمانی که لازم باشد ادامه خواهد داشت🔻نمی‌توانم بگویم جنگ چه زمانی پایان می‌یابد و در این مورد نظر خودم را دارم.✅ @newscenter",
+    "html": "ترامپ: امروز ضربه محکمی به ایران زدیم  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @newscenter",
+    "date": "2026-03-13T22:49:43+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60572",
+    "timestamp": 1773442183000
+  },
+  {
+    "id": "newscenter/60571",
+    "channel": "newscenter",
+    "text": "گزارش کاربران: من بندر گناوم نمیدونم خارگ یا بوشهر یجایی رو خیلی بد میزنن صداش تا اینجا میاد کل خونه داره میلرزه الان 1 ساعت میشهطبق گزارش بقیه کاربرا احتمالا جزیره خارگ هدف بوده✅ @newscenter",
+    "html": "گزارش کاربران: من بندر گناوم نمیدونم خارگ یا بوشهر یجایی رو خیلی بد میزنن صداش تا اینجا میاد کل خونه داره میلرزه الان 1 ساعت میشه<br><br>طبق گزارش بقیه کاربرا احتمالا جزیره خارگ هدف بوده<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:48:01+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60571",
+    "timestamp": 1773442081000
+  },
+  {
+    "id": "newscenter/60570",
+    "channel": "newscenter",
+    "text": "ترامپ: امروز ضربه محکمی به ایران زدیم✅ @newscenter",
+    "html": "ترامپ: امروز ضربه محکمی به ایران زدیم<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:45:48+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60570",
+    "timestamp": 1773441948000
+  },
+  {
+    "id": "newscenter/60569",
+    "channel": "newscenter",
+    "text": "🔴 توقف پروازها در حال حاضر در فرودگاه‌های زیر اعمال شده است:  🔻فرودگاه ملی رونالد ریگان واشنگتن (DCA) 🔻فرودگاه بین‌المللی دالس واشنگتن (IAD)  🔻فرودگاه بین‌المللی بالتیمور-واشنگتن (BWI) 🔻فرودگاه بین‌المللی ریچموند (RIC)  در حال بررسی منبع بوی شدید شیمیایی در…سی‌ان‌ان: خبر فوری درباره چند فرودگاه بزرگ در منطقه واشنگتن دی‌سی. در حال حاضر توقف پروازها روی زمین اعمال شده است. وزیر حمل‌ونقل، شان دافی، می‌گوید اداره هوانوردی فدرال (FAA) در حال رسیدگی به منبع بوی شدید در یک مرکز کنترل ترافیک هوایی است که به این فرودگاه‌ها خدمات می‌دهد.✅ @newscenter",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> توقف پروازها در حال حاضر در فرودگاه‌های زیر اعمال شده است:  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>فرودگاه ملی رونالد ریگان واشنگتن (DCA) <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>فرودگاه بین‌المللی دالس واشنگتن (IAD)  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>فرودگاه بین‌المللی بالتیمور-واشنگتن (BWI) <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>فرودگاه بین‌المللی ریچموند (RIC)  در حال بررسی منبع بوی شدید شیمیایی در…",
+    "date": "2026-03-13T22:40:02+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60569",
+    "timestamp": 1773441602000
+  },
+  {
+    "id": "iliaen/3675",
+    "channel": "iliaen",
+    "text": "ساعت ۰۲:۰۷ صبح شنبه؛ گزارش‌ها از فعالیت پدافند شهرضا (اصفهان) و شنیده شدن چند انفجار حکایت دارد.@iliaen",
+    "html": "ساعت ۰۲:۰۷ صبح شنبه؛ گزارش‌ها از فعالیت پدافند شهرضا (اصفهان) و شنیده شدن چند انفجار حکایت دارد.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-03-13T22:37:31+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/iliaen/3675",
+    "timestamp": 1773441451000
+  },
+  {
+    "id": "newscenter/60568",
+    "channel": "newscenter",
+    "text": "مقام ارشد انصارالله یمن: تصمیمی برای حضور نظامی در کنار ایران گرفته شده است و ساعت صفر در زمان مناسب اعلام خواهد شد✅ @newscenter",
+    "html": "مقام ارشد انصارالله یمن: تصمیمی برای حضور نظامی در کنار ایران گرفته شده است و ساعت صفر در زمان مناسب اعلام خواهد شد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:37:06+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60568",
+    "timestamp": 1773441426000
+  },
+  {
+    "id": "newscenter/60567",
+    "channel": "newscenter",
+    "text": "پدافند پایگاه هوایی العدید آمریکا در قطر فعال شد✅ @newscenter",
+    "html": "پدافند پایگاه هوایی العدید آمریکا در قطر فعال شد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:35:38+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60567",
+    "timestamp": 1773441338000
+  },
+  {
+    "id": "newscenter/60566",
+    "channel": "newscenter",
+    "text": "منتسب به وضعیت امشب تهران، چند ساعت قبل✅ @newscenter",
+    "html": "منتسب به وضعیت امشب تهران، چند ساعت قبل<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-13T22:32:31+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/60566",
+    "timestamp": 1773441151000
+  },
+  {
     "id": "newscenter/60565",
     "channel": "newscenter",
     "text": "۸ انفجار در بحرین✅ @newscenter",
@@ -5108,143 +5463,5 @@
     "files": [],
     "link": "https://t.me/persianvpnhub/20406",
     "timestamp": 1773360321000
-  },
-  {
-    "id": "NetAccount/16139",
-    "channel": "NetAccount",
-    "text": "کانفیگ برنامه اینجکتور (Http injector)",
-    "html": "کانفیگ برنامه اینجکتور (Http injector)",
-    "date": "2026-03-12T23:22:09+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "NetAccount51.ehi",
-        "size": "13.3 KB"
-      },
-      {
-        "name": "NetAccount52.ehi",
-        "size": "14.7 KB"
-      },
-      {
-        "name": "NetAccount53.ehi",
-        "size": "14.2 KB"
-      },
-      {
-        "name": "NetAccount54.ehi",
-        "size": "11.1 KB"
-      }
-    ],
-    "link": "https://t.me/NetAccount/16139",
-    "timestamp": 1773357729000
-  },
-  {
-    "id": "hddify/2430",
-    "channel": "hddify",
-    "text": "سرور ملی مخصوص فیلترینگ شدید ⛔تست شده   سرعت عالی 🚀vless://3163a1be-663a-47ff-8b54-8e6a5591910d@hool.pollux.live:6064?security=none&encryption=none&headerType=none&type=tcp#%40Hddify⏳ ممکنه اتصال چند ثانیه تا چند دقیقه طول بکشه ✅برنامه مورد نیاز (نپستر) 🔐برنامه ویتوری ( جایگزین ) 🏳🔣 آموزش استفاده از سرور ها  در ویتوری🔣🔣 آموزش استفاده از سرور ها  در نپستر🔣چنل ما را حمایت کنید ❤️‍🔥💙 @hddify‌💙 @hddify",
-    "html": "<b>سرور ملی مخصوص فیلترینگ شدید</b> <tg-emoji emoji-id=\"5852477713482255786\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B94.png')\"><b>⛔</b></i></tg-emoji><br><br>تست شده&nbsp;&nbsp; سرعت <b>عالی</b> <tg-emoji emoji-id=\"5983534912488082920\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji><code><br></code><br><blockquote><code>vless://3163a1be-663a-47ff-8b54-8e6a5591910d@hool.pollux.live:6064?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Hddify</code></blockquote><br><br><tg-emoji emoji-id=\"4972028457392276859\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28FB3.png')\"><b>⏳</b></i></tg-emoji> ممکنه اتصال چند ثانیه تا چند دقیقه طول بکشه <tg-emoji emoji-id=\"5978809241576673582\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><br><br><a href=\"https://t.me/hddify/1810\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>برنامه مورد نیاز (نپستر) </b></a><tg-emoji emoji-id=\"6050626661043411760\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9490.png')\"><b>🔐</b></i></tg-emoji><br><br><a href=\"https://t.me/hddify/1818\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>برنامه ویتوری ( جایگزین )</b></a> <tg-emoji emoji-id=\"5764775314521593432\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB3.png')\"><b>🏳</b></i></tg-emoji><b><br></b><br><br><tg-emoji emoji-id=\"5116490953703556299\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji><a href=\"https://t.me/wHiddify/8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b> آموزش استفاده از سرور ها&nbsp; در ویتوری</b></a><b><tg-emoji emoji-id=\"5118491691203953510\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji></b><br><br><tg-emoji emoji-id=\"5116490953703556299\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji><a href=\"https://t.me/wHiddify/8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> </a><a href=\"https://t.me/wHiddify/18?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>آموزش استفاده از سرور ها&nbsp; در نپستر</b></a><b><tg-emoji emoji-id=\"5118491691203953510\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji></b><b><br><br>چنل ما را حمایت کنید </b><b><tg-emoji emoji-id=\"5136557904198894608\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png')\"><b>❤️‍🔥</b></i></tg-emoji></b><b><br><br></b><b><tg-emoji emoji-id=\"5136828508613379215\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9299.png')\"><b>💙</b></i></tg-emoji></b><b> </b><a href=\"https://t.me/hddify\" target=\"_blank\">@hddify</a><b><br>‌</b><b><tg-emoji emoji-id=\"5136828508613379215\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9299.png')\"><b>💙</b></i></tg-emoji></b><b> </b><a href=\"https://t.me/hddify\" target=\"_blank\">@hddify</a>",
-    "date": "2026-03-12T23:20:09+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/hddify/2430",
-    "timestamp": 1773357609000
-  },
-  {
-    "id": "iliaen/3610",
-    "channel": "iliaen",
-    "text": "بامداد جمعه؛ شهرهای سیرجان، اراک و همدان:صدای انفجار مهیب در محدوده‌ی پادگان نیروی دریایی شهدای وظیفه نداجا سیرجان (کرمان) شنیده شد.صدای چند انفجار در محدوده‌ی وزارت اطلاعات، هپکو، شهرک پردیس، خیرآباد و حاجی آباد، در شهر اراک شنیده شد. همچنین یک ساختمان به نام مجتمع نارنجستان در شهرک امین (اراک) هدف اصابت (موشک یا پهپاد) قرار گرفت.صدای چند انفجار مهیب در شهرک صنعتی همدان شنیده شد، ستون عظیم دود و آتش دیده می‌شود. @iliaen",
-    "html": "بامداد جمعه؛ شهرهای سیرجان، اراک و همدان:<br><br>صدای انفجار مهیب در محدوده‌ی پادگان نیروی دریایی شهدای وظیفه نداجا سیرجان (کرمان) شنیده شد.<br><br>صدای چند انفجار در محدوده‌ی وزارت اطلاعات، هپکو، شهرک پردیس، خیرآباد و حاجی آباد، در شهر اراک شنیده شد. همچنین یک ساختمان به نام مجتمع نارنجستان در شهرک امین (اراک) هدف اصابت (موشک یا پهپاد) قرار گرفت.<br><br>صدای چند انفجار مهیب در شهرک صنعتی همدان شنیده شد، ستون عظیم دود و آتش دیده می‌شود.<br> <br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-03-12T23:14:23+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/iliaen/3610",
-    "timestamp": 1773357263000
-  },
-  {
-    "id": "persianvpnhub/20405",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ MTPROTO📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 151ms#Proxy #MTProto🕒 انتشار: 19:54 - 1404/12/20💡 منبع: @beshkanhttps://t.me/proxy?server=116.203.8.88&port=42341&secret=79e7010200010007f0030386e24c3add",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 151ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:54 - 1404/12/20<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/beshkan\" target=\"_blank\">@beshkan</a><br><br><br><pre>https://t.me/proxy?server=116.203.8.88&amp;port=42341&amp;secret=79e7010200010007f0030386e24c3add</pre>",
-    "date": "2026-03-12T23:07:22+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20405",
-    "timestamp": 1773356842000
-  },
-  {
-    "id": "iliaen/3609",
-    "channel": "iliaen",
-    "text": "چند اقدام برای کاهش لزوم خارج شدن از خانه:در این روزها که همسایه‌ها از هم خبر ندارند، بهترین فرصت است تا ارتباطتان را به واسطه‌ی این جنگ با همسایه‌ها برقرار کنید.ببینید چه کسی پزشک است، چه کسی فنی؛ اینگونه اگر به مشکلی برخورد کردید، ممکن است در همان ساختمان با کمک همسایه‌ها حل کنید.یک شخص از هر ساختمان، می‌تواند مسئول تهیه خرید ساکنان شود تا اینگونه تمام ساکنان هربار برای تهیه خرید به خارج از منزل نروند و ایمنی به حداکثر برسد.ممکن است همسایه‌ی شما بی آنکه بدانید در شام شب مانده باشد، اگر چنین حس کردید و خودتان شرایط دارید، بدون اینکه غرور او شکسته شود، شام را بیشتر درست کنید و او را دعوت کنید.کودکان را باهم آشنا کنید تا مدام بی‌تابی نکنند، هیجانات خود را مدیریت کنند تا به دیگران منتقل نشود و درنهایت درکنار پنجره نباشید.@iliaen",
-    "html": "چند اقدام برای کاهش لزوم خارج شدن از خانه:<br><br>در این روزها که همسایه‌ها از هم خبر ندارند، بهترین فرصت است تا ارتباطتان را به واسطه‌ی این جنگ با همسایه‌ها برقرار کنید.<br><br>ببینید چه کسی پزشک است، چه کسی فنی؛ اینگونه اگر به مشکلی برخورد کردید، ممکن است در همان ساختمان با کمک همسایه‌ها حل کنید.<br><br>یک شخص از هر ساختمان، می‌تواند مسئول تهیه خرید ساکنان شود تا اینگونه تمام ساکنان هربار برای تهیه خرید به خارج از منزل نروند و ایمنی به حداکثر برسد.<br><br>ممکن است همسایه‌ی شما بی آنکه بدانید در شام شب مانده باشد، اگر چنین حس کردید و خودتان شرایط دارید، بدون اینکه غرور او شکسته شود، شام را بیشتر درست کنید و او را دعوت کنید.<br><br>کودکان را باهم آشنا کنید تا مدام بی‌تابی نکنند، هیجانات خود را مدیریت کنند تا به دیگران منتقل نشود و درنهایت درکنار پنجره نباشید.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-03-12T22:47:07+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/iliaen/3609",
-    "timestamp": 1773355627000
-  },
-  {
-    "id": "persianvpnhub/20404",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 02:03 - 1404/12/22💡 منبع: @azadi_az_inja_migzare🔍 QRcodeslipnet://MTV8c3N8c25zfHMxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:03 - 1404/12/22<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=slipnet%3A%2F%2FMTV8c3N8c25zfHMxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw%3D\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>slipnet://MTV8c3N8c25zfHMxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=</pre>",
-    "date": "2026-03-12T22:39:52+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20404",
-    "timestamp": 1773355192000
-  },
-  {
-    "id": "persianvpnhub/20403",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 02:03 - 1404/12/22💡 منبع: @azadi_az_inja_migzare🔍 QRcodeslipnet://MTV8c3N8em5zfHoxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:03 - 1404/12/22<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=slipnet%3A%2F%2FMTV8c3N8em5zfHoxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw%3D\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>slipnet://MTV8c3N8em5zfHoxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=</pre>",
-    "date": "2026-03-12T22:39:48+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20403",
-    "timestamp": 1773355188000
-  },
-  {
-    "id": "persianvpnhub/20402",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 02:03 - 1404/12/22💡 منبع: @azadi_az_inja_migzare🔍 QRcodeslipnet://MTV8c3N8c29uc3xzbzEubG90dXNzZWMuY29tfDEwMi4zNy4xMi4xMDo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:03 - 1404/12/22<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=slipnet%3A%2F%2FMTV8c3N8c29uc3xzbzEubG90dXNzZWMuY29tfDEwMi4zNy4xMi4xMDo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA%3D%3D\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>slipnet://MTV8c3N8c29uc3xzbzEubG90dXNzZWMuY29tfDEwMi4zNy4xMi4xMDo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==</pre>",
-    "date": "2026-03-12T22:39:44+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20402",
-    "timestamp": 1773355184000
-  },
-  {
-    "id": "persianvpnhub/20401",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 02:03 - 1404/12/22💡 منبع: @azadi_az_inja_migzare🔍 QRcodeslipnet://MTV8c3N8c2luc3xzaTEubG90dXNzZWMuY29tfDEwMi4zNy4xMi4xMDo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:03 - 1404/12/22<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=slipnet%3A%2F%2FMTV8c3N8c2luc3xzaTEubG90dXNzZWMuY29tfDEwMi4zNy4xMi4xMDo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA%3D%3D\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>slipnet://MTV8c3N8c2luc3xzaTEubG90dXNzZWMuY29tfDEwMi4zNy4xMi4xMDo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==</pre>",
-    "date": "2026-03-12T22:39:40+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20401",
-    "timestamp": 1773355180000
-  },
-  {
-    "id": "persianvpnhub/20400",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 02:03 - 1404/12/22💡 منبع: @azadi_az_inja_migzare🔍 QRcodeslipnet://MTV8c3N8bm5zfG4xLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:03 - 1404/12/22<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=slipnet%3A%2F%2FMTV8c3N8bm5zfG4xLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw%3D\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>slipnet://MTV8c3N8bm5zfG4xLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=</pre>",
-    "date": "2026-03-12T22:39:36+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20400",
-    "timestamp": 1773355176000
-  },
-  {
-    "id": "persianvpnhub/20399",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 02:03 - 1404/12/22💡 منبع: @azadi_az_inja_migzare🔍 QRcodeslipnet://MTV8c3N8cm5zfHIxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:03 - 1404/12/22<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=slipnet%3A%2F%2FMTV8c3N8cm5zfHIxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw%3D\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>slipnet://MTV8c3N8cm5zfHIxLmxvdHVzc2VjLmNvbXwxMDIuMzcuMTIuMTA6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=</pre>",
-    "date": "2026-03-12T22:39:31+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20399",
-    "timestamp": 1773355171000
   }
 ]

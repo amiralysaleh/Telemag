@@ -1,5 +1,107 @@
 [
   {
+    "id": "mitivpn/16271",
+    "channel": "mitivpn",
+    "text": "⏳",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28FB3.png')\"><b>⏳</b></i>",
+    "date": "2026-03-15T06:51:57+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mitivpn/16271",
+    "timestamp": 1773557517000
+  },
+  {
+    "id": "hddify/2483",
+    "channel": "hddify",
+    "text": "سرور ملی مخصوص فیلترینگ شدید ⛔تست شده   سرعت عالی 🚀{\"remarks\":\"@Hddify\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"94.183.241.159\",\"port\":22222,\"users\":[{\"id\":\"5976b860-e481-41e2-b2f2-9f8901bf84a2\",\"level\":8,\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}⏳ ممکنه اتصال چند ثانیه تا چند دقیقه طول بکشه ✅برنامه مورد نیاز (نپستر) 🔐برنامه ویتوری ( جایگزین ) 🏳🔣 آموزش استفاده از سرور ها  در ویتوری🔣🔣 آموزش استفاده از سرور ها  در نپستر🔣چنل ما را حمایت کنید ❤️‍🔥💙 @hddify‌💙 @hddify",
+    "html": "<b>سرور ملی مخصوص فیلترینگ شدید</b> <tg-emoji emoji-id=\"5852477713482255786\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B94.png')\"><b>⛔</b></i></tg-emoji><br><br>تست شده&nbsp;&nbsp; سرعت <b>عالی</b> <tg-emoji emoji-id=\"5983534912488082920\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i></tg-emoji><code><br></code><br><blockquote expandable=\"\"><code>{\"remarks\":\"@Hddify\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"94.183.241.159\",\"port\":22222,\"users\":[{\"id\":\"5976b860-e481-41e2-b2f2-9f8901bf84a2\",\"level\":8,\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}</code><br></blockquote><br><tg-emoji emoji-id=\"4972028457392276859\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28FB3.png')\"><b>⏳</b></i></tg-emoji> ممکنه اتصال چند ثانیه تا چند دقیقه طول بکشه <tg-emoji emoji-id=\"5978809241576673582\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><br><br><a href=\"https://t.me/hddify/1810\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>برنامه مورد نیاز (نپستر) </b></a><tg-emoji emoji-id=\"6050626661043411760\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9490.png')\"><b>🔐</b></i></tg-emoji><br><br><a href=\"https://t.me/hddify/1818\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>برنامه ویتوری ( جایگزین )</b></a> <tg-emoji emoji-id=\"5764775314521593432\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB3.png')\"><b>🏳</b></i></tg-emoji><b><br></b><br><br><tg-emoji emoji-id=\"5116490953703556299\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji><a href=\"https://t.me/wHiddify/8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b> آموزش استفاده از سرور ها&nbsp; در ویتوری</b></a><b><tg-emoji emoji-id=\"5118491691203953510\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji></b><br><br><tg-emoji emoji-id=\"5116490953703556299\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji><a href=\"https://t.me/wHiddify/8\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> </a><a href=\"https://t.me/wHiddify/18?single\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>آموزش استفاده از سرور ها&nbsp; در نپستر</b></a><b><tg-emoji emoji-id=\"5118491691203953510\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A3.png')\"><b>🔣</b></i></tg-emoji></b><b><br><br>چنل ما را حمایت کنید </b><b><tg-emoji emoji-id=\"5136557904198894608\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4E2808DF09F94A5.png')\"><b>❤️‍🔥</b></i></tg-emoji></b><b><br><br></b><b><tg-emoji emoji-id=\"5136828508613379215\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9299.png')\"><b>💙</b></i></tg-emoji></b><b> </b><a href=\"https://t.me/hddify\" target=\"_blank\">@hddify</a><b><br>‌</b><b><tg-emoji emoji-id=\"5136828508613379215\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9299.png')\"><b>💙</b></i></tg-emoji></b><b> </b><a href=\"https://t.me/hddify\" target=\"_blank\">@hddify</a>",
+    "date": "2026-03-15T06:12:41+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/hddify/2483",
+    "timestamp": 1773555161000
+  },
+  {
+    "id": "mizangorup/67942",
+    "channel": "mizangorup",
+    "text": "🔴 کانال ۱۳ اسرائیل: ما ناپدید شدن مجتبی خامنه ای را دنبال میکنیم و اطمینان نداریم که او زنده باشد.@mizangorup",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> کانال ۱۳ اسرائیل: ما ناپدید شدن مجتبی خامنه ای را دنبال میکنیم و اطمینان نداریم که او زنده باشد.<br><br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+    "date": "2026-03-15T06:00:26+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mizangorup/67942",
+    "timestamp": 1773554426000
+  },
+  {
+    "id": "mizangorup/67940",
+    "channel": "mizangorup",
+    "text": "🔴 #گزارش_شما - سلامباز پایگاه چهارم شکاری رو زد.- دروددزفول ساعت ۸:۵۰ یکشنبه ۲۴ اسفندصدای جنگنده و انفجار شنیده شد.- دزفول رو داره میزنه ۰۸:۴۸ یکشنبه ۲۴ اسفندترکیب صدای بارون و جنگنده@mizangorup🔴 #گزارش_شما - سلامباز پایگاه چهارم شکاری رو زد.- دروددزفول ساعت ۸:۵۰ یکشنبه ۲۴ اسفندصدای جنگنده و انفجار شنیده شد.- دزفول رو داره میزنه ۰۸:۴۸ یکشنبه ۲۴ اسفندترکیب صدای بارون و جنگنده@mizangorup",
+    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <a href=\"?q=%23%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4_%D8%B4%D9%85%D8%A7\">#گزارش_شما</a> <br><br>- سلام<br>باز پایگاه چهارم شکاری رو زد.<br><br>- درود<br>دزفول ساعت ۸:۵۰ یکشنبه ۲۴ اسفند<br>صدای جنگنده و انفجار شنیده شد.<br><br>- دزفول رو داره میزنه ۰۸:۴۸ یکشنبه ۲۴ اسفند<br>ترکیب صدای بارون و جنگنده<br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a></div>",
+    "date": "2026-03-15T05:58:29+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/GDmE4LemXA_EgyzEhcnIKYzEEjSgoDQ00clERdvUu5tgtSmcDk8lVsd4_-c3cJMn1zO-mK90_xe_eaoGePJXKb4Aq6bU9fPuvO8K_Ye1sjR_GGDg5gsGZtXXbXyuveRU6zhXkQT1vl8DFocorC8GflrSuwXQ8ngmlhGKbc9Hp24uf6jwGxNj48zBhFboI6_QefWjiCvrrCuDNCMt3ID6aIHAu_I-Aks2e7rpyGDZ_-U61vVh8In4YRB1GIaoDZtnCChv21xznzyC1_t5-Fnsm7fziLxVb-apraM4NIgTGU12sJ5SS8GDrPF9Yrwju3UDxI3YPKcZpOb0HTTsaQb0yw.jpg",
+      "https://cdn4.telesco.pe/file/echTB_RkXhFqBMvpJOGEN94D3BCTrmbLsUlDEqM0UmRYqt53QbNydX_R5zAbAOB8rd0JZvpGKVL5Ss7qX9JiWteQu7xaXPh8GaMxZSaUTzM_xQgkKCIVPhN8N4unhgsD7Wcq8PtinZTRd5gEUbIKg4vrREOZ6WxSknGKSkCCzlqPGbxoBO0nOxCiylsLhgcw52pcz4JOlXDYDGJ44n5Ax3BQQaS8xgJqzOthLWEzXVQH7lqb0r2xGs3jcNaqMxEWqDzoC7KFhg08rwfSr6eBdpH1sI5RrCPm433eFzGdfUNJrnXrAtEODxL7ydM5mCCglgbSkY90VjFZ7U7xWR1J-g.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/mizangorup/67940",
+    "timestamp": 1773554309000
+  },
+  {
+    "id": "NetAccount/16268",
+    "channel": "NetAccount",
+    "text": "کانفیگ برنامه نت مودnm-dns://o30Ks2tCaXUTYthkY5rNyZpb94XZB/aE9DzOqXds1o0VneuX3hnn+WYbZgM+SYzlOXQsIPOSkgOeh7J2oFNYIkrFbNLuZFNcX2DTbLAmkvK9JPbRWMbZvaEhIYLs4kOJxf/YNT6KJQ02zVDQBFBYTHgrC9AeUOVE0opBl4rlH8vbguiUBqyUG3InDbA9Cky+1BT5O5WPlnQK/I5ZvCnL8drBcmxoNAvYFGo3E7i3X1tB6NJ+ae/7NWQZpYN5pVTc2j3lk8DjWSWZ0cmXCM+/iA==",
+    "html": "کانفیگ برنامه نت مود<br><br><code>nm-dns://o30Ks2tCaXUTYthkY5rNyZpb94XZB/aE9DzOqXds1o0VneuX3hnn+WYbZgM+SYzlOXQsIPOSkgOeh7J2oFNYIkrFbNLuZFNcX2DTbLAmkvK9JPbRWMbZvaEhIYLs4kOJxf/YNT6KJQ02zVDQBFBYTHgrC9AeUOVE0opBl4rlH8vbguiUBqyUG3InDbA9Cky+1BT5O5WPlnQK/I5ZvCnL8drBcmxoNAvYFGo3E7i3X1tB6NJ+ae/7NWQZpYN5pVTc2j3lk8DjWSWZ0cmXCM+/iA==</code>",
+    "date": "2026-03-15T05:50:12+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16268",
+    "timestamp": 1773553812000
+  },
+  {
+    "id": "mizangorup/67939",
+    "channel": "mizangorup",
+    "text": "🔴 'عبور جنگنده و دود انفجار، #اصفهان ۶:۲۰'ویدیوی دریافتی با شرح: \"انقدر هواپیماها از پایین می‌زدند که کاملا معلوم بودند.\"یکشنبه ۲۴ اسفند@mizangorup",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> 'عبور جنگنده و دود انفجار، <a href=\"?q=%23%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86\">#اصفهان</a> ۶:۲۰'<br>ویدیوی دریافتی با شرح: \"انقدر هواپیماها از پایین می‌زدند که کاملا معلوم بودند.\"<br>یکشنبه ۲۴ اسفند<br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+    "date": "2026-03-15T05:34:05+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mizangorup/67939",
+    "timestamp": 1773552845000
+  },
+  {
+    "id": "mizangorup/67938",
+    "channel": "mizangorup",
+    "text": "🔴 #گزارش_شما ساعت ۲:۲۲ نیمه شب یکشنبه ۲۴ اسفند، مرکز تهران صدای انفجار از نزدیک و دور میاد همراه با صدای جنگندهانفجار های تهران شروع شد دوبارهسلام. ۲ انفجار شدید موجش تا فاطمی اومد. نزدیک نیست اما شدیده. ساعت 02:29سلام چهار تا انفجار شدید غرب تهران محدوده مرزدارانصدای انفجار شدید سه تا جنوب تهران4 انفجار بسیار قوی (لرزش شدید زمین) ولی کم صدابدون صدای هواپیمافاصله زمانی 10-20 ثانیه ایسمت اسلامشهر که از جنگ 12 روزه دارن میزننشمنیریه ۲:۲۲شب تاالان پنج تا صدای انفجار اومدتهران یکشنبه ۲۴ اسفند ساعت ۰۲:۲۲ صدای شیش انفجار اومدش تا ۰۲:۲۵ساعت ۲:۲۳ مرکز تهراندوباره صداهای مهیب انفجار و لرزش خونه.ساعت ۲:۲۴ یکشنبه مرکز تهران شیش ‌تا انفجار خیلی وحشتناک شنیدم، خونه لرزید.قشنگ خونمون داره می‌لرزه انقدر شدیدهوحید اصلا مطمئن نیستم ولی میگن مثل اینکه با پهباد داشتن بسیجیارو میزدنطبقه بالاییمون هم نور انفجارو دیده هم اینکه بسیجیا پیاده و با موتور درحال فرار بودنسلامساعت 2:25 دقیقه شب۶ تا صدای انفجار خیلی نزدیک توی شهرری شنیدیم کل ساختمون و شیشه ها لرزید۲:۲۴ تهران سمت سهروردی صدا انفجار میاد . ۶ تاصدای انفجار ۵ بار تهران جنوب غربی سمت بلور سازی ساعت ۲.۲۵دولت آباد تهران۶تا انفجار تا شاعت ۰۲:۲۵ دقیقه شدید عمق زیاد شیشه ها لرزیذ۲:۲۵ مرکز تهران چندین صدای انفجار شدید می‌شنوم. فکر کنم سمتای دیگهٔ شهر رو دارن می‌زنن ولی اینقدر شدیده که اینجا هم صداش می‌یاد و حتی کمی لرزشش هم حس می‌شه.تهران سمت بریانک از ۲:۲۰ تا ۲:۲۵ داره صدای انفجار میاد با لرزش. حداقل شیش بار صدا شنیدیم.یکشنبه ٢:٢٠ بامدادصدای حداقل ۵ انفجار غرب تهران٢ تای آخر تا حدی شدید و با لرزش۲۴ اسفند ساعت ۲.۲۳ تا ۲.۲۷ تهران شرق از دور داره یه سری صدای انفجار خیلی بم میاد خیلی ۴ ۵ تا صدای جنگنده نبود فقط برخورد بین هر فاصله بود پشت به پشت هم نبود لرزه کمی بهمون رسیدقم و بدجور زدن ۳ بار پشت هم شیشه هامون لرزید قشنگ انفجار داخل شهر بودنزدیک جوادیه رو خیلی بد زدنساعت 2:30 نیمه شب سخ صدای انفجار شدید در جنوب شهر شنیده شد سمت غرب ساعت ۲:۱۵ صدای بیش از پنج انفجار شدید اومد ولی صدای پدافند و  جنگنده  نیومدسمت بیمارستان شریعتی تهران الان ساعت ۲ و ۲۰ دیقه ۶ تا انفجار شنیدیم و لرزیدیم توی بیمارستان، نمیدونم دور بود یا نه صدای جنگنده نیومد قبلش نارمکصدای چند انفجار بدون جنگنده شیشه ها میلرزهقبلا اینجوری نبودسمت جنوب تهران چند صدای بلند اومد که فقط نور داشت انفجار و دود نداشت ۲:۳۲ما شهرری هستیمهمین الان ۵ تا انفجار مهیب رخ دادبا فاصله‌های کمصداش کمتر از لرزشش بود حتیخیلی زمین رو لرزوند. نسبت به شبای قبل خیلی شدید تر بود لرزش.سلام وحید از ساعت ۲:۲۲ تا ۲:۲۸ من تو باقرشهر  ۶ تا انفجار رو شنیدم ، معلوم بود خیلی نزدیک نیست ولی خیلی واضح بودسلام یکشنبه ۲۴ اسفند ساعت ۲:۲۴ انفجار های متعدد در شرق تهران سمت سپاه و امام حسینساعت ۲:۲۵جنوب تهران صدا انفجار میاد خیلی نزدیکهما سمت خیابان زمزم تهرانیم منطقه ۱۷انفجار امشب خیلی موج داشتش  نمیدونیم کجا بود دور بود صدا نداشت ولی خونه لرزید شادمانسلام بین ۲:۲۰ تا ۲:۲۵ چندین انفجار تهران صدای برخورد و لرزشش تا نارمک تهران هم رسیدسلام ساعت ۲:۳۰ دقیقه ۶ تا انفجار پشت سرهم شنیدیم جنوب تهران خونه ها قشنگ میلرزیدسمت آگاهی شاپور،منیریهنزدیک ۵ الی ۱۰ تا صدای انفجار شدید اومدساعت:۲:۲۵ساعت ۲:۲۲ تا ۵ دقیقه بعدش صدای ۵ تا انفجار اومد.حوالی مرکز تهران. فاصله داشت ولی.صدای پرواز پهباد قبل و بعد از انفجارها بود.شبهای قبل صدای پدافند هم میومد. امشب اصلا صدای پدافند نیومد.وحید ما بالای مجلسیم ۴ تا صدای انفجار نزدیک اومد ساعت ۰۲:۲۵۲:۳۸ نارمک تهران برق کل منطقه قطع شده [هنوز پیام مشابهی نداشتم]یافت اباد جنوبی ساعت ۲:۳۰ صدا۵ انفجار پشت هم اول نور امد بعد صدای شدید شیشه و خونه لرزید الانم هی صدای انفجار های خفیف میاد انگار پهبادداداش سمت پیروزی سه چهارتا صدا وحشتناک بود جوری ک از خواب پریدم خیلی زیادسمت منیریه ساعت ۲.۵ ۵تا انفجار نزدیک ولی نمیدونم کجارو زدنما از شهریار قبلا صداهارو میشنیدیم الان  از 2.22 که  بهتون خبر انفجار دادن اینجا صدایی نمیاد برق ماهم قطع شده. نارمک محدوده هفت حوض. از پنجره نگاه میکنم تاریکه تاریکه.ساعت ۲:۴۰ دقیقه برق نارمک محدوده هفت حوض قطع شدما سمت یوسف ابادیم ده دقیقه قبل اینطورا، من خواب بودم صدای و لرزش مهیبی از خیلی دورتر از ما شیشه های خونه رو لرزوند. خیلی فاصله زیاد بود ولی انقدر مهیب بود که من که معمولا خوابم خیلی سبک نیست از خواب پریدم.من دوتا شو شنیدم@mizangorup",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <a href=\"?q=%23%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4_%D8%B4%D9%85%D8%A7\">#گزارش_شما</a> <br><br>ساعت ۲:۲۲ نیمه شب یکشنبه ۲۴ اسفند، مرکز تهران صدای انفجار از نزدیک و دور میاد همراه با صدای جنگنده<br><br>انفجار های تهران شروع شد دوباره<br><br>سلام. ۲ انفجار شدید موجش تا فاطمی اومد. نزدیک نیست اما شدیده. ساعت 02:29<br><br>سلام چهار تا انفجار شدید غرب تهران محدوده مرزداران<br><br><br>صدای انفجار شدید سه تا جنوب تهران<br><br>4 انفجار بسیار قوی (لرزش شدید زمین) ولی کم صدا<br>بدون صدای هواپیما<br>فاصله زمانی 10-20 ثانیه ای<br>سمت اسلامشهر که از جنگ 12 روزه دارن میزننش<br><br>منیریه <br>۲:۲۲شب تاالان پنج تا صدای انفجار اومد<br><br><br>تهران یکشنبه ۲۴ اسفند ساعت ۰۲:۲۲ <br>صدای شیش انفجار اومدش تا ۰۲:۲۵<br><br>ساعت ۲:۲۳ مرکز تهران<br>دوباره صداهای مهیب انفجار و لرزش خونه.<br><br>ساعت ۲:۲۴ یکشنبه مرکز تهران شیش ‌تا انفجار خیلی وحشتناک شنیدم، خونه لرزید.<br><br>قشنگ خونمون داره می‌لرزه انقدر شدیده<br>وحید اصلا مطمئن نیستم ولی میگن مثل اینکه با پهباد داشتن بسیجیارو میزدن<br>طبقه بالاییمون هم نور انفجارو دیده هم اینکه بسیجیا پیاده و با موتور درحال فرار بودن<br><br><br>سلام<br>ساعت 2:25 دقیقه شب<br>۶ تا صدای انفجار خیلی نزدیک توی شهرری شنیدیم کل ساختمون و شیشه ها لرزید<br><br>۲:۲۴ تهران سمت سهروردی صدا انفجار میاد . ۶ تا<br><br><br>صدای انفجار ۵ بار تهران جنوب غربی سمت بلور سازی ساعت ۲.۲۵<br><br>دولت آباد تهران<br>۶تا انفجار تا شاعت ۰۲:۲۵ دقیقه شدید <br>عمق زیاد <br>شیشه ها لرزیذ<br><br><br>۲:۲۵ مرکز تهران چندین صدای انفجار شدید می‌شنوم. فکر کنم سمتای دیگهٔ شهر رو دارن می‌زنن ولی اینقدر شدیده که اینجا هم صداش می‌یاد و حتی کمی لرزشش هم حس می‌شه.<br><br><br>تهران سمت بریانک از ۲:۲۰ تا ۲:۲۵ داره صدای انفجار میاد با لرزش. حداقل شیش بار صدا شنیدیم.<br><br><br>یکشنبه ٢:٢٠ بامداد<br>صدای حداقل ۵ انفجار غرب تهران<br>٢ تای آخر تا حدی شدید و با لرزش<br><br>۲۴ اسفند ساعت ۲.۲۳ تا ۲.۲۷ تهران شرق از دور داره یه سری صدای انفجار خیلی بم میاد خیلی ۴ ۵ تا صدای جنگنده نبود فقط برخورد بین هر فاصله بود پشت به پشت هم نبود لرزه کمی بهمون رسید<br><br>قم و بدجور زدن <br>۳ بار پشت هم شیشه هامون لرزید <br>قشنگ انفجار داخل شهر بود<br><br><br>نزدیک جوادیه رو خیلی بد زدن<br><br>ساعت 2:30 نیمه شب سخ صدای انفجار شدید در جنوب شهر شنیده شد <br><br><br>سمت غرب ساعت ۲:۱۵ صدای بیش از پنج انفجار شدید اومد ولی صدای پدافند و  جنگنده  نیومد<br><br><br>سمت بیمارستان شریعتی تهران الان ساعت ۲ و ۲۰ دیقه ۶ تا انفجار شنیدیم و لرزیدیم توی بیمارستان، نمیدونم دور بود یا نه صدای جنگنده نیومد قبلش<br><br> نارمک<br>صدای چند انفجار بدون جنگنده شیشه ها میلرزه<br>قبلا اینجوری نبود<br><br><br>سمت جنوب تهران چند صدای بلند اومد که فقط نور داشت انفجار و دود نداشت ۲:۳۲<br><br>ما شهرری هستیم<br>همین الان ۵ تا انفجار مهیب رخ داد<br>با فاصله‌های کم<br>صداش کمتر از لرزشش بود حتی<br>خیلی زمین رو لرزوند. نسبت به شبای قبل خیلی شدید تر بود لرزش.<br><br>سلام وحید از ساعت ۲:۲۲ تا ۲:۲۸ من تو باقرشهر  ۶ تا انفجار رو شنیدم ، معلوم بود خیلی نزدیک نیست ولی خیلی واضح بود<br><br>سلام یکشنبه ۲۴ اسفند ساعت ۲:۲۴ انفجار های متعدد در شرق تهران سمت سپاه و امام حسین<br><br><br>ساعت ۲:۲۵<br>جنوب تهران صدا انفجار میاد خیلی نزدیکه<br>ما سمت خیابان زمزم تهرانیم منطقه ۱۷<br><br>انفجار امشب خیلی موج داشتش  نمیدونیم کجا بود دور بود صدا نداشت ولی خونه لرزید شادمان<br><br>سلام بین ۲:۲۰ تا ۲:۲۵ چندین انفجار تهران صدای برخورد و لرزشش تا نارمک تهران هم رسید<br><br><br>سلام ساعت ۲:۳۰ دقیقه ۶ تا انفجار پشت سرهم شنیدیم جنوب تهران خونه ها قشنگ میلرزید<br><br>سمت آگاهی شاپور،منیریه<br>نزدیک ۵ الی ۱۰ تا صدای انفجار شدید اومد<br>ساعت:۲:۲۵<br><br>ساعت ۲:۲۲ تا ۵ دقیقه بعدش صدای ۵ تا انفجار اومد.<br>حوالی مرکز تهران. فاصله داشت ولی.<br>صدای پرواز پهباد قبل و بعد از انفجارها بود.<br>شبهای قبل صدای پدافند هم میومد. امشب اصلا صدای پدافند نیومد.<br><br><br>وحید ما بالای مجلسیم ۴ تا صدای انفجار نزدیک اومد ساعت ۰۲:۲۵<br><br>۲:۳۸ نارمک تهران برق کل منطقه قطع شده [هنوز پیام مشابهی نداشتم]<br><br><br>یافت اباد جنوبی ساعت ۲:۳۰ صدا۵ انفجار پشت هم اول نور امد بعد صدای شدید شیشه و خونه لرزید الانم هی صدای انفجار های خفیف میاد انگار پهباد<br><br>داداش سمت پیروزی سه چهارتا صدا وحشتناک بود جوری ک از خواب پریدم خیلی زیاد<br><br>سمت منیریه ساعت ۲.۵ ۵تا انفجار نزدیک ولی نمیدونم کجارو زدن<br><br><br>ما از شهریار قبلا صداهارو میشنیدیم الان  از 2.22 که  بهتون خبر انفجار دادن اینجا صدایی نمیاد<br><br> برق ماهم قطع شده. نارمک محدوده هفت حوض. از پنجره نگاه میکنم تاریکه تاریکه.<br>ساعت ۲:۴۰ دقیقه برق نارمک محدوده هفت حوض قطع شد<br><br><br>ما سمت یوسف ابادیم ده دقیقه قبل اینطورا، من خواب بودم صدای و لرزش مهیبی از خیلی دورتر از ما شیشه های خونه رو لرزوند. <br>خیلی فاصله زیاد بود ولی انقدر مهیب بود که من که معمولا خوابم خیلی سبک نیست از خواب پریدم.<br>من دوتا شو شنیدم<br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+    "date": "2026-03-15T05:32:33+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mizangorup/67938",
+    "timestamp": 1773552753000
+  },
+  {
+    "id": "mizangorup/67937",
+    "channel": "mizangorup",
+    "text": "🔴 #گزارش_شما یزد یکشنبه ۲۴ اسفند- درود همین ۱۰ دقیقه پیش تقریباً از محدوده مسکونی در حوالی شهرک مهرآوران یزد یه موشک شلیک کردن خونه داشت تکون میخورد.خواب بودم و با صداش بیدار شدم.- امروز یکشنبه ۷:۴۰ ، ۲۴ اسفند دوباره از یزد موشک شلیک کردندتا زمانی که فرماندهی و همه مراکز یزد سالم باشند این داستان هر روز تکرار میشه🙃@mizangorup",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <a href=\"?q=%23%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4_%D8%B4%D9%85%D8%A7\">#گزارش_شما</a> <br><br><br>یزد یکشنبه ۲۴ اسفند<br><br>- درود همین ۱۰ دقیقه پیش تقریباً از محدوده مسکونی در حوالی شهرک مهرآوران یزد یه موشک شلیک کردن خونه داشت تکون میخورد.<br>خواب بودم و با صداش بیدار شدم.<br><br>- امروز یکشنبه ۷:۴۰ ، ۲۴ اسفند دوباره از یزد موشک شلیک کردند<br>تا زمانی که فرماندهی و همه مراکز یزد سالم باشند این داستان هر روز تکرار میشه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9983.png')\"><b>🙃</b></i><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+    "date": "2026-03-15T05:30:48+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mizangorup/67937",
+    "timestamp": 1773552648000
+  },
+  {
+    "id": "NetAccount/16267",
+    "channel": "NetAccount",
+    "text": "{\"remarks\":\"NetAccount\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"94.183.241.159\",\"port\":22222,\"users\":[{\"id\":\"5976b860-e481-41e2-b2f2-9f8901bf84a2\",\"level\":8,\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}",
+    "html": "<pre>{\"remarks\":\"NetAccount\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"94.183.241.159\",\"port\":22222,\"users\":[{\"id\":\"5976b860-e481-41e2-b2f2-9f8901bf84a2\",\"level\":8,\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"tcpSettings\":{\"header\":{\"type\":\"none\"}}},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}</pre>",
+    "date": "2026-03-15T05:22:03+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16267",
+    "timestamp": 1773552123000
+  },
+  {
     "id": "hddify/2482",
     "channel": "hddify",
     "text": "سرور ملی مخصوص فیلترینگ شدید ⛔تست شده   سرعت عالی 🚀vless://49bc99e9-305a-4045-a609-a258e8b2b76d@outbounde.iran-mehrbu.ir:16446?security=none&encryption=none&headerType=none&type=tcp#%40Hddify-T11A-30GB⏳ ممکنه اتصال چند ثانیه تا چند دقیقه طول بکشه ✅برنامه مورد نیاز (نپستر) 🔐برنامه ویتوری ( جایگزین ) 🏳🔣 آموزش استفاده از سرور ها  در ویتوری🔣🔣 آموزش استفاده از سرور ها  در نپستر🔣چنل ما را حمایت کنید ❤️‍🔥💙 @hddify‌💙 @hddify",
@@ -40,7 +142,7 @@
   {
     "id": "hddify/2481",
     "channel": "hddify",
-    "text": "دوستان یکسری سرور ها اومده دستم  برای مخابرات گیگی ۱۵۰ تومن بدونه واسطه   می‌خوایید بیارم؟ (👍) ‌‌با این منابع محدود فقط ۱۰ تا اشتراک میشه فروختساب هست حجم+ تایم میتونید نگاه کنید و ساب رو آپدیت کنی هرکس میخواد پیام بده برای قیمت پیام ندید گیگی ۱۵۰ هست :✅ @Tofnii",
+    "text": "دوستان یکسری سرور ها اومده دستم  برای مخابرات گیگی ۱۵۰ تومن بدونه واسطه   می‌خوایید بیارم؟ (👍) ‌‌با این منابع محدود فقط ۱۰ تا اشتراک میشه فروختساب هست حجم+ تایم میتونید نگاه کنید و ساب رو آپدیت کنی هرکس میخواد پیام بده برای قیمت پیام ندید گیگی ۱۵۰ هست :اتمام موجودی ❌",
     "html": "دوستان یکسری سرور ها اومده دستم  برای مخابرات گیگی ۱۵۰ تومن بدونه واسطه   می‌خوایید بیارم؟ (<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i>) ‌",
     "date": "2026-03-15T03:58:28+00:00",
     "images": [],
@@ -3836,162 +3938,5 @@
     "files": [],
     "link": "https://t.me/NetAccount/16232",
     "timestamp": 1773472805000
-  },
-  {
-    "id": "NetAccount/16231",
-    "channel": "NetAccount",
-    "text": "https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0https://t.me/socks?server=176.65.242.179&port=1080https://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9",
-    "html": "<a href=\"https://t.me/proxy?server=212.80.18.74&amp;port=39090&amp;secret=767cf6f14f461cdd166b54eddb53e1b0\" target=\"_blank\" rel=\"noopener\">https://t.me/proxy?server=212.80.18.74&amp;port=39090&amp;secret=767cf6f14f461cdd166b54eddb53e1b0</a><br><br><a href=\"https://t.me/socks?server=176.65.242.179&amp;port=1080\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=176.65.242.179&amp;port=1080</a><br><br><a href=\"https://t.me/proxy?server=92.118.234.215&amp;port=443&amp;secret=dddb9b51b5ce9a2820ff62d348cb23f1b9\" target=\"_blank\" rel=\"noopener\">https://t.me/proxy?server=92.118.234.215&amp;port=443&amp;secret=dddb9b51b5ce9a2820ff62d348cb23f1b9</a>",
-    "date": "2026-03-14T06:58:24+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/16231",
-    "timestamp": 1773471504000
-  },
-  {
-    "id": "Break_the_barriers/777",
-    "channel": "Break_the_barriers",
-    "text": "کار هر خر نیست خرمن کوفتن،هتزنر می‌خواهد و مرد کهن!این NoizDNS رو روی هتزنر جواب گرفتم، البته خیلی ربطش نمی‌دم به این، ولی خب.",
-    "html": "کار هر خر نیست خرمن کوفتن،<br><u>هتزنر</u> می‌خواهد و مرد کهن!<br><br>این NoizDNS رو روی هتزنر جواب گرفتم، البته خیلی ربطش نمی‌دم به این، ولی خب.",
-    "date": "2026-03-14T06:55:59+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/Break_the_barriers/777",
-    "timestamp": 1773471359000
-  },
-  {
-    "id": "persianvpnhub/20528",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ TROJAN📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 123ms#TROJAN #VPN🕒 انتشار: 10:03 - 1404/12/23💡 منبع: @privatevpns🔍 QRcodetrojan://telegram-id-privatevpns@18.193.206.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 123ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 10:03 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/privatevpns\" target=\"_blank\">@privatevpns</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=trojan%3A%2F%2Ftelegram-id-privatevpns%4018.193.206.143%3A22222%3Fsecurity%3Dtls%26alpn%3Dhttp%2F1.1%26headerType%3Dnone%26type%3Dtcp%26sni%3Dtrojan.burgerip.co.uk%23%28S101%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>trojan://telegram-id-privatevpns@18.193.206.143:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i>t.me/PrivateVPNs</pre>",
-    "date": "2026-03-14T06:35:25+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20528",
-    "timestamp": 1773470125000
-  },
-  {
-    "id": "persianvpnhub/20527",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ SS📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 14ms#Shadowsocks #VPN🕒 انتشار: 09:20 - 1404/12/23💡 منبع: @prrofile_purple🔍 QRcodess://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG11a25HUXFpSm9JdG1RVFhqY0Yy@104.192.227.162:443#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 14ms<br><br><a href=\"?q=%23Shadowsocks\">#Shadowsocks</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:20 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/prrofile_purple\" target=\"_blank\">@prrofile_purple</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=ss%3A%2F%2FY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG11a25HUXFpSm9JdG1RVFhqY0Yy%40104.192.227.162%3A443%23%25E2%259A%25A1Telegram%2520%253D%2520%2540prrofile_purple\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG11a25HUXFpSm9JdG1RVFhqY0Yy@104.192.227.162:443#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple</pre>",
-    "date": "2026-03-14T06:35:17+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20527",
-    "timestamp": 1773470117000
-  },
-  {
-    "id": "persianvpnhub/20526",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VMess📍 لوکیشن: Hong Kong 🇭🇰📶 پینگ: 177ms#VMess #VPN🕒 انتشار: 09:20 - 1404/12/23💡 منبع: @prrofile_purple🔍 QRcodevmess://eyJhZGQiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiaWQiOiIxZWJmZGZmYS0xYTM3LTQzMzYtODQ5NC1mODViMzZjZGYwODciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pqhVGVsZWdyYW0gXHUwMDNkIEBwcnJvZmlsZV9wdXJwbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VMess<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Hong Kong <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ADF09F87B0.png')\"><b>🇭🇰</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 177ms<br><br><a href=\"?q=%23VMess\">#VMess</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:20 - 1404/12/23<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/prrofile_purple\" target=\"_blank\">@prrofile_purple</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;amp;chs=200x200&amp;amp;chl=vmess%3A%2F%2FeyJhZGQiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiaWQiOiIxZWJmZGZmYS0xYTM3LTQzMzYtODQ5NC1mODViMzZjZGYwODciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pqhVGVsZWdyYW0gXHUwMDNkIEBwcnJvZmlsZV9wdXJwbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0%3D\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">QRcode</a><br><br><pre>vmess://eyJhZGQiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwiaWQiOiIxZWJmZGZmYS0xYTM3LTQzMzYtODQ5NC1mODViMzZjZGYwODciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pqhVGVsZWdyYW0gXHUwMDNkIEBwcnJvZmlsZV9wdXJwbGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=</pre>",
-    "date": "2026-03-14T06:35:13+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/20526",
-    "timestamp": 1773470113000
-  },
-  {
-    "id": "worldsmoments/90301",
-    "channel": "worldsmoments",
-    "text": "ترامپ از طریق Truth Social: رسانه‌های اخبار جعلی دوست ندارند گزارش دهند که ارتش ایالات متحده چقدر در برابر ایران عملکرد خوبی داشته است؛ ایرانی که کاملاً شکست خورده و خواهان توافق است — اما نه توافقی که من آن را بپذیرم!از توجه شما به این موضوع سپاسگزارم.رئیس‌جمهور DJT@worldsmoments",
-    "html": "<b>ترامپ از طریق Truth Social: </b>رسانه‌های اخبار جعلی دوست ندارند گزارش دهند که ارتش ایالات متحده چقدر در برابر ایران عملکرد خوبی داشته است؛ ایرانی که کاملاً شکست خورده و خواهان توافق است — اما نه توافقی که من آن را بپذیرم!<br>از توجه شما به این موضوع سپاسگزارم.<br>رئیس‌جمهور DJT<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-03-14T06:15:44+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/90301",
-    "timestamp": 1773468944000
-  },
-  {
-    "id": "NetAccount/16230",
-    "channel": "NetAccount",
-    "text": "tg://proxy?server=free-mtproto.flexiblenet.org&port=443&secret=4da47f00c2291d55696fa3ae954ffd78tg://proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==",
-    "html": "<a href=\"tg://proxy?server=free-mtproto.flexiblenet.org&amp;port=443&amp;secret=4da47f00c2291d55696fa3ae954ffd78\" target=\"_blank\" rel=\"noopener\">tg://proxy?server=free-mtproto.flexiblenet.org&amp;port=443&amp;secret=4da47f00c2291d55696fa3ae954ffd78</a><br><br><a href=\"tg://proxy?server=r1.newr1.co.uk&amp;port=85&amp;secret=FgMBAgABAAH8AxOG4kw63Q==\" target=\"_blank\" rel=\"noopener\">tg://proxy?server=r1.newr1.co.uk&amp;port=85&amp;secret=FgMBAgABAAH8AxOG4kw63Q==</a>",
-    "date": "2026-03-14T06:13:51+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/16230",
-    "timestamp": 1773468831000
-  },
-  {
-    "id": "worldsmoments/90300",
-    "channel": "worldsmoments",
-    "text": "مثل اینکه بحرین سمت ایران موشک پرت کرده.@worldsmoments",
-    "html": "مثل اینکه بحرین سمت ایران موشک پرت کرده.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-03-14T06:05:33+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/90300",
-    "timestamp": 1773468333000
-  },
-  {
-    "id": "Break_the_barriers/776",
-    "channel": "Break_the_barriers",
-    "text": "روز از نو،اسکن از نو.",
-    "html": "روز از نو،<br>اسکن از نو.",
-    "date": "2026-03-14T06:00:04+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/Break_the_barriers/776",
-    "timestamp": 1773468004000
-  },
-  {
-    "id": "worldsmoments/90298",
-    "channel": "worldsmoments",
-    "text": "فروش بازه دوستان❤️تعرفه ها👇🏻50 گیگ دو کاربره 1/750/000T100 گیگ دو کاربره 3/000/000Tبرنامه هایی که میتونید استفاده کنید👇🏻Npv/V2ray/Streisand/Fairاکانت تست نداریمدر هر صورت سعی کردیم الان که یه کاربره گیگی یک میلیون تومن میدن یه قیمت نرمال براتون درست کنیم (که باز هم لعنت به باعث و بانی این وضعیت).برای سفارش👇🏻@justfor_helpچنل رضایت و پیگیری👇🏻https://t.me/+at-ZzzIQdcBhMDY0فروش بازه دوستان❤️تعرفه ها👇🏻50 گیگ دو کاربره 1/750/000T100 گیگ دو کاربره 3/000/000Tبرنامه هایی که میتونید استفاده کنید👇🏻Npv/V2ray/Streisand/Fairاکانت تست نداریمدر هر صورت سعی کردیم الان که یه کاربره گیگی یک میلیون تومن میدن یه قیمت نرمال براتون درست کنیم (که باز هم لعنت به باعث و بانی این وضعیت).برای سفارش👇🏻@justfor_helpچنل رضایت و پیگیری👇🏻https://t.me/+at-ZzzIQdcBhMDY0",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><blockquote>فروش بازه دوستان<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></blockquote><br><br><b>تعرفه ها<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187F09F8FBB.png')\"><b>👇🏻</b></i></b><br><b>50 گیگ دو کاربره 1/750/000T<br>100 گیگ دو کاربره 3/000/000T</b><br><b>برنامه هایی که میتونید استفاده کنید<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187F09F8FBB.png')\"><b>👇🏻</b></i><br>Npv/V2ray/Streisand/Fair</b><br><blockquote>اکانت تست نداریم</blockquote><br><blockquote>در هر صورت سعی کردیم الان که یه کاربره گیگی یک میلیون تومن میدن یه قیمت نرمال براتون درست کنیم (که باز هم لعنت به باعث و بانی این وضعیت).</blockquote><b><br>برای سفارش<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187F09F8FBB.png')\"><b>👇🏻</b></i><br></b><a href=\"https://t.me/justfor_help\" target=\"_blank\"><b>@justfor_help</b></a><b><br><br>چنل رضایت و پیگیری<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187F09F8FBB.png')\"><b>👇🏻</b></i><br></b><a href=\"https://t.me/+at-ZzzIQdcBhMDY0\" target=\"_blank\" rel=\"noopener\"><b>https://t.me/+at-ZzzIQdcBhMDY0</b></a></div>",
-    "date": "2026-03-14T05:47:07+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/k4zO3ZLcF2uutCh4FtWgV7lMiSVau_yybWfnBLM231acZSQL9N0HLX7Pmm6B2o4YoYHzdcrP4iWubjatI69nAyO2sWBtuMnsBpX7WF8pGQUebHRnzEmsehcx7PpAPPRIh4vYqD5q-jLjHoBKUWif16TfFzsRCZjuBtYlceIaoFxMpSn5j0v5HJNeJQHksv9XfV2ckSzdnw4ijpfhcGMPmJCJqB70SndcOVZyCf4X2gFA8SeR34tzsQfGarZRXJQJrM4cFJvkHY4YDuaGLmfP_v5EddGyTgAbydkl9pU_eQqSehsTrHrA1I_Kt6ClDymOkSCsTfu-PR3uQAbVqm-gdg.jpg",
-      "https://cdn4.telesco.pe/file/uAjxoIHZTq0YKyNzH3XpJsrir6N2ePKr8lsUnyyAtQaIp_PMP2tmXPzxpc8-r4-ns6t6nm-tFugG45zfiAgKSKBcUAKrrOzcHuqUM_eJ6EC5nKKLbhTjyIxjwRY0vtB2HIQqNouABL-QcpupxpKCLHsoMJ3TWhcwc-Kqb0oOJ2zD8UF_GKojQnLkGfIqtnl2rp3VegWYWVo1oApFFmwmz5zEj_pSaz4Ul5_vrmJrm-1IuoSnaYKfWXIrEcZ4LKP_EFMQNU7yjHsLOVtBrryn6NqqivvPZAAvnnlobI-gLpPqc727NymGUeBiTibPJz4W2v8As-gmU6Go1lgDuGJiSg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/worldsmoments/90298",
-    "timestamp": 1773467227000
-  },
-  {
-    "id": "worldsmoments/90297",
-    "channel": "worldsmoments",
-    "text": "تبریز چندین صدای انفجار پی‌در‌پی.",
-    "html": "تبریز چندین صدای انفجار پی‌در‌پی.",
-    "date": "2026-03-14T05:40:10+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/90297",
-    "timestamp": 1773466810000
-  },
-  {
-    "id": "NetAccount/16229",
-    "channel": "NetAccount",
-    "text": "صدای دو انفجار جدید در تبریز",
-    "html": "صدای دو انفجار جدید در تبریز",
-    "date": "2026-03-14T05:16:41+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/16229",
-    "timestamp": 1773465401000
-  },
-  {
-    "id": "NetAccount/16228",
-    "channel": "NetAccount",
-    "text": "تبریزو بد دارن میزنن",
-    "html": "تبریزو بد دارن میزنن",
-    "date": "2026-03-14T05:09:53+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/16228",
-    "timestamp": 1773464993000
-  },
-  {
-    "id": "NetAccount/16227",
-    "channel": "NetAccount",
-    "text": "صدای بیشتر از 10 انفجار در تبریزبازم انفجار در تبریز",
-    "html": "صدای بیشتر از 10 انفجار در تبریز",
-    "date": "2026-03-14T05:09:01+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/16227",
-    "timestamp": 1773464941000
   }
 ]

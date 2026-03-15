@@ -17,6 +17,8 @@ const CHANNELS = [
   'iliaen',
   'newscenter',
   'dirty_kids',
+  'mahsa_alert',
+  'mizangorup',
   'NetAccount'
 ];
 

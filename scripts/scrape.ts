@@ -10,7 +10,6 @@ const __dirname = path.dirname(__filename);
 const CHANNELS = [
   'persianvpnhub',
   'mitivpn',
-  'hddify',
   'Break_the_barriers',
   'MatinSenPaii',
   'worldsmoments',
@@ -19,6 +18,9 @@ const CHANNELS = [
   'dirty_kids',
   'mahsa_alert',
   'mizangorup',
+  'INTERNETFORIRAN',
+  'VahidOnline',
+  'IranintlTV',
   'NetAccount'
 ];
 

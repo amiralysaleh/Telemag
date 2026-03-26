@@ -1,5 +1,221 @@
 [
   {
+    "id": "Break_the_barriers/946",
+    "channel": "Break_the_barriers",
+    "text": "slipnet-enc://AUA5JcwW+n+olFtv6WwuFSV+T5S/OTScVvwzeIpHtHCSvB2JG6nxqNLg/nTEK7Mdjgm2H44V/Esr68qFLxaSmo731GWt7AIxQsjEmxlK3VpHjsR/NHBZI/8EQVgS/mxYzBO32+vvvjwSXp3Fmv7PS3BDYvN1JfM4A4kZnwUmdO42kig2uhh5ebvJxa7T/PYbY1clgPZ5heAGfTESzxW8muxBhR+drJnCefsc+Ojw7Q8ZBYp+ubPP1tnVYivAbQOFpmeDqMnUv35N4PVSnRy92cVQGwQ04ViG8CqoPkevYRaoS/mib5rZdi2Dw0S6b7xf4mZ+RkuT85NvCfCfX5E/eeHGgSsrodcMtydAsDX2mcQfH6bwFVPfyVYtI1wP0FueoJh7pWd3zL+c0OVhAGVLQhC/BH4q9OYJisHyEHCLlG+NLv+4kdTNw2ncptdX2cPQKY/+IsppmBMvYOV89c5FPk5MU3bwcnpTe+AJuKpeSITFZV2pTfDK/yMPCJwJBvaS7LEq591dzkReMK3HxZ3MEgSdEzwMvWMO0eWdmELdYDHA/S0g4J4iR6StyI1bXl2zl7JAKohKyMhTVFJ/bGwlbgpopr3ewM4wOgbH+J7iXTi+AcEaWOFV+XmTnkZOARszx2rVUNTWNEKbhxdF«این کانفیگ کاملاً رایگان است.»🖥️ سرور ٢کانفیگ DNSTT + SSH مناسب اپلیکیشن اندروید کلاینت SlipNet⚠️ همواره آخرین نسخه‌ی اپلیکیشن کلاینت SlipNet رو نصب داشته باشید.⚠️ حتماً قبل از اتصال، پس از وارد کردن کانفیگ، برروی علامت مداد 🖊️ بزنید و DNS Query Size رو بین عدد ۵٠ تا ٧٠ بگذارید.⚠️ داخل تنظیمات اپلیکیشن، مقدار VPN MTU رو روی عدد ۵١٢ بگذارید.⚠️ می‌تونید DNS Resolver مناسب منطقه و اینترنت خودتون رو با اسکن کردن پیدا کنید و تغییر بدید.#DNSTT@break_the_barriers@letspass_pro 👀",
+    "html": "<code>slipnet-enc://AUA5JcwW+n+olFtv6WwuFSV+T5S/OTScVvwzeIpHtHCSvB2JG6nxqNLg/nTEK7Mdjgm2H44V/Esr68qFLxaSmo731GWt7AIxQsjEmxlK3VpHjsR/NHBZI/8EQVgS/mxYzBO32+vvvjwSXp3Fmv7PS3BDYvN1JfM4A4kZnwUmdO42kig2uhh5ebvJxa7T/PYbY1clgPZ5heAGfTESzxW8muxBhR+drJnCefsc+Ojw7Q8ZBYp+ubPP1tnVYivAbQOFpmeDqMnUv35N4PVSnRy92cVQGwQ04ViG8CqoPkevYRaoS/mib5rZdi2Dw0S6b7xf4mZ+RkuT85NvCfCfX5E/eeHGgSsrodcMtydAsDX2mcQfH6bwFVPfyVYtI1wP0FueoJh7pWd3zL+c0OVhAGVLQhC/BH4q9OYJisHyEHCLlG+NLv+4kdTNw2ncptdX2cPQKY/+IsppmBMvYOV89c5FPk5MU3bwcnpTe+AJuKpeSITFZV2pTfDK/yMPCJwJBvaS7LEq591dzkReMK3HxZ3MEgSdEzwMvWMO0eWdmELdYDHA/S0g4J4iR6StyI1bXl2zl7JAKohKyMhTVFJ/bGwlbgpopr3ewM4wOgbH+J7iXTi+AcEaWOFV+XmTnkZOARszx2rVUNTWNEKbhxdF</code><br><br><b>«این کانفیگ کاملاً رایگان است.»</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> <b>سرور ٢<br></b><br>کانفیگ <b>DNSTT + SSH</b> مناسب اپلیکیشن اندروید کلاینت <b>SlipNet</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> همواره آخرین نسخه‌ی اپلیکیشن کلاینت <b>SlipNet</b> رو نصب داشته باشید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> حتماً قبل از اتصال، پس از وارد کردن کانفیگ، برروی علامت مداد <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F968A.png')\"><b>🖊️</b></i> بزنید و DNS Query Size رو بین عدد <b><u>۵٠</u></b> تا <b><u>٧٠</u></b> بگذارید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> داخل تنظیمات اپلیکیشن، مقدار VPN MTU رو روی عدد <b><u>۵١٢</u></b> بگذارید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> می‌تونید DNS Resolver مناسب منطقه و اینترنت خودتون رو با اسکن کردن پیدا کنید و تغییر بدید.<br><br><a href=\"?q=%23DNSTT\">#DNSTT</a><br><a href=\"https://t.me/break_the_barriers\" target=\"_blank\">@break_the_barriers</a><br><a href=\"https://t.me/letspass_pro\" target=\"_blank\">@letspass_pro</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i>",
+    "date": "2026-03-26T22:31:26+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/946",
+    "timestamp": 1774564286000
+  },
+  {
+    "id": "Break_the_barriers/945",
+    "channel": "Break_the_barriers",
+    "text": "slipnet-enc://AYxsYwB27Xt4TIfe05O5ezsPiWpVMGncAs7DdCo1STjujSaI1lopjPSsj0NBxtpkBIqxhMI20iJ/+bbwGs429onfeAQtNacpW/ZVAGJPRyN5hAtnYIG273RkeR5Sw8u1RLIwV9EB8MCnyUfDC7CieW304NN5mNfw3rurLo2muiufNlq0Z9dlHbApZfFytDnAL/cX2kgspsarCndFfS3Py63Dr5g3zIpqQAb2W5MYyieWzaeJinnwrydHs08UirbbtxQti/UI+M2MU5uPdfnDqW/LF6CFDE/cA5DEtWh+epSULFaowDr4IDNWUBBGw+ppOaCHXCRysMzBzbv0EP4+bweAGe/UexWt2dZmSUlkGp+ZmPvNWLmW/hK6LdtiN4WdHh5C+OXOTdREY3JU6gy4Y+0buscdSY6LINqaLm67TCFoa7k+RjdEml/cTQrC1PPnHx6jnOdRVV/krPibkfswGUvcIJFT9J+VSyz2ViULnDFBGCDqIjUdi6UvYTqCaeCzEpOBjQ7c+UCpHZhIfFyx+VQiWHCZRswZD8HijpH7ceQtD8EJbRgZOSfUxU4We0os6rGYKy6vYUN7r6jcsgyXoXwwL2ilLNUt/+NSFATAPRZ1wBnb0u75ogHpDnglVPvKDYpH9bBR1hupFSiT«این کانفیگ کاملاً رایگان است.»🖥️ سرور ١کانفیگ DNSTT + SSH مناسب اپلیکیشن اندروید کلاینت SlipNet⚠️ همواره آخرین نسخه‌ی اپلیکیشن کلاینت SlipNet رو نصب داشته باشید.⚠️ حتماً قبل از اتصال، پس از وارد کردن کانفیگ، برروی علامت مداد 🖊️ بزنید و DNS Query Size رو بین عدد ۵٠ تا ٧٠ بگذارید.⚠️ داخل تنظیمات اپلیکیشن، مقدار VPN MTU رو روی عدد ۵١٢ بگذارید.⚠️ می‌تونید DNS Resolver مناسب منطقه و اینترنت خودتون رو با اسکن کردن پیدا کنید و تغییر بدید.#DNSTT@break_the_barriers@letspass_pro 👀",
+    "html": "<code>slipnet-enc://AYxsYwB27Xt4TIfe05O5ezsPiWpVMGncAs7DdCo1STjujSaI1lopjPSsj0NBxtpkBIqxhMI20iJ/+bbwGs429onfeAQtNacpW/ZVAGJPRyN5hAtnYIG273RkeR5Sw8u1RLIwV9EB8MCnyUfDC7CieW304NN5mNfw3rurLo2muiufNlq0Z9dlHbApZfFytDnAL/cX2kgspsarCndFfS3Py63Dr5g3zIpqQAb2W5MYyieWzaeJinnwrydHs08UirbbtxQti/UI+M2MU5uPdfnDqW/LF6CFDE/cA5DEtWh+epSULFaowDr4IDNWUBBGw+ppOaCHXCRysMzBzbv0EP4+bweAGe/UexWt2dZmSUlkGp+ZmPvNWLmW/hK6LdtiN4WdHh5C+OXOTdREY3JU6gy4Y+0buscdSY6LINqaLm67TCFoa7k+RjdEml/cTQrC1PPnHx6jnOdRVV/krPibkfswGUvcIJFT9J+VSyz2ViULnDFBGCDqIjUdi6UvYTqCaeCzEpOBjQ7c+UCpHZhIfFyx+VQiWHCZRswZD8HijpH7ceQtD8EJbRgZOSfUxU4We0os6rGYKy6vYUN7r6jcsgyXoXwwL2ilLNUt/+NSFATAPRZ1wBnb0u75ogHpDnglVPvKDYpH9bBR1hupFSiT</code><br><br><b>«این کانفیگ کاملاً رایگان است.»</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> <b>سرور ١<br></b><br>کانفیگ <b>DNSTT + SSH</b> مناسب اپلیکیشن اندروید کلاینت <b>SlipNet</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> همواره آخرین نسخه‌ی اپلیکیشن کلاینت <b>SlipNet</b> رو نصب داشته باشید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> حتماً قبل از اتصال، پس از وارد کردن کانفیگ، برروی علامت مداد <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F968A.png')\"><b>🖊️</b></i> بزنید و DNS Query Size رو بین عدد <b><u>۵٠</u></b> تا <b><u>٧٠</u></b> بگذارید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> داخل تنظیمات اپلیکیشن، مقدار VPN MTU رو روی عدد <b><u>۵١٢</u></b> بگذارید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> می‌تونید DNS Resolver مناسب منطقه و اینترنت خودتون رو با اسکن کردن پیدا کنید و تغییر بدید.<br><br><a href=\"?q=%23DNSTT\">#DNSTT</a><br><a href=\"https://t.me/break_the_barriers\" target=\"_blank\">@break_the_barriers</a><br><a href=\"https://t.me/letspass_pro\" target=\"_blank\">@letspass_pro</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i>",
+    "date": "2026-03-26T22:28:46+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/945",
+    "timestamp": 1774564126000
+  },
+  {
+    "id": "newscenter/61114",
+    "channel": "newscenter",
+    "text": "انفجار در رباط کریم ✅ @newscenter",
+    "html": "انفجار در رباط کریم <br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-26T22:26:05+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/61114",
+    "timestamp": 1774563965000
+  },
+  {
+    "id": "IranintlTV/328280",
+    "channel": "IranintlTV",
+    "text": "دونالد ترامپ با اشاره به سرکوب شدید در ایران گفت که مردم ایران شجاع‌اند و چون در برابر سلاح‌های مرگبار جمهوری اسلامی بی‌دفاع‌اند، توانایی اعتراض ندارند. او گفت که مردم ایران «وحشت‌زده‌اند» زیرا نیروهای حکومتی با استفاده از سلاح‌های سنگین و تک‌تیراندازها معترضان را هدف قرار می‌دهند.به گفته او، هرگونه تجمع اعتراضی با شلیک مستقیم پاسخ داده می‌شود و همین موضوع باعث شده مردم از ادامه اعتراض‌ها منصرف شوند.https://iranintl.com/202603261333",
+    "html": "دونالد ترامپ با اشاره به سرکوب شدید در ایران گفت که مردم ایران شجاع‌اند و چون در برابر سلاح‌های مرگبار جمهوری اسلامی بی‌دفاع‌اند، توانایی اعتراض ندارند. او گفت که مردم ایران «وحشت‌زده‌اند» زیرا نیروهای حکومتی با استفاده از سلاح‌های سنگین و تک‌تیراندازها معترضان را هدف قرار می‌دهند.<br><br>به گفته او، هرگونه تجمع اعتراضی با شلیک مستقیم پاسخ داده می‌شود و همین موضوع باعث شده مردم از ادامه اعتراض‌ها منصرف شوند.<br><a href=\"https://iranintl.com/202603261333\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603261333</a>",
+    "date": "2026-03-26T22:20:55+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/GTVLHLp6qu5gC4a-Is8tyaoCBTak8cDEd5uXIiyuKWt9r-aY3bjGUn9qzMZQ8SIau9flUwHPvUT-9gxL7k8lwFBhFwzpTxF-Qp8yl8UfFWaK-pjvzhnyPJLpoD8uh_EC7yZ8HwQYG-5fVLtGQ7t_-Qi_3TGmcCcO1szFvpxw-KXkFkGz6pgbdzY_MySOyIt3xrTonSwNtHe8Pgdvrr_zQf1x640Sos7y7hs9nDjooKLaHvSRC9eTIsKkl7oNjDOlVlA5jTcgpCintm3uS8vPus36AflDK4GQUpBCN2XsMs5xRcsgBd9ykJofOa7582fQzqApKatdVAZVX3Hfmdpd_w.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/328280",
+    "timestamp": 1774563655000
+  },
+  {
+    "id": "IranintlTV/328279",
+    "channel": "IranintlTV",
+    "text": "🎧نسخه صوتی برنامه با کامبیز حسینی؛ رکوردِ طولانی‌ترین قطعیِ اینترنت در تاریخِ ایران@iranintlTV",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی برنامه با کامبیز حسینی؛ رکوردِ طولانی‌ترین قطعیِ اینترنت در تاریخِ ایران<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
+    "date": "2026-03-26T22:16:50+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "برنامه با کامبیز حسینی - ۶ فروردین",
+        "size": ""
+      }
+    ],
+    "link": "https://t.me/IranintlTV/328279",
+    "timestamp": 1774563410000
+  },
+  {
+    "id": "newscenter/61113",
+    "channel": "newscenter",
+    "text": "🔴 ترامپ در تروث سوشال: طبق درخواست دولت ایران، لطفاً اجازه دهید این بیانیه به منزله توقف دوره تخریب نیروگاه انرژی تا ۱۰ روز تا دوشنبه، ۶ آوریل ۲۰۲۶، ساعت ۸ شب به وقت شرقی باشد. مذاکرات در حال انجام است و علیرغم اظهارات نادرست رسانه‌های خبری جعلی و دیگران،…ترامپ دقایقی قبل در مصاحبه با فاکس نیوز: ایرانیها 7 روز مهلت خواستند من به آنها 10 روز مهلت دادمآنها بسیار سپاسگزار بودنداگر آن‌ها کاری را که باید انجام ندهند، نیروگاه‌هایشان را نابود می‌کنم✅ @newscenter",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ در تروث سوشال: طبق درخواست دولت ایران، لطفاً اجازه دهید این بیانیه به منزله توقف دوره تخریب نیروگاه انرژی تا ۱۰ روز تا دوشنبه، ۶ آوریل ۲۰۲۶، ساعت ۸ شب به وقت شرقی باشد. مذاکرات در حال انجام است و علیرغم اظهارات نادرست رسانه‌های خبری جعلی و دیگران،…",
+    "date": "2026-03-26T22:14:02+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/61113",
+    "timestamp": 1774563242000
+  },
+  {
+    "id": "newscenter/61112",
+    "channel": "newscenter",
+    "text": "🔴 ترامپ: دوره تخریب نیروگاه‌های ایران را به مدت ۱۰ روز تا ۶ آوریل آینده به تعویق انداختم  ✅ @newscenter🔴 ترامپ در تروث سوشال: طبق درخواست دولت ایران، لطفاً اجازه دهید این بیانیه به منزله توقف دوره تخریب نیروگاه انرژی تا ۱۰ روز تا دوشنبه، ۶ آوریل ۲۰۲۶، ساعت ۸ شب به وقت شرقی باشد. مذاکرات در حال انجام است و علیرغم اظهارات نادرست رسانه‌های خبری جعلی و دیگران، مذاکرات به خوبی پیش می‌رود. از توجه شما به این موضوع متشکرم!✅ @newscenter",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ: دوره تخریب نیروگاه‌های ایران را به مدت ۱۰ روز تا ۶ آوریل آینده به تعویق انداختم  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @newscenter",
+    "date": "2026-03-26T22:12:35+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/61112",
+    "timestamp": 1774563155000
+  },
+  {
+    "id": "newscenter/61111",
+    "channel": "newscenter",
+    "text": "🔴 ترامپ: دوره تخریب نیروگاه‌های ایران را به مدت ۱۰ روز تا ۶ آوریل آینده به تعویق انداختم✅ @newscenter",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ترامپ: دوره تخریب نیروگاه‌های ایران را به مدت ۱۰ روز تا ۶ آوریل آینده به تعویق انداختم<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-03-26T22:11:24+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/61111",
+    "timestamp": 1774563084000
+  },
+  {
+    "id": "IranintlTV/328278",
+    "channel": "IranintlTV",
+    "text": "دونالد ترامپ گفت جمهوری اسلامی ابتدا خواستار توقف هفت‌روزه حملات آمریکا به نیروگاه‌های ایران شده بود، اما او این مهلت را به ۱۰ روز افزایش داد و ضرب‌الاجل جدید را ۱۸ فروردین تعیین کرد.دونالد ترامپ گفت: «آنها خیلی محترمانه، از طریق افرادم، گفتند آیا می‌توانیم زمان بیشتری داشته باشیم؟ چون درباره فردا شب صحبت می‌کنیم که خیلی زود است، و اگر آنچه باید انجام دهند را انجام ندهند، نیروگاه‌هایشان را از کار می‌اندازم.»او افزود: «آنها هفت روز خواستند و من گفتم ۱۰ روز می‌دهم، چون به من کشتی دادند.»رییس‌جمهوری آمریکا همچنین گفت مقام‌های ایرانی بابت این تصمیم «بسیار سپاسگزار» بودند.دونالد ترامپ پیش‌تر هشدار داده بود اگر جمهوری اسلامی ظرف ۴۸ ساعت تنگه هرمز را باز نکند، نیروگاه‌ها در ایران را هدف قرار خواهد داد. او سپس این ضرب‌الاجل را پنج روز تمدید کرد و اکنون بار دیگر آن را به تعویق انداخته است.https://iranintl.com/202603260074",
+    "html": "دونالد ترامپ گفت جمهوری اسلامی ابتدا خواستار توقف هفت‌روزه حملات آمریکا به نیروگاه‌های ایران شده بود، اما او این مهلت را به ۱۰ روز افزایش داد و ضرب‌الاجل جدید را ۱۸ فروردین تعیین کرد.<br><br>دونالد ترامپ گفت: «آنها خیلی محترمانه، از طریق افرادم، گفتند آیا می‌توانیم زمان بیشتری داشته باشیم؟ چون درباره فردا شب صحبت می‌کنیم که خیلی زود است، و اگر آنچه باید انجام دهند را انجام ندهند، نیروگاه‌هایشان را از کار می‌اندازم.»<br><br>او افزود: «آنها هفت روز خواستند و من گفتم ۱۰ روز می‌دهم، چون به من کشتی دادند.»<br><br>رییس‌جمهوری آمریکا همچنین گفت مقام‌های ایرانی بابت این تصمیم «بسیار سپاسگزار» بودند.<br><br>دونالد ترامپ پیش‌تر هشدار داده بود اگر جمهوری اسلامی ظرف ۴۸ ساعت تنگه هرمز را باز نکند، نیروگاه‌ها در ایران را هدف قرار خواهد داد. او سپس این ضرب‌الاجل را پنج روز تمدید کرد و اکنون بار دیگر آن را به تعویق انداخته است.<br><a href=\"https://iranintl.com/202603260074\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603260074</a>",
+    "date": "2026-03-26T22:08:48+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/fJVJe1hcf8YJePe3x731Epzy-8jLGhCxEtj2b_d_nIl2vHruIb_cSglnvRxrQcJjDnDS07KiD4vOntFi1YYSyA6rBHMYfIkBRiR3kmfWSdcEpPtER_95yJFZMN8WqpE5B6y1z4bfOBp3lHCw7lVDD3NGEraJd9cR6nK0MamExS9e3lNLAO31KdjtxEDfKUr46mCd3kGRLlTmGdHMmkQ-aQrj4YAIQr1PcCC54tAzqCQ2OTyJjVtktiPokSWtnkZqcMbqoMw21xogiha2_Uhm4x1G7zv8Dy0weBsPy8xK1P3dYv3bRMNJWJJh2_btbRAnA17q2vjjIvmX89DbQpcFSA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/328278",
+    "timestamp": 1774562928000
+  },
+  {
+    "id": "persianvpnhub/21658",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET-ENC📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 01:34 - 1405/01/07💡 منبع: @slipnet_chatslipnet-enc://AfvpYWyqFNwk/8seVNdk0+BMu/PQFsltFvE8BZ96jc7NYPKrvpHu78FoRffNAcbe/p2AxBZW4NI9lTcEh9a+6bg5aeI+vTg7KssriImAHGM4kznrlcpba3AVA10NVFitsAhhNomC7zQZk/7W2bGhfejmHSWY956Xfi+s2TLztNdQ0ozmSySYdbSY8R2VEHLAHOiJcr5U9X+qSrPU34Gu3F/MunzsYDmCHtAXD8sSPSYmxzq3qbf32WD/2ntv7dP78BtwqIrW+T+KMb3z14pM3K0Lez47jFcGnTzJ9l24zEoGlZULBen+9kNhXObXr5om2apCSWU+Ux1BdGJfHM7sg4BVmQrvfkWCxRkYHQ3St1kxw9/hC286fXfcCqVq90oAEGP+cC94iVGKjPVMePfoJLovo8lZLOK8uFvV3u4fYP6aaY2gHjIooheMC0Jcbo4iYE0D1DWvD2G6qAM+yMjpEp+mjFOajJtZgaHzbxbsNZTlql3Qd1BsrMGg3SlxwyLd3755BRWJhqeqa0tWDiiHWZYY0Kpi3KMeFqQ54OLA8oIlnZoSmKiKyTrNrGWwOrTyt3hXLNI+x+fQyC+2tjAHpGOMXzjPyb1v7n5l6AhYaB9WbCCc6p1fXzl76FpTypJnfg==",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET-ENC<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 01:34 - 1405/01/07<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/slipnet_chat\" target=\"_blank\">@slipnet_chat</a><br><br><pre>slipnet-enc://AfvpYWyqFNwk/8seVNdk0+BMu/PQFsltFvE8BZ96jc7NYPKrvpHu78FoRffNAcbe/p2AxBZW4NI9lTcEh9a+6bg5aeI+vTg7KssriImAHGM4kznrlcpba3AVA10NVFitsAhhNomC7zQZk/7W2bGhfejmHSWY956Xfi+s2TLztNdQ0ozmSySYdbSY8R2VEHLAHOiJcr5U9X+qSrPU34Gu3F/MunzsYDmCHtAXD8sSPSYmxzq3qbf32WD/2ntv7dP78BtwqIrW+T+KMb3z14pM3K0Lez47jFcGnTzJ9l24zEoGlZULBen+9kNhXObXr5om2apCSWU+Ux1BdGJfHM7sg4BVmQrvfkWCxRkYHQ3St1kxw9/hC286fXfcCqVq90oAEGP+cC94iVGKjPVMePfoJLovo8lZLOK8uFvV3u4fYP6aaY2gHjIooheMC0Jcbo4iYE0D1DWvD2G6qAM+yMjpEp+mjFOajJtZgaHzbxbsNZTlql3Qd1BsrMGg3SlxwyLd3755BRWJhqeqa0tWDiiHWZYY0Kpi3KMeFqQ54OLA8oIlnZoSmKiKyTrNrGWwOrTyt3hXLNI+x+fQyC+2tjAHpGOMXzjPyb1v7n5l6AhYaB9WbCCc6p1fXzl76FpTypJnfg==</pre>",
+    "date": "2026-03-26T22:06:06+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/21658",
+    "timestamp": 1774562766000
+  },
+  {
+    "id": "Break_the_barriers/944",
+    "channel": "Break_the_barriers",
+    "text": "کانفیگ‌های قبلی به دلیل سربه‌هوایی دولوپر، از دست رفتن.یک باگ بزرگ در آپدیت ورژن جدید وجود داشت، که باعث این مسئله شده بود. در گیت‌هاب به دولوپر اعلام کردم و بلافاصله نسخه‌ی جدید رو منتشر و باگ رو رفع کرد.سرورها رو ریبیلد کردم، در حال ستاپ هستم و تا چنددقیقه دیگر، لینک‌های جدید رو در کانال قرار می‌دم.تقصیر من نبود، اما عذرخواهی می‌کنم. 🙏🏻♥️",
+    "html": "کانفیگ‌های قبلی به دلیل سربه‌هوایی دولوپر، از دست رفتن.<br><br>یک باگ بزرگ در آپدیت ورژن جدید وجود داشت، که باعث این مسئله شده بود. در گیت‌هاب به دولوپر اعلام کردم و بلافاصله نسخه‌ی جدید رو منتشر و باگ رو رفع کرد.<br><br>سرورها رو ریبیلد کردم، در حال ستاپ هستم و تا چنددقیقه دیگر، لینک‌های جدید رو در کانال قرار می‌دم.<br><br>تقصیر من نبود، اما عذرخواهی می‌کنم. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F998FF09F8FBB.png')\"><b>🙏🏻</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E299A5.png')\"><b>♥️</b></i>",
+    "date": "2026-03-26T22:06:05+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/iEUVi7sH5fk_Oxe51d3MuFHgAVr35hTp2bvExUBPuiXaWGYO7sYzLKX3NuldATwjGcrfVvATqB9fDykrNwKJPeSehQEmE2_V3GEG8bDXsXJcfWhQ3C3yI5l6ntNBA2r_PvTYw9AqxZbGrW1QG7JSrNJM7XZhwEjYNCMsBnYe255LD1nJZ4mMwJBnt8eWtduLMKS74W423U8FdAQNhYRYJXiUb22-o4-exsati7D-euFr9oIKbd9UNp814ir4FnbqXbSlWdEonGm3SCoCuOgKKmdq6IfdzzRvSM1buuWIXhPoikRF854fE9ztLjd2UYkaF8_dBcCdtT2Kz5IkV8xl1Q.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/944",
+    "timestamp": 1774562765000
+  },
+  {
+    "id": "persianvpnhub/21657",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ MTPROTO📍 لوکیشن: سوئد 🇸🇪📶 پینگ: 185ms#Proxy #MTProto🕒 انتشار: 01:16 - 1405/01/07💡 منبع: گروه MahsaNethttps://t.me/proxy?server=77.221.142.123&port=3443&secret=eeeeaf2a08cb735517c611e9e2817526&@mtproto_proserver",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: سوئد <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B8F09F87AA.png')\"><b>🇸🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 185ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 01:16 - 1405/01/07<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>https://t.me/proxy?server=77.221.142.123&amp;port=3443&amp;secret=eeeeaf2a08cb735517c611e9e2817526&amp;@mtproto_proserver</pre>",
+    "date": "2026-03-26T22:06:00+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/21657",
+    "timestamp": 1774562760000
+  },
+  {
+    "id": "persianvpnhub/21656",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ MTPROTO📍 لوکیشن: روسیه 🇷🇺📶 پینگ: 180ms#Proxy #MTProto🕒 انتشار: 01:16 - 1405/01/07💡 منبع: گروه MahsaNethttps://t.me/proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3a44d31e7e20&@mtproto_proserver",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: روسیه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')\"><b>🇷🇺</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 180ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 01:16 - 1405/01/07<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>https://t.me/proxy?server=mt.jebance.ru&amp;port=8443&amp;secret=dd28df1727029aed45d15f3a44d31e7e20&amp;@mtproto_proserver</pre>",
+    "date": "2026-03-26T22:05:56+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/21656",
+    "timestamp": 1774562756000
+  },
+  {
+    "id": "persianvpnhub/21655",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 146ms#VLESS #VPN🕒 انتشار: 15:34 - 1405/01/06💡 منبع: @electvpn0vless://affa41b7-95d2-407e-b38f-5a294744304f@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.realirshop.com#%40Blank_Vpn%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 146ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 15:34 - 1405/01/06<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/electvpn0\" target=\"_blank\">@electvpn0</a><br><br><pre>vless://affa41b7-95d2-407e-b38f-5a294744304f@185.143.234.120:443?path=%2F%3Fed%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=alef.ir.oadeflantrogm.realirshop.com&amp;fp=randomized&amp;type=ws&amp;allowInsecure=0&amp;sni=alef.ir.oadeflantrogm.realirshop.com#%40Blank_Vpn%20%D9%84%D8%B7%D9%81%D8%A7%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF</pre>",
+    "date": "2026-03-26T22:05:50+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/21655",
+    "timestamp": 1774562750000
+  },
+  {
+    "id": "IranintlTV/328277",
+    "channel": "IranintlTV",
+    "text": "🎧نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: جمهوری اسلامی برای پایان جنگ التماس می‌کند@iranintlTV",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی ۲۴ با فرداد فرحزاد: ترامپ: جمهوری اسلامی برای پایان جنگ التماس می‌کند<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
+    "date": "2026-03-26T22:02:40+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "۲۴ با فرداد فرحزاد - ۶ فروردین",
+        "size": ""
+      }
+    ],
+    "link": "https://t.me/IranintlTV/328277",
+    "timestamp": 1774562560000
+  },
+  {
+    "id": "IranintlTV/328276",
+    "channel": "IranintlTV",
+    "text": "در چهار دهه اخیر، از پروژه‌های انتقال آب و احیای خاک گرفته تا طرح‌های انرژی، همکاری در ساخت پهپاد، احداث سیلو در سوریه، ساخت کشتارگاه در اتیوپی و حتی ویلاسازی در آفریقای جنوبی، یک نام مشترک دیده می‌شود: «جهاد نصر».بررسی تاریخچه این مجموعه نشان می‌دهد جناح موسوم به اصلاح‌طلب در جمهوری اسلامی نقش مهمی در توسعه آن داشته است. «جهاد نصر» نیز در وب‌سایت خود، این مجموعه را بخشی از بخش خصوصی متشکل از «مخلص‌ترین عباد خداوند» معرفی می‌کند.@iranintltv",
+    "html": "در چهار دهه اخیر، از پروژه‌های انتقال آب و احیای خاک گرفته تا طرح‌های انرژی، همکاری در ساخت پهپاد، احداث سیلو در سوریه، ساخت کشتارگاه در اتیوپی و حتی ویلاسازی در آفریقای جنوبی، یک نام مشترک دیده می‌شود: «جهاد نصر».<br><br>بررسی تاریخچه این مجموعه نشان می‌دهد جناح موسوم به اصلاح‌طلب در جمهوری اسلامی نقش مهمی در توسعه آن داشته است. «جهاد نصر» نیز در وب‌سایت خود، این مجموعه را بخشی از بخش خصوصی متشکل از «مخلص‌ترین عباد خداوند» معرفی می‌کند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-03-26T22:01:29+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/328276",
+    "timestamp": 1774562489000
+  },
+  {
+    "id": "IranintlTV/328275",
+    "channel": "IranintlTV",
+    "text": "واشینگتن پست گزارش داد در حالی‌ که دولت ترامپ تلاش‌های اولیه خود برای پایان دادن به جنگ با ایران را آغاز کرده، متحدان کلیدی آمریکا در خلیج فارس نسبت به دستیابی به یک توافق سریع و شتاب‌زده ابراز نگرانی کرده‌اند.به‌نوشته این روزنامه، عربستان سعودی و امارات متحده عربی نگران‌اند که پایان عجولانه جنگ، منطقه را نسبت به یک ماه پیش بی‌ثبات‌تر کند.@iranintltv",
+    "html": "واشینگتن پست گزارش داد در حالی‌ که دولت ترامپ تلاش‌های اولیه خود برای پایان دادن به جنگ با ایران را آغاز کرده، متحدان کلیدی آمریکا در خلیج فارس نسبت به دستیابی به یک توافق سریع و شتاب‌زده ابراز نگرانی کرده‌اند.<br><br>به‌نوشته این روزنامه، عربستان سعودی و امارات متحده عربی نگران‌اند که پایان عجولانه جنگ، منطقه را نسبت به یک ماه پیش بی‌ثبات‌تر کند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-03-26T21:58:43+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/328275",
+    "timestamp": 1774562323000
+  },
+  {
+    "id": "IranintlTV/328274",
+    "channel": "IranintlTV",
+    "text": "وزارت دفاع آمریکا اعلام کرد این کشور در چارچوب عملیات خود علیه جمهوری اسلامی از قایق‌های تندرو بدون سرنشین برای گشت‌زنی استفاده کرده است. سخنگوی پنتاگون گفت که این شناورها بیش از ۴۵۰ ساعت دریانوردی و بیش از ۲۲۰۰ مایل دریایی گشت در پشتیبانی از این عملیات ثبت کرده‌اند.این نخستین بار است که واشینگتن به طور رسمی به‌کارگیری چنین شناورهایی را در یک درگیری فعال تایید می‌کند.پیش از این گزارشی درباره استقرار این شناورها منتشر نشده بود. این قایق‌ها قابلیت انجام ماموریت‌های شناسایی و همچنین حملات انتحاری را دارند. با این حال، نشانه‌ای از استفاده آمریکا از آنها برای حملات تهاجمی اعلام نشده است.این تصمیم در حالی تایید شد که نیروی دریایی آمریکا طی سال‌های اخیر در توسعه ناوگان شناورهای سطحی بدون سرنشین با چالش‌هایی روبه‌رو بوده است.https://iranintl.com/202603260408",
+    "html": "وزارت دفاع آمریکا اعلام کرد این کشور در چارچوب عملیات خود علیه جمهوری اسلامی از قایق‌های تندرو بدون سرنشین برای گشت‌زنی استفاده کرده است. سخنگوی پنتاگون گفت که این شناورها بیش از ۴۵۰ ساعت دریانوردی و بیش از ۲۲۰۰ مایل دریایی گشت در پشتیبانی از این عملیات ثبت کرده‌اند.<br><br>این نخستین بار است که واشینگتن به طور رسمی به‌کارگیری چنین شناورهایی را در یک درگیری فعال تایید می‌کند.<br><br>پیش از این گزارشی درباره استقرار این شناورها منتشر نشده بود. این قایق‌ها قابلیت انجام ماموریت‌های شناسایی و همچنین حملات انتحاری را دارند. با این حال، نشانه‌ای از استفاده آمریکا از آنها برای حملات تهاجمی اعلام نشده است.<br><br>این تصمیم در حالی تایید شد که نیروی دریایی آمریکا طی سال‌های اخیر در توسعه ناوگان شناورهای سطحی بدون سرنشین با چالش‌هایی روبه‌رو بوده است.<br><a href=\"https://iranintl.com/202603260408\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603260408</a>",
+    "date": "2026-03-26T21:51:39+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/sBzGvcPhOXLGm8Aqn1atMhotY3JnWqo3co8T1qPVDdN9SoNf8uOofvNnmikXY6HEO_VUezJtvhGcoLHj3vN2qPmxFJedgTsKwwNZH2rqYvs7YuQI3DB35ANJG8UNEmgxIguMa7EJDU5oz6RRCMeQVxI0PrSs5rd29nkAk5WkjlVVA2V8xUMsI3YnbckHEGciMZeJ_lwIK415YbCoID1dLC0_BSx3QfHfagMaBEiGZKcgcHiv1id54z22gt9c4i6qDdJqj6Kpfd8vC4gznULuGfC_BwKGfb2clWd-9O0uq1ge3DFid34mcUtq4jw0k6khTndN0A0vjOHKRazOs-Cejw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/328274",
+    "timestamp": 1774561899000
+  },
+  {
     "id": "worldsmoments/91230",
     "channel": "worldsmoments",
     "text": "توییت جدید قالیباف :)))",
@@ -943,8 +1159,8 @@
   {
     "id": "mitivpn/16401",
     "channel": "mitivpn",
-    "text": "تو قطعی کامل اینترنت سرویس اختصاصی اینترنت ازاد پخت پز کرده و پرسرعت وصله!❤️@MiTiVPNbot",
-    "html": "<b>تو قطعی کامل اینترنت سرویس اختصاصی اینترنت ازاد پخت پز کرده و پرسرعت وصله!</b><b><tg-emoji emoji-id=\"5798893448094293897\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji></b><b><br><br></b><a href=\"https://t.me/MiTiVPNbot\" target=\"_blank\"><b>@MiTiVPNbot</b></a>",
+    "text": "تو قطعی کامل اینترنت سرویس اختصاصی اینترنت ازاد پخت پز کرده و پرسرعت وصله!❤️@MiTiVPNBotنگران هیچی نباش👀",
+    "html": "<b>تو قطعی کامل اینترنت سرویس اختصاصی اینترنت ازاد پخت پز کرده و پرسرعت وصله!</b><b><tg-emoji emoji-id=\"5798893448094293897\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji></b><b><br><br></b><a href=\"https://t.me/MiTiVPNBot\" target=\"_blank\"><b>@MiTiVPN</b>Bot</a><br><br><b>نگران هیچی نباش</b><b><tg-emoji emoji-id=\"5809762966643418626\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i></tg-emoji></b>",
     "date": "2026-03-26T18:29:31+00:00",
     "images": [],
     "files": [],
@@ -5654,228 +5870,5 @@
     "files": [],
     "link": "https://t.me/IranintlTV/328094",
     "timestamp": 1774488928000
-  },
-  {
-    "id": "IranintlTV/328093",
-    "channel": "IranintlTV",
-    "text": "ویدیوهای دریافتی حاکی است شامگاه چهارشنبه پنجم فروردین‌ماه مناطقی در شهر مشهد مورد حمله قرار گرفت.@iranintltv",
-    "html": "ویدیوهای دریافتی حاکی است شامگاه چهارشنبه پنجم فروردین‌ماه مناطقی در شهر مشهد مورد حمله قرار گرفت.<br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-03-26T01:33:55+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328093",
-    "timestamp": 1774488835000
-  },
-  {
-    "id": "VahidOnline/73307",
-    "channel": "VahidOnline",
-    "text": "#اصفهانپیام‌های دریافتی تایید نشده که ممکن است درست یا با جزئیاتی کاملا نادرست باشند:وحید الان ۴.۵۷ دقیقه تا الان ۷ تا زد دوباره بهارستان اصفهان ولی فاصله داشتصدای جنگنده و انفجار میاد باز شاهینشهر ۴:۵۷آقا وحید دوباره سمت کشوری صدا میاد بی وقفه داره میزنهدوباره سنگین زد همین الانخمینی شهر صدا عین موشک بودخونه لرزیییییداصفهان صدای انفجار ساعت ۴:۵۸ساعت 4:58 , #اصفهان،۳ تا صدای انفجار تا الان اومد.همین الان شاهین شهردوباره صدای انفجار و کمی لرزش اما از ما به نظر دور میرسیدآقا وحید شمال اصفهان دوتا صدای انفجار ساعت 4:57وحید یه جوری الان زد من نمیدونم این چی بودسلام وحید فلاورجان  اصفهان هستم خیلیییی صدای انفجار میادپنج شنبه ششم فروردین 1405 اصفهان4:55 بامداد تا 4:59دوباره چند تا مهیب زد دور دست فقط لرزشش حس شد ولی خیلی مهیب تر از همیشه بودخمینی شهر ساعت ۴:۵۷، بازم یه انفجار خیلی شدید.۵:۰۲ شاهینشهر لرزش خفیف هست ولی صدا نیس بنظر انفجار از دوروحید انفجارای جنوب اصفهان همش داره هفتم تیر و فولاد الیاژی رو میزنه چند بار زد به قدری که لوستر تکون میخورد و شیشه ها میبرزیدسلام ما مبارکه اصفهان هستیم صدای انفجار وحشتناک از سمت بهارستان میاد ۴:۵۹ساعت ۵ بازم چنتا انفجار مهیب اصفهان نمیدونم کجاست ولی تقریبا هرکی هرجای شهر هست شنیده من صدای جنگنده نشنیدم اگرم اومده باشهدانشگاه صنعتی اصفهانو زده۴:۵۸ دانشگاه صنعتی اصفهانصدای شدید انفجار امشب دفعه دومه به این شدت دانشگاه میلرزهسه تا موشک زد داخل شهرک صنعتی جی زدند 📡 @VahidOnline",
-    "html": "<a href=\"?q=%23%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86\">#اصفهان</a><br>پیام‌های دریافتی تایید نشده که ممکن است درست یا با جزئیاتی کاملا نادرست باشند:<br><br>وحید الان ۴.۵۷ دقیقه تا الان ۷ تا زد دوباره بهارستان اصفهان ولی فاصله داشت<br><br>صدای جنگنده و انفجار میاد باز شاهینشهر ۴:۵۷<br><br>آقا وحید دوباره سمت کشوری صدا میاد بی وقفه داره میزنه<br><br><br>دوباره سنگین زد همین الان<br>خمینی شهر صدا عین موشک بود<br>خونه لرزییییید<br><br>اصفهان صدای انفجار ساعت ۴:۵۸<br><br>ساعت 4:58 , <a href=\"?q=%23%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86\">#اصفهان</a>،<br>۳ تا صدای انفجار تا الان اومد.<br><br>همین الان شاهین شهر<br>دوباره صدای انفجار و کمی لرزش اما از ما به نظر دور میرسید<br><br><br>آقا وحید شمال اصفهان دوتا صدای انفجار ساعت 4:57<br><br>وحید یه جوری الان زد من نمیدونم این چی بود<br><br>سلام وحید فلاورجان  اصفهان هستم خیلیییی صدای انفجار میاد<br><br>پنج شنبه ششم فروردین 1405 اصفهان<br>4:55 بامداد تا 4:59<br>دوباره چند تا مهیب زد دور دست فقط لرزشش حس شد ولی خیلی مهیب تر از همیشه بود<br><br>خمینی شهر ساعت ۴:۵۷، بازم یه انفجار خیلی شدید.<br><br>۵:۰۲ شاهینشهر لرزش خفیف هست ولی صدا نیس بنظر انفجار از دور<br><br>وحید انفجارای جنوب اصفهان همش داره هفتم تیر و فولاد الیاژی رو میزنه چند بار زد به قدری که لوستر تکون میخورد و شیشه ها میبرزید<br><br>سلام ما مبارکه اصفهان هستیم صدای انفجار وحشتناک از سمت بهارستان میاد ۴:۵۹<br>ساعت ۵ بازم چنتا انفجار مهیب اصفهان <br>نمیدونم کجاست ولی تقریبا هرکی هرجای شهر هست شنیده <br>من صدای جنگنده نشنیدم اگرم اومده باشه<br><br>دانشگاه صنعتی اصفهانو زده<br><br><br>۴:۵۸ دانشگاه صنعتی اصفهان<br>صدای شدید انفجار <br>امشب دفعه دومه به این شدت دانشگاه میلرزه<br><br>سه تا موشک زد داخل شهرک صنعتی جی زدند <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-03-26T01:29:40+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73307",
-    "timestamp": 1774488580000
-  },
-  {
-    "id": "IranintlTV/328092",
-    "channel": "IranintlTV",
-    "text": "یوسف العتیبه، سفیر امارات متحده عربی در آمریکا، در مقاله‌ای در وال‌استریت ژورنال نوشت یک آتش‌بس ساده با جمهوری اسلامی کافی نیست و باید نتیجه‌ای حاصل شود که همه ابعاد تهدید تهران، از برنامه هسته‌ای تا موشک‌ها، پهپادها و شبکه نیروهای نیابتی را در بر بگیرد. او تاکید کرد نمی‌توان اجازه داد ایران آمریکا، امارات و اقتصاد جهانی را به گروگان بگیرد.العتیبه با اشاره به تضعیف بخشی از توان هسته‌ای و شبکه‌های نیابتی جمهوری اسلامی افزود هنوز اقدامات بیشتری لازم است. او از هم‌راستایی ابوظبی با تلاش‌های واشینگتن خبر داد و اعلام کرد امارات آماده مشارکت در ابتکارهای بین‌المللی، از جمله حفظ باز بودن تنگه هرمز، است. به گفته او، امارات نمی‌خواهد آمریکا به تنهایی بار این رویارویی را بر دوش بکشد و خواهان «ایرانی عادی» است که به حمله به همسایگان و اخلال در مسیرهای انرژی ادامه ندهد.https://iranintl.com/202603258297",
-    "html": "یوسف العتیبه، سفیر امارات متحده عربی در آمریکا، در مقاله‌ای در وال‌استریت ژورنال نوشت یک آتش‌بس ساده با جمهوری اسلامی کافی نیست و باید نتیجه‌ای حاصل شود که همه ابعاد تهدید تهران، از برنامه هسته‌ای تا موشک‌ها، پهپادها و شبکه نیروهای نیابتی را در بر بگیرد. <br>او تاکید کرد نمی‌توان اجازه داد ایران آمریکا، امارات و اقتصاد جهانی را به گروگان بگیرد.<br>العتیبه با اشاره به تضعیف بخشی از توان هسته‌ای و شبکه‌های نیابتی جمهوری اسلامی افزود هنوز اقدامات بیشتری لازم است. <br>او از هم‌راستایی ابوظبی با تلاش‌های واشینگتن خبر داد و اعلام کرد امارات آماده مشارکت در ابتکارهای بین‌المللی، از جمله حفظ باز بودن تنگه هرمز، است. <br>به گفته او، امارات نمی‌خواهد آمریکا به تنهایی بار این رویارویی را بر دوش بکشد و خواهان «ایرانی عادی» است که به حمله به همسایگان و اخلال در مسیرهای انرژی ادامه ندهد.<br><br><a href=\"https://iranintl.com/202603258297\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603258297</a>",
-    "date": "2026-03-26T01:28:00+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/fWHncxloT9TRjZ8cLsyf81UA9Fgj1mHkiBwQUyK2NW3Rm2VwkzGlAd0DFMNcal77FgCIoU_P-cSATuRocIo8Ch9j87mC6l54VLt-Ufonm6y-xayUOGkGl4N_mhmdPvDq8_wShfoevMhdXFhNVYoGWSNTn_qc3EtQh-fh3sB1gnC3EPN3qgA0uRZgYVsbTUmdIK2mZ-xzWP0Ia9pIYeWFWN9UOKpH4QW_Il-OtGBbJkZRFGKWeUBuzqtHi8f7_MfLLzvDdzhYbkoMYa2aCDyYaMbgezeGtJOHgWMzSpUJOaLn09x9t5zASzYW6vzifaVzjgPdfrHjAcDyQ753dP_xWA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328092",
-    "timestamp": 1774488480000
-  },
-  {
-    "id": "mizangorup/68731",
-    "channel": "mizangorup",
-    "text": "🔴 امروز موشک‌های جمهوری اسلامی به نزدیکی نیروگاه برق الخضیره در اسرائیل برخورد کردند.@mizangorup",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> امروز موشک‌های جمهوری اسلامی به نزدیکی نیروگاه برق الخضیره در اسرائیل برخورد کردند.<br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-    "date": "2026-03-26T01:21:01+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/mizangorup/68731",
-    "timestamp": 1774488061000
-  },
-  {
-    "id": "IranintlTV/328091",
-    "channel": "IranintlTV",
-    "text": "دونالد ترامپ، در سخنانی در واشینگتن‌ گفت: از میان برداشتن سلیمانی بسیار مهم بود. او مردی شرور بود. ما در دوره اولم سلیمانی را از میان برداشتیم و جمهوری اسلامی هرگز فرمانده‌ای نداشته است که بتواند با او رقابت کند. او فردی شرور بود، اما یک رهبر واقعی و یک ژنرال بسیار سرسخت بود.https://iranintl.com/202603266464",
-    "html": "دونالد ترامپ، در سخنانی در واشینگتن‌ گفت: از میان برداشتن سلیمانی بسیار مهم بود. او مردی شرور بود. ما در دوره اولم سلیمانی را از میان برداشتیم و جمهوری اسلامی هرگز فرمانده‌ای نداشته است که بتواند با او رقابت کند. او فردی شرور بود، اما یک رهبر واقعی و یک ژنرال بسیار سرسخت بود.<br><a href=\"https://iranintl.com/202603266464\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603266464</a>",
-    "date": "2026-03-26T01:18:03+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/CVGVzILaNSXktJYBFRdugtxRrQ0d8oPxp6vpIW3cwJc6F9jWyA5-YGj9ZCeFDIITw2l9ru5gxeM1Q2yWwduigw2KMhbMqfWKWssA6hwCIrm8NsAbQiB4xbkckne8ASyoe47igAXa5gh2KEX4Xe4q7DAvwLXDYseaKDuZsTC5WfkInqL5cWQWpMfh9ksIUwwjL31cwh45puYftJBuWb-e71kI8dT2KmLBzEcyaF63Dp5k3Fje-a2BU-BY5dkS-Sn9Mm-3vJmaWSjK77QDkgaurYscyfsegrtCA9AJa5gQ_0lU8qRpUQI8YvSBOPJVVJVI_0FrN2hWAJVW8Tp5IBrCUA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328091",
-    "timestamp": 1774487883000
-  },
-  {
-    "id": "IranintlTV/328090",
-    "channel": "IranintlTV",
-    "text": "ترامپ در یک سخنرانی در واشینگتن دی‌سی گفت: «اگر ما نبودیم، جمهوری اسلامی مدت‌ها پیش به سلاح هسته‌ای دست یافته بود. تمام جهان زیر تهدیدی مرگبار قرار می‌گرفت و چشم‌انداز صلح در خاورمیانه برای همیشه کاملا نابود می‌شد.»او افزود: «خاورمیانه را فراموش کنید، ما هم با ابری بالای سرمان روبه‌رو می‌شدیم، چون جمهوری اسلامی از سلاح هسته‌ای استفاده می‌کرد و آن‌ها بدون تردید آن را علیه ما به کار می‌بردند.»ترامپ با اشاره به اینکه به محض ورود به کاخ سفید برجام را لغو کرد، گفت: «اگر آن را لغو نکرده بودم، جمهوری اسلامی سه سال پیش سلاح هسته‌ای را استفاده می‌کرد.»او گفت: «اوباما با برجام حق، سود کامل و مطلق و همه‌چیز را به جمهوری اسلامی داد. یادتان هست وقتی بیبی نتانیاهو آمد و از او خواهش کرد این کار را نکند؟ اما او به ایران حق داشتن سلاح هسته‌ای در بالاترین سطح را در مدت زمانی بسیار کوتاه داد.»ترامپ با اشاره به حمله آمریکا به تاسیسات هسته‌ای جمهوری اسلامی در جنگ ۱۲ روزه گفت: «ما برای بار دوم با آن بمب‌افکن‌های زیبای بی-۲ جلوی دستیابی جمهوری اسلامی به سلاح هسته‌ای را گرفتیم.»https://iranintl.com/202603264502",
-    "html": "ترامپ در یک سخنرانی در واشینگتن دی‌سی گفت: «اگر ما نبودیم، جمهوری اسلامی مدت‌ها پیش به سلاح هسته‌ای دست یافته بود. تمام جهان زیر تهدیدی مرگبار قرار می‌گرفت و چشم‌انداز صلح در خاورمیانه برای همیشه کاملا نابود می‌شد.»<br>او افزود: «خاورمیانه را فراموش کنید، ما هم با ابری بالای سرمان روبه‌رو می‌شدیم، چون جمهوری اسلامی از سلاح هسته‌ای استفاده می‌کرد و آن‌ها بدون تردید آن را علیه ما به کار می‌بردند.»<br>ترامپ با اشاره به اینکه به محض ورود به کاخ سفید برجام را لغو کرد، گفت: «اگر آن را لغو نکرده بودم، جمهوری اسلامی سه سال پیش سلاح هسته‌ای را استفاده می‌کرد.»<br>او گفت: «اوباما با برجام حق، سود کامل و مطلق و همه‌چیز را به جمهوری اسلامی داد. یادتان هست وقتی بیبی نتانیاهو آمد و از او خواهش کرد این کار را نکند؟ اما او به ایران حق داشتن سلاح هسته‌ای در بالاترین سطح را در مدت زمانی بسیار کوتاه داد.»<br>ترامپ با اشاره به حمله آمریکا به تاسیسات هسته‌ای جمهوری اسلامی در جنگ ۱۲ روزه گفت: «ما برای بار دوم با آن بمب‌افکن‌های زیبای بی-۲ جلوی دستیابی جمهوری اسلامی به سلاح هسته‌ای را گرفتیم.»<br><a href=\"https://iranintl.com/202603264502\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603264502</a>",
-    "date": "2026-03-26T01:16:57+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/MYLRDxS2O4Usb23IXrZ8OKT2ztNSofRnLxsUz75Ace0QNmETqiSUy5AjTtFclnt6p-GvcPvL9xnhVPhNTP35ugKmeC8K_SZdKqYnL4-RyJiTUwb1xdagw6bYFI7UNLvpWMum4kskXbqybOmpkxxqRnqt7fKrfT2W_ogAjgn0XwwrJDpOLFdyTmVA3sokfsw8UHSE8KI1rpmD8W05kvNffoYOiIXWCcsTl2j3yLZGzZBLc_M7R2VNaSfj5F-TGC1lhVGLL2CJwa24h--ZhH3F3TwfT1km47nq4JRdtypKPovsrVUKfHNbf4TU4zY2oJXsSKFrowQKyJ_az_4x-mKNcA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328090",
-    "timestamp": 1774487817000
-  },
-  {
-    "id": "NetAccount/16559",
-    "channel": "NetAccount",
-    "text": "لایو امشب مراد ویسی (بامداد پنجشنبه 6 فروردین | حجم = 6.6 مگ)عنوان لایو:آخرین و بزرگ ترین اشتباه جمهوری اسلامیلینک داخلی بدون فیلتر | لینک یوتیوب",
-    "html": "لایو امشب مراد ویسی (بامداد پنجشنبه 6 فروردین | حجم = 6.6 مگ)<br><br>عنوان لایو:<br>آخرین و بزرگ ترین اشتباه جمهوری اسلامی<br><br><a href=\"http://guardnet.ir/f/MoradVaisi_Live_0106-1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک داخلی بدون فیلتر</a> | <a href=\"https://m.youtube.com/watch?v=D6dnY9C0Od4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک یوتیوب</a>",
-    "date": "2026-03-26T01:10:40+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "آخرین و بزرگ ترین اشتباه...",
-        "size": "Morad Vaisi | مراد ویسی"
-      }
-    ],
-    "link": "https://t.me/NetAccount/16559",
-    "timestamp": 1774487440000
-  },
-  {
-    "id": "VahidOnline/73306",
-    "channel": "VahidOnline",
-    "text": "دونالد ترامپ، رییس‌جمهروی ایالات متحده، در سخنرانی خود در مراسم جمع‌آوری کمک مالی برای جمهوری‌خواهان در واشینگتن بار دیگر تکرار کرد که جمهوری اسلامی همچنان به دنبال دستیابی به توافق از طریق مذاکره است.او گفت: «آنها در حال مذاکره هستند و خیلی هم می‌خواهند به توافق برسند، اما از گفتنش می‌ترسند چون فکر می‌کنند توسط مردم خودشان کشته می‌شوند.»رییس‌جمهوری آمریکا افزود: «آنها همچنین می‌ترسند که ما آنها را بکشیم» و در ادامه با لحنی طنزآمیز گفت اکنون هیچ‌کس تمایل ندارد رهبری ایران را بر عهده بگیرد، چون ممکن است توسط ایالات متحده ترور شود، «من که اصلا نمی‌خواهم».این درحالی است که مقام‌های جمهوری اسلامی طی ساعات گذشته بارها اعلام کرده‌اند که قصد مذاکره ندارند. یک مقام پاکستانی نیز به رسانه‌ها گفته است که احتمالا پاسخ حکومت ایران به پیشنهاد ۱۵ بندی آمریکا منفی است.دونالد ترامپ، رییس‌جمهوری ایالات متحده، با انتقاد از پوشش رسانه‌ای جنگ در ایران، مدعی شد گزارش‌های خبری رسانه‌های آمریکایی تصویری «نادرست» از وضعیت میدانی ارائه می‌دهند و آمریکا در این درگیری در موقعیت برتر قرار دارد.او شامگاه چهارشنبه پنجم فروردین به وقت محلی، در مراسم جمع‌آوری کمک مالی برای جمهوری‌خواهان در واشینگتن، حجم زیادی از محتوای رسانه‌ها را «اخبار جعلی» خواند و افزود اگر مخاطبان به این گزارش‌ها توجه کنند، عجیب نیست که تصور کنند آمریکا در حال باختن جنگ است، در حالی که به گفته او، نیروهای آمریکایی «در حال نابود کردن طرف مقابل» هستند.ترامپ همچنین مدعی شد حتی برخی رسانه‌هایی که به گفته او «بهتر» عمل می‌کنند، عملکرد آمریکا را صرفا «قابل قبول» توصیف می‌کنند، در حالی که به گفته او واقعیت میدانی فراتر از این ارزیابی‌هاست.او در ادامه با اشاره به توان نظامی ایران گفت: «آنها دیگر نیروی دریایی ندارند، هیچ‌چیز ندارند» و بار دیگر تاکید کرد که تصویر ارائه‌شده در رسانه‌ها با واقعیت متفاوت است.@VahidOOnLine📡 @VahidOnline",
-    "html": "دونالد ترامپ، رییس‌جمهروی ایالات متحده، در سخنرانی خود در مراسم جمع‌آوری کمک مالی برای جمهوری‌خواهان در واشینگتن بار دیگر تکرار کرد که جمهوری اسلامی همچنان به دنبال دستیابی به توافق از طریق مذاکره است.<br><br>او گفت: «آنها در حال مذاکره هستند و خیلی هم می‌خواهند به توافق برسند، اما از گفتنش می‌ترسند چون فکر می‌کنند توسط مردم خودشان کشته می‌شوند.»<br><br>رییس‌جمهوری آمریکا افزود: «آنها همچنین می‌ترسند که ما آنها را بکشیم» و در ادامه با لحنی طنزآمیز گفت اکنون هیچ‌کس تمایل ندارد رهبری ایران را بر عهده بگیرد، چون ممکن است توسط ایالات متحده ترور شود، «من که اصلا نمی‌خواهم».<br><br>این درحالی است که مقام‌های جمهوری اسلامی طی ساعات گذشته بارها اعلام کرده‌اند که قصد مذاکره ندارند. یک مقام پاکستانی نیز به رسانه‌ها گفته است که احتمالا پاسخ حکومت ایران به پیشنهاد ۱۵ بندی آمریکا منفی است.<br><br>دونالد ترامپ، رییس‌جمهوری ایالات متحده، با انتقاد از پوشش رسانه‌ای جنگ در ایران، مدعی شد گزارش‌های خبری رسانه‌های آمریکایی تصویری «نادرست» از وضعیت میدانی ارائه می‌دهند و آمریکا در این درگیری در موقعیت برتر قرار دارد.<br><br>او شامگاه چهارشنبه پنجم فروردین به وقت محلی، در مراسم جمع‌آوری کمک مالی برای جمهوری‌خواهان در واشینگتن، حجم زیادی از محتوای رسانه‌ها را «اخبار جعلی» خواند و افزود اگر مخاطبان به این گزارش‌ها توجه کنند، عجیب نیست که تصور کنند آمریکا در حال باختن جنگ است، در حالی که به گفته او، نیروهای آمریکایی «در حال نابود کردن طرف مقابل» هستند.<br><br>ترامپ همچنین مدعی شد حتی برخی رسانه‌هایی که به گفته او «بهتر» عمل می‌کنند، عملکرد آمریکا را صرفا «قابل قبول» توصیف می‌کنند، در حالی که به گفته او واقعیت میدانی فراتر از این ارزیابی‌هاست.<br><br>او در ادامه با اشاره به توان نظامی ایران گفت: «آنها دیگر نیروی دریایی ندارند، هیچ‌چیز ندارند» و بار دیگر تاکید کرد که تصویر ارائه‌شده در رسانه‌ها با واقعیت متفاوت است.<br>@<a href=\"https://t.me/VahidOOnLine/228232\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidOOnLine</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-03-26T01:05:21+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73306",
-    "timestamp": 1774487121000
-  },
-  {
-    "id": "IranintlTV/328089",
-    "channel": "IranintlTV",
-    "text": "در حالی که تنش‌ها میان ایالات متحده و حکومت ایران تشدید شده، گمانه‌زنی‌ها درباره احتمال عملیات زمینی آمریکا در ایران نگرانی برخی قانون‌گذاران در واشینگتن را افزایش داده است. پس از جلسات توجیهی محرمانه، نانسی میس، نماینده جمهوری‌خواه کنگره، اعلام کرد از حضور نیروهای آمریکایی در ایران حمایت نخواهد کرد. ریچارد بلومنتال، سناتور دموکرات، نیز نسبت به حرکت به سوی عملیات زمینی ابراز نگرانی کرد و گفت تحقق اهداف آمریکا بدون حضور فیزیکی دشوار است.در همین حال، کاخ سفید اعلام کرده برنامه‌ای برای اعزام نیروهای زمینی ندارد، هرچند دونالد ترامپ این گزینه را رد نکرده است. کارولین لیویت، سخنگوی کاخ سفید، گفت اولویت ترامپ صلح است، اما در صورت نپذیرفتن شرایط، حملات ادامه می‌یابد. همزمان گزارش‌ها از افزایش حضور نظامی آمریکا در منطقه و بررسی گزینه‌هایی مانند کنترل جزیره خارک و فشار بر صادرات نفت ایران حکایت دارد.https://iranintl.com/202603252835",
-    "html": "در حالی که تنش‌ها میان ایالات متحده و حکومت ایران تشدید شده، گمانه‌زنی‌ها درباره احتمال عملیات زمینی آمریکا در ایران نگرانی برخی قانون‌گذاران در واشینگتن را افزایش داده است. <br>پس از جلسات توجیهی محرمانه، نانسی میس، نماینده جمهوری‌خواه کنگره، اعلام کرد از حضور نیروهای آمریکایی در ایران حمایت نخواهد کرد. <br>ریچارد بلومنتال، سناتور دموکرات، نیز نسبت به حرکت به سوی عملیات زمینی ابراز نگرانی کرد و گفت تحقق اهداف آمریکا بدون حضور فیزیکی دشوار است.<br>در همین حال، کاخ سفید اعلام کرده برنامه‌ای برای اعزام نیروهای زمینی ندارد، هرچند دونالد ترامپ این گزینه را رد نکرده است. <br>کارولین لیویت، سخنگوی کاخ سفید، گفت اولویت ترامپ صلح است، اما در صورت نپذیرفتن شرایط، حملات ادامه می‌یابد. <br>همزمان گزارش‌ها از افزایش حضور نظامی آمریکا در منطقه و بررسی گزینه‌هایی مانند کنترل جزیره خارک و فشار بر صادرات نفت ایران حکایت دارد.<br><a href=\"https://iranintl.com/202603252835\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603252835</a>",
-    "date": "2026-03-26T01:01:25+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/LSZ-QjOQSF3Tf5jam1lPMBjKAWOm9IJppSSFs2Yovafq3lmrnxJX8kT7B5dXkb2MS-CU0b5DX07QQ0wP5vqIcUxmFW8V6SF9nfTu5eXs3QGfn0ribguLBcpdMj7YNqjKYiP02wZKbCgIvPpL6WDaaTdY0T1JJpBWvEmvlgvEqmTT2NisuU2z6AdhCMCs8ttC1fU5VffW3cV4J5f577703d9mzpEVdyfrMku6FR1DBbnK-Fxf4yuYBKpZfisY-JTYcV8X5_vXDW89iXJzugFyp2WQ9lfYVQ6Jb5351FN1aheK9mgzWsy51Yfgpo8HnzLnE3AT3OO7k6gaQPjEdL6V2g.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328089",
-    "timestamp": 1774486885000
-  },
-  {
-    "id": "VahidOnline/73305",
-    "channel": "VahidOnline",
-    "text": "عکس دریافتی با پیام: #بندرعباس ساعت ۴:۱۰ صدای جنگنده بعدم چندتا انفجار خیلی شدید اومد دود هم بلند شد. محدوده گلشهر شمالی و رسالت صدا خیلی بلند بود'پنج‌شنبه ۶ فروردینVahidدر پیام‌هایی میگن در خیابان دانشگاه ۱۶ یک ساختمان ۸ یا ۹ طبقه هدف قرار گرفته.ویدیویی هم از این خیابان دریافت کردم که چون از پشت پنجره مشخصی فیلمبرداری شده نمی‌تونم منتشر کنم ولی چیزی هم جز فضای غبارآلود کوچه رو نشون نمیده و محل واقعه در دید دوربین نیست.📡 @VahidOnline",
-    "html": "عکس دریافتی با پیام: <a href=\"?q=%23%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3\">#بندرعباس</a> ساعت ۴:۱۰ صدای جنگنده بعدم چندتا انفجار خیلی شدید اومد دود هم بلند شد. محدوده گلشهر شمالی و رسالت صدا خیلی بلند بود'<br>پنج‌شنبه ۶ فروردین<br><a href=\"https://x.com/Vahid/status/2036971515615260687\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br>در پیام‌هایی میگن در خیابان دانشگاه ۱۶ یک ساختمان ۸ یا ۹ طبقه هدف قرار گرفته.<br>ویدیویی هم از این خیابان دریافت کردم که چون از پشت پنجره مشخصی فیلمبرداری شده نمی‌تونم منتشر کنم ولی چیزی هم جز فضای غبارآلود کوچه رو نشون نمیده و محل واقعه در دید دوربین نیست.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-03-26T01:00:49+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/SemUsj8M4kdE7ffUCY0HUNt2UhnZmSiz7yMnqoGRclp51NwFXCBicmA-5OZkYB8rraM4DRHuasdoDzY1OzppLn29zGBqOEKYDMN_ribTK2mM0-GayCeIfgSJ2oQbLA-Vvn2G6npq0VFQzsGW2yWA6j8JX9piyKXCNz18Ghh37IG4KH0weTLTPLbuh3OflyuwHPNo5LubWVkiWdcjOF8zgK-NIWnueuk4Kwzi917O-noNMr96nQblQ3ImnVVTX4Wwg4ea6ve-WhR5iy-dYiegXJLuVaZ9iOLO6VjGl6sGTdFNCA8CsVSCiJyG3c4eugsCwPla9TLqdvXnegl2uwP94A.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73305",
-    "timestamp": 1774486849000
-  },
-  {
-    "id": "VahidOnline/73304",
-    "channel": "VahidOnline",
-    "text": "پیام‌های دریافتی تایید نشده که ممکن است درست یا نادرست باشند:ساعت ۴.۱۲پنجشنبه بندرعباس صدای جگنده ها در ارتفاع پایین و ۵ انفجار شدیدصدایی جنگنده همین الان روی بندرعباسسلام وحید جان ساعت ۴:۱۳ بندرعباس در اطراف پایگاه هوایی ۴ تا موشک انداخت صدای وحشتناک جنگنده ضربات شدید سقوط بمب ها پشت سر یکدیگربندرعباسحدود ۴:۱۲، سه تا صدای انفجار خیلی شدید پشت سر هم محدوده رسالت، این سری خیلی نزدیک بود و متفاوت از قبلی ها.ساعت ۴ بامداد شش فروردین دو انفجار شدید در بندرعباسسلام بندرعباس حدود ساعت ۴:۱۵ دقیقه جوری نزدیک سمت حدود دانشگاه زد که حتی صدای پایین اومدن موشک رو میشنیدیم خیلی شدید بودساعت ۴:۱۵ بندرعباس خیابان دانشگاه بمب اصابت کردوحید بندرعباس گلشهر شمالی خیابون دانشگاه ۱۶ یک خونه رو هدفمند  زدندیک ساختمان توی کوچه دانشگاه ۱۶ بندرعباس رو زدن ساعت حدودای ۴:۲۵ دقیقه روز ۶ فروردین مامورا کل کوچه رو بستن و اجازه نزدیک شدن نمیدادن.📡 @VahidOnline",
-    "html": "پیام‌های دریافتی تایید نشده که ممکن است درست یا نادرست باشند:<br><br><br>ساعت ۴.۱۲پنجشنبه بندرعباس صدای جگنده ها در ارتفاع پایین و ۵ انفجار شدید<br><br>صدایی جنگنده همین الان روی بندرعباس<br><br>سلام وحید جان <br>ساعت ۴:۱۳ بندرعباس در اطراف پایگاه هوایی ۴ تا موشک انداخت <br>صدای وحشتناک جنگنده ضربات شدید <br>سقوط بمب ها پشت سر یکدیگر<br><br><br>بندرعباس<br>حدود ۴:۱۲، سه تا صدای انفجار خیلی شدید پشت سر هم محدوده رسالت، این سری خیلی نزدیک بود و متفاوت از قبلی ها.<br><br>ساعت ۴ بامداد شش فروردین دو انفجار شدید در بندرعباس<br><br>سلام بندرعباس حدود ساعت ۴:۱۵ دقیقه جوری نزدیک سمت حدود دانشگاه زد که حتی صدای پایین اومدن موشک رو میشنیدیم خیلی شدید بود<br><br>ساعت ۴:۱۵ بندرعباس خیابان دانشگاه بمب اصابت کرد<br><br>وحید بندرعباس گلشهر شمالی خیابون دانشگاه ۱۶ یک خونه رو هدفمند  زدند<br><br>یک ساختمان توی کوچه دانشگاه ۱۶ بندرعباس رو زدن ساعت حدودای ۴:۲۵ دقیقه روز ۶ فروردین مامورا کل کوچه رو بستن و اجازه نزدیک شدن نمیدادن.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-03-26T00:47:31+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73304",
-    "timestamp": 1774486051000
-  },
-  {
-    "id": "VahidOnline/73303",
-    "channel": "VahidOnline",
-    "text": "ویدیوی دریافتی: 'نور یکی از انفجارهای بزرگ پشت کوه در #اصفهان'Vahidپیام‌های تایید نشده دیگر:آقا وحید چهارراه نیروهوایی اصفهان ساختمان  های قدیم رو زدن گویا ترور بودهشیشه های خونه داخل کوچه ی نیروهوایی بوده کلا از ریل و چهارچوب دراومده و شکستهدادگستری خیابون کاوه و باهنرم زدن خونه ی یه فامیلامون اونجا بوده نابود شده📡 @VahidOnline",
-    "html": "ویدیوی دریافتی: 'نور یکی از انفجارهای بزرگ پشت کوه در <a href=\"?q=%23%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86\">#اصفهان</a>'<br><a href=\"https://x.com/Vahid/status/2036967262691774683\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br>پیام‌های تایید نشده دیگر:<br>آقا وحید چهارراه نیروهوایی اصفهان ساختمان  های قدیم رو زدن گویا ترور بوده<br>شیشه های خونه داخل کوچه ی نیروهوایی بوده کلا از ریل و چهارچوب دراومده و شکسته<br>دادگستری خیابون کاوه و باهنرم زدن خونه ی یه فامیلامون اونجا بوده نابود شده<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-03-26T00:44:44+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73303",
-    "timestamp": 1774485884000
-  },
-  {
-    "id": "IranintlTV/328088",
-    "channel": "IranintlTV",
-    "text": "دونالد ترامپ، در سخنان خود در نشست کمیته ملی جمهوریخواهان کنگره، گفت: کسی نمی‌خواهد رهبر جمهوری اسلامی شود و هیچ‌گاه رسیدن به ریاست یک کشور تا این حد دافعه نداشته است. خود من چنین سمتی نمی‌خواهم. آن‌ها می‌گویند: «دوست داریم شما را رهبر بعدی کنیم.» نه، متشکرم. من آن را نمی‌خواهم.https://iranintl.com/202603263673",
-    "html": "دونالد ترامپ، در سخنان خود در نشست کمیته ملی جمهوریخواهان کنگره، گفت: کسی نمی‌خواهد رهبر جمهوری اسلامی شود و&nbsp;هیچ‌گاه رسیدن به ریاست یک کشور تا این حد دافعه نداشته است. خود من چنین سمتی نمی‌خواهم. آن‌ها می‌گویند: «دوست داریم شما را رهبر بعدی کنیم.» نه، متشکرم. من آن را نمی‌خواهم.<br><a href=\"https://iranintl.com/202603263673\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603263673</a>",
-    "date": "2026-03-26T00:39:25+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/rZu8ALwVfrHR0rCK1dBiz5bCimTmNGQndYiySW3k0s7Joz2gB818crZy0jPQtUqdRy2C4KRMhQ64-1LCOk6vDHFHJ2idO8oDSz25t64IoctekPjnZcTknkAVCzEMuwpzFzimSQJ-BgC5IQjgfybEf_C_d1qbUBOrq6OenCP6e5qR9mOlD6OcVPqYYI0hDjvpky3MDq4ds2QltuFjeKoJGUCAu6BaBm8rLEJJJW4GOAhw1idZb0SHh5WDEElaujqDTXslhzEHnEJ5z9JVTV7MKNpmNX6ddAO04kcST1ERLf_ddFblPsYsKtO9SzsLZi8xVn5vh2yaX_SPZYCjf_gRew.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328088",
-    "timestamp": 1774485565000
-  },
-  {
-    "id": "IranintlTV/328087",
-    "channel": "IranintlTV",
-    "text": "دونالد ترامپ، رییس جمهوری آمریکا در سخنانی گفت: مقام‌های جمهوری اسلامی با ایالات متحده در حال مذاکره هستند و به‌شدت می‌خواهند توافق کنند، اما از گفتن آن می‌ترسند، چون فکر می‌کنند ممکن است به دست نیروهای خودی کشته شوند. همچنین می‌ترسند که به دست ما کشته شوند. https://iranintl.com/202603263560",
-    "html": "دونالد ترامپ، رییس جمهوری آمریکا در سخنانی گفت: مقام‌های جمهوری اسلامی با ایالات متحده در حال مذاکره هستند و به‌شدت می‌خواهند توافق کنند، اما از گفتن آن می‌ترسند، چون فکر می‌کنند ممکن است به دست نیروهای خودی کشته شوند. همچنین می‌ترسند که به دست ما کشته شوند. <br><a href=\"https://iranintl.com/202603263560\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603263560</a>",
-    "date": "2026-03-26T00:27:04+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/QUQnWrc16mL5Q4RGnulE3hnzXk4KEslWCIR0rz-70hAzAP4ekqXcfdMu-9a2Cu-IMAGL9pyQfNuProHQuhVQdRxj30SN_d6lM2CKL9gV_DJJbynsOcyDvFzQUOCToqcfQYex9B-_6k8DQHlZeIMt872Pd1Xh-RRdda1eCQIbkvDTWBkLvdyu9za8jPvaxRFJOv_F8dfoe4-o_DJBJmWerlVMH4Qb2ZdcZ8Rr5N86N6HHpqTojU3CpAFpZ3pNMPRKM4Q6RlSPjEHgK_Jf9T41CCB0ve2IptXLOuvFtVL5tPtOGVTHum1_7oAIgRIgTN_Cf2vOhFQhPXBZB0IQzf_-7A.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328087",
-    "timestamp": 1774484824000
-  },
-  {
-    "id": "IranintlTV/328086",
-    "channel": "IranintlTV",
-    "text": "رییس جمهوری آمریکا در سخنان خود در نشست کمیته ملی جمهوریخواهان کنگره، گفت: «ما در حال نابود کردن توان جمهوری اسلامی هستیم. آن‌ها هیچ نیروی دریایی ندارند، هیچ چیز ندارند.» ترامپ گفت که آمریکا در حال در هم کوبیدن طرف مقابل است در حالی که «اخبار جعلی» خلاف آن را نشان می‌دهند.ترامپ اضافه کرد: [دموکرات‌ها] می‌خواهند توجه‌ها را از همه موفقیت بزرگی که ما در این عملیات نظامی داریم منحرف کنند. من از واژه جنگ استفاده نمی‌کنم، چون آن‌ها می‌گویند اگر از واژه جنگ استفاده کنید، شاید کار درستی نباشد. آن‌ها واژه جنگ را دوست ندارند، چون برای آن باید مجوز بگیرید.او تاکید کرد که عملیات آمریکا علیه جمهوری اسلامی یک نابودسازی نظامی است.https://iranintl.com/202603268078",
-    "html": "رییس جمهوری آمریکا در سخنان خود در نشست کمیته ملی جمهوریخواهان کنگره، گفت: «ما در حال نابود کردن توان جمهوری اسلامی هستیم. آن‌ها هیچ نیروی دریایی ندارند، هیچ چیز ندارند.» ترامپ گفت که آمریکا در حال در هم کوبیدن طرف مقابل است در حالی که «اخبار جعلی» خلاف آن را نشان می‌دهند.<br>ترامپ اضافه کرد:&nbsp;[دموکرات‌ها] می‌خواهند توجه‌ها را از همه موفقیت بزرگی که ما در این عملیات نظامی داریم منحرف کنند. من از واژه جنگ استفاده نمی‌کنم، چون آن‌ها می‌گویند اگر از واژه جنگ استفاده کنید، شاید کار درستی نباشد. آن‌ها واژه جنگ را دوست ندارند، چون برای آن باید مجوز بگیرید.<br>او تاکید کرد که عملیات آمریکا علیه جمهوری اسلامی یک نابودسازی نظامی است.<br><a href=\"https://iranintl.com/202603268078\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603268078</a>",
-    "date": "2026-03-26T00:24:12+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/J9Zt_1F7oWjpuQUqt9CO95oDIEudzjW-A75al636P4AIajTDm3iSXODKe_J-5exNrDeruRIKQrQ0W_tT0cKKlhQ0US7_Z6hXjP9xp1StZOLyXft5Ws--tEFmyrR0oZvd7FZipOF8aGyO8hQY-AMRUSKdXUBTtdWgKtYLt22Zmn1bKoEJeeVRdnzOlGSWvhX3WyZvaC9P04fMzX71F2okvMg9psNEhC1RvH-sTxOErYFQmXIKE5UVDlZJsoc13CpR7Q6tIkl_TKbUTXJ9xJrcNQL4nGscdZ3Jm2GfU9imSwddX5ooaigu03DdsyommcS52x8E-4un1COuj6nhFWtdhA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328086",
-    "timestamp": 1774484652000
-  },
-  {
-    "id": "IranintlTV/328085",
-    "channel": "IranintlTV",
-    "text": "دونالد ترامپ، رییس جمهوری آمریکا در یک سخنرانی در واشینگتن‌ دی‌سی گفت: علیه جمهوری اسلامی به چنان پیروزی بزرگی می‌رسیم که هیچ‌کس تاکنون چیزی شبیه کاری که ما در خاورمیانه با حکومت ایران انجام می‌دهیم، ندیده است.https://iranintl.com/202603265104",
-    "html": "دونالد ترامپ، رییس جمهوری آمریکا در یک سخنرانی در واشینگتن‌ دی‌سی گفت: علیه جمهوری اسلامی به چنان پیروزی بزرگی می‌رسیم که هیچ‌کس تاکنون چیزی شبیه کاری که ما در خاورمیانه با حکومت ایران انجام می‌دهیم، ندیده است.<br><a href=\"https://iranintl.com/202603265104\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603265104</a>",
-    "date": "2026-03-26T00:20:34+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/IZEUEY7P1dGmRuR-FaJjpJOyPO5EaFkPbwvsx53xwsqjBOcrV3QB5eqZTbii0bfFOvg1DVXuMM5htRDUSDPx4NS3atzuYVfnot6OVEusbLBGKzQ3uO5fRmjOpNWxuMxnLJHj3ufq3O1UiYtLLliQ0A_0RUwF0XoieyPvJC4lM_L3N85WFpy1Rcgj8oHhRRrJHf71j2VqVIQv3OpTI30Vjvh8BC4P9rBL0gL_4CecUFlfZDii4c_RZPRiPuj3PCeQXJRFdmjfYdHRLBQoSs09S2xj5tv29oUzGhj-sortoajgMMtLwDLotBpNR6kPaFz5t1GwiEQRZc_3pi2-aVxC1g.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328085",
-    "timestamp": 1774484434000
-  },
-  {
-    "id": "IranintlTV/328084",
-    "channel": "IranintlTV",
-    "text": "روزنامه هاآرتص گزارش داد اسرائیل در حال آمادگی برای افزایش حداکثری حملات خود به مواضع جمهوری اسلامی پیش از هرگونه آتش‌بس احتمالی است. بر اساس این گزارش، تل‌آویو قصد دارد پیش از اعلام احتمالی آتش‌بس از سوی دونالد ترامپ، رییس‌جمهوری آمریکا، اهداف حملات به ایران را به بیشترین سطح برساند.هاآرتص نوشت اسرائیل برای تغییر روند اقدامات نظامی علیه جمهوری اسلامی آماده می‌شود تا در صورت تحمیل آتش‌بس از سوی واشینگتن، بلافاصله ترتیب بمباران‌ها را تغییر دهد و دامنه اهداف جنگی را گسترش دهد.بر پایه این طرح که پیش از آغاز جنگ و برای سناریوی پایان درگیری‌ها در کوتاه‌مدت تدوین شده بود، ارتش اسرائیل تا پیش از هرگونه توافق احتمالی، سطح حملات خود را افزایش خواهد داد تا دستاوردهای نظامی را به حداکثر برساند.https://iranintl.com/202603253321",
-    "html": "روزنامه هاآرتص گزارش داد اسرائیل در حال آمادگی برای افزایش حداکثری حملات خود به مواضع جمهوری اسلامی پیش از هرگونه آتش‌بس احتمالی است. <br>بر اساس این گزارش، تل‌آویو قصد دارد پیش از اعلام احتمالی آتش‌بس از سوی دونالد ترامپ، رییس‌جمهوری آمریکا، اهداف حملات به ایران را به بیشترین سطح برساند.<br>هاآرتص نوشت اسرائیل برای تغییر روند اقدامات نظامی علیه جمهوری اسلامی آماده می‌شود تا در صورت تحمیل آتش‌بس از سوی واشینگتن، بلافاصله ترتیب بمباران‌ها را تغییر دهد و دامنه اهداف جنگی را گسترش دهد.<br>بر پایه این طرح که پیش از آغاز جنگ و برای سناریوی پایان درگیری‌ها در کوتاه‌مدت تدوین شده بود، ارتش اسرائیل تا پیش از هرگونه توافق احتمالی، سطح حملات خود را افزایش خواهد داد تا دستاوردهای نظامی را به حداکثر برساند.<br><a href=\"https://iranintl.com/202603253321\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202603253321</a>",
-    "date": "2026-03-26T00:13:06+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/uL57kofkpTp70_M78Cx-rWqWurIFB5g1q8DRvjayjqKFzjK-3Wwyj4X97BLixK49IjJyILqrt8qai0BTgj4JtTvbJNnHzZZUDQRwwJEMlPrLf0Lo2xhNfPbREX2c_wIRdvY0TOu6dnD2Ytn7FqnMwSUbQJq1Z0nmbEMjapDZGHvU3P1KnffbSoJV6Ru0lXMIGJjK2i8Giu2LrzwL0mdez3w9ETlq2D6V4EDrNWgelPevGMxzzN7Htyvu6AuumzPJCZrF3AMCymZlSWeR3oObtDR7LW7qqWlismOGFrUqwF6S8AfsQr4h2R_K31891ryueCj5CENxWFnPyoLQf1S_4w.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/328084",
-    "timestamp": 1774483986000
-  },
-  {
-    "id": "persianvpnhub/21538",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ MTPROTO📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 25ms#Proxy #MTProto🕒 انتشار: 02:53 - 1405/01/06💡 منبع: @beshkanhttps://t.me/proxy?server=166.1.160.127&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 25ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 02:53 - 1405/01/06<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/beshkan\" target=\"_blank\">@beshkan</a><br><br><pre>https://t.me/proxy?server=166.1.160.127&amp;port=443&amp;secret=6356ebb33a57b6deda8a1c3cf2aee557</pre>",
-    "date": "2026-03-26T00:11:01+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/21538",
-    "timestamp": 1774483861000
   }
 ]

@@ -1,9 +1,447 @@
 [
   {
+    "id": "NetAccount/16745",
+    "channel": "NetAccount",
+    "text": "محمدعلی فتحعلی زاده، معاون فرمانده نیروی زمینی سپاه و فرمانده تیپ نیروی ویژه فاتحین به درک واصل شدبیش باااد🔥",
+    "html": "محمدعلی فتحعلی زاده، معاون فرمانده نیروی زمینی سپاه و فرمانده تیپ نیروی ویژه فاتحین به درک واصل شد<br><br>بیش باااد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i>",
+    "date": "2026-04-02T10:53:27+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16745",
+    "timestamp": 1775127207000
+  },
+  {
+    "id": "MatinSenPaii/2489",
+    "channel": "MatinSenPaii",
+    "text": "ساده‌ترین راه اجرای Vaydns روی Termux۱. دانلود کلاینت متناسب با معماری CPU گوشی (اکثر گوشی‌های جدید arm64 هستن).در این مرحله، Termux باید به GitHub دسترسی داشته باشه؛ بنابراین ممکنه نیاز به VPN داشته باشید.wget https://github.com/net2share/vaydns/releases/download/v0.2.7/vaydns-client-linux-arm64روش جایگزین:فایل رو با کامپیوتر دانلود کنید و با کابل داخل پوشه Download گوشی کپی کنید.بعد در Termux دسترسی حافظه رو فعال کنید:termux-setup-storageتوجه: اگر از روش جایگزین (دانلود با کامپیوتر و انتقال فایل با کابل) استفاده می‌کنید، بعد از فعال کردن حافظه Termux با دستور باید وارد پوشه‌ی دانلود بشین:cd ~/storage/downloads۲. دادن دسترسی اجراchmod +x vaydns-client-linux-arm64۳. اجرای کلاینت--domain t.iampedi8.live -listen 127.0.0.1:7000 -pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e -udp 2.188.21.190:53 -record-type cname۴. ✅ کلاینت حالا به‌صورت Socks5 Proxy روی 127.0.0.1:7000 اجرا شده و می‌تونید ازش داخل برنامه‌هایی مثل تلگرام یا کلاینت‌هایی مثل V2Ray به‌عنوان پراکسی استفاده کنید.",
+    "html": "<b>ساده‌ترین راه اجرای Vaydns روی Termux<br><br>۱</b>. دانلود کلاینت متناسب با معماری CPU گوشی (اکثر گوشی‌های جدید arm64 هستن).<br>در این مرحله، Termux باید به GitHub دسترسی داشته باشه؛ بنابراین ممکنه نیاز به VPN داشته باشید.<br><pre>wget https://github.com/net2share/vaydns/releases/download/v0.2.7/vaydns-client-linux-arm64</pre><br>روش جایگزین:<br>فایل رو با کامپیوتر دانلود کنید و با کابل داخل پوشه Download گوشی کپی کنید.<br>بعد در Termux دسترسی حافظه رو فعال کنید:<br><pre>termux-setup-storage</pre><br><b>توجه: </b>اگر از روش جایگزین (دانلود با کامپیوتر و انتقال فایل با کابل) استفاده می‌کنید، بعد از فعال کردن حافظه Termux با دستور باید وارد پوشه‌ی دانلود بشین:<br><pre>cd ~/storage/downloads</pre><br><br>۲. دادن دسترسی اجرا<br><pre>chmod +x vaydns-client-linux-arm64</pre><br>۳. اجرای کلاینت<br><pre>--domain t.iampedi8.live -listen 127.0.0.1:7000 -pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e -udp 2.188.21.190:53 -record-type cname</pre><br>۴. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i> کلاینت حالا به‌صورت Socks5 Proxy روی <a href=\"http://127.0.0.1:7000/\" target=\"_blank\" rel=\"noopener\">127.0.0.1:7000</a> اجرا شده و می‌تونید ازش داخل برنامه‌هایی مثل تلگرام یا کلاینت‌هایی مثل V2Ray به‌عنوان پراکسی استفاده کنید.",
+    "date": "2026-04-02T10:46:50+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/2489",
+    "timestamp": 1775126810000
+  },
+  {
+    "id": "persianvpnhub/22261",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 9ms#VLESS #VPN🕒 انتشار: 14:11 - 1405/01/13💡 منبع: گروه MahsaNetvless://36313862-6431-4230-a264-313765663032@198.62.62.159:443?encryption=none&type=xhttp&mode=stream-up&host=test.digikalacomaparatcom.shop&path=%2Faparat-video%2F&security=tls&fp=chrome&sni=test.digikalacomaparatcom.shop&alpn=h2,http/1.1#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D8%AA%D8%B3%D8%AA%20%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 9ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:11 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://36313862-6431-4230-a264-313765663032@198.62.62.159:443?encryption=none&amp;type=xhttp&amp;mode=stream-up&amp;host=test.digikalacomaparatcom.shop&amp;path=%2Faparat-video%2F&amp;security=tls&amp;fp=chrome&amp;sni=test.digikalacomaparatcom.shop&amp;alpn=h2,http/1.1#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3%20%D8%AA%D8%B3%D8%AA%20%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1</pre>",
+    "date": "2026-04-02T10:44:18+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22261",
+    "timestamp": 1775126658000
+  },
+  {
+    "id": "persianvpnhub/22260",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ TROJAN📍 لوکیشن: فرانسه 🇫🇷📶 پینگ: 128ms#TROJAN #VPN🕒 انتشار: 14:02 - 1405/01/13💡 منبع: @PrivateVPNstrojan://telegram-id-privatevpns@15.188.250.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: فرانسه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 128ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 14:02 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/PrivateVPNs\" target=\"_blank\">@PrivateVPNs</a><br><br><pre>trojan://telegram-id-privatevpns@15.188.250.243:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A8F09F87B5.png')\"><b>🇨🇵</b></i>t.me/PrivateVPNs</pre>",
+    "date": "2026-04-02T10:44:12+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22260",
+    "timestamp": 1775126652000
+  },
+  {
+    "id": "persianvpnhub/22259",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8ZG5zdHR8TmlrYXxuZC5sb3R1c3NlYy5jb218OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw4OTQxMjI4NDQ5YThlMjg0M2ZkNWVhZjBiOGRkOTU1OTRmZTQxZjI1YTIyNDEyNmVkZjA2YWFjY2M5OTcyMjU3fHx8MHx8fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHw1MHwxMDgw",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8ZG5zdHR8TmlrYXxuZC5sb3R1c3NlYy5jb218OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw4OTQxMjI4NDQ5YThlMjg0M2ZkNWVhZjBiOGRkOTU1OTRmZTQxZjI1YTIyNDEyNmVkZjA2YWFjY2M5OTcyMjU3fHx8MHx8fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHx8MHw1MHwxMDgw</pre>",
+    "date": "2026-04-02T10:44:07+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22259",
+    "timestamp": 1775126647000
+  },
+  {
+    "id": "NetAccount/16744",
+    "channel": "NetAccount",
+    "text": "کرج پشت کوه عظیمیه",
+    "html": "کرج پشت کوه عظیمیه",
+    "date": "2026-04-02T10:44:04+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/jUS_avhg2xaaXGO2A8Kdf9ESx0WZnkaeVPdqBxDibjkdwBdeEOufZneyGfNYVb58oFJFo_jJ4Hj4TzzP39fFRYspIU8qkcjCfWRfuA6lYmhuNS5vln-t_a9PwQTm6kWK8bo_jZv6qUV5TwTgg3cpwhzD-QlhbUaovwuVLcWlxzR0V0Gs5ULuKPeT6xESt_YbJD7DsgOe3-5vgds9T0bJpfQk4qwXAIcSIoV2ArLhdbHMXcg8f77BuH5OC3iVlpfFsrawhrlws0QoUFyxEZiy5-Tk8HUvAuSI4eXGQ9xfIYfoOxUIGzOMgR3BvjuGNx-Fs0mVAk8URTRdk-tFZOub5w.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/NetAccount/16744",
+    "timestamp": 1775126644000
+  },
+  {
+    "id": "persianvpnhub/22258",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8c3N8bmlrYVNTfG4yLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgw",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8c3N8bmlrYVNTfG4yLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgw</pre>",
+    "date": "2026-04-02T10:44:03+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22258",
+    "timestamp": 1775126643000
+  },
+  {
+    "id": "persianvpnhub/22257",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8c3N8U29ocmFiU2xpcHN0cmVhbXxiMi5sb3R1c3NlYy5jb218OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8c3N8U29ocmFiU2xpcHN0cmVhbXxiMi5sb3R1c3NlYy5jb218OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==</pre>",
+    "date": "2026-04-02T10:43:59+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22257",
+    "timestamp": 1775126639000
+  },
+  {
+    "id": "persianvpnhub/22256",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8ZG5zdHR8U29ocmFiRE5TVFQyfGJuLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfGEzNGUwOWQ0OTRkNzM3NGQ5Mjk1YWZkZmM1OWU2ZmViMjc5NjU0ZDQ1ZWRiNDJlYTc4MWI0OGI2NDkyN2QxNTh8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8ZG5zdHR8U29ocmFiRE5TVFQyfGJuLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfGEzNGUwOWQ0OTRkNzM3NGQ5Mjk1YWZkZmM1OWU2ZmViMjc5NjU0ZDQ1ZWRiNDJlYTc4MWI0OGI2NDkyN2QxNTh8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==</pre>",
+    "date": "2026-04-02T10:43:55+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22256",
+    "timestamp": 1775126635000
+  },
+  {
+    "id": "persianvpnhub/22255",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8c2F5ZWRuc3xTb2hyYWJOb2l6RE5TfGJuLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfGEzNGUwOWQ0OTRkNzM3NGQ5Mjk1YWZkZmM1OWU2ZmViMjc5NjU0ZDQ1ZWRiNDJlYTc4MWI0OGI2NDkyN2QxNTh8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8c2F5ZWRuc3xTb2hyYWJOb2l6RE5TfGJuLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfGEzNGUwOWQ0OTRkNzM3NGQ5Mjk1YWZkZmM1OWU2ZmViMjc5NjU0ZDQ1ZWRiNDJlYTc4MWI0OGI2NDkyN2QxNTh8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==</pre>",
+    "date": "2026-04-02T10:43:50+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22255",
+    "timestamp": 1775126630000
+  },
+  {
+    "id": "persianvpnhub/22254",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8ZG5zdHR8U29ocmFiRG5zdHQxfGIxLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDlhNWE2OGRhOTM0YjJjZTkwMzQ2OWM5ZjU4MDE4NzY3OGE2M2M0ZTcwOWNhN2Y3YzMxMzEzNDVkZTZjMGQzMzB8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDEwMHwxMDgw",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8ZG5zdHR8U29ocmFiRG5zdHQxfGIxLmxvdHVzc2VjLmNvbXw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDlhNWE2OGRhOTM0YjJjZTkwMzQ2OWM5ZjU4MDE4NzY3OGE2M2M0ZTcwOWNhN2Y3YzMxMzEzNDVkZTZjMGQzMzB8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDEwMHwxMDgw</pre>",
+    "date": "2026-04-02T10:43:46+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22254",
+    "timestamp": 1775126626000
+  },
+  {
+    "id": "persianvpnhub/22253",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8c3N8U2ltb3JnaFNsaXBzdHJlYW18dC5iYW1hay54eXp8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8c3N8U2ltb3JnaFNsaXBzdHJlYW18dC5iYW1hay54eXp8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHx8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==</pre>",
+    "date": "2026-04-02T10:43:42+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22253",
+    "timestamp": 1775126622000
+  },
+  {
+    "id": "persianvpnhub/22252",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8c2F5ZWRuc3xTaW1vcmdoTm9pemRuc3xuLmJhbWFrLnh5enw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDVmZjY0YmUwMGFkNWUyNDZkM2FlMWVlNDdjMWZlNzYxYTBlYTRlNTU3YTMyMzg5MGIwOGQ4ZjI2ZDVhNTcwNmN8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8c2F5ZWRuc3xTaW1vcmdoTm9pemRuc3xuLmJhbWFrLnh5enw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDVmZjY0YmUwMGFkNWUyNDZkM2FlMWVlNDdjMWZlNzYxYTBlYTRlNTU3YTMyMzg5MGIwOGQ4ZjI2ZDVhNTcwNmN8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfHwwfDB8MTA4MA==</pre>",
+    "date": "2026-04-02T10:43:38+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22252",
+    "timestamp": 1775126618000
+  },
+  {
+    "id": "persianvpnhub/22251",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ SLIPNET📍 لوکیشن: نامشخص 🏁📶 پینگ: N/A ms#SLIPNET #VPN🕒 انتشار: 13:38 - 1405/01/13💡 منبع: @azadi_az_inja_migzareslipnet://MTh8ZG5zdHR8U2ltb3JnaERuc3R0fG4uYmFtYWsueHl6fDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8NWZmNjRiZTAwYWQ1ZTI0NmQzYWUxZWU0N2MxZmU3NjFhMGVhNGU1NTdhMzIzODkwYjA4ZDhmMjZkNWE1NzA2Y3x8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgw",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ SLIPNET<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F81.png')\"><b>🏁</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: N/A ms<br><br><a href=\"?q=%23SLIPNET\">#SLIPNET</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 13:38 - 1405/01/13<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/azadi_az_inja_migzare\" target=\"_blank\">@azadi_az_inja_migzare</a><br><br><pre>slipnet://MTh8ZG5zdHR8U2ltb3JnaERuc3R0fG4uYmFtYWsueHl6fDguOC44Ljg6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8NWZmNjRiZTAwYWQ1ZTI0NmQzYWUxZWU0N2MxZmU3NjFhMGVhNGU1NTdhMzIzODkwYjA4ZDhmMjZkNWE1NzA2Y3x8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8fDB8MHwxMDgw</pre>",
+    "date": "2026-04-02T10:43:34+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/22251",
+    "timestamp": 1775126614000
+  },
+  {
+    "id": "NetAccount/16743",
+    "channel": "NetAccount",
+    "text": "کرج",
+    "html": "کرج",
+    "date": "2026-04-02T10:43:18+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/qxHWznko04eWljZQI6ImtWecVUgvZI71p8Mg9qAPrirz6CZPXQTGTgyrK34lGeJPMW8m8Jb2kK986R5nPntWIMZvbGr0Yb0eLvsqkVwsmxzuQqRAvU_-1-jInVwp4_xOH1Kg7Nw-Xy7RBx_QL8gYdnMD3xbGmOxNTOExf3O2Zuk5JAns44LNfrPoW_siKMfaNvu_KUsV36ikbOCKbgGFqHMdsXmZfBskL6nSrUZ02MPQ3V1yIbbfXkzspm0ckaP7KBaW7b2doJniJ0ymntrSFkVE01kNJxjb0EJQoaGBZCCvdF2nmEEG23xXgNdUDcXO4fK1k3awFjLZQ0BQkUMoSQ.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/NetAccount/16743",
+    "timestamp": 1775126598000
+  },
+  {
+    "id": "MatinSenPaii/2488",
+    "channel": "MatinSenPaii",
+    "text": "دوستانی که VayDNS کلاینت دارن میتونن از این کانفیگ استفاده کنید. ./vaydns-client --domain t.iampedi8.live -listen 127.0.0.1:7000 -pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e -udp 8.8.8.8:53 -record-type cnameℹ️  ۸.۸.۸.۸ رو با یه دی‌ان‌اس که میشناسید عوض کنید.  حتی DNS هایی که قبلا برانتون کار نمیکرده.  ❗️در حال  این متد حاظر فقط روی لپتاپ شما قابل اجرا می‌باشد. به زودی راه های جدیدی برای اتصال در موبایل هم معرفی می‌کنیم.در ادامه روی این لینک کلیک کنید تلگرام خودتون رو پراکسی کنیدhttps://t.me/socks?server=127.0.0.1&port=7000لطفا تجربه خودتون رو با ما به اشتراک بذارید.🌐 لینک دانلود داخلی کلایت برای مکhttps://guardnet.ir/?view=1775117464_5b2c3db7.zip🌐 لینک دانلود داخلی کلایت برای ویندوزhttps://guardnet.ir/index.php?view=1775118073_2cf65f85.exe 🌐 کلاینت Hidify نسخه بتا با پشتیبانی VayDNS Hiddify64bit https://guardnet.ir/?view=1775120624_b06ddfba.zipHiddify32bithttps://guardnet.ir/index.php?view=1775120853_ec3acea6.zipWhiteDNS Team",
+    "html": "دوستانی که <b>VayDNS</b> کلاینت دارن میتونن از این کانفیگ استفاده کنید. <br><br><code>./vaydns-client --domain t.iampedi8.live -listen 127.0.0.1:7000 -pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e -udp 8.8.8.8:53 -record-type cname</code><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E284B9.png')\"><b>ℹ️</b></i> <br> ۸.۸.۸.۸ رو با یه دی‌ان‌اس که میشناسید عوض کنید.  حتی DNS هایی که قبلا برانتون کار نمیکرده.  <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i>در حال  این متد حاظر فقط روی لپتاپ شما قابل اجرا می‌باشد. به زودی راه های جدیدی برای اتصال در موبایل هم معرفی می‌کنیم.<br><br>در ادامه روی این لینک کلیک کنید تلگرام خودتون رو پراکسی کنید<br><a href=\"https://t.me/socks?server=127.0.0.1&amp;port=7000\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=127.0.0.1&amp;port=7000</a><br><br><br>لطفا تجربه خودتون رو با ما به اشتراک بذارید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> <b>لینک دانلود داخلی کلایت برای مک</b><br><a href=\"https://guardnet.ir/?view=1775117464_5b2c3db7.zip\" target=\"_blank\" rel=\"noopener\">https://guardnet.ir/?view=1775117464_5b2c3db7.zip</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> <b>لینک دانلود داخلی کلایت برای ویندوز</b><br><a href=\"https://guardnet.ir/index.php?view=1775118073_2cf65f85.exe\" target=\"_blank\" rel=\"noopener\">https://guardnet.ir/index.php?view=1775118073_2cf65f85.exe</a><br><br><br> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> کلاینت Hidify نسخه بتا با پشتیبانی VayDNS <br><br><b>Hiddify64bit</b> <br><a href=\"https://guardnet.ir/?view=1775120624_b06ddfba.zip\" target=\"_blank\" rel=\"noopener\">https://guardnet.ir/?view=1775120624_b06ddfba.zip</a><br><br><b>Hiddify32bit</b><br><a href=\"https://guardnet.ir/index.php?view=1775120853_ec3acea6.zip\" target=\"_blank\" rel=\"noopener\">https://guardnet.ir/index.php?view=1775120853_ec3acea6.zip</a><br><br><br><br><b><i>WhiteDNS Team</i></b>",
+    "date": "2026-04-02T10:42:28+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/Xg1--TfygKXHXtqjWV5xRoRIprkZfFQgtmbrxw2Ph6CVxX7HMc7UVU_H1mXndYZaT-f6szrxLa16ZMv8Wx3ufyiB7_6a_nUsNMSgV-fCB2cLrWetXfSYMk_MtxnjHci0Ubngm2LZTPOinqOGcjX2OKC5hOQij8-bEt792Uv0pT6wZzi7pbKpLXI6ODqisErUkxpYRiTTNy4_nYC4SclUOkRSvNuPvzI7ev_hrg76ylyv8NP9k0vMP3gAV0AgcHKE027MEFOAGyD0V-Bfrc-VlRpwLPW5czVnsD1PQRvudw5IfvEv1aNO0XySkEdLBMEL9dzBlFMiYZm6OWtOn6kJsw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/2488",
+    "timestamp": 1775126548000
+  },
+  {
+    "id": "NetAccount/16742",
+    "channel": "NetAccount",
+    "text": "صدای چند انفجار در کرجکرج",
+    "html": "صدای چند انفجار در کرج",
+    "date": "2026-04-02T10:39:44+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/vHbd1tLxOvxeVoCBj8fliMQLrS3snQS1oG5fWAkvYKf1XMay3RlWwhVWUtgfROdMDLPzHbpb5vcRP7sUrD0ZZYXbEDRVzVmfsLIA__hsg9VJd19nPU-Rua3wYjL-8q3z7eCbb1ILGX1yOcigtv0PJE4FKWdu43MP8yo11LMvXNYw4b-1un4gpICQtLPUdFyQyFEomOohjJ0UG6IYAweFVVpsze__nc8tscP7v4kyjZzHzpt9Nn0DVqzAJaOiSrNqwJWfGnUWttU2SaMcqjjKvvOXuP4C5dpL87HMJp7L2lDoMTElPre8a5_g0liZwNkUipW6VxfUZaHyEG11xwz5_w.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/NetAccount/16742",
+    "timestamp": 1775126384000
+  },
+  {
+    "id": "NetAccount/16741",
+    "channel": "NetAccount",
+    "text": "صدای انفجار در غرب تهران",
+    "html": "صدای انفجار در غرب تهران",
+    "date": "2026-04-02T10:37:14+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16741",
+    "timestamp": 1775126234000
+  },
+  {
+    "id": "NetAccount/16740",
+    "channel": "NetAccount",
+    "text": "صدای چند انفجار در کرج",
+    "html": "صدای چند انفجار در کرج",
+    "date": "2026-04-02T10:35:48+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16740",
+    "timestamp": 1775126148000
+  },
+  {
+    "id": "NetAccount/16739",
+    "channel": "NetAccount",
+    "text": "tg://proxy?server=157.180.27.180&port=443&secret=dd104462821249bd7ac519130220c25d09",
+    "html": "<a href=\"tg://proxy?server=157.180.27.180&amp;port=443&amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\">tg://proxy?server=157.180.27.180&amp;port=443&amp;secret=dd104462821249bd7ac519130220c25d09</a>",
+    "date": "2026-04-02T10:21:41+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16739",
+    "timestamp": 1775125301000
+  },
+  {
+    "id": "IranintlTV/329507",
+    "channel": "IranintlTV",
+    "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد که در پی حملات ۱۳ فروردین، آتش‌سوزی ناشی از انفجار در پادگان قدس سپاه در مشهد ادامه دارد.",
+    "html": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد که در پی حملات ۱۳ فروردین، آتش‌سوزی ناشی از انفجار در پادگان قدس سپاه در مشهد ادامه دارد.",
+    "date": "2026-04-02T10:20:13+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/329507",
+    "timestamp": 1775125213000
+  },
+  {
+    "id": "INTERNETFORIRAN/652",
+    "channel": "INTERNETFORIRAN",
+    "text": "اگر یک ساعت نت فلسطین ، غزه ، لبنان و یمن و هر جای دیگه این تروریستها و تروریست پرور ها قطع شده بودچپ و اروپا و باقی دنیا خودشون رو گاییده بودن که وای جنایت شدوای فلان شدولی برای ایران خفه خون مرگ گرفتن.سازمان های بین المللی هم که فقط نگران میشن یا آمار ساعت قطعی رو میدنیه گوهی بخورید خب کس ننه سه فاسد.",
+    "html": "اگر یک ساعت نت فلسطین ، غزه ، لبنان و یمن و هر جای دیگه این تروریستها و تروریست پرور ها قطع شده بود<br>چپ و اروپا و باقی دنیا خودشون رو گاییده بودن که وای جنایت شد<br>وای فلان شد<br>ولی برای ایران خفه خون مرگ گرفتن.<br>سازمان های بین المللی هم که فقط نگران میشن یا آمار ساعت قطعی رو میدن<br>یه گوهی بخورید خب <br>کس ننه سه فاسد.",
+    "date": "2026-04-02T10:19:01+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/INTERNETFORIRAN/652",
+    "timestamp": 1775125141000
+  },
+  {
+    "id": "iliaen/4215",
+    "channel": "iliaen",
+    "text": "امیرحسین حاتمی که در جریان اعتراضات دی ماه بازداشت، زندان و شکنجه شده بود، سحرگاه امروز پنجشنبه، علی‌رغم نبود مستندات کافی، اعدام شد. @iliaen",
+    "html": "امیرحسین حاتمی که در جریان اعتراضات دی ماه بازداشت، زندان و شکنجه شده بود، سحرگاه امروز پنجشنبه، علی‌رغم نبود مستندات کافی، اعدام شد. <br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
+    "date": "2026-04-02T10:18:16+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/P9Sy0i3HlrUy41qQf7upDRJOSXxYGQvh5Qa5f3SWXGi4yFxI8xXsisGGhJWJ-hhNjqFpiqLKrO2OHOvAnLy_Cqdlp6kpN_upMH0Qnp1KHw6Ce9uwtWQHzgKm9UEtNsD2uyxT-xBMG2pHkB8OjXVRt6hQGoDVXoT3JdYlfMNVo-L4LjVM50QfJkJfGJ3T90hHBtzN2BAGotVa3gBB2tUr0FlA_kFta-LNjwfKjlOcocZ_E4I6-UtjZK277mnytbNbP_6DHOkSxW4QvrODOrmQe2IVZMPtW8X8m2uq9syQlUgRPUJaOX0KgqeQnvgqvKmVRBITLOzNfa4gxAuyGQGxTA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/iliaen/4215",
+    "timestamp": 1775125096000
+  },
+  {
+    "id": "NetAccount/16738",
+    "channel": "NetAccount",
+    "text": "دی ان اس217.219.120.82217.144.107.16237.202.186.2946.209.48.5",
+    "html": "دی ان اس<br><br><code>217.219.120.82</code><br><code>217.144.107.162</code><br><code>37.202.186.29</code><br><code>46.209.48.5</code>",
+    "date": "2026-04-02T10:12:20+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/NetAccount/16738",
+    "timestamp": 1775124740000
+  },
+  {
+    "id": "INTERNETFORIRAN/651",
+    "channel": "INTERNETFORIRAN",
+    "text": "ادامه قطع اینترنت یک تصمیم مقطعیه، یا تلاشی حساب‌شده برای معقول جلوه دادن تقاضای اینترنت طبقاتی؟یک تشبیه ساده ولی تلخ وجود داره که \"آدم گرسنه دیگه نمی‌پرسه غذا از کجا اومده، سالمه یا نه؛ فقط می‌خواد زنده بمونه. آدم تشنه هم دیگه براش فرقی نداره آب تصفیه شده یا نه؛ فقط می‌خواد یه جرعه بنوشه تا گلوی خشکشو خیس کنه.\"بیشتر از یک ماهه که اینترنت بصورت سراسری در ایران قطع شده و هر روز گزارش‌های بیشتری از افزایش تقاضا برای #اینترنت_پرو یا #اینترنت_طبقاتی میاد.اینترنت طبقاتی یعنی یه عده دسترسی دارن، یه عده ندارن و استفاده ازش عملاً یعنی پذیرفتن یه بی‌عدالتی واضح. اینکه یه سری آدم، به دلایل خاص (نزدیکی به حکومت، فعالیت رسانه‌ای، یا سایبری‌ها) بتونن به اینترنت دسترسی داشته باشن و بقیه نه. برای بقیه هم اگر راهی باشه، از مسیرهایی مثل درخواست شرکتی، مجوزهای خاص و یکسری ملاحظات رد میشه که هنوز جزئیاتش مبهمه.ولی واقعیت اینه که وقتی یه بحران طولانی میشه، آدم‌ها کم‌کم از موضع اصولی فاصله می‌گیرن. فروشگاه‌های آنلاین، فریلنسرها، تولیدکننده‌های محتوا، استارت‌آپ‌ها، کارهای کوچیک خانگی و در مجموع کسب‌وکارهایی که به اینترنت وابسته هستن، آسیب دیدن و دیگه برای خیلی‌ها بحث درست یا غلط بودن نیست، بحث بقا درمیونه.گزینه‌های جایگزین یا گرونن، یا پرریسک. خرید تجهیزات استارلینک چیزی حدود نیم میلیارد هزینه داره، تازه با تبعات قانونی و ریسک‌های خودش. کانفیگ‌های استارلینک هم برای هر گیگ حدود یک میلیون تومن هزینه دارن که برای استفاده روزمره عملاً غیرقابل تحمله.وقتی اینترنت برای مدت طولانی و بصورت گسترده قطع میشه و همزمان هیچ راه‌حل عمومی و عادلانه‌ای ارائه نمیشه، اما در عوض یه مسیر خاص و محدود (مثل اینترنت پرو) باز می‌مونه، طبیعیه که ذهن خیلی‌ها بره سمت این برداشت که شاید این فضا داره کم‌کم برای جا انداختن یه مدل جدید آماده میشه. مدلی که توش مردم از سر ناچاری، خودشون بیان و درخواست دسترسی متفاوت بدن؛ یعنی به جایی برسیم که اصل ماجرا (دسترسی برابر به اینترنت) کم‌کم فراموش بشه و تبدیل بشه به مطالبه برای \"حداقل دسترسی ممکن\" در قالبی که از قبل تعریف شده.خطر اصلی شاید همین عادی‌سازی باشه؛ اینکه یه چیز ناعادلانه، به مرور زمان و زیر فشار زندگی و نیازهای روزمره، تبدیل بشه به یه انتخاب قابل قبول! در حالی که ریشه ماجرا همچنان سر جاشه.🔍 ircf.space@ircfspace",
+    "html": "<b>ادامه قطع اینترنت یک تصمیم مقطعیه، یا تلاشی حساب‌شده برای معقول جلوه دادن تقاضای اینترنت طبقاتی؟</b><br><br>یک تشبیه ساده ولی تلخ وجود داره که \"آدم گرسنه دیگه نمی‌پرسه غذا از کجا اومده، سالمه یا نه؛ فقط می‌خواد زنده بمونه. آدم تشنه هم دیگه براش فرقی نداره آب تصفیه شده یا نه؛ فقط می‌خواد یه جرعه بنوشه تا گلوی خشکشو خیس کنه.\"<br><br>بیشتر از یک ماهه که اینترنت بصورت سراسری در ایران قطع شده و هر روز گزارش‌های بیشتری از افزایش تقاضا برای <a href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D9%BE%D8%B1%D9%88\">#اینترنت_پرو</a> یا <a href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%B7%D8%A8%D9%82%D8%A7%D8%AA%DB%8C\">#اینترنت_طبقاتی</a> میاد.<br><br>اینترنت طبقاتی یعنی یه عده دسترسی دارن، یه عده ندارن و استفاده ازش عملاً یعنی پذیرفتن یه بی‌عدالتی واضح. اینکه یه سری آدم، به دلایل خاص (نزدیکی به حکومت، فعالیت رسانه‌ای، یا سایبری‌ها) بتونن به اینترنت دسترسی داشته باشن و بقیه نه. برای بقیه هم اگر راهی باشه، از مسیرهایی مثل درخواست شرکتی، مجوزهای خاص و یکسری ملاحظات رد میشه که هنوز جزئیاتش مبهمه.<br><br>ولی واقعیت اینه که وقتی یه بحران طولانی میشه، آدم‌ها کم‌کم از موضع اصولی فاصله می‌گیرن. فروشگاه‌های آنلاین، فریلنسرها، تولیدکننده‌های محتوا، استارت‌آپ‌ها، کارهای کوچیک خانگی و در مجموع کسب‌وکارهایی که به اینترنت وابسته هستن، آسیب دیدن و دیگه برای خیلی‌ها بحث درست یا غلط بودن نیست، بحث بقا درمیونه.<br><br>گزینه‌های جایگزین یا گرونن، یا پرریسک. خرید تجهیزات استارلینک چیزی حدود نیم میلیارد هزینه داره، تازه با تبعات قانونی و ریسک‌های خودش. کانفیگ‌های استارلینک هم برای هر گیگ حدود یک میلیون تومن هزینه دارن که برای استفاده روزمره عملاً غیرقابل تحمله.<br><br>وقتی اینترنت برای مدت طولانی و بصورت گسترده قطع میشه و همزمان هیچ راه‌حل عمومی و عادلانه‌ای ارائه نمیشه، اما در عوض یه مسیر خاص و محدود (مثل اینترنت پرو) باز می‌مونه، طبیعیه که ذهن خیلی‌ها بره سمت این برداشت که شاید این فضا داره کم‌کم برای جا انداختن یه مدل جدید آماده میشه. مدلی که توش مردم از سر ناچاری، خودشون بیان و درخواست دسترسی متفاوت بدن؛ یعنی به جایی برسیم که اصل ماجرا (دسترسی برابر به اینترنت) کم‌کم فراموش بشه و تبدیل بشه به مطالبه برای \"حداقل دسترسی ممکن\" در قالبی که از قبل تعریف شده.<br><br>خطر اصلی شاید همین عادی‌سازی باشه؛ اینکه یه چیز ناعادلانه، به مرور زمان و زیر فشار زندگی و نیازهای روزمره، تبدیل بشه به یه انتخاب قابل قبول! در حالی که ریشه ماجرا همچنان سر جاشه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"http://ircf.space/\" target=\"_blank\" rel=\"noopener\">ircf.space</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
+    "date": "2026-04-02T10:05:10+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/INTERNETFORIRAN/651",
+    "timestamp": 1775124310000
+  },
+  {
+    "id": "newscenter/61168",
+    "channel": "newscenter",
+    "text": "#تبلیغ  اخبار فوررری جنگ رو از این چنل دنبال کنید👇👇  https://t.me/+eonltDAEXrYwNTA0ما همچنان اینترنت درستی برای پوشش اخبار نداریم میتونید اینجا وضعیت جنگ رو دنبال کنید👇https://t.me/+eonltDAEXrYwNTA0",
+    "html": "#تبلیغ  اخبار فوررری جنگ رو از این چنل دنبال کنید<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i>  https://t.me/+eonltDAEXrYwNTA0",
+    "date": "2026-04-02T09:55:11+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/61168",
+    "timestamp": 1775123711000
+  },
+  {
+    "id": "IranintlTV/329506",
+    "channel": "IranintlTV",
+    "text": "معاون بهره‌برداری شرکت فولاد خوزستان گفت که در پی اصابت موشک و بمباران هوایی، تمامی مدول‌ها و کوره‌های فولادسازی این مجتمع صنعتی آسیب دیده‌اند و راه‌اندازی مجدد این واحدها دست‌کم شش ماه تا یک سال زمان می‌برد.در روزهای اخیر حملاتی به شرکت فولاد مبارکه اصفهان و فولاد خوزستان انجام شده است.https://iranintl.com/202604020769",
+    "html": "معاون بهره‌برداری شرکت فولاد خوزستان گفت که در پی اصابت موشک و بمباران هوایی، تمامی مدول‌ها و کوره‌های فولادسازی این مجتمع صنعتی آسیب دیده‌اند و راه‌اندازی مجدد این واحدها دست‌کم شش ماه تا یک سال زمان می‌برد.<br>در روزهای اخیر حملاتی به شرکت فولاد مبارکه اصفهان و فولاد خوزستان انجام شده است.<br><a href=\"https://iranintl.com/202604020769\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202604020769</a>",
+    "date": "2026-04-02T09:50:05+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/Ef5Es4WIFTSPtW7qclB0rXu9-iOy2FB1jOomFSDJ6Q7RFqruw6uMuYpXvxRnWZUs0Gig6I4y84GO_j30inGKJW_mA6eQfmyDNYPggUb8Ee9gTwhsH04TrvdTPx6vPi-A8ULywgdmWcEnDOP8up7knEGkmz7s4pnQH1ij3e7ytd30WuCzD6USuP--bUGHoHVilZGEWj19JEx1Lp-3avEWqSWJKQVUp4tBwxuxNHbh07noFWE2RPTxFqIqg0DDih6LD3XLwAah7T1q_p2rf7C9rALsTGnxVCiJoH65E8KEHvPuRu7u1YVldmeh4kJyflcOGmEM9CwWKhRwKMtj665P-Q.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/329506",
+    "timestamp": 1775123405000
+  },
+  {
+    "id": "mitivpn/16439",
+    "channel": "mitivpn",
+    "text": "سیزده ات به دَر به امید باز شدن تمام گره های زندگیت و رسيدن به همه آرزوهای قشنگت🌱",
+    "html": "<b>سیزده ات به دَر به امید باز شدن تمام گره های زندگیت و رسيدن به همه آرزوهای قشنگت<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8CB1.png')\"><b>🌱</b></i></b>",
+    "date": "2026-04-02T09:42:29+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mitivpn/16439",
+    "timestamp": 1775122949000
+  },
+  {
+    "id": "Break_the_barriers/1056",
+    "channel": "Break_the_barriers",
+    "text": "واکنش گوگل‌پلی و اپ‌استور تا می‌بینن اتصال خوبی دارم:534678544 Updates Available!",
+    "html": "واکنش گوگل‌پلی و اپ‌استور تا می‌بینن اتصال خوبی دارم:<br><br>534678544 Updates Available!",
+    "date": "2026-04-02T09:34:46+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/1056",
+    "timestamp": 1775122486000
+  },
+  {
+    "id": "IranintlTV/329505",
+    "channel": "IranintlTV",
+    "text": "وزارت دفاع بحرین اعلام کرد که از زمان آغاز حملات جمهوری اسلامی، ۱۸۸ موشک و ۴۲۹ پهپاد که به سمت این کشور هدف‌گیری شده بودند، رهگیری و منهدم شده‌اند.از آغاز حملات اسرائیل و آمریکا به اهدافی در ایران در روز نهم اسفند، جمهوری اسلامی به چندین کشور منطقه حمله کرده است.https://iranintl.com/202604028330",
+    "html": "وزارت دفاع بحرین اعلام کرد که از زمان آغاز حملات جمهوری اسلامی، ۱۸۸ موشک و ۴۲۹ پهپاد که به سمت این کشور هدف‌گیری شده بودند، رهگیری و منهدم شده‌اند.<br>از آغاز حملات اسرائیل و آمریکا به اهدافی در ایران در روز نهم اسفند، جمهوری اسلامی به چندین کشور منطقه حمله کرده است.<br><a href=\"https://iranintl.com/202604028330\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202604028330</a>",
+    "date": "2026-04-02T09:29:09+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/jtwC3ee1nRGFCR_Itz57MULdvogN0Ann0b_spOgUYU3c0yJLBA8niTi_9uZpEYCwkFMNkB1_tk0nSdP8yFkfdFTop9PMwg17AfkjUBOS6ODVCcn_pzfLi7_Mu17TfwclbL__EOr8uz2RWe5Oj84o-WauJ1AJs8A08z6Npjtf_ljugE6Vd2P1n2ipHh1l30zD0xt209aQK2BgZa8yip2WgHStRfn8F8IIbaJUDdSthNvZRmBjixOF-PDlpc4-YYiyInYMKMGzWzpT4oJ4XZJTBHwxt9kMFMqoxndwEqmHEZ1EYC6FCZ7u7CG5VMyh-49G-KzRp683hojkca71o2HrMQ.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/329505",
+    "timestamp": 1775122149000
+  },
+  {
+    "id": "IranintlTV/329504",
+    "channel": "IranintlTV",
+    "text": "کرملین در خصوص سخنان دونالد ترامپ درباره جنگ علیه جمهوری اسلامی اعلام کرد: «در صورت لزوم، روسیه آماده است در حل‌وفصل جنگ کمک کند.»به گفته کرملین، پوتین قرار است درباره خاورمیانه و خلیج فارس با وزیر خارجه مصر گفت‌وگو کند.کرملین افزود: «برای روسیه، ناتو یک اتحاد خصمانه است.»https://iranintl.com/202604024496",
+    "html": "کرملین در خصوص سخنان دونالد ترامپ درباره جنگ علیه جمهوری اسلامی اعلام کرد: «در صورت لزوم، روسیه آماده است در حل‌وفصل جنگ کمک کند.»<br><br>به گفته کرملین، پوتین قرار است درباره خاورمیانه و خلیج فارس با وزیر خارجه مصر گفت‌وگو کند.<br><br>کرملین افزود: «برای روسیه، ناتو یک اتحاد خصمانه است.»<br><a href=\"https://iranintl.com/202604024496\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202604024496</a>",
+    "date": "2026-04-02T09:27:51+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/e564Ic5T80Ho8oJSZeUZHsIWZhgXTeRoVMvHlkzzFWF-xEeE7xHQz4OTHlAzqtCVC3OqCMFwqcknWZxABgFlyavk3ETdXqM9pyRtJCcbSI0YyACOTG0ny7NT37QxwxCDAMSZ9hqvxWPxnBZOJ-Nl9Gv7qOIZvskt8Xj7iE78Ij9-ERbYIkO7EbY1tzM0_f9DeVV064MMKQVfHFBveAFgrosYws7TP80UzFPBHuPlNgy9qKvjA2N5HG6C9cXge_NfSRs5SOmwxAktHvTYm2uMV1gtiuKcYCZYgpNYG7G9XSbs-_ig3jzHxNmV0uUR4K85KdFhyurHoJ_OAdqcB8FeDw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/329504",
+    "timestamp": 1775122071000
+  },
+  {
+    "id": "NetAccount/16737",
+    "channel": "NetAccount",
+    "text": "امیرحسین حاتمیامیرحسین حاتمی، از معترضان بازداشتی دی ماه، بامداد امروز توسط جمهوری تروریستی اسلامی اعدام شدحالا بدو بگو وای زیرساخت نزنن وای بی برق نشیم وای اینجوری نشه وای اونجوری نشه.ما باید از شر این حکومت خلاص شیم و آزاد شیم، با برق یا بدون برقهرکی مخالف این قضیه اس لفت بده. روی سر هیچکس اسلحه ای برای موندن توی چنل گذاشته نشدهبچه های ما جونشونو از سر راه نیاوردن که یه عده احمق و عقب مونده که فکر خودشونن بگن وای اگه زیرساخت بزنه چی",
+    "html": "امیرحسین حاتمی",
+    "date": "2026-04-02T09:12:47+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/D8djEYfb5JA4sGXcLWUzD49tFwZE63EpRao-V4AYbvwyDuAb54TO6ulBYKO9zNY44GJz8nDbGndRfnaU_pQ7daGTquo94dj2y632z-3qMDqpWTUh8pfMaAICf4cIqvDnwAPwP21h_5mLSkMtoAdKk4D8XMOVEGgpIMGFFRvOX8Z6YlkDgTxdypigV2gyMAFvU1etbTxubbKTTmz2nYWlpPEROB4ATQOu6V_8-poIqOkDCq3MezrPUd5YFyMB6OzaJTWbfOuCaOjL68yKugnYIret0TF8DdZcj0PBJpsIPhKRAllphKrnBD1LtESbremueyZOAPPS57qqSQDuhCYARA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/NetAccount/16737",
+    "timestamp": 1775121167000
+  },
+  {
+    "id": "IranintlTV/329503",
+    "channel": "IranintlTV",
+    "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال نشان داد که سبزه ۱۳ بدر را با امید سرنگونی جمهوری اسلامی گره زده است.",
+    "html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال نشان داد که سبزه ۱۳ بدر را با امید سرنگونی جمهوری اسلامی گره زده است.",
+    "date": "2026-04-02T09:11:55+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/329503",
+    "timestamp": 1775121115000
+  },
+  {
+    "id": "Break_the_barriers/1055",
+    "channel": "Break_the_barriers",
+    "text": "کانفیگ‌های رایگان کانال، که با درآمد حاصل از دونیت 🎁 تهیه و ستاپ شده‌اند.  نصب اپلیکیشن اندروید کلاینت SlipNet و نحوه‌ی تنظیم مقادیر:  📱دانلود اپلیکیشن و تنظیمات  🖥️ سرور ١  کانفیگ DNSTT + SSH  کانفیگ NoizDNS + SSH  🖥️ سرور ٢  کانفیگ DNSTT + SSH  کانفیگ NoizDNS…⚠️ از قسمت DNS Settings، بخش Transport رو بذارید روی TCP و ریزالور رو به این تغییر بدید:185.14.80.238:53کانفیگ‌های NoizDNS نیازی به تغییر ریزالور ندارند، همین ریزالور روشون هست.تست کنید.",
+    "html": "کانفیگ‌های رایگان کانال، که با درآمد حاصل از دونیت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i> تهیه و ستاپ شده‌اند.  نصب اپلیکیشن اندروید کلاینت SlipNet و نحوه‌ی تنظیم مقادیر:  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i>دانلود اپلیکیشن و تنظیمات  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> سرور ١  کانفیگ DNSTT + SSH  کانفیگ NoizDNS + SSH  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> سرور ٢  کانفیگ DNSTT + SSH  کانفیگ NoizDNS…",
+    "date": "2026-04-02T09:09:49+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/Break_the_barriers/1055",
+    "timestamp": 1775120989000
+  },
+  {
+    "id": "Dirty_Kids/387405",
+    "channel": "dirty_kids",
+    "text": "مشهد پشت فرودگاه (ویدیو برای ساعت ۱۰ و نیمه)بعد از یک ساعت و نیم همچنان داره میسوزه۳تا انفجار پشت سر هم اومد و پدافند نقش هاپوکومار رو داشتاونطور ک این داره میسوزه و همچنان شعله داره احتمالا انبار شرکت نفت رو زدن@Dirty_Kids 👻",
+    "html": "مشهد پشت فرودگاه (ویدیو برای ساعت ۱۰ و نیمه)<br>بعد از یک ساعت و نیم همچنان داره میسوزه<br>۳تا انفجار پشت سر هم اومد و پدافند نقش هاپوکومار رو داشت<br>اونطور ک این داره میسوزه و همچنان شعله داره <br>احتمالا انبار شرکت نفت رو زدن<br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-04-02T09:08:58+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/387405",
+    "timestamp": 1775120938000
+  },
+  {
+    "id": "Dirty_Kids/387404",
+    "channel": "dirty_kids",
+    "text": "مشهد ساعت ۹:۵۵ صبحسمت فرودگاهبا فاصله خیلی زیادی که ما داریم و اینکه شعله آتیش کامل با چشم دیده میشه، حدس میزنم منبع سوخت منفجر شده باشه ۲۰ دقیقه‌ای هست داره میسوزه@Dirty_Kids 👻",
+    "html": "مشهد ساعت ۹:۵۵ صبح<br>سمت فرودگاه<br>با فاصله خیلی زیادی که ما داریم و اینکه شعله آتیش کامل با چشم دیده میشه، حدس میزنم منبع سوخت منفجر شده باشه ۲۰ دقیقه‌ای هست داره میسوزه<br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-04-02T09:08:12+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/387404",
+    "timestamp": 1775120892000
+  },
+  {
+    "id": "Dirty_Kids/387403",
+    "channel": "dirty_kids",
+    "text": "ویدیوی دریافتی: 'بزرگراه همدانی، پایین باملند #تهران، ساعت ۱۷:۴۵'چهارشنبه ۱۲ فروردین@Dirty_Kids 👻",
+    "html": "ویدیوی دریافتی: 'بزرگراه همدانی، پایین باملند <a href=\"?q=%23%D8%AA%D9%87%D8%B1%D8%A7%D9%86\">#تهران</a>، ساعت ۱۷:۴۵'<br>چهارشنبه ۱۲ فروردین<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-04-02T09:06:36+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/387403",
+    "timestamp": 1775120796000
+  },
+  {
+    "id": "IranintlTV/329502",
+    "channel": "IranintlTV",
+    "text": "قوه قضاییه جمهوری اسلامی اعلام کرد حکم اعدام امیرحسین حاتمی، از معترضان بازداشتی در پرونده آتش‌سوزی پایگاه بسیج کاوه در خیابان دماوند تهران، در جریان اعتراضات دی‌ماه ۱۴۰۴ اجرا شد.پیش‌تر ایران‌اینترنشنال گزارش داده بود پنج زندانی معترض در این پرونده از بند عمومی زندان قزلحصار خارج و به مکانی نامعلوم برای اجرای حکم منتقل شده‌اند.سایر زندانیانی که برای اجرای حکم اعدام خارج شده‌اند محمدامین بیگلری، شاهین واحدپرست کلور، ابوالفضل صالحی سیاوشانی و علی فهیم هستند.پرونده این افراد در شعبه ۱۵ دادگاه انقلاب تهران به ریاست قاضی ابوالقاسم صلواتی رسیدگی و حکم اعدام آنها ۱۸ بهمن‌ماه صادر شد.https://iranintl.com/202604027658",
+    "html": "قوه قضاییه جمهوری اسلامی اعلام کرد حکم اعدام امیرحسین حاتمی، از معترضان بازداشتی در پرونده آتش‌سوزی پایگاه بسیج کاوه در خیابان دماوند تهران، در جریان اعتراضات دی‌ماه ۱۴۰۴ اجرا شد.<br><br>پیش‌تر ایران‌اینترنشنال گزارش داده بود پنج زندانی معترض در این پرونده از بند عمومی زندان قزلحصار خارج و به مکانی نامعلوم برای اجرای حکم منتقل شده‌اند.<br><br>سایر زندانیانی که برای اجرای حکم اعدام خارج شده‌اند محمدامین بیگلری، شاهین واحدپرست کلور، ابوالفضل صالحی سیاوشانی و علی فهیم هستند.<br>پرونده این افراد در شعبه ۱۵ دادگاه انقلاب تهران به ریاست قاضی ابوالقاسم صلواتی رسیدگی و حکم اعدام آنها ۱۸ بهمن‌ماه صادر شد.<br><a href=\"https://iranintl.com/202604027658\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202604027658</a>",
+    "date": "2026-04-02T09:04:17+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/UaL3UNTaETx8BP3NbfRn8GdIhgwYZKXvVxoI0J4qN11qpckbbFTaTHI_pOx984fA6xD5pHds0eUAKQER4WRqdcGe1OCC2Zmmgi6LEZ4PXVuACPNVhni9aqZtipN9OrWSOKGSaNFqwh4QytqTOdfgYkT1A_9ezuiU4_-pls1GrcbrEm7n7HpTkx8azf0ZmKfU1rttfrsqpWiPAjzC0GRTavQD_gzz9BLnrHd3I19_WQ_5i8ypIRVaU6YP6F1aZTUwKjVbJjnKPOnBTly1eKaf1jBN7nNR25iGXsP32rDCiKg1JA7_F2HJP_L7KmiqJcUQdOh9g6-Nfwftk0hGMuMx0Q.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/329502",
+    "timestamp": 1775120657000
+  },
+  {
     "id": "worldsmoments/91648",
     "channel": "worldsmoments",
-    "text": "خلاصه صحبت های ترامپ:آتش بسی در کار نیست و گفت دو سه هفته شدید حمله میکنه ببینه چی میشه و با صراحت نگفت بعدش پایان جنگ را اعلام میکنه، شمار روز ها و سال های همه جنگ هارو هم‌ گفت.",
-    "html": "خلاصه صحبت های ترامپ:<br>آتش بسی در کار نیست و گفت دو سه هفته شدید حمله میکنه ببینه چی میشه و با صراحت نگفت بعدش پایان جنگ را اعلام میکنه، شمار روز ها و سال های همه جنگ هارو هم‌ گفت.",
+    "text": "خلاصه صحبت های ترامپ:آتش بسی در کار نیست و گفت دو سه هفته شدید حمله میکنه ببینه چی میشه و با صراحت نگفت بعدش پایان جنگ رو اعلام میکنه، شمار روز ها و سال های همه جنگ هارو هم‌ گفت.",
+    "html": "خلاصه صحبت های ترامپ:<br>آتش بسی در کار نیست و گفت دو سه هفته شدید حمله میکنه ببینه چی میشه و با صراحت نگفت بعدش پایان جنگ رو اعلام میکنه، شمار روز ها و سال های همه جنگ هارو هم‌ گفت.",
     "date": "2026-04-02T08:59:10+00:00",
     "images": [],
     "files": [],
@@ -1761,8 +2199,8 @@
   {
     "id": "Break_the_barriers/1052",
     "channel": "Break_the_barriers",
-    "text": "کانفیگ‌های رایگان کانال، که با درآمد حاصل از دونیت 🎁 تهیه و ستاپ شده‌اند.🖥️ سرور ١کانفیگ DNSTT + SSHکانفیگ NoizDNS + SSH🖥️ سرور ٢کانفیگ DNSTT + SSHکانفیگ NoizDNS + SSH⚠️ حتماً توضیحات کانفیگ‌ها رو بخونید.#DNSTT@break_the_barriers@letspass_pro 👀",
-    "html": "کانفیگ‌های رایگان کانال، که با درآمد حاصل از <a href=\"https://t.me/Break_the_barriers/399\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">دونیت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></a> تهیه و ستاپ شده‌اند.<br><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> سرور ١<br></b><br><a href=\"https://t.me/Break_the_barriers/955\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ DNSTT + SSH</a><br><br><a href=\"https://t.me/Break_the_barriers/1050\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ NoizDNS + SSH</a><br><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> سرور ٢<br></b><br><a href=\"https://t.me/Break_the_barriers/956\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ DNSTT + SSH</a><br><br><a href=\"https://t.me/Break_the_barriers/1051\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ NoizDNS + SSH</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> <b>حتماً توضیحات کانفیگ‌ها رو بخونید.</b><br><br><a href=\"?q=%23DNSTT\"><b>#DNSTT</b></a><b><br></b><a href=\"https://t.me/break_the_barriers\" target=\"_blank\"><b>@break_the_barriers</b></a><b><br></b><a href=\"https://t.me/letspass_pro\" target=\"_blank\"><b>@letspass_pro</b></a><b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i></b>",
+    "text": "کانفیگ‌های رایگان کانال، که با درآمد حاصل از دونیت 🎁 تهیه و ستاپ شده‌اند.نصب اپلیکیشن اندروید کلاینت SlipNet و نحوه‌ی تنظیم مقادیر:📱دانلود اپلیکیشن و تنظیمات🖥️ سرور ١کانفیگ DNSTT + SSHکانفیگ NoizDNS + SSH🖥️ سرور ٢کانفیگ DNSTT + SSHکانفیگ NoizDNS + SSH⚠️ حتماً توضیحات کانفیگ‌ها رو بخونید.#DNSTT@break_the_barriers@letspass_pro 👀",
+    "html": "کانفیگ‌های رایگان کانال، که با درآمد حاصل از <a href=\"https://t.me/Break_the_barriers/399\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">دونیت <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i></a> تهیه و ستاپ شده‌اند.<br><br>نصب اپلیکیشن اندروید کلاینت SlipNet و نحوه‌ی تنظیم مقادیر:<br><br><a href=\"https://t.me/Break_the_barriers/968\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i>دانلود اپلیکیشن و تنظیمات</a><br><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> سرور ١<br></b><br><a href=\"https://t.me/Break_the_barriers/955\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ DNSTT + SSH</a><br><br><a href=\"https://t.me/Break_the_barriers/1050\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ NoizDNS + SSH</a><br><br><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> سرور ٢<br></b><br><a href=\"https://t.me/Break_the_barriers/956\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ DNSTT + SSH</a><br><br><a href=\"https://t.me/Break_the_barriers/1051\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">کانفیگ NoizDNS + SSH</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> <b>حتماً توضیحات کانفیگ‌ها رو بخونید.</b><br><br><a href=\"?q=%23DNSTT\"><b>#DNSTT</b></a><b><br></b><a href=\"https://t.me/break_the_barriers\" target=\"_blank\"><b>@break_the_barriers</b></a><b><br></b><a href=\"https://t.me/letspass_pro\" target=\"_blank\"><b>@letspass_pro</b></a><b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i></b>",
     "date": "2026-04-01T22:39:10+00:00",
     "images": [],
     "files": [],
@@ -2216,7 +2654,7 @@
     "html": "اینم برای اثبات <br>همین الان",
     "date": "2026-04-01T21:10:19+00:00",
     "images": [
-      "https://cdn4.telesco.pe/file/pPju3WXMxFLptTatw05z4GWDx56zO-QAGApruLAnGcrV9uUFVo520lSuMhGsqCzHi88stZ8_oCuozToMAFJ4MOIp685sPTJMbSXbgBi-vkfwAbwynpePZ75hA82IVDox_SvKD1kxhWCyPuriC9EYRtshshuI4d6D_C1sC-FECnqtt0btSPzkP0B58CzfkbRDb6iqnMUVmKjGd5r1X0c59r3H06bu5BYS_jkHpg_2g3w-IovckWYom1NCgWVyDTyFg9_h6a4T5aqKzkg24YrOBDGPvrtFwG1KU8TbhswIpiUZkmRm4mi0CBGw72kuACZqxHNkPhCw4lRo17wqxRRNMw.jpg"
+      "https://cdn4.telesco.pe/file/O_RK2tfuNOq38zVICLlG3T1HQcciLf94GwoKFpPWox2wmZRt1JmmJlh5asuEW82GYLKnvDJ2caYcdi-piMXVjEfBxn4zq92NTt6spH2H4RWf2DesPurhBpIPU-17THzd1EWvCbfa2JO_zSGy5lWNDvT47uyYYzw6yg-QxrGxQXhMlrkjrt-EjCc0JILMdlGDanS-dfUbgsctuQrcDbGj-xXHX3UyM9uOkIrrHYSDhw01CbvKD7VVZGRRMt20TqPwGhz7JzcAgyIP2QKsfwvjFjHJEdFRTu8uIqPzN7eLWQR7u3PLrF4FYdYNstUXIs33bsFSLZx-1KUK3CQfLJP44w.jpg"
     ],
     "files": [],
     "link": "https://t.me/INTERNETFORIRAN/645",
@@ -3631,7 +4069,7 @@
     "html": "مثل اینکه مجدداً میزان اتصال به سایفون از ایران، از طریق اینترنتی که ایرانیان خارج از کشور با کاندوئیت به اشتراک میذارن داره بالا میره.<br>اما طبق آخرین گزارش نت‌بلاکس هنوز درصد اتصال تغییر نکرده؛ بنابراین ممکنه سیمکارت سفیدها برای استفاده از سرویس‌های تحریمی در حال اتصال به سایفون برای تغییر آی‌پی باشن!<br><br>در مورد اپ رسمی وارپ هم گزارش مشابهی بود که چند روز قبل بهش اشاره کردم.<br>شاید بهتره در شرایط فعلی که اینترنت بصورت سراسری قطعه (و فقط استارلینک، تانل با آی‌پی سفید رانتی، سیمکارت‌های سفید و بطور محدود روش‌های مبتنی بر دی‌ان‌اس کار می‌کنن)، کاندوئیت به نام مردم، به کام سیمکارت سفیدها نباشه، یا حداقل بررسی بیشتری انجام بشه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <a href=\"http://ircf.space/\" target=\"_blank\" rel=\"noopener\">ircf.space</a><br><a href=\"https://t.me/ircfspace\" target=\"_blank\">@ircfspace</a>",
     "date": "2026-04-01T18:15:50+00:00",
     "images": [
-      "https://cdn1.telesco.pe/file/dO8ZUYay-WGpEDbPeuWPbXDC9UxOXKV1bjw3rMA6j0nDT6X6oZ2TB7uiapI3_3Zf3uWENC4ViCC6Pn_7pyriERGhomCHIO8dr2rYOzU0-HxoYp7nHMOk9tHzQ-pMWm_FBaVh1XFJTNx4V35bomlBNLawinYmY1Zc7b5jkrX7twWFzkfPhEVmuVgnPvLjjduIGyoFgKg03JdPlE0JxYPNWCvFvF2sHJyHa-z-3ceT1EOAM0m8kFCnKDM3S_JoFpr_uSODIvulK2KTnQjEP035PbZwcChuWqmffaTJ2j36F3sJIllfwmjgzjoSia0kSgpor4EsbaKZWB991Y9kmqsIWA.jpg"
+      "https://cdn1.telesco.pe/file/ueco7XMQRt-_-gTVxBg4L7YUOTg19nSkdxibiTByrKXwrzsQeUafjdxgAtzJijz3d7LnD6tr1MvXHbsU0VCxPgK_jPsY0-ZmLnaVL5xEyxuh6yjMalfQXWI6IuyQFl1rPyD-RlNICrRBpmDWmv9PdRH0pK45NeTn0LPAiunElAtKAvv_-iD-1CRU8CDPgAwT87i3HWvA56EVWGXzaUZLlzLpyhaE2KnCmp1gACJNwEjZGyhdF_g_eBipmUwftnHGuwFdyZnVT0inH41s0AaPz5yK0PrfEWIP_3FbEBcUm2lE2ka_Gsvtz1LH2tIPQIKBC1xkJNPzLe20K5W1kqVe5g.jpg"
     ],
     "files": [],
     "link": "https://t.me/INTERNETFORIRAN/638",
@@ -5455,482 +5893,5 @@
     "files": [],
     "link": "https://t.me/mizangorup/69303",
     "timestamp": 1775051688000
-  },
-  {
-    "id": "IranintlTV/329327",
-    "channel": "IranintlTV",
-    "text": "الیاس حضرتی، رییس شورای اطلاع‌رسانی دولت پزشکیان، در یکی از تجمعات حکومتی در خیابان با «بیمار روانی» خواندن دونالد ترامپ، گفت که بعد از مرگ علی خامنه‌ای «ملت رهبری می‌کنند.»",
-    "html": "الیاس حضرتی، رییس شورای اطلاع‌رسانی دولت پزشکیان، در یکی از تجمعات حکومتی در خیابان با «بیمار روانی» خواندن دونالد ترامپ، گفت که بعد از مرگ علی خامنه‌ای «ملت رهبری می‌کنند.»",
-    "date": "2026-04-01T13:52:38+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/329327",
-    "timestamp": 1775051558000
-  },
-  {
-    "id": "mizangorup/69302",
-    "channel": "mizangorup",
-    "text": "🔴 بنا بر پیام‌های دریافتی از شهروندان حدود ساعت ۱۷ نقاطی در شرق و غرب #تهران هدف قرار گرفتند.عکس دریافتی از سمت 'دریاچه چیتگر ۱۷:۰۶ چهارشنبه ۱۲ فروردین'@mizangorup",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> بنا بر پیام‌های دریافتی از شهروندان حدود ساعت ۱۷ نقاطی در شرق و غرب <a href=\"?q=%23%D8%AA%D9%87%D8%B1%D8%A7%D9%86\">#تهران</a> هدف قرار گرفتند.<br>عکس دریافتی از سمت 'دریاچه چیتگر ۱۷:۰۶ چهارشنبه ۱۲ فروردین'<br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-    "date": "2026-04-01T13:52:25+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/lJ4MDKaF4nkASXlYrZGDhLZHkmDmnic80gZ2JZhDwxrOfsTTHntRWBvXkznAFPKnhRSfPWk0C2AJqMGsK9qSPjTRmNGMVNSioe_yrUEp4K_PnX55JCYvf2efKqZXDVWDi17fef6GAJSdbJsJGDstB7stXm2cP_klCvgcq7z4Ek2Hr6MVvJ4hNT-MT-xvhGlW9QegPZBvNFGXHV_vy_41cg-z5viDVr-0Sm2I0OEhWBUDVi1R5Ll_WFvFd9zxohskVIy_9mdmpp8DXxC7HS0KVJBjf3YrwHiNkmjSoKRLtGr7iwieBNxBrgroRjDVfGS5aYWUr_K7qyFK4ILl7jDQfA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/mizangorup/69302",
-    "timestamp": 1775051545000
-  },
-  {
-    "id": "NetAccount/16707",
-    "channel": "NetAccount",
-    "text": "دقایقی پیش چند انفجار در غرب و جنوب تهران",
-    "html": "دقایقی پیش چند انفجار در غرب و جنوب تهران",
-    "date": "2026-04-01T13:52:04+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/16707",
-    "timestamp": 1775051524000
-  },
-  {
-    "id": "mizangorup/69301",
-    "channel": "mizangorup",
-    "text": "🔴 #گزارش_شما  همین الان صدای جنگنده میاد از اسمون قزوین خیلی زیاد16:54سلام ساعت ۱۶:۵۸ جنگنده از طالقان رد شد پنج تا به سمت تهرانانفجار غرب تهران، به نظرم دو سه تا باهم بودساعت ۱۷:۰۱ انفجار مهیب با لرزش در تهرانسرخیابان جلفا (بالای سیدخندان) صدای ۱ انفجار  اومد، به نظر نزدیک بود.قبلشم صدای جنگنده اومد ۱۷:۰۲5:02 چند تا انفجار پشت سر هم و نزدیک شهرک اکباتانتهرانپارسهمین الان صدای دو تا انفجار مجیدیه صدای جت و انفجار شدید۱۷:۰۳ دو انفجار سنگین جنوب شرق تهرانشرق داره میزنه چند انفجار سنگینساعت ۱۷:۰۲ نارمک دوتا صدای انفجارصداي انفجار سمت جنت اباددوباره ساعت ۵:۰۲ عصر ۱۲ فروردین غرب رو زد جنت اباد لرزید به شدتساعت ١٧:٠٣ چهارشنبه صدای چند انفجار و لرزش شدید غرب تهرانهمین الان داره میزنه، تهران، میرداماد، ۱۷ساعت ۱۷:۰۲ دقیقه صدای انفجار در سمت شمال شرق تهرانتهران، لویزان، شیان. سه، چهار تا صدای انفجار نسبتا دور و با فاصله زمانی از هم. ساعت ۱۷:۰۳وحید سمت سهروردی رو به شدت داره میزنه17:03 هروی صدای انفجار  دور امداطراف هفت حوض رو زد. ساعت ۱۷:۰۳چندتا انفحار۵  انفجار ساعت ١٧:٣ دقيقه غرب تهران بسيار سهمگينسمت صادقیه ام یه صدای انفجار از دور اومد ساعت ۱۷:۰۲پدافند فعال شده سلام 17:04 دقیقه غرب تهران ۷-۸ انفجار بسیار شدیدشهران ، تهران همین الان بالای ۷ تا انفجار شدید ۱۷:۰۰سمت شهرک راه آهن تهران دریاچه چیتگر دارن خیلی بد میزنن ساعت 17:04سلام دست کم 10 انفجار غرب تهرانساعت ۱۷:۰۴: صدای انفجار شدید - تهران آزادی۱۷:۰۳ انفجار و لرزش سمت اقدسیه، صدای جنگنده خیلی نزدیک بودهمین الان ساعت ۱۷ از یافت اباد تهران صدای سه انفجار و پرواز جنگنده۲تا انفجار شدید از سهروردی شنیدیم ۵:۰۴جنت اباد مرکزی تو ۴ دقیقه صدای ۸ تا انفجار اومدساعت ۵.۰۴ شهرک اکباتان ۶ تا انفجارتهرانسر: ساعت ۱۷:۰۴ / ۴ انفجار مهیب دیگه شنیده شد، هر جا هست بدجور داره میزنه، فکر کنم سمت دریاچه باشه۲ تا دیگه هم زد غرب تهرانسلام سمت هروی همین الان صدای ۴ تا انفجار اومد ساعت ۱۷:۰۲۵:۴  فرمانیه ی صدایی نسبتا نزدیک شنیدیم ساعت ۱۷:۰۳ محله نیلوفر، صدای شبیه موشک یا پهباد، دوبار از بالاسرمون رد شددو جای نسبتا نزدیک برخورد کردصدای انفجار سمت شرق منطقه هفت صدای جنگنده بعد سه تا انفجار بعد صدای پدافند ۱۲ اسفند   تهران جنت آباد مرکزی ساعت ۱۷:۰۴ صدای ۴ انفجار اومد .ساعت ١٧:٠۵ چند انفجار دیگه غرب تهران، صدای خیلی کمی داره ولی لرزش شدیدی داره، فکر میکنم سنگر شکن باشهسعادت اباد ساعت ۱۷:۰۴ صدای انفجار بدی میادحداقل پنج تا رو شنیدم ۱۷.۰۲ ۱۷.۰۴ ۱۷.۰۵ موج انفجار یافت اباد هم حس شد شیشه ها تکون خوردوحید ساعت 17:02برق رفت ۴ تا صدا مهیب اومد برق وصل شد نارمک@mizangorup",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <a href=\"?q=%23%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4_%D8%B4%D9%85%D8%A7\">#گزارش_شما</a> <br><br> همین الان صدای جنگنده میاد از اسمون قزوین خیلی زیاد16:54<br><br>سلام ساعت ۱۶:۵۸ جنگنده از طالقان رد شد پنج تا به سمت تهران<br><br>انفجار غرب تهران، به نظرم دو سه تا باهم بود<br><br>ساعت ۱۷:۰۱ انفجار مهیب با لرزش در تهرانسر<br><br>خیابان جلفا (بالای سیدخندان) صدای ۱ انفجار  اومد، به نظر نزدیک بود.<br>قبلشم صدای جنگنده اومد ۱۷:۰۲<br><br>5:02 چند تا انفجار پشت سر هم و نزدیک شهرک اکباتان<br><br>تهرانپارس<br>همین الان صدای دو تا انفجار<br><br> مجیدیه صدای جت و انفجار شدید<br><br>۱۷:۰۳ دو انفجار سنگین جنوب شرق تهران<br><br>شرق داره میزنه چند انفجار سنگین<br><br><br>ساعت ۱۷:۰۲ نارمک دوتا صدای انفجار<br><br>صداي انفجار سمت جنت اباد<br>دوباره<br><br> ساعت ۵:۰۲ عصر ۱۲ فروردین <br>غرب رو زد جنت اباد لرزید به شدت<br><br>ساعت ١٧:٠٣ چهارشنبه صدای چند انفجار و لرزش شدید غرب تهران<br><br>همین الان داره میزنه، تهران، میرداماد، ۱۷<br><br>ساعت ۱۷:۰۲ دقیقه صدای انفجار در سمت شمال شرق تهران<br><br>تهران، لویزان، شیان. سه، چهار تا صدای انفجار نسبتا دور و با فاصله زمانی از هم. ساعت ۱۷:۰۳<br><br>وحید سمت سهروردی رو به شدت داره میزنه<br><br>17:03 هروی صدای انفجار  دور امد<br><br>اطراف هفت حوض رو زد. ساعت ۱۷:۰۳<br>چندتا انفحار<br><br>۵  انفجار ساعت ١٧:٣ دقيقه غرب تهران بسيار سهمگين<br><br>سمت صادقیه ام یه صدای انفجار از دور اومد ساعت ۱۷:۰۲<br>پدافند فعال شده<br><br> سلام 17:04 دقیقه غرب تهران ۷-۸ انفجار بسیار شدید<br><br>شهران ، تهران <br>همین الان بالای ۷ تا انفجار شدید ۱۷:۰۰<br><br><br>سمت شهرک راه آهن تهران دریاچه چیتگر دارن خیلی بد میزنن ساعت 17:04<br><br>سلام دست کم 10 انفجار غرب تهران<br><br>ساعت ۱۷:۰۴: صدای انفجار شدید - تهران آزادی<br><br><br>۱۷:۰۳ انفجار و لرزش سمت اقدسیه، صدای جنگنده خیلی نزدیک بود<br><br>همین الان ساعت ۱۷ <br>از یافت اباد تهران صدای سه انفجار <br>و پرواز جنگنده<br><br>۲تا انفجار شدید از سهروردی شنیدیم ۵:۰۴<br><br>جنت اباد مرکزی تو ۴ دقیقه صدای ۸ تا انفجار اومد<br><br>ساعت ۵.۰۴ شهرک اکباتان ۶ تا انفجار<br><br>تهرانسر: ساعت ۱۷:۰۴ / ۴ انفجار مهیب دیگه شنیده شد، هر جا هست بدجور داره میزنه، فکر کنم سمت دریاچه باشه<br><br>۲ تا دیگه هم زد غرب تهران<br><br>سلام سمت هروی همین الان صدای ۴ تا انفجار اومد ساعت ۱۷:۰۲<br><br><br>۵:۴  فرمانیه ی صدایی نسبتا نزدیک شنیدیم <br><br><br>ساعت ۱۷:۰۳ محله نیلوفر، صدای شبیه موشک یا پهباد، دوبار از بالاسرمون رد شد<br>دو جای نسبتا نزدیک برخورد کرد<br><br>صدای انفجار سمت شرق منطقه هفت <br>صدای جنگنده بعد سه تا انفجار بعد صدای پدافند<br><br> ۱۲ اسفند   تهران جنت آباد مرکزی ساعت ۱۷:۰۴ صدای ۴ انفجار اومد .<br><br>ساعت ١٧:٠۵ چند انفجار دیگه غرب تهران، صدای خیلی کمی داره ولی لرزش شدیدی داره، فکر میکنم سنگر شکن باشه<br><br><br>سعادت اباد ساعت ۱۷:۰۴ صدای انفجار بدی میاد<br>حداقل پنج تا رو شنیدم<br><br><br> ۱۷.۰۲ ۱۷.۰۴ ۱۷.۰۵ موج انفجار یافت اباد هم حس شد شیشه ها تکون خورد<br><br>وحید ساعت 17:02برق رفت ۴ تا صدا مهیب اومد برق وصل شد نارمک<br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-    "date": "2026-04-01T13:51:22+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/mizangorup/69301",
-    "timestamp": 1775051482000
-  },
-  {
-    "id": "iliaen/4191",
-    "channel": "iliaen",
-    "text": "ساعت ۱۷:۱۵ چهارشنبه؛ اصابت موشک با مقر فرماندهی نیروی دریایی سپاه، شرق تهران (دو کوهه - زینبیه)@iliaen",
-    "html": "ساعت ۱۷:۱۵ چهارشنبه؛ اصابت موشک با مقر فرماندهی نیروی دریایی سپاه، شرق تهران (دو کوهه - زینبیه)<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-04-01T13:51:17+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/WtshoXlRm7zEAew1MouULeWDTMmVSU8zcpGJvasBYVS_TSTZMBFvINinQAArLqNTLf6QXQeNjJMTs_mk4QWbIHQCe49UA39ETs2ALOHVqJXWFPqfSkJX1qepwljuUixlo9IzptBDr3PXrewtKtNP-XVrvbJEgmL3NI2gngmQamkDjhkCLwHv74bH32nCnD4TDRE3rgWH4SLxGXXnP5a3fdNuZ9HG2V0nHBzLfbphBZaTf7CZhNhdYi-rxNLS-RkJ1XRWROLHoUqNjOyzHodbhWeskUbppzSBTq5d0nzSRHT5ORZv0NkD8Af_OBk8RajqrjLBrleAN4MjUNMasiDYJg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/iliaen/4191",
-    "timestamp": 1775051477000
-  },
-  {
-    "id": "mizangorup/69299",
-    "channel": "mizangorup",
-    "text": "🔴 #گزارش_شما « تهران داروپخش ساعت ۱۶ و ۳۰ صدای انفجار نشنیدم ، دیدم دود و اتیش بلند شد، اونجا روزنامه جمهوری اسلامی و چند تا شرکت دارویی هست، چند روز قبلم زده بودن همینجا رو »@mizangorup🔴 #گزارش_شما « تهران داروپخش ساعت ۱۶ و ۳۰ صدای انفجار نشنیدم ، دیدم دود و اتیش بلند شد، اونجا روزنامه جمهوری اسلامی و چند تا شرکت دارویی هست، چند روز قبلم زده بودن همینجا رو »@mizangorup",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <a href=\"?q=%23%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4_%D8%B4%D9%85%D8%A7\">#گزارش_شما</a> <br><br><br>« تهران داروپخش ساعت ۱۶ و ۳۰ صدای انفجار نشنیدم ، دیدم دود و اتیش بلند شد، اونجا روزنامه جمهوری اسلامی و چند تا شرکت دارویی هست، چند روز قبلم زده بودن همینجا رو »<br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a></div>",
-    "date": "2026-04-01T13:49:46+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/kh8nh2dUhKARblzlk17UtMorRUKMNEPf_6lUZuSkRScQUjLhwulXFIMrZs_T_QBrCWm24x_s3e-JCLnvNGIGs6SY9YSmnAUfcYYM1Lnt1D2y_BPxU0_edGU0I9tV1aQTDmV8z3wchQsBqW2_laKTa_F8tOv2djOfvBm4plCtt5_KqZEdcYJDue11UUFWuBumvfKx5UdmQkW7N3qRJqH3x7hH9GVjO0TOz8EuH8GgJWMyLT7a4uDEoQW4DmfN51FHzjg7suk3BmtHw-HMdrPevqfRfGkC-ytDxohicrbsEnvxNUCRlOa1KluooMs9OI7NcU7wGE_POsVFyj9ChAmavQ.jpg",
-      "https://cdn4.telesco.pe/file/HVrbNWLiojjfGM9SAhJejVy8HPIhnftNxGRClhgSnPgjmT-Zsjcs8Obsg3tGPCMDZGUktNjLMSbKldd9DP2VrLjsBEFQ0bXFENSdxhyU1vbjvRnkuXx_p-91cPk6sRvFjUUw_el5WSn7XzV61vW32NfEyQ9lMAqM9bCM9NiGUDhxRglU6vAEPlYHatMCg0zOo4-Q_ah1SzypHOrr5UdP6JZhvmZU_P5LHNpEhNxhDKf5U9CMQuPvtYXtW3PA9_BNYOu1W3bYHQ2PcQfSFJJSwgVRnBRdxMSsKxURSMLAZh-WwaknhHHYULmJHRvgWGKdc4laul-GnYIzGNZd2KVONA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/mizangorup/69299",
-    "timestamp": 1775051386000
-  },
-  {
-    "id": "mizangorup/69298",
-    "channel": "mizangorup",
-    "text": "🔴 ۱۷:۰۲ شرق تهران محدوده بنی هاشم دو انفجار شدییییید. فک کنم سمت سهروردی باشه. آسمون رو دود گرفته وحشتناک خورده های کاغذ سوخته و بوی شدیدی تا اینجا هم اومد@mizangorup",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> ۱۷:۰۲ شرق تهران محدوده بنی هاشم دو انفجار شدییییید. فک کنم سمت سهروردی باشه. آسمون رو دود گرفته وحشتناک خورده های کاغذ سوخته و بوی شدیدی تا اینجا هم اومد<br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-    "date": "2026-04-01T13:48:32+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/Xzq_YVA66faC8HaqwJDmOySi9SqwIq4E-oOXj63Bsc5DJBEia_b8UjeAC3rFSQP8MuBonrrvGe19i27BRE6Cz2rOX0fbwl20aD5RGNODEIfLQ0-8keykN-JAT1EyKPp3u6dXlEyugtawagIwAjVlPcxRiunJ8opbO3P_IEHiZmQhUsa6QQxGLiotIIsIomOOT3NTyQOjP9TyWppKhnfj_T0oDAcvGIz3MjWey2OaDKXFBuuyihiVkEps3CRs5fSzKWEju0XHYYbbqoLI3dyDrfD9pPZxfQLpoWR8KKioJBoyMKvihquk34Bumj-jIcrJX-Mebzva5IQDnDMTUMTpMw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/mizangorup/69298",
-    "timestamp": 1775051312000
-  },
-  {
-    "id": "VahidOnline/73887",
-    "channel": "VahidOnline",
-    "text": "تصاویر دریافتی از 'دود انفجارهای حمله ساعت ۱۷:۰۳ حوالی سید خندان #تهران'چهارشنبه ۱۲ فروردینVahid📡 @VahidOnlineتصاویر دریافتی از 'دود انفجارهای حمله ساعت ۱۷:۰۳ حوالی سید خندان #تهران'چهارشنبه ۱۲ فروردینVahid📡 @VahidOnline",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">تصاویر دریافتی از 'دود انفجارهای حمله ساعت ۱۷:۰۳ حوالی سید خندان <a href=\"?q=%23%D8%AA%D9%87%D8%B1%D8%A7%D9%86\">#تهران</a>'<br>چهارشنبه ۱۲ فروردین<br><a href=\"https://x.com/Vahid/status/2039338999454568805\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a></div>",
-    "date": "2026-04-01T13:48:17+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/FqnO863ChuNMFMSX02-PG_1HIt-B3osCd4pwmd-BqOuLpqTPBw2fWsAUZF43epMvcVoRr6hapMyY3LDdPHFe70xNmhDXbt1sgq5riNTn8D9Ef5oW7EspojMXdPRRYNTIS-bJh7SwAdawAw6kRHZ4fFt6JaVa4QlnGE3DJZxqV3z5DTxAFYWwOgRVMUcp80OxzmbX1gle3j4dt-PM5S7D3bkBSXRO2b-14uyNGvoWDQ5qWe4UdLeu5Vat0UCZchFcdw7FjWCbnk4_mk6Ug-mtYttuQ5l6RyHPkNYaY_0mYD67gnV6C-vCOz6WTO6GMFhhXbkAB3gZi1_tjx8NGcBmBA.jpg",
-      "https://cdn1.telesco.pe/file/gMG-WHxDeAAPrF1RghqEChBqen7p7gq2UV99Fxuht_hj_HQdVouKt1hw4R2PNV9TnRHRnSfqoPD3Rb-bcbhfs5RPg9HacUBY7yuDFoQVGvdbmSSmdo_77x1LvQeu5L5ftzdvBIdG6hGnc95akDEPAVdBcEyOzX2RFRC5p4Zyg1iacy6-6xwCPOulLbn5qEfUYVS2zimYj3aKGofSlQF13thmPL3SthAnsaQvwea7VWH2gxWOdYwOUIVo53DhipOrm7CiJIkBmWoDFnpt40GN8Nv1cotx2efOh9dRAfl7Vf9_LYyVk704PMks6Xv23anDt7hLQlJyQ1wM_hcQVZ0bNw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73887",
-    "timestamp": 1775051297000
-  },
-  {
-    "id": "iliaen/4190",
-    "channel": "iliaen",
-    "text": "ساعت ۱۷:۱۵ چهارشنبه؛ مشاهده دود در محدوده‌ی سیدخندان تهران@iliaen",
-    "html": "ساعت ۱۷:۱۵ چهارشنبه؛ مشاهده دود در محدوده‌ی سیدخندان تهران<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-04-01T13:47:10+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/X110eqpOMQnLzuGM2kWu0lnzQ07tpA5z8bne4DkeshTd0FrxkFGoAv8MdXa9mkGnjdtxFh1PM2mnJng9H841tXgw7_zZuA1zbij0GY_U7QWWyt3WjPeuTvEmJa8u0PRKEytgrsP_FJd7C_l6470FNAoyvNq8Fczju3s6cOkGOBhebFrgZNhMmGUt6_7jr50HdwRoDnSvdWHACOs3djymvUchgGBUiHC5R7-O1PGJEgbVffMUSl0MmqbUJGwodjLOjer2mHTGBiR4Mnvm9kmvkMA-ye6vuVH6XNcFk2GFUJh2rVwPfARBOxQnysNKvMtEjhOt1GjXQQZI9jY2I4rotQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/iliaen/4190",
-    "timestamp": 1775051230000
-  },
-  {
-    "id": "iliaen/4189",
-    "channel": "iliaen",
-    "text": "ساعت ۱۷:۱۵ چهارشنبه؛ مشاهده دود در جنوب تهران (شهرری)@iliaen",
-    "html": "ساعت ۱۷:۱۵ چهارشنبه؛ مشاهده دود در جنوب تهران (شهرری)<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-04-01T13:45:31+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/CqvQyjuQRQF9zxJPAohRa_wDUBYomkYY59hlyBO6_4q0gurhvWL7u5XzUdD0iSqudRnJ94M40TNnwexqcsR9i8YDuBFH6pN2x_fqqYh5yVH4vL-q-mrHhvZLoT7gWZVYtr97PVttTiKm4a1iQhN6TkaXqj3Rsunrqh_mOqwlKV_mzkNUtWuPatLXhnuQ70nJhzmL6Q_FHQi1l_cjgBn4iapiwpen9NHlCXsyafq_O1qy4zB0u91wP9QYgMZhjquK5cRbxMFjrJMd9Hs-yOR8zoLzjyBPidGZcJbwlhNI-In17aoTA5LBxRy9ZAd_Ii39tQUiPeCIEp0dvvpknqKWUw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/iliaen/4189",
-    "timestamp": 1775051131000
-  },
-  {
-    "id": "iliaen/4187",
-    "channel": "iliaen",
-    "text": "ساعت ۱۷:۱۰ چهارشنبه؛ مشاهده دود عظیم در غرب تهران (محدوده‌ی روی نقشه - احتمالاً ساختمان سازمان اطلاعات)@iliaenساعت ۱۷:۱۰ چهارشنبه؛ مشاهده دود عظیم در غرب تهران (محدوده‌ی روی نقشه - احتمالاً ساختمان سازمان اطلاعات)@iliaen",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">ساعت ۱۷:۱۰ چهارشنبه؛ مشاهده دود عظیم در غرب تهران (محدوده‌ی روی نقشه - احتمالاً ساختمان سازمان اطلاعات)<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a></div>",
-    "date": "2026-04-01T13:44:00+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/Nf2vZ2KdgqjxUso1b4koS3sL_22HzPrWuCcsBvJ4-IVNlXEFe6YkowqPSofCjhee75rTYxIvBGUUpsiFt0caaSouMvnEElV905SYyi751sCtmVa6RIoSnFE6tkgY1w513PV722X5-R5DGIMC-LhPJ040SxyksfNFtzpfRmKeESYcpmRs5ne-P7_98bkWO2p7zoJHOKhXyhjVmwBCStFi1471UmfdXcrYJs3kvzG-n7cnU9g5aHWPqiLXlHAKy2x592weN8NP3NXbRddbIxkOmpEZ3MPbzXRrwCzhVpo_CV1jtlMFmw55CYzZbyN268AzjwP-EqWZe0CzpzQiWMr-MA.jpg",
-      "https://cdn1.telesco.pe/file/dlS5KBMpgmb7l-S8cfEVuwZYxz_NkqUi88NTeWeK_KMW6e2VBVDqWJwrDk3i4npuDajgw-zCbCOLFmfeBvFFi5yHLxxH8PIwMLYBqWOEFhf0Fq4KhG_kkSV8OHzMLV4xHCR0bhFAvw65AZ8tuEFaQFpAYbCML3PpJfinIXCMxOiZ_26TQpHRpYD0EWWXhi5qUmCjjwyfOQR4ES6p94WcWFFuhlzPVeXFcHI63dRf7r77pGf_vOFE_LqhWAPFCaGXB9MfQRDCz10Vih9WzBKje4bqgblfr6wNR9WDXmaDiyOkgNFRRXtnNdk3l-3yrvS25HMyEHgri5wLZ9fqPOMoKw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/iliaen/4187",
-    "timestamp": 1775051040000
-  },
-  {
-    "id": "VahidOnline/73886",
-    "channel": "VahidOnline",
-    "text": "بنا بر پیام‌های دریافتی از شهروندان حدود ساعت ۱۷ نقاطی در شرق و غرب #تهران هدف قرار گرفتند.عکس دریافتی از سمت 'دریاچه چیتگر ۱۷:۰۶ چهارشنبه ۱۲ فروردین'Vahid📡 @VahidOnline",
-    "html": "بنا بر پیام‌های دریافتی از شهروندان حدود ساعت ۱۷ نقاطی در شرق و غرب <a href=\"?q=%23%D8%AA%D9%87%D8%B1%D8%A7%D9%86\">#تهران</a> هدف قرار گرفتند.<br>عکس دریافتی از سمت 'دریاچه چیتگر ۱۷:۰۶ چهارشنبه ۱۲ فروردین'<br><a href=\"https://x.com/Vahid/status/2039337841533026447\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-04-01T13:43:47+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/eIGeyTPfBKLQdFKxGYZGt5IBwilJPynbReMv0wKPoBJWnSwqXZvwXj8AY--RzUsSPFoDMeYwxvTMwXhwmPEte9erzz6ExIrX1ndEGFIBiKlLGZfVEO3Mjc6JSPKb4qjUP_XqKDQPFeMvbPi_4jzxyHpVv_V8SaVBjYjVTI88BvHajou8ZE_NEmswl0-7ZWggqZ7-o7912FWgEQASYuH5J9wHqaacWfMnwh6r3i8opFhzCFfA30ehJDAiwiXMw_HLLActOishWIia9YT2g7S_XLwBrZNN2mhz7F9pFi_B5ly3C-9QpBbd8eByhYKh2HbRZNMn8AcGOBfKlO-LqaDbfg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73886",
-    "timestamp": 1775051027000
-  },
-  {
-    "id": "iliaen/4186",
-    "channel": "iliaen",
-    "text": "ساعت ۱۷:۰۵ چهارشنبه؛ مشاهده دود در سمت لویزان@iliaen",
-    "html": "ساعت ۱۷:۰۵ چهارشنبه؛ مشاهده دود در سمت لویزان<br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-04-01T13:37:59+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/OCl7pyVNrmLGbLMWIFEIsykHsQF-Xk0tBRb8J1bsuqWZ3KyvmecuEFGYTjeMzZp_fADblmDQlI99SP1sUa2aAvzGzo8gSVaazaPzKuOaKVW34ajN20T2T_BBbRarZ7lwXwq_uuuTURV06ZcSG-dTjnISOiz6_o4_1NAF5PL4-qCTjCw3jqW0xSEmtr-sG3vkvg_L-6qJnkXFj1edn5VxnPKPKvSJisY_iwPOScrzgqE8rfPzt1J-VL6_Woopm3M__CMVlzmvPmSH1TteiE4VGfHiyfhvKfXTvNf0CzYzw-uMsFGIve6O7eWdczv0CcF232Q-GpxT2jyCoxARG0QUUA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/iliaen/4186",
-    "timestamp": 1775050679000
-  },
-  {
-    "id": "worldsmoments/91600",
-    "channel": "worldsmoments",
-    "text": "صدای انفجار در تهرانخیلی وحشتناک بود 🤲",
-    "html": "صدای انفجار در تهران",
-    "date": "2026-04-01T13:36:05+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/91600",
-    "timestamp": 1775050565000
-  },
-  {
-    "id": "worldsmoments/91599",
-    "channel": "worldsmoments",
-    "text": "صدای انفجار در تهران",
-    "html": "صدای انفجار در تهران",
-    "date": "2026-04-01T13:35:15+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/91599",
-    "timestamp": 1775050515000
-  },
-  {
-    "id": "IranintlTV/329326",
-    "channel": "IranintlTV",
-    "text": "دونالد ترامپ روز چهارشنبه در مصاحبه با رویترز گفت آمریکا «خیلی سریع از ایران خارج خواهد شد» و در صورت لزوم می‌تواند برای «حملات نقطه‌ای» بازگردد.او افزود جمهوری اسلامی سلاح هسته‌ای نخواهد داشت، و حتی خودشان هم چنین چیزی نمی‌خواهند. ما شاهد یک تغییر کامل رژیم در ایران بوده‌ایم.ترامپ با انتقاد از عملکرد ناتو گفت «قطعا» در حال بررسی خروج ایالات متحده از این ائتلاف نظامی است.https://iranintl.com/202604012498",
-    "html": "دونالد ترامپ روز چهارشنبه در مصاحبه با رویترز گفت آمریکا «خیلی سریع از ایران خارج خواهد شد» و در صورت لزوم می‌تواند برای «حملات نقطه‌ای» بازگردد.<br>او افزود جمهوری اسلامی سلاح هسته‌ای نخواهد داشت، و حتی خودشان هم چنین چیزی نمی‌خواهند. ما شاهد یک تغییر کامل رژیم در ایران بوده‌ایم.<br>ترامپ با انتقاد از عملکرد ناتو گفت «قطعا» در حال بررسی خروج ایالات متحده از این ائتلاف نظامی است.<br><a href=\"https://iranintl.com/202604012498\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202604012498</a>",
-    "date": "2026-04-01T13:35:10+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/lb2WF6gIPeu26kRvptSO2WNuENu5P6JMOkAgfxEy9h2DlaKX79wzU7ToYpOK0CJmrA-7mMmVp95RMQlM-8cEH5F08_u8VEyN-557i9c7oNUdUBCwiANlMQNSoXy5LeOpWuDx-PcwLqRcJcho3dVfHmmVjKPPpt0n2vnvwglLnsQyxRFT3kdM7bQuDA3Sz2Ip4tanl9VE-Rl3xwj5oXQQ7dEX_UqYtDBhkFxNgQBDAv0RvFIqn9v0c5bGO_vb0fpdioKgWbWVsew_O0bEvZkXjy1s2gIoVNQyO_8ZHlZyEaDGYrxS0nG6E8US70L52o-YBH6wRzwR-EINX500Nz4o-A.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/329326",
-    "timestamp": 1775050510000
-  },
-  {
-    "id": "iliaen/4185",
-    "channel": "iliaen",
-    "text": "ساعت ۱۶:۵۹ چهارشنبه؛ چند انفجار در غرب تهران شنیده شد.@iliaen",
-    "html": "ساعت ۱۶:۵۹ چهارشنبه؛ چند انفجار در غرب تهران شنیده شد.<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-04-01T13:34:32+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/iliaen/4185",
-    "timestamp": 1775050472000
-  },
-  {
-    "id": "VahidOnline/73885",
-    "channel": "VahidOnline",
-    "text": "وحید همین الان صدای جنگنده میاد از اسمون قزوین خیلی زیاد16:54سلام ساعت ۱۶:۵۸ جنگنده از طالقان رد شد پنج تا به سمت تهرانانفجار غرب تهران، به نظرم دو سه تا باهم بودساعت ۱۷:۰۱ انفجار مهیب با لرزش در تهرانسرخیابان جلفا (بالای سیدخندان) صدای ۱ انفجار  اومد، به نظر نزدیک بود.قبلشم صدای جنگنده اومد ۱۷:۰۲5:02 چند تا انفجار پشت سر هم و نزدیک شهرک اکباتانتهرانپارسهمین الان صدای دو تا انفجاروحید مجیدیه صدای جت و انفجار شدید۱۷:۰۳ دو انفجار سنگین جنوب شرق تهرانشرق داره میزنه چند انفجار سنگینساعت ۱۷:۰۲ نارمک دوتا صدای انفجارصداي انفجار سمت جنت اباددوبارهوحید ساعت ۵:۰۲ عصر ۱۲ فروردین غرب رو زد جنت اباد لرزید به شدتساعت ١٧:٠٣ چهارشنبه صدای چند انفجار و لرزش شدید غرب تهرانهمین الان داره میزنه، تهران، میرداماد، ۱۷ساعت ۱۷:۰۲ دقیقه صدای انفجار در سمت شمال شرق تهرانتهران، لویزان، شیان. سه، چهار تا صدای انفجار نسبتا دور و با فاصله زمانی از هم. ساعت ۱۷:۰۳وحید سمت سهروردی رو به شدت داره میزنه17:03 هروی صدای انفجار  دور امداطراف هفت حوض رو زد. ساعت ۱۷:۰۳چندتا انفحار۵  انفجار ساعت ١٧:٣ دقيقه غرب تهران بسيار سهمگينسمت صادقیه ام یه صدای انفجار از دور اومد ساعت ۱۷:۰۲پدافند فعال شدهوحید جان سلام 17:04 دقیقه غرب تهران ۷-۸ انفجار بسیار شدیدشهران ، تهران همین الان بالای ۷ تا انفجار شدید ۱۷:۰۰سمت شهرک راه آهن تهران دریاچه چیتگر دارن خیلی بد میزنن ساعت 17:04سلام دست کم 10 انفجار غرب تهرانساعت ۱۷:۰۴: صدای انفجار شدید - تهران آزادی۱۷:۰۳ انفجار و لرزش سمت اقدسیه، صدای جنگنده خیلی نزدیک بودهمین الان ساعت ۱۷ از یافت اباد تهران صدای سه انفجار و پرواز جنگنده۲تا انفجار شدید از سهروردی شنیدیم ۵:۰۴جنت اباد مرکزی تو ۴ دقیقه صدای ۸ تا انفجار اومدساعت ۵.۰۴ شهرک اکباتان ۶ تا انفجارتهرانسر: ساعت ۱۷:۰۴ / ۴ انفجار مهیب دیگه شنیده شد، هر جا هست بدجور داره میزنه، فکر کنم سمت دریاچه باشه۲ تا دیگه هم زد غرب تهرانسلام سمت هروی همین الان صدای ۴ تا انفجار اومد ساعت ۱۷:۰۲۵:۴  فرمانیه ی صدایی نسبتا نزدیک شنیدیم ساعت ۱۷:۰۳ محله نیلوفر، صدای شبیه موشک یا پهباد، دوبار از بالاسرمون رد شددو جای نسبتا نزدیک برخورد کردصدای انفجار سمت شرق منطقه هفت صدای جنگنده بعد سه تا انفجار بعد صدای پدافندوحید ۱۲ اسفند   تهران جنت آباد مرکزی ساعت ۱۷:۰۴ صدای ۴ انفجار اومد .ساعت ١٧:٠۵ چند انفجار دیگه غرب تهران، صدای خیلی کمی داره ولی لرزش شدیدی داره، فکر میکنم سنگر شکن باشهسعادت اباد ساعت ۱۷:۰۴ صدای انفجار بدی میادحداقل پنج تا رو شنیدموحید ۱۷.۰۲ ۱۷.۰۴ ۱۷.۰۵ موج انفجار یافت اباد هم حس شد شیشه ها تکون خوردوحید ساعت 17:02برق رفت ۴ تا صدا مهیب اومد برق وصل شد نارمک📡 @VahidOnline",
-    "html": "وحید همین الان صدای جنگنده میاد از اسمون قزوین خیلی زیاد16:54<br><br>سلام ساعت ۱۶:۵۸ جنگنده از طالقان رد شد پنج تا به سمت تهران<br><br>انفجار غرب تهران، به نظرم دو سه تا باهم بود<br><br>ساعت ۱۷:۰۱ انفجار مهیب با لرزش در تهرانسر<br><br>خیابان جلفا (بالای سیدخندان) صدای ۱ انفجار  اومد، به نظر نزدیک بود.<br>قبلشم صدای جنگنده اومد ۱۷:۰۲<br><br>5:02 چند تا انفجار پشت سر هم و نزدیک شهرک اکباتان<br><br>تهرانپارس<br>همین الان صدای دو تا انفجار<br><br>وحید مجیدیه صدای جت و انفجار شدید<br><br>۱۷:۰۳ دو انفجار سنگین جنوب شرق تهران<br><br>شرق داره میزنه چند انفجار سنگین<br><br><br>ساعت ۱۷:۰۲ نارمک دوتا صدای انفجار<br><br>صداي انفجار سمت جنت اباد<br>دوباره<br><br>وحید ساعت ۵:۰۲ عصر ۱۲ فروردین <br>غرب رو زد جنت اباد لرزید به شدت<br><br>ساعت ١٧:٠٣ چهارشنبه صدای چند انفجار و لرزش شدید غرب تهران<br><br>همین الان داره میزنه، تهران، میرداماد، ۱۷<br><br>ساعت ۱۷:۰۲ دقیقه صدای انفجار در سمت شمال شرق تهران<br><br>تهران، لویزان، شیان. سه، چهار تا صدای انفجار نسبتا دور و با فاصله زمانی از هم. ساعت ۱۷:۰۳<br><br>وحید سمت سهروردی رو به شدت داره میزنه<br><br>17:03 هروی صدای انفجار  دور امد<br><br>اطراف هفت حوض رو زد. ساعت ۱۷:۰۳<br>چندتا انفحار<br><br>۵  انفجار ساعت ١٧:٣ دقيقه غرب تهران بسيار سهمگين<br><br>سمت صادقیه ام یه صدای انفجار از دور اومد ساعت ۱۷:۰۲<br>پدافند فعال شده<br><br>وحید جان سلام 17:04 دقیقه غرب تهران ۷-۸ انفجار بسیار شدید<br><br>شهران ، تهران <br>همین الان بالای ۷ تا انفجار شدید ۱۷:۰۰<br><br><br>سمت شهرک راه آهن تهران دریاچه چیتگر دارن خیلی بد میزنن ساعت 17:04<br><br>سلام دست کم 10 انفجار غرب تهران<br><br>ساعت ۱۷:۰۴: صدای انفجار شدید - تهران آزادی<br><br><br>۱۷:۰۳ انفجار و لرزش سمت اقدسیه، صدای جنگنده خیلی نزدیک بود<br><br>همین الان ساعت ۱۷ <br>از یافت اباد تهران صدای سه انفجار <br>و پرواز جنگنده<br><br>۲تا انفجار شدید از سهروردی شنیدیم ۵:۰۴<br><br>جنت اباد مرکزی تو ۴ دقیقه صدای ۸ تا انفجار اومد<br><br>ساعت ۵.۰۴ شهرک اکباتان ۶ تا انفجار<br><br>تهرانسر: ساعت ۱۷:۰۴ / ۴ انفجار مهیب دیگه شنیده شد، هر جا هست بدجور داره میزنه، فکر کنم سمت دریاچه باشه<br><br>۲ تا دیگه هم زد غرب تهران<br><br>سلام سمت هروی همین الان صدای ۴ تا انفجار اومد ساعت ۱۷:۰۲<br><br><br>۵:۴  فرمانیه ی صدایی نسبتا نزدیک شنیدیم <br><br><br>ساعت ۱۷:۰۳ محله نیلوفر، صدای شبیه موشک یا پهباد، دوبار از بالاسرمون رد شد<br>دو جای نسبتا نزدیک برخورد کرد<br><br>صدای انفجار سمت شرق منطقه هفت <br>صدای جنگنده بعد سه تا انفجار بعد صدای پدافند<br><br>وحید ۱۲ اسفند   تهران جنت آباد مرکزی ساعت ۱۷:۰۴ صدای ۴ انفجار اومد .<br><br>ساعت ١٧:٠۵ چند انفجار دیگه غرب تهران، صدای خیلی کمی داره ولی لرزش شدیدی داره، فکر میکنم سنگر شکن باشه<br><br><br>سعادت اباد ساعت ۱۷:۰۴ صدای انفجار بدی میاد<br>حداقل پنج تا رو شنیدم<br><br><br>وحید ۱۷.۰۲ ۱۷.۰۴ ۱۷.۰۵ موج انفجار یافت اباد هم حس شد شیشه ها تکون خورد<br><br>وحید ساعت 17:02برق رفت ۴ تا صدا مهیب اومد برق وصل شد نارمک<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-04-01T13:34:01+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73885",
-    "timestamp": 1775050441000
-  },
-  {
-    "id": "IranintlTV/329325",
-    "channel": "IranintlTV",
-    "text": "صفحه «وحید آنلاین» ۱۲ فروردین ویدیویی منتشر کرد که شلیک پرتابه از پایگاه موشکی پشت پارک کوهستان یزد در صبح چهارشنبه را نشان می‌دهد.",
-    "html": "صفحه «وحید آنلاین» ۱۲ فروردین ویدیویی منتشر کرد که شلیک پرتابه از پایگاه موشکی پشت پارک کوهستان یزد در صبح چهارشنبه را نشان می‌دهد.",
-    "date": "2026-04-01T13:33:54+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/329325",
-    "timestamp": 1775050434000
-  },
-  {
-    "id": "IranintlTV/329324",
-    "channel": "IranintlTV",
-    "text": "در بخشی از یک برنامه صداوسیمای جمهوری اسلامی، محمدجعفر خسروی، مجری، با تایید مخفی شدن مقام‌های حکومت در خانه‌های امن میان شهروندان عادی، از مردم می‌خواهد که در صورت دیدن آن‌ها، محل اختفا را افشا نکنند در غیر این صورت «تمامه» و هدف قرار خواهند گرفت.",
-    "html": "در بخشی از یک برنامه صداوسیمای جمهوری اسلامی، محمدجعفر خسروی، مجری، با تایید مخفی شدن مقام‌های حکومت در خانه‌های امن میان شهروندان عادی، از مردم می‌خواهد که در صورت دیدن آن‌ها، محل اختفا را افشا نکنند در غیر این صورت «تمامه» و هدف قرار خواهند گرفت.",
-    "date": "2026-04-01T13:33:01+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/329324",
-    "timestamp": 1775050381000
-  },
-  {
-    "id": "IranintlTV/329323",
-    "channel": "IranintlTV",
-    "text": "ویدیوی رسیده به ایران‌اینترنشنال در چهارشنبه ۱۲ فروردین، برخاستن دود انفجار را در حوالی آران و بیدگل نشان می‌دهد. بر اساس گفته شهروندان، پادگان کبریایی هدف حمله قرار گرفته است.",
-    "html": "ویدیوی رسیده به ایران‌اینترنشنال در چهارشنبه ۱۲ فروردین، برخاستن دود انفجار را در حوالی آران و بیدگل نشان می‌دهد. بر اساس گفته شهروندان، پادگان کبریایی هدف حمله قرار گرفته است.",
-    "date": "2026-04-01T13:32:54+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/329323",
-    "timestamp": 1775050374000
-  },
-  {
-    "id": "VahidOnline/73881",
-    "channel": "VahidOnline",
-    "text": "ویدیوی دریافتی با شرح: 'وسط ناهار خوردنمون #آران_و_بیدگل رو زدند. سه تا بمب انداخت جنگنده‌ای که اومد و رفت. ساعت ۱۴:۳۴ ویدیوی ۵ مگاباتی رو فرستادم الان که ۱۴:۵۵ دقیقه است ارسالش تموم شده. می‌خوام بگم چقدر دسترسی به اینترنت سخته و من برای وی‌پی‌ان سه میلیون تومن پول دادم.' Vahidتصاویر و پیام‌های دیگر:کاشان ساعت ۱۴:۱۰دقیقه سمت راوندسلام وحید کاشان 14:15 دقیقهشهرک صنعتی سمت جاده کاشان-اصفهان رو زدنیکی هم تو جاده راوند زدن.14:18 به نظر میاد فولاد سپید سراب کویر سمت آران و بیدگل رو زدن📡 @VahidOnlineویدیوی دریافتی با شرح: 'وسط ناهار خوردنمون #آران_و_بیدگل رو زدند. سه تا بمب انداخت جنگنده‌ای که اومد و رفت. ساعت ۱۴:۳۴ ویدیوی ۵ مگاباتی رو فرستادم الان که ۱۴:۵۵ دقیقه است ارسالش تموم شده. می‌خوام بگم چقدر دسترسی به اینترنت سخته و من برای وی‌پی‌ان سه میلیون تومن پول دادم.' Vahidتصاویر و پیام‌های دیگر:کاشان ساعت ۱۴:۱۰دقیقه سمت راوندسلام وحید کاشان 14:15 دقیقهشهرک صنعتی سمت جاده کاشان-اصفهان رو زدنیکی هم تو جاده راوند زدن.14:18 به نظر میاد فولاد سپید سراب کویر سمت آران و بیدگل رو زدن📡 @VahidOnline",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">ویدیوی دریافتی با شرح: 'وسط ناهار خوردنمون <a href=\"?q=%23%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84\">#آران_و_بیدگل</a> رو زدند. سه تا بمب انداخت جنگنده‌ای که اومد و رفت. ساعت ۱۴:۳۴ ویدیوی ۵ مگاباتی رو فرستادم الان که ۱۴:۵۵ دقیقه است ارسالش تموم شده. می‌خوام بگم چقدر دسترسی به اینترنت سخته و من برای وی‌پی‌ان سه میلیون تومن پول دادم.' <br><a href=\"https://x.com/Vahid/status/2039334753594187867\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br>تصاویر و پیام‌های دیگر:<br>کاشان ساعت ۱۴:۱۰دقیقه سمت راوند<br><br>سلام وحید کاشان 14:15 دقیقه<br>شهرک صنعتی سمت جاده کاشان-اصفهان رو زدن<br>یکی هم تو جاده راوند زدن.<br><br>14:18 به نظر میاد فولاد سپید سراب کویر سمت آران و بیدگل رو زدن<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a></div>",
-    "date": "2026-04-01T13:32:46+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/IJr1nAF64SuvgSEAFX6s4oZxvQue8oPY9XLZZRNIbRasxhI0qTDArvh_SqE_xvWoFVlUCp0kzy2t1KY1Gp_q0kK5o09M3fyp1ld3SkUYVCRNQKbEAVrRJLHHYT6adaDH7rlyVfLjaf-mOZr1FdLgdwE_vVR_jnJ2xJj6lTpt6LlUuAP5UuvgmX6qa1_SxvOb2ui-GouvXL-Re7tIS0nihxlguXGIDKBxASZtLC0gjF8HOZi_JmZUGsDiKVUZSYmXnpPkZD5l6KoQ3pXiT3MALhq3t1xQSJoHznUZqvZEVM6u47tyKiX49Ysx6e9cNn7QHydbOrIuX1pDnAbhc_qDNw.jpg",
-      "https://cdn1.telesco.pe/file/RA3opLtkw0kOmLEEGScS5wwuByMLF_M0HIVAd4MFDENzIRenHWo_3xoIg0qmQXSZ5fy96Gq1Yj9jK2yX1uDLqW1aGo1_PMSPz2IhH0JbRvfGaCn3fSYmv_fny2fwoEF6iK1HSed4-pJ_th-x7ZpApWBRPEfN9QJcasKIWIbSlcqUe73kDjBCB2pRoPrajgG3aY-UDLEULvLZtAanlkA-w2jMOW72yH4s7KxKolyGwY3Ud70zNm2RwtZ1CJHgxi2PHU6wVNmKCrNk6k_80CqKb-ildOd_oQrVkBiKbi-6M2m2NPsR2SsK0Y4IREfN16xdhWbEBZ9OalxuiogGYRSy3Q.jpg",
-      "https://cdn1.telesco.pe/file/ZRICzhLGIFzej-64uJuDytOYPFaR0MenLKC4TaOi4OKEyQ13FTs6wguwLP4qmOi2zSq_ua5MuTcHYhJ98DjJpVhnm5Co39Z8PTHIjeKvPZAlUkRMXi7dAnAi4Y_Z2ysm7btdiXAhh-L0HK9-ctgmF4LhqR5qP8O9GijT3UjGUx8jPD5yqBOf-DmeUmAKDd_B9dv0ZqhRfDTmJ7WnoeJdYGVHECyF1QfXitA_saP4gBodvj8qKEP13lYhBqHeQ_HiQUQEq6sqjV2cJArwC8IpftVVAWqgQHuhXqr-cNWjVmtlItnX7qrlmC5PlzQwfMjgmr45xxcNrjjk7ENYbAJGrg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73881",
-    "timestamp": 1775050366000
-  },
-  {
-    "id": "NetAccount/16706",
-    "channel": "NetAccount",
-    "text": "لایو امروز مراد ویسی (چهارشنبه 12 فروردین | حجم = 6 مگ)عنوان لایو:جنگ نفتکش ها در خلیج فارس/ کودتای مخفی سپاه علیه پزشکیانلینک داخلی بدون فیلتر | لینک یوتیوب",
-    "html": "لایو امروز مراد ویسی (چهارشنبه 12 فروردین | حجم = 6 مگ)<br><br>عنوان لایو:<br>جنگ نفتکش ها در خلیج فارس/ کودتای مخفی سپاه علیه پزشکیان<br><br><a href=\"http://guardnet.ir/f/7b95ab0e53c0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک داخلی بدون فیلتر</a> | <a href=\"https://www.youtube.com/watch?v=1kfIN4MRDEc\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک یوتیوب</a>",
-    "date": "2026-04-01T13:24:04+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "جنگ نفتکش ها در خلیج فارس/ کودتای مخفی سپاه علیه پزشکیان",
-        "size": "Morad Vaisi | مراد ویسی"
-      }
-    ],
-    "link": "https://t.me/NetAccount/16706",
-    "timestamp": 1775049844000
-  },
-  {
-    "id": "VahidOnline/73879",
-    "channel": "VahidOnline",
-    "text": "تصاویر دریافتی: 'شلیک موشک از پایگاه موشکی پشت پارک کوهستان #یزد، ساعت ۹:۲۵  چهارشنبه ۱۲ فروردین'Vahid📡 @VahidOnlineتصاویر دریافتی: 'شلیک موشک از پایگاه موشکی پشت پارک کوهستان #یزد، ساعت ۹:۲۵  چهارشنبه ۱۲ فروردین'Vahid📡 @VahidOnline",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">تصاویر دریافتی: 'شلیک موشک از پایگاه موشکی پشت پارک کوهستان <a href=\"?q=%23%DB%8C%D8%B2%D8%AF\">#یزد</a>، ساعت ۹:۲۵  چهارشنبه ۱۲ فروردین'<br><a href=\"https://x.com/Vahid/status/2039332528964698304\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a></div>",
-    "date": "2026-04-01T13:23:08+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73879",
-    "timestamp": 1775049788000
-  },
-  {
-    "id": "newscenter/61141",
-    "channel": "newscenter",
-    "text": "اخبار فوررری جنگ رو از این چنل دنبال کنید👇👇  https://t.me/+eonltDAEXrYwNTA0ما همچنان اینترنت درستی برای پوشش اخبار نداریم میتونید اینجا وضعیت جنگ رو دنبال کنید👇https://t.me/+eonltDAEXrYwNTA0",
-    "html": "اخبار فوررری جنگ رو از این چنل دنبال کنید<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i>  https://t.me/+eonltDAEXrYwNTA0",
-    "date": "2026-04-01T13:21:55+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/61141",
-    "timestamp": 1775049715000
-  },
-  {
-    "id": "VahidOnline/73877",
-    "channel": "VahidOnline",
-    "text": "بنا بر پیام‌های دریافتی از شهروندان امروز حدود ساعت ۱۲:۳۰ شهرک صنعتی در #میانه هدف قرار گرفت.شاید نقاط دیگری هم هدف حمله بودند و ساعتی بعد هم دوباره حمله شده باشه.از روی پیام‌ها برام قابل تشخیص نیست.عکس دوم رو با شرح هدف قرار گرفتن یک لانچر فرستادند.چهارشنبه ۱۲ فروردینVahid📡 @VahidOnlineبنا بر پیام‌های دریافتی از شهروندان امروز حدود ساعت ۱۲:۳۰ شهرک صنعتی در #میانه هدف قرار گرفت.شاید نقاط دیگری هم هدف حمله بودند و ساعتی بعد هم دوباره حمله شده باشه.از روی پیام‌ها برام قابل تشخیص نیست.عکس دوم رو با شرح هدف قرار گرفتن یک لانچر فرستادند.چهارشنبه ۱۲ فروردینVahid📡 @VahidOnline",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">بنا بر پیام‌های دریافتی از شهروندان امروز حدود ساعت ۱۲:۳۰ شهرک صنعتی در <a href=\"?q=%23%D9%85%DB%8C%D8%A7%D9%86%D9%87\">#میانه</a> هدف قرار گرفت.<br>شاید نقاط دیگری هم هدف حمله بودند و ساعتی بعد هم دوباره حمله شده باشه.از روی پیام‌ها برام قابل تشخیص نیست.<br>عکس دوم رو با شرح هدف قرار گرفتن یک لانچر فرستادند.<br>چهارشنبه ۱۲ فروردین<br><a href=\"https://x.com/Vahid/status/2039331846228476326\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Vahid</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a></div>",
-    "date": "2026-04-01T13:20:03+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/XD1JDupgyuqMpEkjL56v3TplOfGYsyxDEsgEVzNEd6_5y1Cgz44S6mNmSCbSnmCJBu5jfisUJ4IYXOg48l799i3G_20ipspUbnfwgIOM5zNlBean8MvLh4fgPjNiqfQ7fWiEqVTLQFmKE205b5pSIMS9BkTLtplVCdOVCMfyjyR-O7qTLd9DN967GX79zT1cCJ-iX8NNvSs00OxpCjdFmdoiMjUBqpJxB2iQppiTX_1mkaQcr_iAxlKQbBqbJHEUpDKgfCz5WOsYA6y_ON9c9m5C58FbDgbG17qPwHRO9Unafk__Fuk8U-hNtJ3Bdf5u34io2hp1-uUcNUeyleqMFA.jpg",
-      "https://cdn1.telesco.pe/file/I77QBcY3cCj7NCzrbdzHGOrB9rBSG-IHjFLd1UgMD1eO56O90schiE4jO4btl0wbyJ-HGpYRZRdAZiuNNAeEBTLijYFM_jX8YNHsPYmDqK_m1TFG1LSU0Jj_Q5AcRnm1LFkewjomYgFim8H7HG-jUr1Y18UTaflbwq_sj0Vuj2Xoqoqu0wMtwtuDzfxDQI81_BVbhcNrsPJsmxpN5tY99pTrobSMnY_qEI0jxkwAFZMNolsP3ndPnpXQZOf_9ysi55H0VVCDI5Wy4nJdVkalNm7esoxMddGH5cD9WyUpLBp2APt7EMalrb8SBiUhQs5ta2rqZ1Ol6fbIY8g3Pj-DEA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73877",
-    "timestamp": 1775049603000
-  },
-  {
-    "id": "mizangorup/69297",
-    "channel": "mizangorup",
-    "text": "🔴 پست تازه ترامپ:رئیس‌جمهور رژیم جدید ایران، که در مقایسه با پیشینیان خود بسیار کمتر رادیکال و به مراتب هوشمندتر است، لحظاتی پیش از ایالات متحده آمریکا درخواست «آتش‌بس» کرد!ما تنها زمانی این درخواست را بررسی خواهیم کرد که تنگه هرمز کاملاً باز، آزاد و ایمن باشد. تا آن زمان، ما به در هم کوبیدن ایران تا مرز نابودی یا به قول معروف، بازگرداندن آن‌ها به «عصر حجر» ادامه خواهیم داد!!!— رئیس‌جمهور دی.جی.تی (دونالد جی ترامپ)realDonaldTrump@mizangorup",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> پست تازه ترامپ:<br>رئیس‌جمهور رژیم جدید ایران، که در مقایسه با پیشینیان خود بسیار کمتر رادیکال و به مراتب هوشمندتر است، لحظاتی پیش از ایالات متحده آمریکا درخواست «آتش‌بس» کرد!<br><br>ما تنها زمانی این درخواست را بررسی خواهیم کرد که تنگه هرمز کاملاً باز، آزاد و ایمن باشد. تا آن زمان، ما به در هم کوبیدن ایران تا مرز نابودی یا به قول معروف، بازگرداندن آن‌ها به «عصر حجر» ادامه خواهیم داد!!!<br><br>— رئیس‌جمهور دی.جی.تی (دونالد جی ترامپ)<br><a href=\"https://truthsocial.com/@realDonaldTrump/posts/116329512466946656\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">realDonaldTrump</a><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
-    "date": "2026-04-01T13:18:52+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/aSp1sX6JR1ejvjwogsXfydpJO5cXcclC79f3bN6NgAr18pdDSA-mh9HQ801W6gsPnxYLHUwtcPlPbY-z9qf7f5OcEo8jEeaS7YJ_Wkko7-Q2gWRq-EyJZnHxyEsVInfh_9qthdNplxYZIVztLLOy1Rw2gU0EKId9E16lRWzu5fRZFnQSRB8_ccyyUn32SY5AKGm3gpsjO48TmnkvtNRmrhEkS2_HpfMIejNkU0APkW7Bm7Ci1ECoYjMO0GmHYYKZrKcIrgFtrJwJk2yHmTkFIIB9Z5KWRPKMoT3I6zlyWc_iMx4wSqE0Po5WDio-RQ-MvHIZ8sFf79A529QxMykTyQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/mizangorup/69297",
-    "timestamp": 1775049532000
-  },
-  {
-    "id": "MatinSenPaii/2482",
-    "channel": "MatinSenPaii",
-    "text": "دوستان ما به یکی نیاز داریم که:۱- خارج از کشور باشه۲- ایرانی باشه۳- توی ایران، اکانت احراز هویت شده توی یکی از سایت‌های هاستینگ داشته باشه۴- سرور بیکار هم داشته باشه چه بهتر    به بنده پیام بدید: @UmiDev",
-    "html": "دوستان ما به یکی نیاز داریم که:<br>۱- خارج از کشور باشه<br>۲- ایرانی باشه<br>۳- توی ایران، اکانت احراز هویت شده توی یکی از سایت‌های هاستینگ داشته باشه<br>۴- سرور بیکار هم داشته باشه چه بهتر<br>    به بنده پیام بدید: <a href=\"https://t.me/UmiDev\" target=\"_blank\">@UmiDev</a>",
-    "date": "2026-04-01T13:12:53+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/MatinSenPaii/2482",
-    "timestamp": 1775049173000
-  },
-  {
-    "id": "VahidOnline/73876",
-    "channel": "VahidOnline",
-    "text": "پست تازه ترامپ:رئیس‌جمهور رژیم جدید ایران، که در مقایسه با پیشینیان خود بسیار کمتر رادیکال و به مراتب هوشمندتر است، لحظاتی پیش از ایالات متحده آمریکا درخواست «آتش‌بس» کرد!ما تنها زمانی این درخواست را بررسی خواهیم کرد که تنگه هرمز کاملاً باز، آزاد و ایمن باشد. تا آن زمان، ما به در هم کوبیدن ایران تا مرز نابودی یا به قول معروف، بازگرداندن آن‌ها به «عصر حجر» ادامه خواهیم داد!!!— رئیس‌جمهور دی.جی.تی (دونالد جی ترامپ)realDonaldTrump📡 @VahidOnline",
-    "html": "پست تازه ترامپ:<br>رئیس‌جمهور رژیم جدید ایران، که در مقایسه با پیشینیان خود بسیار کمتر رادیکال و به مراتب هوشمندتر است، لحظاتی پیش از ایالات متحده آمریکا درخواست «آتش‌بس» کرد!<br><br>ما تنها زمانی این درخواست را بررسی خواهیم کرد که تنگه هرمز کاملاً باز، آزاد و ایمن باشد. تا آن زمان، ما به در هم کوبیدن ایران تا مرز نابودی یا به قول معروف، بازگرداندن آن‌ها به «عصر حجر» ادامه خواهیم داد!!!<br><br>— رئیس‌جمهور دی.جی.تی (دونالد جی ترامپ)<br><a href=\"https://truthsocial.com/@realDonaldTrump/posts/116329512466946656\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">realDonaldTrump</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-04-01T13:07:54+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/DlAL3HqATwZhTbgOY_621nSfwnMQX-nGQeO9vl13ABNFeUn9BYaiEHSENSGS4lfwDbzZq_1V4fW6-gMXP2Jl6Y1V3YAwpkz5hZERgXhqWPpBw0ssfwIB7HwSdsUjwfoHwSt_ue--i2ZvyqGBBmAtzq6oLvPbbOgoPYULna2OZgz9QWcaaG6fDyGKFLQNkGJViKKOCCYB8koS9ND8oBNHNN2zQtnp-pr0HtvSdlKjuhtdUuPugTGocrEYupHVz7T5MATF3FjT-A5QwD7_mO8JjqRCqqWm1S2Ty067jKC1fqi49ASkF04PjYzTGXOzndcV4XPOEOM-VBbvZXriFTxW-A.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73876",
-    "timestamp": 1775048874000
-  },
-  {
-    "id": "IranintlTV/329320",
-    "channel": "IranintlTV",
-    "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در شبکه تروث سوشال نوشت: «رییس‌جمهور حکومت ایران که بسیار کمتر رادیکال و بسیار باهوش‌تر از پیشینیانش است، به‌تازگی از ایالات متحده آمریکا درخواست آتش‌بس کرده است.»او در پیامی نوشت جمهوری اسلامی خواستار برقراری آتش‌بس شده و افزود آمریکا این درخواست را زمانی بررسی خواهد کرد که تنگه هرمز «باز، آزاد و امن» باشد.دونالد ترامپ همچنین تاکید کرد تا آن زمان، آمریکا به حملات خود علیه جمهوری اسلامی ادامه خواهد داد.https://iranintl.com/202604016936",
-    "html": "دونالد ترامپ، رییس‌جمهوری آمریکا، در شبکه تروث سوشال نوشت: «رییس‌جمهور حکومت ایران که بسیار کمتر رادیکال و بسیار باهوش‌تر از پیشینیانش است، به‌تازگی از ایالات متحده آمریکا درخواست آتش‌بس کرده است.»<br><br>او در پیامی نوشت جمهوری اسلامی خواستار برقراری آتش‌بس شده و افزود آمریکا این درخواست را زمانی بررسی خواهد کرد که تنگه هرمز «باز، آزاد و امن» باشد.<br><br>دونالد ترامپ همچنین تاکید کرد تا آن زمان، آمریکا به حملات خود علیه جمهوری اسلامی ادامه خواهد داد.<br><a href=\"https://iranintl.com/202604016936\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202604016936</a>",
-    "date": "2026-04-01T13:05:49+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/C3Y1ODGPpfecS59-_QaQFxRYIBi75MvvXnWKUwRgyOUuFeaqJ-9Vd-VpygUK7UFwO0wuKd9398fyH48mSJxGhfoIzshjTPQtwoydX_J2z5sifmg0gsPUSIVoifqFCg62BGKgmWClB0-LP3kkH_Z86Zv5xX0WJgeasNoJgi5g6hjk5ky5fCHUlQ5dNQ8D4jFQID7sXZN6ICLqohDhf6kEnS4_FzKActGyy5x-tXr6cWtOXpqFs5NRQWIQCRDO5MbKJpps3cQxA0DNvsP0fR8jCwvtpRWw_Izop8xs-loCzXJR_9nt9PdvC_jVHW-8umDkVaAbteLmWMyArulF-7lQWA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/329320",
-    "timestamp": 1775048749000
-  },
-  {
-    "id": "VahidOnline/73875",
-    "channel": "VahidOnline",
-    "text": "دونالد ترامپ رئیس‌جمهور آمریکا در مصاحبه‌ای با روزنامه دیلی تلگراف بریتانیا، اعلام کرد که پس از عدم حمایت متحدان از اقدام نظامی آمریکا علیه ایران، «به‌طور جدی در حال بررسی خروج آمریکا از ناتو است.»به گزارش رویترز، او در ادامه این مصاحبه، ائتلاف ناتو را «ببری کاغذی» خوانده و گفته است موضوع خروج ایالات متحده از پیمان دفاعی اکنون «فراتر از بازنگری» است.طبق این گزارش، آقای ترامپ گفته است: «من هرگز تحت تأثیر ناتو قرار نگرفتم. همیشه می‌دانستم آن‌ها یک ببر کاغذی هستند و پوتین (ولادیمیر پوتین رئیس‌جمهور روسیه) هم این را می‌داند».@VahidHeadline📡 @VahidOnline",
-    "html": "دونالد ترامپ رئیس‌جمهور آمریکا در مصاحبه‌ای با روزنامه دیلی تلگراف بریتانیا، اعلام کرد که پس از عدم حمایت متحدان از اقدام نظامی آمریکا علیه ایران، «به‌طور جدی در حال بررسی خروج آمریکا از ناتو است.»<br><br>به گزارش رویترز، او در ادامه این مصاحبه، ائتلاف ناتو را «ببری کاغذی» خوانده و گفته است موضوع خروج ایالات متحده از پیمان دفاعی اکنون «فراتر از بازنگری» است.<br><br>طبق این گزارش، آقای ترامپ گفته است: «من هرگز تحت تأثیر ناتو قرار نگرفتم. همیشه می‌دانستم آن‌ها یک ببر کاغذی هستند و پوتین (ولادیمیر پوتین رئیس‌جمهور روسیه) هم این را می‌داند».<br>@<a href=\"https://t.me/VahidHeadline/289448\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidHeadline</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-04-01T13:04:00+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/Z3haZOwD9u5gZHh2lwDrP2eTYrzM1wnjTddgPsoUHSv4z55pm8C4DIR3Nkr-_gcbK3W1XE6VnhTmRMYZR-WMAefF-CkQ_BCHYzJADm3tus5o9YKqMsICtYSdkosGUMdb2xIaxIjRAinCS0FSVXZvLYUi4uSMfY89U9BQ4D-V6H3oFp57oC1xps-kFJKjJ5BT3Bob5lwL6a_JBezB7XKrqqmBW2-oicqFXjxZuKVJAwez_lxuNxoprKgbaqqy4TJEUct1BP4aV6wKYuEK06r8KthmCvZees6CunFpvlidi55l9Ba6UzshOwdpdDRQEAmE5K9_1y7zdMvD283nshSGUg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73875",
-    "timestamp": 1775048640000
-  },
-  {
-    "id": "VahidOnline/73874",
-    "channel": "VahidOnline",
-    "text": "کی‌یر استارمر، نخست‌وزیر بریتانیا، چهارشنبه ۱۲ فروردین گفت که عملیات نظامی آمریکا و اسرائیل علیه جمهوری اسلامی، جنگی مربوط به این کشور نیست و بریتانیا به آن کشیده نخواهد شد.او گفت که این کشور در پایان هفته، میزبان نشستی بین‌المللی برای بررسی بازگشایی تنگه هرمز خواهد بود: «ما با ۳۵ کشور برای برگزاری نشست درباره بازگشایی تنگه هرمز تماس گرفته‌ایم و به‌منظور بررسی ابزارهای دیپلماتیک، ابزارهای سیاسی و سپس برنامه‌ریزی نظامی، گرد هم می‌آییم»نخست‌وزیر بریتانیا گفت که یک طرح پنج ماده‌ای برای حل بحران تنگه هرمز وجود دارد و در هفته‌های آینده، نشست جدیدی با شرکای اروپایی برگزار خواهد شد.به گفته استارمر، سازمان پیمان نظامی آتلانتیک شمالی (ناتو)، موثرترین پیمان دفاعی تاکنون بوده و بریتانیا به این سازمان و پیمان متعهد است.او در واکنش به انتقادات دونالد ترامپ، رییس‌جمهوری آمریکا، از ناتو و احتمال خروج ایالات متحده از این پیمان، گفت: «فارغ از هر فشاری بر من و دیگران، در راستای منافع ملی بریتانیا عمل خواهم کرد.»@VahidOOnLine📡 @VahidOnline",
-    "html": "کی‌یر استارمر، نخست‌وزیر بریتانیا، چهارشنبه ۱۲ فروردین گفت که عملیات نظامی آمریکا و اسرائیل علیه جمهوری اسلامی، جنگی مربوط به این کشور نیست و بریتانیا به آن کشیده نخواهد شد.<br><br>او گفت که این کشور در پایان هفته، میزبان نشستی بین‌المللی برای بررسی بازگشایی تنگه هرمز خواهد بود: «ما با ۳۵ کشور برای برگزاری نشست درباره بازگشایی تنگه هرمز تماس گرفته‌ایم و به‌منظور بررسی ابزارهای دیپلماتیک، ابزارهای سیاسی و سپس برنامه‌ریزی نظامی، گرد هم می‌آییم»<br><br>نخست‌وزیر بریتانیا گفت که یک طرح پنج ماده‌ای برای حل بحران تنگه هرمز وجود دارد و در هفته‌های آینده، نشست جدیدی با شرکای اروپایی برگزار خواهد شد.<br><br>به گفته استارمر، سازمان پیمان نظامی آتلانتیک شمالی (ناتو)، موثرترین پیمان دفاعی تاکنون بوده و بریتانیا به این سازمان و پیمان متعهد است.<br><br>او در واکنش به انتقادات دونالد ترامپ، رییس‌جمهوری آمریکا، از ناتو و احتمال خروج ایالات متحده از این پیمان، گفت: «فارغ از هر فشاری بر من و دیگران، در راستای منافع ملی بریتانیا عمل خواهم کرد.»<br>@<a href=\"https://t.me/VahidOOnLine/229923\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidOOnLine</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-04-01T13:03:12+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/A_6RBSi2OOJWaWewe9qPDPCbo5BV_R98N1TnqhAdowyIFSmnhIf4O5Xqnc28hvrJDEBuKJPyYgao5rhJtKFfO-Rp7HoGoYW0eZbgfQF1xggXusBBO3byTw8eEDWMshdNpHQ6JaB8DF8QlZ4vXc69v7vMa1mm2tEEzl_eTiid9G3ifSweGW-VU-VLnKGFwiJDXE9nPpDnYNArn6zyCz3j3TttOXf5wF9DMUKo65qYP1yTxfW-ctepqnGaIS5iM6hgbUEC5QSltNM7cJ0JLUnFnqRgdGoY4kRi80NU2Od9KjvvxSpsfKkOf33q2CzUiIx2awJJjqon7b5rMKfPMeo4dQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/73874",
-    "timestamp": 1775048592000
-  },
-  {
-    "id": "NetAccount/16705",
-    "channel": "NetAccount",
-    "text": "tg://proxy?server=65.109.245.159&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "html": "<a href=\"tg://proxy?server=65.109.245.159&amp;port=443&amp;secret=dd104462821249bd7ac519130220c25d09\" target=\"_blank\" rel=\"noopener\">tg://proxy?server=65.109.245.159&amp;port=443&amp;secret=dd104462821249bd7ac519130220c25d09</a>",
-    "date": "2026-04-01T13:01:59+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/NetAccount/16705",
-    "timestamp": 1775048519000
-  },
-  {
-    "id": "IranintlTV/329318",
-    "channel": "IranintlTV",
-    "text": "ویدیوی رسیده به ایران اینترنشنال پرواز یک جنگنده در آسمان شهر فارسان در چهارمحال و بختیاری را طی روزهای اخیر نشان می‌دهد.",
-    "html": "ویدیوی رسیده به ایران اینترنشنال پرواز یک جنگنده در آسمان شهر فارسان در چهارمحال و بختیاری را طی روزهای اخیر نشان می‌دهد.",
-    "date": "2026-04-01T12:58:44+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/329318",
-    "timestamp": 1775048324000
-  },
-  {
-    "id": "iliaen/4184",
-    "channel": "iliaen",
-    "text": "ترامپ لحظاتی قبل نوشت:رئیس‌جمهور رژیم جدید ایران، خیلی کمتر رادیکالیزه و به مراتب هوشمندتر از پیشینیان خود است، او همین الان از ایالات متحده آمریکا درخواست آتش‌بس کرد!ما این درخواست را وقتی بررسی خواهیم کرد که تنگه هرمز کاملاً باز، آزاد و امن باشد. تا آن زمان، ما ایران را به نیستی می‌کوبیم یا، همان‌طور که خودشان می‌گویند، آن‌ها را به عصر حجر (عصر سنگ) برمی‌گردانیم!@iliaen",
-    "html": "ترامپ لحظاتی قبل نوشت:<br><br>رئیس‌جمهور رژیم جدید ایران، خیلی کمتر رادیکالیزه و به مراتب هوشمندتر از پیشینیان خود است، او همین الان از ایالات متحده آمریکا درخواست آتش‌بس کرد!<br><br>ما این درخواست را وقتی بررسی خواهیم کرد که تنگه هرمز کاملاً باز، آزاد و امن باشد. تا آن زمان، ما ایران را به نیستی می‌کوبیم یا، همان‌طور که خودشان می‌گویند، آن‌ها را به عصر حجر (عصر سنگ) برمی‌گردانیم!<br><br><a href=\"https://t.me/iliaen\" target=\"_blank\">@iliaen</a>",
-    "date": "2026-04-01T12:57:04+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/oq0t3wttOw_SwRtubS_IxgeU1mfaWueqZ_qzIJ_6D0jsorbRmEIaeslYup6ZcqMsQDcBrTLrfvu8yaGvEpna1BVFM7BIJs2x53ShaWhPgjCr5XZphUgmVeqf6wnWcU9PZMYzLrfHwOvLTCue4QueQ8OVgXWMBlBa_yIAPm1WIoc_6ehA_jKdP_v7pLr4zTszB7g5sVbTATN52EwMhDI5DY1Q-aftr3joveSEcni4ObBR3lgTBoIrxKQ2q1Wntb5I7hrTZsuSiBENtlpsfz8ztnDmjbwd9VEZ8UhTrvzNhMTC8cIo6dPYsVndU-W4eiP7Xkd-6RkDoLE8v-jlGZ9o6g.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/iliaen/4184",
-    "timestamp": 1775048224000
-  },
-  {
-    "id": "persianvpnhub/22195",
-    "channel": "persianvpnhub",
-    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 16:09 - 1405/01/12💡 منبع: @ehsawn8",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 16:09 - 1405/01/12<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/ehsawn8\" target=\"_blank\">@ehsawn8</a>",
-    "date": "2026-04-01T12:49:05+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "@ehsawn8(109).npvt",
-        "size": "1.5 KB"
-      }
-    ],
-    "link": "https://t.me/persianvpnhub/22195",
-    "timestamp": 1775047745000
-  },
-  {
-    "id": "persianvpnhub/22194",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ MTPROTO📍 لوکیشن: فنلاند 🇫🇮📶 پینگ: 156ms#Proxy #MTProto🕒 انتشار: 16:07 - 1405/01/12💡 منبع: گروه MahsaNettg://proxy?server=65.109.245.159&port=443&secret=dd104462821249bd7ac519130220c25d09",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: فنلاند <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87AE.png')\"><b>🇫🇮</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 156ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 16:07 - 1405/01/12<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>tg://proxy?server=65.109.245.159&amp;port=443&amp;secret=dd104462821249bd7ac519130220c25d09</pre>",
-    "date": "2026-04-01T12:49:00+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/22194",
-    "timestamp": 1775047740000
-  },
-  {
-    "id": "persianvpnhub/22193",
-    "channel": "persianvpnhub",
-    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 16:06 - 1405/01/12💡 منبع: گروه MahsaNet",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 16:06 - 1405/01/12<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet",
-    "date": "2026-04-01T12:48:56+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "69-MTN @TGv2ray.npvt",
-        "size": "1.9 KB"
-      }
-    ],
-    "link": "https://t.me/persianvpnhub/22193",
-    "timestamp": 1775047736000
   }
 ]

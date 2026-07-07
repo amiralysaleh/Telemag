@@ -1,5 +1,697 @@
 [
   {
+    "id": "MatinSenPaii/4281",
+    "channel": "MatinSenPaii",
+    "text": "پیرو ایمیل یکی از بچه‌ها، تست کردم، با موفقیت بدون شماره مجازی و با atomicmail فیک تونستم api key رایگان Nvidia بگیرم:سلام متین خوبی داداشمتین به خدا شوخی نمیکنمهمه میگن سایت انویدیا برای اینکه Api بده باید شماره مجازی بدی و از این کارامن تو گوگل سرج کردم و هنوز هم شماره مجازی نخریده بودم https://build.nvidia.com/settings/api-keysببین دقیقا ادرس هم برات گزاشتمتو گوگل سرچ کردم Nvidia Get ApiKeyبعد سایت اومد بالا ازم ایمیل خواست تازه atomicmail وارد کردم ایمیل گوگل هم ندادمبعد که وارد کردم منو برد تو یک صفحه ای یک کپچا داشت تایید کردم و رمز عبور خواست اونم اوکی کردم بعد گفت نام کاربری رو وارد کن اونم وارد کردم منو مستقیم برد تو صفحه apikey ها و استفاده هم کردم با تشکر از محمد عزیز. نمیدونم انویدیا وریفای رو برای ایمیل‌های شخصی برداشته یا اینکه کلا برداشتهپیرو ایمیل یکی از بچه‌ها، تست کردم، با موفقیت بدون شماره مجازی و با atomicmail فیک تونستم api key رایگان Nvidia بگیرم:سلام متین خوبی داداشمتین به خدا شوخی نمیکنمهمه میگن سایت انویدیا برای اینکه Api بده باید شماره مجازی بدی و از این کارامن تو گوگل سرج کردم و هنوز هم شماره مجازی نخریده بودم https://build.nvidia.com/settings/api-keysببین دقیقا ادرس هم برات گزاشتمتو گوگل سرچ کردم Nvidia Get ApiKeyبعد سایت اومد بالا ازم ایمیل خواست تازه atomicmail وارد کردم ایمیل گوگل هم ندادمبعد که وارد کردم منو برد تو یک صفحه ای یک کپچا داشت تایید کردم و رمز عبور خواست اونم اوکی کردم بعد گفت نام کاربری رو وارد کن اونم وارد کردم منو مستقیم برد تو صفحه apikey ها و استفاده هم کردم با تشکر از محمد عزیز. نمیدونم انویدیا وریفای رو برای ایمیل‌های شخصی برداشته یا اینکه کلا برداشته",
+    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">پیرو ایمیل یکی از بچه‌ها، تست کردم، با موفقیت بدون شماره مجازی و با atomicmail فیک تونستم api key رایگان Nvidia بگیرم:<br><br><blockquote>سلام متین خوبی داداش<br>متین به خدا شوخی نمیکنم<br>همه میگن سایت انویدیا برای اینکه Api بده باید شماره مجازی بدی و از این کارا<br>من تو گوگل سرج کردم و هنوز هم شماره مجازی نخریده بودم <br><a href=\"https://build.nvidia.com/settings/api-keys\" target=\"_blank\" rel=\"noopener\">https://build.nvidia.com/settings/api-keys</a><br>ببین دقیقا ادرس هم برات گزاشتم<br>تو گوگل سرچ کردم Nvidia Get ApiKey<br>بعد سایت اومد بالا ازم ایمیل خواست <br>تازه atomicmail وارد کردم ایمیل گوگل هم ندادم<br>بعد که وارد کردم منو برد تو یک صفحه ای یک کپچا داشت تایید کردم و رمز عبور خواست اونم اوکی کردم <br>بعد گفت نام کاربری رو وارد کن اونم وارد کردم <br>منو مستقیم برد تو صفحه apikey ها و استفاده هم کردم </blockquote><br>با تشکر از محمد عزیز. نمیدونم انویدیا وریفای رو برای ایمیل‌های شخصی برداشته یا اینکه کلا برداشته</div>",
+    "date": "2026-07-07T08:17:17+00:00",
+    "images": [
+      "https://cdn1.telesco.pe/file/GaM937gzOlMixdOTm-9aypNdNi9sARbhRAxbCGTUcbIh9OxYzSK2_DNz8Pdwpj6U1Jjrz26_B8aSAsEUpU4q9fnedckozhJtjW1udNc2KPUTXL8qpJIpU5ofwO2pe5KMRfCJLzZ6SH2VBzyfJVTNnuGqRoC2sjco5LIl5fBdoOs6FF9_llxLcLRBYKpbPp8aBqmmmNow1-DkMLTsN9iTkDkBI0A1FmHfNqLvbeH3DOkGIyLfsyiahW6m5gka3pzCJnZGP2qQN1k47WVxiXNIE5emokdp4tsgVp7vWwaA9XrAU-UDjv9gmHlBeGw3eytLuPnyTt4eLTEFAQZpu1U2Fg.jpg",
+      "https://cdn1.telesco.pe/file/cLNmMuOycOp1NNs3bu_HZ6jtMSVsYeYHcuVEIWf0BepR1ZPXRPN8XiOoTJyOHuv0zb2ClNPCtWIbuqcuQ9jH9j0C8khBFVugXHvxwogR50l1Ko_TuWMywVGVfyKp1ATuRkCVobQxXhTK7BWdR5jCiF0C0y72lW33VDLpTfFPvFUFtPIV3QmTjQqdlsCnPD7ZLI4xailaGrB4XeE4dZbNRvf3E__vC6sRCl4goSu7Pb7Pk_JqW1MtUzPQrU0V8zMGIsnAIC289j0hlIDjFtdSOc0sM-D2zBxBwyaKNeambk1ez9G9PxjVBBsA3QUamS7OpjmNq7e8VMDZd2gWrDgpuw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/4281",
+    "timestamp": 1783412237000
+  },
+  {
+    "id": "persianvpnhub/35757",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ MTPROTO📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 142ms#Proxy #MTProto🕒 انتشار: 11:33 - 1405/04/16💡 منبع: @makvaslimtg://proxy?server=bv.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 142ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 11:33 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>tg://proxy?server=bv.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09</pre>",
+    "date": "2026-07-07T08:10:05+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/35757",
+    "timestamp": 1783411805000
+  },
+  {
+    "id": "persianvpnhub/35756",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 11:22 - 1405/04/16💡 منبع: گروه MahsaNet",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 11:22 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet",
+    "date": "2026-07-07T08:10:00+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "NetFreeDaily (8).npvt",
+        "size": "6.3 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/35756",
+    "timestamp": 1783411800000
+  },
+  {
+    "id": "persianvpnhub/35755",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 11:03 - 1405/04/16💡 منبع: @mitivpn",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 11:03 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/mitivpn\" target=\"_blank\">@mitivpn</a>",
+    "date": "2026-07-07T08:09:56+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "𝑨𝒍𝒍𝑵𝒆𝒕⚡.npvt",
+        "size": "46.8 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/35755",
+    "timestamp": 1783411796000
+  },
+  {
+    "id": "persianvpnhub/35754",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: امارات 🇦🇪📶 پینگ: 133ms#VLESS #VPN🕒 انتشار: 09:48 - 1405/04/16💡 منبع: @NETMelliAntivless://07842189-6a75-4a58-a13f-590fbbf56d4f@212.100.171.205:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=XZC6OdUfIwsCBmvd3_O9DCWAAG0Q83fF8NeuH93w4Wc&fp=chrome&spx=%2F0aFOt57hU4U5jdD&type=xhttp&sni=www.samsung.com&sid=6663bfa8c6#%40NETMelliAnti",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: امارات <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A6F09F87AA.png')\"><b>🇦🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 133ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:48 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/NETMelliAnti\" target=\"_blank\">@NETMelliAnti</a><br><br><pre>vless://07842189-6a75-4a58-a13f-590fbbf56d4f@212.100.171.205:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=XZC6OdUfIwsCBmvd3_O9DCWAAG0Q83fF8NeuH93w4Wc&amp;fp=chrome&amp;spx=%2F0aFOt57hU4U5jdD&amp;type=xhttp&amp;sni=www.samsung.com&amp;sid=6663bfa8c6#%40NETMelliAnti</pre>",
+    "date": "2026-07-07T08:09:51+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/35754",
+    "timestamp": 1783411791000
+  },
+  {
+    "id": "persianvpnhub/35753",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 18ms#VLESS #VPN🕒 انتشار: 08:15 - 1405/04/16💡 منبع: @flyv2rayvless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.208.163:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%40flyv2ray",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 08:15 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/flyv2ray\" target=\"_blank\">@flyv2ray</a><br><br><pre>vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.208.163:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=sa.sorixset.ir&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=sa.sorixset.ir#%40flyv2ray</pre>",
+    "date": "2026-07-07T08:09:47+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/35753",
+    "timestamp": 1783411787000
+  },
+  {
+    "id": "persianvpnhub/35752",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 18ms#VLESS #VPN🕒 انتشار: 08:15 - 1405/04/16💡 منبع: @flyv2rayvless://8ee19304-fdf4-43dd-ab77-133a77d349ed@104.17.32.173:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%40flyv2ray",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 08:15 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/flyv2ray\" target=\"_blank\">@flyv2ray</a><br><br><pre>vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@104.17.32.173:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=sa.sorixset.ir&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=sa.sorixset.ir#%40flyv2ray</pre>",
+    "date": "2026-07-07T08:09:42+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/35752",
+    "timestamp": 1783411782000
+  },
+  {
+    "id": "persianvpnhub/35751",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 18ms#VLESS #VPN🕒 انتشار: 08:15 - 1405/04/16💡 منبع: @flyv2rayvless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.209.213:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%40flyv2ray",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 08:15 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/flyv2ray\" target=\"_blank\">@flyv2ray</a><br><br><pre>vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@198.41.209.213:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=sa.sorixset.ir&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=sa.sorixset.ir#%40flyv2ray</pre>",
+    "date": "2026-07-07T08:09:38+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/35751",
+    "timestamp": 1783411778000
+  },
+  {
+    "id": "persianvpnhub/35750",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 18ms#VLESS #VPN🕒 انتشار: 08:15 - 1405/04/16💡 منبع: @flyv2rayvless://8ee19304-fdf4-43dd-ab77-133a77d349ed@104.19.114.52:8443?mode=auto&path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sa.sorixset.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=sa.sorixset.ir#%40flyv2ray",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 18ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 08:15 - 1405/04/16<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/flyv2ray\" target=\"_blank\">@flyv2ray</a><br><br><pre>vless://8ee19304-fdf4-43dd-ab77-133a77d349ed@104.19.114.52:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;security=tls&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=sa.sorixset.ir&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=sa.sorixset.ir#%40flyv2ray</pre>",
+    "date": "2026-07-07T08:09:34+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/35750",
+    "timestamp": 1783411774000
+  },
+  {
+    "id": "MatinSenPaii/4280",
+    "channel": "MatinSenPaii",
+    "text": "اگر روی هرمس برای اتصال به api به مشکل VPN برمی‌خورید، از تکنیک رایگان وصل کردن پروکسی کلودفلر که توی این ویدئو توضیح و انجام دادم استفاده کنید:https://youtu.be/Ae8oyaIHi9o",
+    "html": "اگر روی هرمس برای اتصال به api به مشکل VPN برمی‌خورید، از تکنیک رایگان وصل کردن پروکسی کلودفلر که توی این ویدئو توضیح و انجام دادم استفاده کنید:<br><a href=\"https://youtu.be/Ae8oyaIHi9o\" target=\"_blank\" rel=\"noopener\">https://youtu.be/Ae8oyaIHi9o</a>",
+    "date": "2026-07-07T08:08:44+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/4280",
+    "timestamp": 1783411724000
+  },
+  {
+    "id": "IranintlTV/346210",
+    "channel": "IranintlTV",
+    "text": "همزمان با حضور امانوئل مکرون، رییس‌جمهوری فرانسه، در دمشق، چندین وسیله انفجاری روز سه‌شنبه در نزدیکی هتلی که قرار بود او در آن اقامت کند، منفجر شد.پس از انفجار، نیروهای امنیتی خیابان‌های اطراف را بستند و تدابیر امنیتی را در منطقه تشدید کردند.کاخ الیزه اعلام کرد امانوئل مکرون در مسیر دیدار با احمد الشرع، رییس دولت سوریه، صدای انفجارهایی را که صبح سه‌شنبه در دمشق رخ داد، نشنید.https://iranintl.com/202607074425",
+    "html": "همزمان با حضور امانوئل مکرون، رییس‌جمهوری فرانسه، در دمشق، چندین وسیله انفجاری روز سه‌شنبه در نزدیکی هتلی که قرار بود او در آن اقامت کند، منفجر شد.<br><br>پس از انفجار، نیروهای امنیتی خیابان‌های اطراف را بستند و تدابیر امنیتی را در منطقه تشدید کردند.<br><br>کاخ الیزه اعلام کرد امانوئل مکرون در مسیر دیدار با احمد الشرع، رییس دولت سوریه، صدای انفجارهایی را که صبح سه‌شنبه در دمشق رخ داد، نشنید.<br><a href=\"https://iranintl.com/202607074425\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607074425</a>",
+    "date": "2026-07-07T08:06:27+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/cUaxTV2rzktrCfEk0Ru3s95_nhHRlJksmSPc58f8B96QL0eQCmpSZKDhBpefzD_h8FSzcVjjswmfyfD2eS05QQOmgbYxj_88FXGIL63EgZ6HaSisg-bAqMQ-ws1GbS77sqHh2XJhC47ItaToS73M2p5TqdRL-tbmFz6e7jIHVR0DBjiEIi1pMOAr9rvved671YmWVtvrkJrgo-wIKvHND5oLzS5gkrObC8Z8G7wjBNQOEE190d7eN1Bu5qzFHxkE942sI74pBmUWAL0RKbbwtkIGX8TO8Pav0oWbIgw7_trRpIrkYkpkvXtCfZ1HcPe7Btd87leARwsYaJl_C5-hlA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346210",
+    "timestamp": 1783411587000
+  },
+  {
+    "id": "IranintlTV/346209",
+    "channel": "IranintlTV",
+    "text": "🔻امانوئل ماکرون، رییس‌جمهوری فرانسه، با انتشار پیامی در ایکس، حمایت قاطع خود را از کیلیان امباپه، کاپیتان تیم ملی فوتبال این کشور، در برابر توهین‌های «نژادپرستانه» سلسته آماریا، سناتور پاراگوئه‌ای اعلام کرد.🔹ماکرون نوشت: «این بار، کیلیان امباپه یک گل دیگر زد؛ گلی به نژادپرستی. کاملا از او حمایت می‌کنم. وقتی کلمات آلوده به نفرت می‌شوند، ارزش‌های ما پاسخ می‌دهند؛ کرامت، احترام و برادری.»🔹این واکنش پس از آن صورت گرفت که سلسته آماریا، سناتور پاراگوئه، در پی حذف تیم ملی کشورش از جام جهانی با شکست مقابل فرانسه، در شبکه‌های اجتماعی توهین‌های «نژادپرستانه» را علیه امباپه مطرح کرد.🔹فوق‌ستاره فرانسوی نیز با انتشار پیامی در ایکس نوشت: «خانم سلسته آماریا، شما زنی نفرت‌انگیز هستید و در شان جایگاهی که در اختیار دارید، نیستید.»🔹ادامه این گزارش را در سایت بخوانید.@iranintltvsport",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>امانوئل ماکرون، رییس‌جمهوری فرانسه، با انتشار پیامی در ایکس، حمایت قاطع خود را از کیلیان امباپه، کاپیتان تیم ملی فوتبال این کشور، در برابر توهین‌های «نژادپرستانه» سلسته آماریا، سناتور پاراگوئه‌ای اعلام کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ماکرون نوشت: «این بار، کیلیان امباپه یک گل دیگر زد؛ گلی به نژادپرستی. کاملا از او حمایت می‌کنم. وقتی کلمات آلوده به نفرت می‌شوند، ارزش‌های ما پاسخ می‌دهند؛ کرامت، احترام و برادری.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این واکنش پس از آن صورت گرفت که سلسته آماریا، سناتور پاراگوئه، در پی حذف تیم ملی کشورش از جام جهانی با شکست مقابل فرانسه، در شبکه‌های اجتماعی توهین‌های «نژادپرستانه» را علیه امباپه مطرح کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>فوق‌ستاره فرانسوی نیز با انتشار پیامی در ایکس نوشت: «خانم سلسته آماریا، شما زنی نفرت‌انگیز هستید و در شان جایگاهی که در اختیار دارید، نیستید.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ادامه این گزارش را در <a href=\"https://www.iranintl.com/202607077514\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">سایت</a> بخوانید.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@iranintltvsport</a>",
+    "date": "2026-07-07T08:04:56+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/jell3ZcmpdJTWGbSbZ3U417kcIS3ZP47pjRthsb-i9gjKw1Sxya1X25c1FhrXUpIjar2UBGz3HhnuCpxqtlp3yrN31nuS9mobxEP4jM64dU7QpBGNw5GNsvHQm1fM-YE8jY6ijOLvParEy72DnJHaQTjhLSP2AXeRfajcKHeUDzNIhvd7WtGCLreUvH0ehbJQE_n5OJJnAIMr-gSG2jQ-avH9Sw_I4pw-DAHOsirX_P-7WyjDGfwgHCkENW5Ha5NR4iWSDTekd46ZI-mIkTFPfWEtsXRP_8FTN4_DCdq1wIJ6SAse5OcXbVWErhFB1AAZ8XtLGOkl14Spg-FuuAf0A.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346209",
+    "timestamp": 1783411496000
+  },
+  {
+    "id": "newscenter2020/66593",
+    "channel": "newscenter",
+    "text": "دنیای عجیبیهجکسون بلاگر آمریکایی اومده میدون انقلاب داره میگه مرگ بر آمریکا:🔴@Redkhabar",
+    "html": "دنیای عجیبیه<br><br>جکسون بلاگر آمریکایی اومده میدون انقلاب داره میگه مرگ بر آمریکا:<br><br><tg-emoji emoji-id=\"5318840353510408444\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji><a href=\"https://t.me/Redkhabar\" target=\"_blank\">@Redkhabar</a>",
+    "date": "2026-07-07T07:58:01+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/66593",
+    "timestamp": 1783411081000
+  },
+  {
+    "id": "pm_afshaa/95394",
+    "channel": "pm_afshaa",
+    "text": "طبق گزارش‌ها در سوریه: یک خودروی بمب‌گذاری شده با بار انفجاری در نزدیکی یک هتل منفجر شده  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 😁 @Pm_Afshaaتلویزیون سوریه: در اثر دو انفجار نزدیک به یک هتل، خسارات انسانی به بار آمده 💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "طبق گزارش‌ها در سوریه: یک خودروی بمب‌گذاری شده با بار انفجاری در نزدیکی یک هتل منفجر شده  <tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> Rainbet.com the #1 Non-KYC Crypto Casino &amp; Sportsbook @rainbetcom <tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> @Pm_Afshaa",
+    "date": "2026-07-07T07:44:49+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95394",
+    "timestamp": 1783410289000
+  },
+  {
+    "id": "pm_afshaa/95393",
+    "channel": "pm_afshaa",
+    "text": "صدای انفجارهای شدیدی در نزدیکی هتلی که رئیس‌جمهور فرانسه، مکرون، در دمشق اقامت دارد، شنیده شده  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 😁 @Pm_Afshaaطبق گزارش‌ها در سوریه: یک خودروی بمب‌گذاری شده با بار انفجاری در نزدیکی یک هتل منفجر شده💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "صدای انفجارهای شدیدی در نزدیکی هتلی که رئیس‌جمهور فرانسه، مکرون، در دمشق اقامت دارد، شنیده شده  <tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> Rainbet.com the #1 Non-KYC Crypto Casino &amp; Sportsbook @rainbetcom <tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> @Pm_Afshaa",
+    "date": "2026-07-07T07:44:18+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95393",
+    "timestamp": 1783410258000
+  },
+  {
+    "id": "pm_afshaa/95392",
+    "channel": "pm_afshaa",
+    "text": "صدای انفجارهای شدیدی در نزدیکی هتلی که رئیس‌جمهور فرانسه، مکرون، در دمشق اقامت دارد، شنیده شده  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 😁 @Pm_Afshaa🔴العربیه سعودی: هیئت همراه رئیس‌جمهور فرانسه، حدود ربع ساعت قبل از انفجار، محل اقامت خود در دمشق را ترک کرد💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "صدای انفجارهای شدیدی در نزدیکی هتلی که رئیس‌جمهور فرانسه، مکرون، در دمشق اقامت دارد، شنیده شده  <tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> Rainbet.com the #1 Non-KYC Crypto Casino &amp; Sportsbook @rainbetcom <tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> @Pm_Afshaa",
+    "date": "2026-07-07T07:43:43+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95392",
+    "timestamp": 1783410223000
+  },
+  {
+    "id": "pm_afshaa/95391",
+    "channel": "pm_afshaa",
+    "text": "صدای انفجارهای شدیدی در نزدیکی هتلی که رئیس‌جمهور فرانسه، مکرون، در دمشق اقامت دارد، شنیده شده💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "صدای انفجارهای شدیدی در نزدیکی هتلی که رئیس‌جمهور فرانسه، مکرون، در دمشق اقامت دارد، شنیده شده<br><br><blockquote><tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> <a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-07T07:42:49+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95391",
+    "timestamp": 1783410169000
+  },
+  {
+    "id": "Dirty_Kids/393967",
+    "channel": "dirty_kids",
+    "text": "اون نسخه دیگه من معلوم نیست چه گوهی داره میخوره تو دنیاهای موازی@Dirty_Kids 👻",
+    "html": "اون نسخه دیگه من معلوم نیست چه گوهی داره میخوره تو دنیاهای موازی<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-07T07:41:03+00:00",
+    "images": [
+      "https://cdn1.telesco.pe/file/B3u1S7yftfSdGkx6sHHx_ugk76OGYVRM8ijHG3uOzc5Oovdnar7-a_YjGt2BaV_G5PWPopdst_fmB1cXxTwo5zRV2LUev42D2ROcVQmmO2FVrl2z8m28JqFOJ0k124giKZYw2COPv6nwZ67w2tWVIvCXXjP5CGetnJnejvKUG0ATB8skWuhsKknVYSXjO2bwahVSlGZ9v34TuxnrInJOJzce724wok8XO5zHezW3FyPLgmok5jdRLYrOQRHpQqrFLEbgrE883H0KAFfTiN-T4lxV1Ba28RTVQD4HezLOJFGctG-YTZKCdU198VFzjGarIRkJbe_WL8tGBoxj9QNz2Q.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/dirty_kids/393967",
+    "timestamp": 1783410063000
+  },
+  {
+    "id": "Dirty_Kids/393966",
+    "channel": "dirty_kids",
+    "text": "تا حالا براتون سوال شده چرا شطرنج، با این همه قدمت و مخاطب، وارد المپیک نمی‌شه؟ ♟️خب، برای جوابش باید با گوشه‌ای از پشت‌پرده‌ی یکی از فاسدترین فدراسیون‌های جهانی آشنا بشید 🕵️💸@Dirty_Kids 👻",
+    "html": "تا حالا براتون سوال شده چرا شطرنج، با این همه قدمت و مخاطب، وارد المپیک نمی‌شه؟ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2999F.png')\"><b>♟️</b></i><br><br>خب، برای جوابش باید با گوشه‌ای از پشت‌پرده‌ی یکی از فاسدترین فدراسیون‌های جهانی آشنا بشید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F95B5.png')\"><b>🕵️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B8.png')\"><b>💸</b></i><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-07T07:41:02+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/393966",
+    "timestamp": 1783410062000
+  },
+  {
+    "id": "mitivpn/17558",
+    "channel": "mitivpn",
+    "text": "🛡 کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفوننحوه اتصال داخل اندروید کلیک کن👉نحوه اتصال داخل آیفون کلیک کن👉⚡️ فیلترینگ شدید و نت ملی رو باهاش قورت بده🔹 کانفیگ نت ملی برای دریافت کلیک کن👉اینترنت آزاد برای همه, یا هیچکس T.me/MiTiVPN 🔹Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom",
+    "html": "<tg-emoji emoji-id=\"5773807909917956674\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BA1.png')\"><b>🛡</b></i></tg-emoji><b> کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفون</b><br><b><br></b><a href=\"https://t.me/Ads27279/42\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">نحوه اتصال داخل اندروید</a><b> کلیک کن</b><b><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji></b><b><br><br></b><a href=\"https://t.me/Ads27279/13\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">نحوه اتصال داخل آیفون</a><b> کلیک کن</b><b><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji></b><b><br><br></b><b><tg-emoji emoji-id=\"4990429866814866120\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji></b><b> فیلترینگ شدید و نت ملی رو باهاش قورت بده<br><br></b><b><tg-emoji emoji-id=\"5951811553895388029\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i></tg-emoji></b><b> </b><a href=\"https://t.me/mitivpnbot?start=1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>کانفیگ نت ملی</b></a><b> برای دریافت کلیک کن</b><b><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji></b><b><br><br>اینترنت آزاد برای همه, یا هیچکس <br><br></b><a href=\"http://T.me/MiTiVPN\" target=\"_blank\" rel=\"noopener\">T.me/MiTiVPN</a><b> </b><b><tg-emoji emoji-id=\"6003391783248073326\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i></tg-emoji></b><br><br><blockquote><a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote>",
+    "date": "2026-07-07T07:33:35+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "𝑨𝒍𝒍𝑵𝒆𝒕⚡.npvt",
+        "size": "46.8 KB"
+      }
+    ],
+    "link": "https://t.me/mitivpn/17558",
+    "timestamp": 1783409615000
+  },
+  {
+    "id": "MatinSenPaii/4279",
+    "channel": "MatinSenPaii",
+    "text": "یه پروژه‌ی خیلی عجیب روی گیت‌هاب (با اسم Pon) منتشر شده به تازگی که تونسته پایتون ۳.۱۴ رو مستقیما به کد ماشین کامپایل کنه و دیگه نیازی به Interpreter و مفسر نداره. این برای پرفورمنس پروژه‌های پایتونی می‌تونه یه انقلاب باشه👍https://github.com/can1357/pon✉️ t.me/MatinSenPaii",
+    "html": "یه پروژه‌ی خیلی عجیب روی گیت‌هاب (با اسم Pon) منتشر شده به تازگی که تونسته پایتون ۳.۱۴ رو مستقیما به کد ماشین کامپایل کنه و دیگه نیازی به Interpreter و مفسر نداره. این برای پرفورمنس پروژه‌های پایتونی می‌تونه یه انقلاب باشه<tg-emoji emoji-id=\"5472375242385005771\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji><br><a href=\"https://github.com/can1357/pon\" target=\"_blank\" rel=\"noopener\">https://github.com/can1357/pon</a><br><br><tg-emoji emoji-id=\"5069150690295677651\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i></tg-emoji> <a href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\">t.me/MatinSenPaii</a>",
+    "date": "2026-07-07T07:33:35+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/4279",
+    "timestamp": 1783409615000
+  },
+  {
+    "id": "IranintlTV/346208",
+    "channel": "IranintlTV",
+    "text": "ایمان آقایاری، تحلیل‌گر سیاسی، درباره تشییع جنازه علی خامنه‌ای در عراق گفت: «جمهوری اسلامی با جنازه‌گردانی و بسیج جمعیت می‌کوشد نشان دهد خامنه‌ای در خارج از ایران نیز پایگاه اجتماعی داشته است.» آقایاری افزود، حکومت همچنین می‌خواهد به غرب القا کند که نفوذ جمهوری اسلامی در کشورهای محل فعالیت نیروهای نیابتی، صرفا محدود به این گروه‌ها نیست و در میان مردم آن کشورها نیز ریشه دارد.@iranintltv",
+    "html": "ایمان آقایاری، تحلیل‌گر سیاسی، درباره تشییع جنازه علی خامنه‌ای در عراق گفت: «جمهوری اسلامی با جنازه‌گردانی و بسیج جمعیت می‌کوشد نشان دهد خامنه‌ای در خارج از ایران نیز پایگاه اجتماعی داشته است.» آقایاری افزود، حکومت همچنین می‌خواهد به غرب القا کند که نفوذ جمهوری اسلامی در کشورهای محل فعالیت نیروهای نیابتی، صرفا محدود به این گروه‌ها نیست و در میان مردم آن کشورها نیز ریشه دارد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T07:32:28+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346208",
+    "timestamp": 1783409548000
+  },
+  {
+    "id": "IranintlTV/346207",
+    "channel": "IranintlTV",
+    "text": "علاءالدین بروجردی، عضو کمیسیون امنیت ملی مجلس، هرگونه اقدام درباره تنگه هرمز بدون هماهنگی با جمهوری اسلامی و نیروهای مسلح را «آب در هاون کوبیدن» دانست و گفت: «کشورهای دیگر نباید اقداماتی انجام دهند که از ابتدا روشن است نتیجه‌ای نخواهد داشت.»بروجردی در مصاحبه با سایت «خانه ملت» گفت با توجه به اینکه تصمیم درباره «تغییر نظام حاکم» بر تنگه هرمز، به‌عنوان تصمیمی «ملی» و متاثر از جنگ ۴۰ روزه علیه جمهوری اسلامی، در بالاترین سطوح نظام اتخاذ شده است، این تصمیم قطعا اجرایی و نهایی خواهد شد و همه دستگاه‌های ذی‌ربط در چارچوب آن عمل خواهند کرد.او افزود: «جمهوری اسلامی با اشراف کامل بر تحولات منطقه، هرگونه اقدام مرتبط با تنگه هرمز را در چارچوب منافع و امنیت ملی خود دنبال می‌کند و طرف‌های خارجی باید این واقعیت را در محاسبات و تصمیمات خود مدنظر قرار دهند.»https://iranintl.com/202607072123",
+    "html": "علاءالدین بروجردی، عضو کمیسیون امنیت ملی مجلس، هرگونه اقدام درباره تنگه هرمز بدون هماهنگی با جمهوری اسلامی و نیروهای مسلح را «آب در هاون کوبیدن» دانست و گفت: «کشورهای دیگر نباید اقداماتی انجام دهند که از ابتدا روشن است نتیجه‌ای نخواهد داشت.»<br><br>بروجردی در مصاحبه با سایت «خانه ملت» گفت با توجه به اینکه تصمیم درباره «تغییر نظام حاکم» بر تنگه هرمز، به‌عنوان تصمیمی «ملی» و متاثر از جنگ ۴۰ روزه علیه جمهوری اسلامی، در بالاترین سطوح نظام اتخاذ شده است، این تصمیم قطعا اجرایی و نهایی خواهد شد و همه دستگاه‌های ذی‌ربط در چارچوب آن عمل خواهند کرد.<br><br>او افزود: «جمهوری اسلامی با اشراف کامل بر تحولات منطقه، هرگونه اقدام مرتبط با تنگه هرمز را در چارچوب منافع و امنیت ملی خود دنبال می‌کند و طرف‌های خارجی باید این واقعیت را در محاسبات و تصمیمات خود مدنظر قرار دهند.»<br><a href=\"https://iranintl.com/202607072123\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607072123</a>",
+    "date": "2026-07-07T07:30:55+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/q5JKxlMWOJMHSWFcSXO1GdqWkGQITHBG8RxkXMfqY2heH1NicwkEXdd51JhAjj8rkWKALuLuJjbkei-szsru88fcdGRcPA2j0Wtqo5Me3_OLph2lY7raV0xCmn9KkCKIJFH5FoGObb8D4szky6c_4D9W4YJTCATOGJzvi-tZljbKENeAhN-NpcTPSH0N8dVVYesHSwr61PdLoXuZWqfwuxP65xNbC7RGsWbnBrCigSXaThxkK5ZK3N-jBYUv1eYq75jSVbaTMSF4kQkRrJHCR4n9OdWfqr-SubDmtFBJiGE_Vf-eZr1Qo3cyLNlYur24UkLbnluWxDPXNx3jVnwppw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346207",
+    "timestamp": 1783409455000
+  },
+  {
+    "id": "newscenter2020/66592",
+    "channel": "newscenter",
+    "text": "گویا ایران دیشب دوتا کشتی رو تو تنگه هرمز با موشک زده  تلفاتی گزارش نشده.  ✅ @newscenterصداوسیما: نفتکش هدف‌گرفته‌شده در تنگه هرمز پس از نادیده گرفتن هشدارهای مکرر مورد اصابت قرار گرفته است✅ @newscenter",
+    "html": "گویا ایران دیشب دوتا کشتی رو تو تنگه هرمز با موشک زده  تلفاتی گزارش نشده.  <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @newscenter",
+    "date": "2026-07-07T07:29:53+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/66592",
+    "timestamp": 1783409393000
+  },
+  {
+    "id": "IranintlTV/346206",
+    "channel": "IranintlTV",
+    "text": "اوکراین شامگاه دوشنبه و بامداد سه‌شنبه بیش از ۴۳۰ پهپاد به سمت مسکو پرتاب کرد. شهردار مسکو سه‌شنبه اعلام کرد این حمله در آستانه برگزاری نشست ناتو انجام شده است.همزمان، در پی حمله اوکراین به منطقه بلگورود روسیه، یک نفر کشته شد. این حمله پس از آن صورت گرفت که حملات روسیه جان ده‌ها نفر را در اوکراین گرفت.در همین حال، رهبران ناتو قرار است پیش از برگزاری نشست این ائتلاف در آنکارا، از توافق‌های دفاعی به ارزش ده‌ها میلیارد دلار خبر دهند. این توافق‌ها در شرایطی اعلام می‌شود که کشورهای اروپایی تلاش می‌کنند هزینه‌های نظامی خود را افزایش دهند و توان دفاعی خود را تقویت کنند.https://iranintl.com/202607076386",
+    "html": "اوکراین شامگاه دوشنبه و بامداد سه‌شنبه بیش از ۴۳۰ پهپاد به سمت مسکو پرتاب کرد. شهردار مسکو سه‌شنبه اعلام کرد این حمله در آستانه برگزاری نشست ناتو انجام شده است.<br><br>همزمان، در پی حمله اوکراین به منطقه بلگورود روسیه، یک نفر کشته شد. این حمله پس از آن صورت گرفت که حملات روسیه جان ده‌ها نفر را در اوکراین گرفت.<br><br>در همین حال، رهبران ناتو قرار است پیش از برگزاری نشست این ائتلاف در آنکارا، از توافق‌های دفاعی به ارزش ده‌ها میلیارد دلار خبر دهند. این توافق‌ها در شرایطی اعلام می‌شود که کشورهای اروپایی تلاش می‌کنند هزینه‌های نظامی خود را افزایش دهند و توان دفاعی خود را تقویت کنند.<br><a href=\"https://iranintl.com/202607076386\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607076386</a>",
+    "date": "2026-07-07T07:21:42+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/YLy2Z9KP_i_c8m2DgM4JhE4npt6TJTKqRHgY7h4pOw9J1vJn4fYtPacQVhACR-bQNEP7_GUvcF006wq5_27mw3FaLXg73RqM8MdiQ9otJwG7XuymKeJp4JFLtDw2K3i20FEGzN6t2r6bIfVB5EfmI-clIhU-GApbT_v9efMNkYQlGqPMIxWph5givquxSCRekQxCIhNU7yaiae2WMaEllN2eblBy7WeSR8ff9ABryxILuyBw30JZpwz6W5mKkGK0xAmZLtJHz87kR8ssM6kPa6TUlD41lkJYni6tt6YYMkruF_bSDUCZdLOkieyclqA7tEvIGkc651Pc2u10i-QcBA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346206",
+    "timestamp": 1783408902000
+  },
+  {
+    "id": "newscenter2020/66591",
+    "channel": "newscenter",
+    "text": "دونالد ترامپ سوار بر هواپیمای Air Force One عازم ترکیه شد تا در نشست ناتو شرکت کند. ✅ @newscenter",
+    "html": "دونالد ترامپ سوار بر هواپیمای Air Force One عازم ترکیه شد تا در نشست ناتو شرکت کند. <br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-07T07:14:25+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/66591",
+    "timestamp": 1783408465000
+  },
+  {
+    "id": "IranintlTV/346205",
+    "channel": "IranintlTV",
+    "text": "عباس عراقچی، وزیر خارجه جمهوری اسلامی، در واکنش به اظهارات اخیر دونالد ترامپ، در شبکه اجتماعی ایکس نوشت تا زمانی که تهدیدها ادامه داشته باشد، مذاکرات برای دستیابی به توافق نهایی آغاز نخواهد شد.حسین علیزاده، تحلیل‌گر روابط بین‌الملل، گفت این‌گونه موضع‌گیری‌ها برای مصرف داخلی است. او افزود با افزایش فشارها در مراسم تشییع علی خامنه‌ای و بالا گرفتن درخواست‌ها برای انتقام، مقام‌های جمهوری اسلامی ناچارند در واکنش به این فشارها چنین لفاظی‌هایی را مطرح کنند.@iranintltv",
+    "html": "عباس عراقچی، وزیر خارجه جمهوری اسلامی، در واکنش به اظهارات اخیر دونالد ترامپ، در شبکه اجتماعی ایکس نوشت تا زمانی که تهدیدها ادامه داشته باشد، مذاکرات برای دستیابی به توافق نهایی آغاز نخواهد شد.<br><br>حسین علیزاده، تحلیل‌گر روابط بین‌الملل، گفت این‌گونه موضع‌گیری‌ها برای مصرف داخلی است. او افزود با افزایش فشارها در مراسم تشییع علی خامنه‌ای و بالا گرفتن درخواست‌ها برای انتقام، مقام‌های جمهوری اسلامی ناچارند در واکنش به این فشارها چنین لفاظی‌هایی را مطرح کنند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T07:03:24+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346205",
+    "timestamp": 1783407804000
+  },
+  {
+    "id": "worldsmoments/100295",
+    "channel": "worldsmoments",
+    "text": "گروه کارد دیسبند شد@worldsmoments",
+    "html": "گروه کارد دیسبند شد<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-07T07:01:17+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/dgWoamLWmm1y34H4sBIlJ4ir2hd8FC4BzgdeKdSlMOM5G1hL63SR_EskK5yvuATum63lYfht3ieExLFOICpx7hgEr6weoiDRa530NSJQjJYkO0pvvaBbNckebk2RXQvMJf92lTW5CfENNow367FJxHb8gbt0BCELx6tV_M9i3JL6Hc1XDI43Na3e8JK0P9rJ30H3LPX0eIq6sWmsx6CkCwe1hKhLxAKQ8Ini4dEYFho42JF0tDLiNOg2Dg5FQNKdbTFogZ0uO1N0Ze0-677oagRcNfUke371goZtUxce1OnfB8V6gRNuGQZvx4qHFOd-JMRZmy_TUtC1bJyFJoZmVQ.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/worldsmoments/100295",
+    "timestamp": 1783407677000
+  },
+  {
+    "id": "IranintlTV/346204",
+    "channel": "IranintlTV",
+    "text": "🗣روایت شما از مراسم حکومتی دفن خامنه‌ای - سه‌شنبه ۱۶ تیر 🔹چرا از پول بنیادهای تحت‌نظر خامنه‌ای خرج مراسمش نکردید؟ چرا پول عوارض شهرداری تهران که مردم برای آسفالت، مترو و کارهای شهری پرداخت می‌کنند را خرج کردید؟ از کی اجازه گرفتید؟ حق‌الناس همینه آقایون مؤمن.🔹خطاب به شرکت‌کنندگان در مراسم دیکتاتور: پول‌هایی که خرجتان شد، مالیات و عوارض نوسازی مردم تهران بود که برای آسفالت شدن خیابان‌های افتضاح تهران مثل ستارخان پرداخت می‌شد. این پول امانت مردم تهران نزد شهرداری است و ما راضی نیستیم.🔹خبرنگار آمریکایی را در مراسم دفن خامنه‌ای روی صحنه بردند تا «مرگ بر آمریکا» بگوید و ارزشی‌ها خوشحال و خندان با او شعار می‌دادند. اگر این اتفاق برعکس می‌شد و یک خبرنگار ایرانی در آمریکا، مرگ بر خامنه‌ای و جمهوری اسلامی می‌گفت و به ایران بازمی‌گشت، خودش و دودمانش را به باد می‌دادند.🔹از یک ماه قبل از برگزاری سیرک مراسم خامنه‌ای، گفتند بانک‌ها دچار اختلال شده و از حساب‌ها برداشت کردند که با پول مردم، تابوت خالی بچرخانند. ما که راضی نیستیم.🔹این تمام زوری بود که زدند و جمعیت را جمع کردند. بدیهی است مردم هم به دلایل مختلف در این مراسم شرکت کردند: ترس از دست دادن شغل، فقر یا حتی یک سفر مجانی با خورد و خوراک و جای خواب. بخشی هم که ریاکاران و آدم‌های ایدئولوژیک هستند.🔹آقایان حق‌الناس است این همه ریخت‌وپاش برای تشییع‌جنازه و اربعین حسینی. اگر واقعاً کسی بخواهد، شرکت می‌کند. دیگر لازم نیست بریزوبپاش کنید، وقتی من هشت سال است که گوشت و لبنیات در سفره‌ام نیست، وقتی قبض دوماهه رو باید ۱۵ روزه پرداخت کرد و آن هم سه‌برابر قیمت. 🔹در تاریخ بنویسید با یک ماه تبلیغ، میلیاردها هزینه و بریزوبپاش فراوان، جمعیت ۵ میلیونی، دست بالا و جمع مصلی و تهران، قم و مشهد، از میان ۹۵ میلیون ایرانی، تابوت یک دیکتاتور را تشییع و دفن کرد.🔹در شرایطی که مردم کشورم در تهیه مایحتاج خود مانده‌اند و آشغال‌گوشت می‌خورند، من به عنوان یک ایرانی راضی نیستم یک ریال هم از حقوق من برای تشییع میلیاردی خرج شود. لطفاً دولت از یارانه و کالابرگ جان‌فداها که کد ملی همه‌شان را هم دارد، خرج مراسم را بدهد.🔹از بیرجند: تمام اتوبوس‌های داخل‌شهری بیرجند که مجهز به سیستم خنک‌کننده بودند، از شنبه وقتی که دمای هوا به ۴۰ درجه رسیده، غیب شدند. همه را بردند برای تشییع‌جنازه هیتلر زمان. 🔹برای تشییع‌جنازه نمایشی خامنه‌ای از جیب ملت هزاران هزار میلیارد تومان دزدی کردند و خرج این مراسم حکومتی را دادند، در حالی که مردم در فقر و بدبختی سر می‌کنند. 🔹حکومت فاسد آدم‌کش با تخم‌مرغ آب‌پز و قرمه‌سبزی و اسکان در پارک‌ها وانمود می‌کند که دیکتاتور جلاد شخص مهمی است. اسکان عراقی‌ها و لبنانی‌ها در هتل‌ها و پذیرایی بهتر از آن‌ها هم گویای این واقعیت است که ارزش عراقی‌ها برایشان بیشتر از ارزش ارزشی‌هاست.",
+    "html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')\"><b>🗣</b></i>روایت شما از مراسم حکومتی دفن خامنه‌ای - سه‌شنبه ۱۶ تیر <br></b><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>چرا از پول بنیادهای تحت‌نظر خامنه‌ای خرج مراسمش نکردید؟ چرا پول عوارض شهرداری تهران که مردم برای آسفالت، مترو و کارهای شهری پرداخت می‌کنند را خرج کردید؟ از کی اجازه گرفتید؟ حق‌الناس همینه آقایون مؤمن.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>خطاب به شرکت‌کنندگان در مراسم دیکتاتور: پول‌هایی که خرجتان شد، مالیات و عوارض نوسازی مردم تهران بود که برای آسفالت شدن خیابان‌های افتضاح تهران مثل ستارخان پرداخت می‌شد. این پول امانت مردم تهران نزد شهرداری است و ما راضی نیستیم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>خبرنگار آمریکایی را در مراسم دفن خامنه‌ای روی صحنه بردند تا «مرگ بر آمریکا» بگوید و ارزشی‌ها خوشحال و خندان با او شعار می‌دادند. اگر این اتفاق برعکس می‌شد و یک خبرنگار ایرانی در آمریکا، مرگ بر خامنه‌ای و جمهوری اسلامی می‌گفت و به ایران بازمی‌گشت، خودش و دودمانش را به باد می‌دادند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از یک ماه قبل از برگزاری سیرک مراسم خامنه‌ای، گفتند بانک‌ها دچار اختلال شده و از حساب‌ها برداشت کردند که با پول مردم، تابوت خالی بچرخانند. ما که راضی نیستیم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این تمام زوری بود که زدند و جمعیت را جمع کردند. بدیهی است مردم هم به دلایل مختلف در این مراسم شرکت کردند: ترس از دست دادن شغل، فقر یا حتی یک سفر مجانی با خورد و خوراک و جای خواب. بخشی هم که ریاکاران و آدم‌های ایدئولوژیک هستند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>آقایان حق‌الناس است این همه ریخت‌وپاش برای تشییع‌جنازه و اربعین حسینی. اگر واقعاً کسی بخواهد، شرکت می‌کند. دیگر لازم نیست بریزوبپاش کنید، وقتی من هشت سال است که گوشت و لبنیات در سفره‌ام نیست، وقتی قبض دوماهه رو باید ۱۵ روزه پرداخت کرد و آن هم سه‌برابر قیمت. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در تاریخ بنویسید با یک ماه تبلیغ، میلیاردها هزینه و بریزوبپاش فراوان، جمعیت ۵ میلیونی، دست بالا و جمع مصلی و تهران، قم و مشهد، از میان ۹۵ میلیون ایرانی، تابوت یک دیکتاتور را تشییع و دفن کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در شرایطی که مردم کشورم در تهیه مایحتاج خود مانده‌اند و آشغال‌گوشت می‌خورند، من به عنوان یک ایرانی راضی نیستم یک ریال هم از حقوق من برای تشییع میلیاردی خرج شود. لطفاً دولت از یارانه و کالابرگ جان‌فداها که کد ملی همه‌شان را هم دارد، خرج مراسم را بدهد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از بیرجند: تمام اتوبوس‌های داخل‌شهری بیرجند که مجهز به سیستم خنک‌کننده بودند، از شنبه وقتی که دمای هوا به ۴۰ درجه رسیده، غیب شدند. همه را بردند برای تشییع‌جنازه هیتلر زمان. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>برای تشییع‌جنازه نمایشی خامنه‌ای از جیب ملت هزاران هزار میلیارد تومان دزدی کردند و خرج این مراسم حکومتی را دادند، در حالی که مردم در فقر و بدبختی سر می‌کنند. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>حکومت فاسد آدم‌کش با تخم‌مرغ آب‌پز و قرمه‌سبزی و اسکان در پارک‌ها وانمود می‌کند که دیکتاتور جلاد شخص مهمی است. اسکان عراقی‌ها و لبنانی‌ها در هتل‌ها و پذیرایی بهتر از آن‌ها هم گویای این واقعیت است که ارزش عراقی‌ها برایشان بیشتر از ارزش ارزشی‌هاست.",
+    "date": "2026-07-07T06:45:33+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346204",
+    "timestamp": 1783406733000
+  },
+  {
+    "id": "newscenter2020/66589",
+    "channel": "newscenter",
+    "text": "اوکراین بوسیله موشک‌های سامانه HIMARS به بخش تولید خطوط لوله اصلی گاز  در بلگورود حمله کرد✅ @newscenter",
+    "html": "اوکراین بوسیله موشک‌های سامانه HIMARS به بخش تولید خطوط لوله اصلی گاز  در بلگورود حمله کرد<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-07T06:44:15+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/66589",
+    "timestamp": 1783406655000
+  },
+  {
+    "id": "newscenter2020/66588",
+    "channel": "newscenter",
+    "text": "🔊 اپلیکیشن حرفه ای وینرو 📱✅ 0️⃣5️⃣ فری اسپین با واریز حداقل 5 میلیون تومان با اپلیکیشن ✅پخش زنده تمام مسابقات✅ 200% بونوس اولین واریز 🌐Telegram 🎲   🌐 winro.io 🎲",
+    "html": "<tg-emoji emoji-id=\"5931437513238394200\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji> اپلیکیشن حرفه ای وینرو <tg-emoji emoji-id=\"6019330475603004839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <tg-emoji emoji-id=\"5771423202341303860\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/30E283A3.png')\"><b>0️⃣</b></i></tg-emoji><tg-emoji emoji-id=\"5771694571259958563\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/35E283A3.png')\"><b>5️⃣</b></i></tg-emoji> فری اسپین با واریز حداقل 5 میلیون تومان با اپلیکیشن <br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>پخش زنده تمام مسابقات<br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>&nbsp;200% بونوس اولین واریز <br><br><tg-emoji emoji-id=\"5231489647946768652\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji><a href=\"https://t.me/+QthWrg_lxnc3MmE0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Telegram</a> <tg-emoji emoji-id=\"5929248909573496277\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji>&nbsp;&nbsp; <tg-emoji emoji-id=\"5188381825701021648\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji> <a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">winro.io</a> <tg-emoji emoji-id=\"5929421288085923891\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji>",
+    "date": "2026-07-07T06:44:13+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "app-release.apk",
+        "size": "4.5 MB"
+      }
+    ],
+    "link": "https://t.me/newscenter/66588",
+    "timestamp": 1783406653000
+  },
+  {
+    "id": "newscenter2020/66587",
+    "channel": "newscenter",
+    "text": "🏆 جام جهانی ⚽️⚽️ آرژانیتن 🇦🇷✖️🇪🇬 مصر⏰ امشب ساعت 19:30🚨 ورزشگاه مرسدس بنز💰 در صورت پیش بینی اشتباه مسابقات جام جهانی ، 5️⃣میلیون ریال فری بت دریافت کنید🔥🎲 با وینرو همیشه راهی برای برد پیدا میکنی 🔊🎲 سایت وینرو با بیش از 400 گزینه متنوع برای پیش‌بینی 📊 ضرایب ویژه و رقابتی🎲 ثبت نام آسان و سریع کلیک  کنید 🎲✅🛍پیش‌بینی به ضرایب بالا✅🤩🤩🤩🤩 بونوس اولین واریز✅🤩🤩🤩بونوس واریز کریپتو✅تا🤩🤩🤩🤩 بونوس روی برگه‌های ترکیبی🎰 پخش زنده‌ی تمام مسابقات کلیک کنید💰 درگاه اختصاصی برای کاربران🔊اپلیکیشن حرفه ای 📱🔊 همین الان وارد شو و فرصت را از دست نده!📩 Winro.io         معتبرترین سایت ایران🎲🎲🎲🎲🎲📱 کانال اخبار و هدایــا 🌟r16🅰📩 @winro_io",
+    "html": "<tg-emoji emoji-id=\"5848266382084414957\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')\"><b>🏆</b></i></tg-emoji> جام جهانی&nbsp;<tg-emoji emoji-id=\"5282793667952681022\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji><br><tg-emoji emoji-id=\"5929051512876571349\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji> آرژانیتن <tg-emoji emoji-id=\"5846097402125099642\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A6F09F87B7.png')\"><b>🇦🇷</b></i></tg-emoji><tg-emoji emoji-id=\"5776144638414952225\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C96.png')\"><b>✖️</b></i></tg-emoji><tg-emoji emoji-id=\"5845733506725977844\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87AC.png')\"><b>🇪🇬</b></i></tg-emoji> مصر<br><tg-emoji emoji-id=\"5929429620322475562\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28FB0.png')\"><b>⏰</b></i></tg-emoji> امشب ساعت 19:30<br><tg-emoji emoji-id=\"5929521219089997602\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji> ورزشگاه مرسدس بنز<br><br><tg-emoji emoji-id=\"5929100892115574516\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji> در صورت پیش بینی اشتباه مسابقات جام جهانی ، <tg-emoji emoji-id=\"5771694571259958563\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/35E283A3.png')\"><b>5️⃣</b></i></tg-emoji>میلیون ریال فری بت دریافت کنید<tg-emoji emoji-id=\"4956499161319998529\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji><br><tg-emoji emoji-id=\"5929451567605358718\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji> با وینرو همیشه راهی برای برد پیدا میکنی <tg-emoji emoji-id=\"5928991074096782917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5929499963296849191\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><b> </b><a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>سایت وینرو</b></a><b> با بیش از 400 گزینه متنوع برای پیش‌بینی </b><br><tg-emoji emoji-id=\"4958506272551863292\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i></tg-emoji> <b>ضرایب ویژه و رقابتی</b><br><br><tg-emoji emoji-id=\"5929421288085923891\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji> <a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ثبت نام آسان و سریع کلیک&nbsp; کنید</b></a> <tg-emoji emoji-id=\"5929421288085923891\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><tg-emoji emoji-id=\"5294167145079395967\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B8D.png')\"><b>🛍</b></i></tg-emoji>پیش‌بینی به ضرایب بالا<br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6179462584568123415\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181611966591669227\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji> بونوس اولین واریز<br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6179450197882442373\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181611966591669227\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji>بونوس واریز کریپتو<br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>تا<tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6179450197882442373\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181611966591669227\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji> بونوس روی برگه‌های ترکیبی<br><tg-emoji emoji-id=\"5931516686665522361\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB0.png')\"><b>🎰</b></i></tg-emoji> <a href=\"https://winro.tv/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">پخش زنده‌ی تمام مسابقات </a><a href=\"https://winro.tv/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>کلیک کنید</b></a><br><tg-emoji emoji-id=\"5929100892115574516\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji> درگاه اختصاصی برای کاربران<br><tg-emoji emoji-id=\"5931437513238394200\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji><a href=\"https://api.winro.io/storage/app-release.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">اپلیکیشن حرفه ای </a><tg-emoji emoji-id=\"6019330475603004839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5928991074096782917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji><a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b> همین الان وارد شو و فرصت را از دست نده!</b></a><br><tg-emoji emoji-id=\"5929177282403900588\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A9.png')\"><b>📩</b></i></tg-emoji> <a href=\"http://Winro.io/\" target=\"_blank\" rel=\"noopener\">Winro.io</a><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; معتبرترین سایت ایران<br></b><tg-emoji emoji-id=\"5929364796381076848\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929384763684036945\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929530238521322121\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929419093357633129\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929467106797034689\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><br><tg-emoji emoji-id=\"5330237710655306682\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji> کانال اخبار و هدایــا <tg-emoji emoji-id=\"5981137088081301019\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i></tg-emoji>r16<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i><br><tg-emoji emoji-id=\"5929177282403900588\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A9.png')\"><b>📩</b></i></tg-emoji><b> </b><a href=\"https://t.me/winro_io\" target=\"_blank\">@winro_io</a>",
+    "date": "2026-07-07T06:44:12+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/Sw_dFwyZKLuMyUhShzFa2VSJum34bZhRfZHlXOa1-E7I8pgFLTilXDYNb9gQcr6H3jptBejibtVB4_w1HBgfukRFSuHd0nyoVhOPugmdEeaw_Z_g1tsCVjBT7j68LQhwSf6x7s72Gl4Lj7kPjP2mP6OvWVLBs92imqcRrekJTvbqQ-XlvDLh4R7qTC13OmIjuRmFWDbf-YiPWg4c0ogKrLVtKMKKyEnizboIIYzu5phEyfyDzGxKFDdsN5W5GT0L771YTwbJQnQ62Gm6Q-jlms3Kt-x_e4PnMgwa2ocNTdvYCg4nYstj7jetYNJAggMLPUyIEy344o83X5uQ7eRu7Q.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/newscenter/66587",
+    "timestamp": 1783406652000
+  },
+  {
+    "id": "Dirty_Kids/393965",
+    "channel": "dirty_kids",
+    "text": "دغدغه‌‌تو....دخترهنشسته زار‌ زارگریه میکنه چون رونالدو حذف شدهمن ناراحت میشم اصن فکرم نمیرسه برم دوربین بیارم فیلم بگیرم بعد پست کنمش.. مردم عجیبی داریم@Dirty_Kids 👻",
+    "html": "دغدغه‌‌تو....<br>دخترهنشسته زار‌ زارگریه میکنه چون رونالدو حذف شده<br><br>من ناراحت میشم اصن فکرم نمیرسه برم دوربین بیارم فیلم بگیرم بعد پست کنمش.. مردم عجیبی داریم<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-07T06:40:06+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/393965",
+    "timestamp": 1783406406000
+  },
+  {
+    "id": "Dirty_Kids/393964",
+    "channel": "dirty_kids",
+    "text": "این ویدیو بهتون ثابت میکنه که ایرانِ پولدارا، با ما فقیر فقرا فرق داره: @Dirty_Kids 👻",
+    "html": "این ویدیو بهتون ثابت میکنه که ایرانِ پولدارا، با ما فقیر فقرا فرق داره: <br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-07T06:40:05+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/393964",
+    "timestamp": 1783406405000
+  },
+  {
+    "id": "IranintlTV/346203",
+    "channel": "IranintlTV",
+    "text": "مهدی اسماعیلی بیدهندی، عضو هیات علمی دانشکده محیط‌زیست دانشگاه تهران، هشدار داد اگر روند تغییرات اقلیمی و الگوی کنونی مصرف آب ادامه یابد، تهران تا پنج سال آینده با بحران دائمی و غیرقابل بازگشت آب روبه‌رو خواهد شد.او هشدار داد که در این شرایط آبیاری بسیاری از فضاهای سبز شهری غیرممکن خواهد بود و قطعی آب منازل به بخشی از زندگی روزمره شهروندان تبدیل می‌شود.اسماعیلی گفت طرح‌های انتقال آب، که به گفته او ظاهرا از سوی مشاوران پیمانکاری پیشنهاد می‌شوند، راه‌حلی موقت هستند و ریشه بحران را حل نمی‌کنند.به گفته او، اصلاح الگوی مصرف، مدیریت بارگذاری جمعیتی، استفاده از پساب برای آبیاری فضای سبز و بهره‌گیری از روان‌آب‌ها از راهکارهای پایدار برای مقابله با بحران آب تهران است.https://iranintl.com/202607071626",
+    "html": "مهدی اسماعیلی بیدهندی، عضو هیات علمی دانشکده محیط‌زیست دانشگاه تهران، هشدار داد اگر روند تغییرات اقلیمی و الگوی کنونی مصرف آب ادامه یابد، تهران تا پنج سال آینده با بحران دائمی و غیرقابل بازگشت آب روبه‌رو خواهد شد.<br><br>او هشدار داد که در این شرایط آبیاری بسیاری از فضاهای سبز شهری غیرممکن خواهد بود و قطعی آب منازل به بخشی از زندگی روزمره شهروندان تبدیل می‌شود.<br><br>اسماعیلی گفت طرح‌های انتقال آب، که به گفته او ظاهرا از سوی مشاوران پیمانکاری پیشنهاد می‌شوند، راه‌حلی موقت هستند و ریشه بحران را حل نمی‌کنند.<br><br>به گفته او، اصلاح الگوی مصرف، مدیریت بارگذاری جمعیتی، استفاده از پساب برای آبیاری فضای سبز و بهره‌گیری از روان‌آب‌ها از راهکارهای پایدار برای مقابله با بحران آب تهران است.<br><a href=\"https://iranintl.com/202607071626\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607071626</a>",
+    "date": "2026-07-07T06:37:54+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/QBqoGwsv-Pui0bY6JnsGOFjs_tWSunKyLLrnOElnOoc91ZIvirQQrQd8QRDglWmw6W2NNetPJT8g_k46J7IVGMHcTH1G2vaMQHoq8vPmQUAYK2ErlDraSbuuzR4r6lm_HyQQQiDsGnH6Gi6POMO8QPsLJlSnAxEvlFN_J-lRqMaW6JC9Vz2S6ixC9jlOp4GQ0NuVTgS-rUoyjXaGfXG3Lgu3lPUJoXNhM4Q2oh-ZT6hpZb79Lw4i80EEwFKbilCn-dA4tqS-4ldxegDf-uwXBHQQA3MxVAk1lCxS8hGefrUnSbiOaLYM3TTesiEoRwFPB5-SUjfBMaoCEackujCtTA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346203",
+    "timestamp": 1783406274000
+  },
+  {
+    "id": "IranintlTV/346202",
+    "channel": "IranintlTV",
+    "text": "رییس شورای عالی داروخانه‌های ایران گفت برخی شرکت‌های پخش، تحویل داروهای پرمصرف را به خرید داروها و مکمل‌های دیگر مشروط کرده‌اند.نظام‌الدین میثاقی، پزشک و استادیار دانشگاه آریزونا، گفت: «اگر مشکلات مالی و ساختاری در حوزه دارو برطرف نشود، احتمال تشدید کمبودهای مقطعی، توزیع نابرابر دارو و افزایش فشار بر بیماران، به‌ویژه اقشار آسیب‌پذیر، بیشتر خواهد شد.»@iranintltv",
+    "html": "رییس شورای عالی داروخانه‌های ایران گفت برخی شرکت‌های پخش، تحویل داروهای پرمصرف را به خرید داروها و مکمل‌های دیگر مشروط کرده‌اند.<br><br>نظام‌الدین میثاقی، پزشک و استادیار دانشگاه آریزونا، گفت: «اگر مشکلات مالی و ساختاری در حوزه دارو برطرف نشود، احتمال تشدید کمبودهای مقطعی، توزیع نابرابر دارو و افزایش فشار بر بیماران، به‌ویژه اقشار آسیب‌پذیر، بیشتر خواهد شد.»<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T06:25:06+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346202",
+    "timestamp": 1783405506000
+  },
+  {
+    "id": "IranintlTV/346201",
+    "channel": "IranintlTV",
+    "text": "جاویدنامان انقلاب ملی ایرانیان«بابک صادقی محسنی» ۱۹ دی‌ماه در جریان انقلاب ملی در تهران‌پارس، با شلیک مستقیم گلوله جنگی به سرش از سوی نیروهای سرکوب جان باخت. نامش در حافظه‌ این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.@iranintltv",
+    "html": "جاویدنامان انقلاب ملی ایرانیان<br>«بابک صادقی محسنی» ۱۹ دی‌ماه در جریان انقلاب ملی در تهران‌پارس، با شلیک مستقیم گلوله جنگی به سرش از سوی نیروهای سرکوب جان باخت. نامش در حافظه‌ این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T06:22:38+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346201",
+    "timestamp": 1783405358000
+  },
+  {
+    "id": "newscenter2020/66586",
+    "channel": "newscenter",
+    "text": "نتانیاهو: فروش اف-۳۵ به ترکیه توازن قدرت در خاورمیانه را بر هم می‌زند؛ از ترامپ می‌خواهم که این جنگنده‌ها را به ترکیه نفروشد   ✅ @newscenterنیویورک تایمز: انتظار می‌رود ترامپ به اردوغان اطلاع دهد که مایل به فروش جنگنده‌های اف-۳۵ به ترکیه است، اگرچه هنوز مشخص نیست چنین معامله‌ای چه زمانی یا چگونه انجام خواهد شد. ✅ @newscenter",
+    "html": "نتانیاهو: فروش اف-۳۵ به ترکیه توازن قدرت در خاورمیانه را بر هم می‌زند؛ از ترامپ می‌خواهم که این جنگنده‌ها را به ترکیه نفروشد   <tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> @newscenter",
+    "date": "2026-07-07T06:19:25+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/66586",
+    "timestamp": 1783405165000
+  },
+  {
+    "id": "worldsmoments/100294",
+    "channel": "worldsmoments",
+    "text": "تصاویری که رویترز منتشر کرده و ادعا داره چند هزار نفر بیشتر توی مراسم شرکت نکردن.@worldsmoments",
+    "html": "تصاویری که رویترز منتشر کرده و ادعا داره چند هزار نفر بیشتر توی مراسم شرکت نکردن.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-07T06:17:02+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/100294",
+    "timestamp": 1783405022000
+  },
+  {
+    "id": "pm_afshaa/95390",
+    "channel": "pm_afshaa",
+    "text": "🔴ایالات متحده تأیید کرد که ایران به یک تانکر حامل گاز که قصد عبور از تنگه هرمز را داشت، حمله کرده  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 😁 @Pm_Afshaaمنتظر پاسخ ترامپ باید باشیم....",
+    "html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ایالات متحده تأیید کرد که ایران به یک تانکر حامل گاز که قصد عبور از تنگه هرمز را داشت، حمله کرده  <tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> Rainbet.com the #1 Non-KYC Crypto Casino &amp; Sportsbook @rainbetcom <tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> @Pm_Afshaa",
+    "date": "2026-07-07T06:14:15+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95390",
+    "timestamp": 1783404855000
+  },
+  {
+    "id": "IranintlTV/346200",
+    "channel": "IranintlTV",
+    "text": "در ادامه مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶، اسپانیا با پیروزی یک بر صفر برابر پرتغال به جمع هشت تیم برتر راه یافت. در دیگر دیدار این مرحله، آمریکا با شکست چهار بر یک مقابل بلژیک از رقابت‌ها حذف شد.گزارش رضا محدث، خبرنگار ایران‌اینترنشنال@iranintltv",
+    "html": "در ادامه مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶، اسپانیا با پیروزی یک بر صفر برابر پرتغال به جمع هشت تیم برتر راه یافت. در دیگر دیدار این مرحله، آمریکا با شکست چهار بر یک مقابل بلژیک از رقابت‌ها حذف شد.<br><br>گزارش رضا محدث، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T06:14:08+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346200",
+    "timestamp": 1783404848000
+  },
+  {
+    "id": "pm_afshaa/95389",
+    "channel": "pm_afshaa",
+    "text": "🔴ایالات متحده تأیید کرد که ایران به یک تانکر حامل گاز که قصد عبور از تنگه هرمز را داشت، حمله کرده💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ایالات متحده تأیید کرد که ایران به یک تانکر حامل گاز که قصد عبور از تنگه هرمز را داشت، حمله کرده<br><br><blockquote><tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> <a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-07T06:13:38+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95389",
+    "timestamp": 1783404818000
+  },
+  {
+    "id": "pm_afshaa/95388",
+    "channel": "pm_afshaa",
+    "text": "🔴اکسیوس به نقل از یک مقام آمریکایی اعلام کرد: سپاه پاسداران انقلاب اسلامی ایران، حداقل دو موشک به سمت کشتی‌های تجاری شلیک کرد که از تنگه هرمز عبور می‌کردند. هر دو کشتی تجاری مورد حمله سپاه پاسداران قرار گرفتند و خسارات زیادی به آنها وارد شد، اما هیچ تلفاتی نداشتن💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>اکسیوس به نقل از یک مقام آمریکایی اعلام کرد: سپاه پاسداران انقلاب اسلامی ایران، حداقل دو موشک به سمت کشتی‌های تجاری شلیک کرد که از تنگه هرمز عبور می‌کردند. هر دو کشتی تجاری مورد حمله سپاه پاسداران قرار گرفتند و خسارات زیادی به آنها وارد شد، اما هیچ تلفاتی نداشتن<br><br><blockquote><tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> <a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-07T06:11:45+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95388",
+    "timestamp": 1783404705000
+  },
+  {
+    "id": "pm_afshaa/95387",
+    "channel": "pm_afshaa",
+    "text": "🔴مرکز عملیات تجاری دریایی بریتانیا: یک نفتکش ساعتی پیش در فاصله ۸ مایل دریایی شرق «لیما» در عمان، در کریدور جنوبیِ تنگه هرمز، هدف حمله سپاه پاسداران قرار گرفت و مورد اصابت قرار گرفته.  💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 😁 @Pm_Afshaa🔴صداوسیما به نقل از منابع آگاه گزارش داد نفتکشی که در تنگه هرمز هدف قرار گرفته، در حال استفاده از مسیر دریایی مورد حمایت آمریکا در نزدیکی سواحل عمان بود و پس از «بی‌توجهی به هشدارهای مکرر» هدف حمله قرار گرفته💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>مرکز عملیات تجاری دریایی بریتانیا: یک نفتکش ساعتی پیش در فاصله ۸ مایل دریایی شرق «لیما» در عمان، در کریدور جنوبیِ تنگه هرمز، هدف حمله سپاه پاسداران قرار گرفت و مورد اصابت قرار گرفته.  <tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> Rainbet.com the #1 Non-KYC Crypto Casino &amp; Sportsbook @rainbetcom <tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> @Pm_Afshaa",
+    "date": "2026-07-07T06:11:04+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95387",
+    "timestamp": 1783404664000
+  },
+  {
+    "id": "IranintlTV/346199",
+    "channel": "IranintlTV",
+    "text": "🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۱۶ تیر@iranintlTV",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار بامدادی | سه‌شنبه ۱۶ تیر<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
+    "date": "2026-07-07T06:10:40+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "اخبار بامدادی | سه‌شنبه ۱۶ تیر",
+        "size": ""
+      }
+    ],
+    "link": "https://t.me/IranintlTV/346199",
+    "timestamp": 1783404640000
+  },
+  {
+    "id": "pm_afshaa/95386",
+    "channel": "pm_afshaa",
+    "text": "دیوید کیس:احتمالاً نباید این موضوع را فاش می‌کردم، اما ما دو نفر از بهترین مأموران خود را برای محافظت از قاآنی در مراسم خاکسپاری فرستادیم💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
+    "html": "دیوید کیس:احتمالاً نباید این موضوع را فاش می‌کردم، اما ما دو نفر از بهترین مأموران خود را برای محافظت از قاآنی در مراسم خاکسپاری فرستادیم<br><br><blockquote><tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> <a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-07T06:07:50+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/Nfujy5klyEUBuewVoZiF-ShWP6T8otdRvhR6LSY8sBk9E31puHoH-zTce79GJ0O_b70tslsEgHKl1oMsryFM1G9HARuu9gH_4lVJzoIKO2qd3GgqQZ1pkbhNJ_dGuc00MNJZine89Y-FY_cRfyvKzeOVNnkB5ynGB4l1RuhQbA7-MEmONpKpknAwXgKkrN-_Qiao2n9KBbS3zxMvuW8ghqpJRAkv7hYfqBc02lc_LiyrL89ECUDfmsRA9m3Esk0MpysbCooNr3O9RdKTxIBrF9PHgzd7JIV0O4edkorZ7YjBI6xcUXzrATMckApRF8x2-oKBoOEs-1ZXtLfHe8jjPw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/95386",
+    "timestamp": 1783404470000
+  },
+  {
+    "id": "worldsmoments/100293",
+    "channel": "worldsmoments",
+    "text": "ویدیویی که از تشییع خامنه‌ای پخش شده.@worldsmoments",
+    "html": "ویدیویی که از تشییع خامنه‌ای پخش شده.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-07T06:06:41+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/100293",
+    "timestamp": 1783404401000
+  },
+  {
+    "id": "IranintlTV/346198",
+    "channel": "IranintlTV",
+    "text": "دونالد ترامپ گفت آمریکا یا با جمهوری اسلامی به توافق خواهد رسید یا کار را تمام خواهد کرد.امیر حمیدی، متخصص امنیت ملی، گفت جمهوری اسلامی درگیر مدیریت پیامدهای اشتباهات خود شده و توان تحمیل اراده تهران به‌شدت کاهش یافته است.@iranintltv",
+    "html": "دونالد ترامپ گفت آمریکا یا با جمهوری اسلامی به توافق خواهد رسید یا کار را تمام خواهد کرد.<br><br>امیر حمیدی، متخصص امنیت ملی، گفت جمهوری اسلامی درگیر مدیریت پیامدهای اشتباهات خود شده و توان تحمیل اراده تهران به‌شدت کاهش یافته است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T06:00:10+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346198",
+    "timestamp": 1783404010000
+  },
+  {
+    "id": "worldsmoments/100292",
+    "channel": "worldsmoments",
+    "text": "بلژیک بعد از گل چهارم به آمریکا رقص ترامپ رو انجام داد@worldsmoments",
+    "html": "بلژیک بعد از گل چهارم به آمریکا رقص ترامپ رو انجام داد<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-07T05:59:30+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/100292",
+    "timestamp": 1783403970000
+  },
+  {
+    "id": "newscenter2020/66585",
+    "channel": "newscenter",
+    "text": "گویا ایران دیشب دوتا کشتی رو تو تنگه هرمز با موشک زدهتلفاتی گزارش نشده.✅ @newscenter",
+    "html": "گویا ایران دیشب دوتا کشتی رو تو تنگه هرمز با موشک زده<br><br>تلفاتی گزارش نشده.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-07T05:58:46+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/66585",
+    "timestamp": 1783403926000
+  },
+  {
+    "id": "worldsmoments/100291",
+    "channel": "worldsmoments",
+    "text": "آمریکا با نتیجه‌ی ۱-۴ مقابل بلژیک، از جام جهانی حذف شد. این در حالیه که یکی از بازیکن‌های آمریکا کارت قرمز گرفته بود ولی مثل اینکه با دخالت کاخ سفید فیفا بخشیدش و به تیم برگشت.@worldsmoments",
+    "html": "آمریکا با نتیجه‌ی ۱-۴ مقابل بلژیک، از جام جهانی حذف شد. <br><blockquote>این در حالیه که یکی از بازیکن‌های آمریکا کارت قرمز گرفته بود ولی مثل اینکه با دخالت کاخ سفید فیفا بخشیدش و به تیم برگشت.</blockquote><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-07T05:53:15+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/C6dvnRS4FIF0BkdwACMyTdP323z3A19IYlDKP4WvLBXo3d6injx0hP1xSfxvXDUJcKhyKsVimJmovVWJFI5R_tti8URavKHRXYcvbhCvqSxyIW8lJWYIXBphbxcfjVVfr7JMKT4ySBmx-q_81GH7lDUaO3XELQMzbTCw8uiL5PKdrTy7-wJNj5Wqp7gdLnRVWImrQNepv6YLWZP5AnMP2byx8zTI8aTpVVAPjUUhX32FMu8yyTsj2YNNxWCipML8HDH0YQddUiG2tkE2wYuiFvSsZQJ_VBevk_f-27hChjkIdVUeYD5EWQspbjvpL1x95qoSe3ZTlfBaZtKV_KNMNA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/worldsmoments/100291",
+    "timestamp": 1783403595000
+  },
+  {
+    "id": "newscenter2020/66584",
+    "channel": "newscenter",
+    "text": "🔴 عراقچی: میلیون‌ها ایرانیِ سرافراز، متحداً برای بزرگداشت آیت‌الله العظمی خامنه‌ای و میراث ایشان گرد هم آمدند. نه آنها و نه نیروهای مسلح شجاع ما، هیچ تهدیدی را نمی‌پذیرند.🔻بند ۱۳ تفاهم‌نامه واضح است: اگر تهدیدها ادامه یابد، مذاکرات بر سر توافق نهایی آغاز نخواهد شد. به امضای خود احترام بگذارید.✅ @newscenter",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> عراقچی: میلیون‌ها ایرانیِ سرافراز، متحداً برای بزرگداشت آیت‌الله العظمی خامنه‌ای و میراث ایشان گرد هم آمدند. نه آنها و نه نیروهای مسلح شجاع ما، هیچ تهدیدی را نمی‌پذیرند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>بند ۱۳ تفاهم‌نامه واضح است: اگر تهدیدها ادامه یابد، مذاکرات بر سر توافق نهایی آغاز نخواهد شد. به امضای خود احترام بگذارید.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-07T05:44:28+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/phe4Q_NV9eGCo9WVEDfWXW7MqKwTktbosHmZdtggwgUZ4XZ5QnVuSbBOJUdQXghn7iCu_NqrJiF8NVay0mSmoUk4SF0S3x6J5Z8s71b14RmGPeXHlj9k9UfY2ry354XSZz1h9L3j2P8w44BbttyMvfcWNw0Z_scNLkeIDfETzly0hIRV0Fe4GB0OTJI5TX-WkVg6A7jk_zfhdM1Rf3tKcDFdhd86yVQzemNyKnVh3JxSCwxn4qMHzp0OL0xL_Ve91dMxsDLnVLjiSJr5YIR4GG4eQU1r3kLBStLPrV9qweWB_sX6JrUPectzcG3TKTsJnfIKLCqtd9RIpOPyJhed5A.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/newscenter/66584",
+    "timestamp": 1783403068000
+  },
+  {
+    "id": "IranintlTV/346197",
+    "channel": "IranintlTV",
+    "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، سه‌شنبه ۱۶ تیر در شبکه اجتماعی تروث‌سوشال نوشت ارتش ایالات متحده «هرگز قوی‌تر یا قدرتمندتر از امروز نبوده است» و هیچ کشور دیگری توان انجام آنچه آمریکا انجام می‌دهد را ندارد.او گفت آمریکا امسال رکوردهای تاریخی تازه‌ای در جذب نیرو ثبت کرده و این هدف ماه‌ها زودتر از برنامه محقق شده است.ترامپ افزود قدرت ارتش آمریکا در جشن دویست‌وپنجاهمین سالگرد استقلال این کشور به نمایش گذاشته شد.او از کنگره خواست پس از بازگشت به کار، تصویب طرحی شامل ۳۵۰ میلیارد دلار بودجه دفاعی و «قانون نجات آمریکا» را در اولویت قرار دهد.ترامپ گفت تصویب این بودجه می‌تواند به تامین مالی کامل آنچه او «وزارت جنگ بزرگ ما» خواند، کمک کند و آزادی آمریکا را برای نسل‌های آینده تضمین کند.https://iranintl.com/202607072619",
+    "html": "دونالد ترامپ، رییس‌جمهوری آمریکا، سه‌شنبه ۱۶ تیر در شبکه اجتماعی تروث‌سوشال نوشت ارتش ایالات متحده «هرگز قوی‌تر یا قدرتمندتر از امروز نبوده است» و هیچ کشور دیگری توان انجام آنچه آمریکا انجام می‌دهد را ندارد.<br><br>او گفت آمریکا امسال رکوردهای تاریخی تازه‌ای در جذب نیرو ثبت کرده و این هدف ماه‌ها زودتر از برنامه محقق شده است.<br><br>ترامپ افزود قدرت ارتش آمریکا در جشن دویست‌وپنجاهمین سالگرد استقلال این کشور به نمایش گذاشته شد.<br><br>او از کنگره خواست پس از بازگشت به کار، تصویب طرحی شامل ۳۵۰ میلیارد دلار بودجه دفاعی و «قانون نجات آمریکا» را در اولویت قرار دهد.<br><br>ترامپ گفت تصویب این بودجه می‌تواند به تامین مالی کامل آنچه او «وزارت جنگ بزرگ ما» خواند، کمک کند و آزادی آمریکا را برای نسل‌های آینده تضمین کند.<br><a href=\"https://iranintl.com/202607072619\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607072619</a>",
+    "date": "2026-07-07T05:43:04+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/m7Hzm8Hlqinen5oIGL4RKlMisYbhKkUWPCNuKMif5cYjpiXmz_PrBW5i1aLLt7hafwlW4RpI674hb0BCJLoHiM7ungXfQZTrebjEFC1mqOe8FW9rhaZ9q2auet_wT1bAq9vyWDb1BQfki0ZtVoWFEV7uR5v-gvL931iQ7oeD7QKITN4BEs6kGm8Iwkclgxoz1M1hL7nl0noqR8DmStmJhjk0HDAbzQec-j-aAxJdJcoaGKMUuTXD-cXJv0RanYc7e7zuaesK12adFPCPHO0Dd1nQjQuOyEhhdJXcKSCXCZa5jiygozhF0C008eOr3tYAyn_CbA5mawajmgS7vesasg.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346197",
+    "timestamp": 1783402984000
+  },
+  {
+    "id": "IranintlTV/346196",
+    "channel": "IranintlTV",
+    "text": "در حاشیه نشست «روز ایران» در پارلمان هلند، وزیر امور خارجه پیشین هلند و عضو کمیته ایران آزاد، در گفت‌وگو با مهران عباسیان، خبرنگار ایران‌اینترنشنال، گفت مردم ایران شجاعت خود را حفظ کنند و اجازه ندهند تحولات بین‌المللی آنان را دلسرد کند.@iranintltv",
+    "html": "در حاشیه نشست «روز ایران» در پارلمان هلند، وزیر امور خارجه پیشین هلند و عضو کمیته ایران آزاد، در گفت‌وگو با مهران عباسیان، خبرنگار ایران‌اینترنشنال، گفت مردم ایران شجاعت خود را حفظ کنند و اجازه ندهند تحولات بین‌المللی آنان را دلسرد کند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T05:36:20+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346196",
+    "timestamp": 1783402580000
+  },
+  {
+    "id": "IranintlTV/346195",
+    "channel": "IranintlTV",
+    "text": "هیلل نیومن، سفیر اسرائیل در استرالیا، در دیدار با جمعی از اعضای جامعه ایرانی-استرالیایی و جامعه یهودیان استرالیا، بر گسترش همبستگی و حمایت متقابل میان دو جامعه تاکید کرد. او در این دیدار، جمهوری اسلامی را «شرور و سرکوبگر» توصیف کرد و گفت اسرائیل میان مردم ایران و حکومت حاکم بر این کشور تفاوت قائل است.گزارش علیرضا محبی، خبرنگار ایران‌اینترنشنال@iranintltv",
+    "html": "هیلل نیومن، سفیر اسرائیل در استرالیا، در دیدار با جمعی از اعضای جامعه ایرانی-استرالیایی و جامعه یهودیان استرالیا، بر گسترش همبستگی و حمایت متقابل میان دو جامعه تاکید کرد. او در این دیدار، جمهوری اسلامی را «شرور و سرکوبگر» توصیف کرد و گفت اسرائیل میان مردم ایران و حکومت حاکم بر این کشور تفاوت قائل است.<br><br>گزارش علیرضا محبی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T05:31:12+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346195",
+    "timestamp": 1783402272000
+  },
+  {
+    "id": "IranintlTV/346194",
+    "channel": "IranintlTV",
+    "text": "عباس عراقچی، وزیر خارجه جمهوری اسلامی، با اشاره به مراسم تشییع جنازه علی خامنه‌ای، در شبکه اجتماعی ایکس نوشت شرکت‌کنندگان در این مراسم و نیروهای مسلح جمهوری اسلامی از هیچ تهدیدی هراس به دل راه نمی‌دهند.او افزود: «بند ۱۳ یادداشت تفاهم کاملا روشن و صریح است: تا زمانی که تهدیدها علیه جمهوری اسلامی ادامه داشته باشد، مذاکرات برای دستیابی به توافق نهایی آغاز نخواهد شد. به امضای خود پایبند باشید.»https://iranintl.com/202607074799",
+    "html": "عباس عراقچی، وزیر خارجه جمهوری اسلامی، با اشاره به مراسم تشییع جنازه علی خامنه‌ای، در شبکه اجتماعی ایکس نوشت شرکت‌کنندگان در این مراسم و نیروهای مسلح جمهوری اسلامی از هیچ تهدیدی هراس به دل راه نمی‌دهند.<br><br>او افزود: «بند ۱۳ یادداشت تفاهم کاملا روشن و صریح است: تا زمانی که تهدیدها علیه جمهوری اسلامی ادامه داشته باشد، مذاکرات برای دستیابی به توافق نهایی آغاز نخواهد شد. به امضای خود پایبند باشید.»<br><a href=\"https://iranintl.com/202607074799\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607074799</a>",
+    "date": "2026-07-07T05:25:20+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/ICmBT2QF81QN-D7VNc_Nr66sTLdFAcFCJPIl0b-cBpCX090X1Mrvvnh1LdMKdq_Drsq3n3M799WqZGJIIWu-q6s-2sGE1PMvNgyA3Jg7ygwMhTZrpmXBZ_PlszwhYWARhnEwsbfd7EMLAP-GeDk42GfUiIsVpJZx0UqdqciaylNEeGm6ZWgq4yOxgmHFxu2EAmbAJT_duJePC7_NUr37FAs_DA7iV1L0hPR8Xsz_u7rCwKYV3swCdUOCS4FvXweTW530HFTHxH16M9C7E7-n5gsM2jhbldiafkQHWs_9rRdhdONXNlkETigyXm0OH5rx2le4HP3Rf9KAPKvMSG0dEA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346194",
+    "timestamp": 1783401920000
+  },
+  {
+    "id": "IranintlTV/346193",
+    "channel": "IranintlTV",
+    "text": "چین بار دیگر فشارهای نظامی، سیاسی و دیپلماتیک خود را بر تایوان افزایش داده است. این فشارهای چندلایه شامل گشت‌های جدید نظامی در آب‌های شرق تایوان، تحریم سیاستمداران خارجی که به این جزیره سفر می‌کنند و افزایش هزینه حمایت از تایپه است.گزارش توماج طاهباز، خبرنگار ایران‌اینترنشنال@iranintltv",
+    "html": "چین بار دیگر فشارهای نظامی، سیاسی و دیپلماتیک خود را بر تایوان افزایش داده است. این فشارهای چندلایه شامل گشت‌های جدید نظامی در آب‌های شرق تایوان، تحریم سیاستمداران خارجی که به این جزیره سفر می‌کنند و افزایش هزینه حمایت از تایپه است.<br><br>گزارش توماج طاهباز، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T05:19:51+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346193",
+    "timestamp": 1783401591000
+  },
+  {
+    "id": "IranintlTV/346192",
+    "channel": "IranintlTV",
+    "text": "امید معماریان، تحلیل‌گر سیاسی، درباره حمله موشکی بامداد سه‌شنبه سپاه پاسداران به دو کشتی تجاری در نزدیکی تنگه هرمز گفت به نظر می‌رسد جمهوری اسلامی قصد دارد تا زمان دستیابی کامل به دارایی‌های مسدودشده و رفع تحریم‌ها، تنگه هرمز را ناامن نگه دارد؛ حتی اگر این اقدامات به شکست مذاکرات با آمریکا یا اقدام نظامی منجر شود.@iranintltv",
+    "html": "امید معماریان، تحلیل‌گر سیاسی، درباره حمله موشکی بامداد سه‌شنبه سپاه پاسداران به دو کشتی تجاری در نزدیکی تنگه هرمز گفت به نظر می‌رسد جمهوری اسلامی قصد دارد تا زمان دستیابی کامل به دارایی‌های مسدودشده و رفع تحریم‌ها، تنگه هرمز را ناامن نگه دارد؛ حتی اگر این اقدامات به شکست مذاکرات با آمریکا یا اقدام نظامی منجر شود.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-07T05:11:08+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/346192",
+    "timestamp": 1783401068000
+  },
+  {
     "id": "IranintlTV/346191",
     "channel": "IranintlTV",
     "text": "سرخط خبرهای سه‌شنبه ۱۶ تیر@iranintltv",
@@ -5063,547 +5755,5 @@
     "files": [],
     "link": "https://t.me/newscenter/66549",
     "timestamp": 1783326853000
-  },
-  {
-    "id": "IranintlTV/346022",
-    "channel": "IranintlTV",
-    "text": "🔻فدراسیون فوتبال بلژیک در بیانیه‌ای، مراتب «شگفتی و اعتراض» خود را نسبت به تصمیم فیفا مبنی بر لغو محرومیت فولارین بالوگان، مهاجم تیم ملی آمریکا، در آستانه دیدار دو تیم در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ اعلام کرد.🔹بالوگان در دیدار قبلی مقابل بوسنی مستقیما اخراج شده بود. فیفا با استناد به ماده ۲۷ قانون انضباطی خود، حکم به تعلیق این محرومیت داد، اما بلژیک با رد این استدلال، به ماده ۶۶.۴ همین آیین‌نامه و بخشنامه شماره ۱۶ جام جهانی استناد کرد که صراحتا می‌گوید کارت قرمز مستقیم، محرومیت خودکار از بازی بعدی را به همراه دارد. 🔹فدراسیون بلژیک با متهم کردن فیفا به بازی با قوانین خود، اعلام کرد که برای محافظت از اصول بازی جوانمردانه و احقاق حقوق تیمش، در حال بررسی «تمام گزینه‌های قانونی ممکن» است.🔹در همین حال، نشریه پولیتیکو به نقل از یک مقام بلندپایه در اتحادیه فوتبال اروپا،یوفا، گزارش داد که تصمیم فیفا موجی از خشم را در فوتبال اروپا برانگیخته است. 🔹جزئیات را در سایت بخوانید.@iranintltvsport",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>فدراسیون فوتبال بلژیک در بیانیه‌ای، مراتب «شگفتی و اعتراض» خود را نسبت به تصمیم فیفا مبنی بر لغو محرومیت فولارین بالوگان، مهاجم تیم ملی آمریکا، در آستانه دیدار دو تیم در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ اعلام کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>بالوگان در دیدار قبلی مقابل بوسنی مستقیما اخراج شده بود. فیفا با استناد به ماده ۲۷ قانون انضباطی خود، حکم به تعلیق این محرومیت داد، اما بلژیک با رد این استدلال، به ماده ۶۶.۴ همین آیین‌نامه و بخشنامه شماره ۱۶ جام جهانی استناد کرد که صراحتا می‌گوید کارت قرمز مستقیم، محرومیت خودکار از بازی بعدی را به همراه دارد. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>فدراسیون بلژیک با متهم کردن فیفا به بازی با قوانین خود، اعلام کرد که برای محافظت از اصول بازی جوانمردانه و احقاق حقوق تیمش، در حال بررسی «تمام گزینه‌های قانونی ممکن» است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در همین حال، نشریه پولیتیکو به نقل از یک مقام بلندپایه در اتحادیه فوتبال اروپا،یوفا، گزارش داد که تصمیم فیفا موجی از خشم را در فوتبال اروپا برانگیخته است. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>جزئیات را در <a href=\"https://www.iranintl.com/202607061713\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">سایت</a> بخوانید.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@iranintltvsport</a>",
-    "date": "2026-07-06T08:21:34+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/m-9YfIlizWCrV3MHH8a3Yt5XW1kWn__priskdXwxufWvsPTB0FzDAgwbNAZvpBRfkJ_1GqnRip-dJkS0KkpI-gvWGLh24jK1AvP03K4CfQXBl3L9UIe-pEOg-i5wNJeqesgISK1WHmLl59b2aV1sy_4DEQ3V4s9Rl4FeBrPxkqD4ZhhGr72VfeMyLNxy-L6q4YbCqSP2A2JLeJSRE6KSSfTxUhkVzLiXcZgA8XzNnvXnY7mQQbsO3l2SW3BpOI_vmX_oS-3h_-JJKWBRFXHzVe585FlMk6zpV_Ic1YQ3PHEbVA5WsETkjDZxCmPwJm_VeWePyV5VZ_SeYRfxTKZ6WA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346022",
-    "timestamp": 1783326094000
-  },
-  {
-    "id": "IranintlTV/346021",
-    "channel": "IranintlTV",
-    "text": "عزت‌الله ضرغامی، عضو شورای عالی فضای مجازی، گفت گفت‌وگوها «از باب اکل میته» است و اگر مذاکره‌ای انجام می‌شود، «از سر ناچاری» است.او افزود: «حرف اول ما انتقام است؛ انتقامی که به‌گونه‌ای باشد که دشمنان را ادب کند و دل مردم را به خاطر داغی که بر آن‌ها وارد شده، آرام سازد.»رییس پیشین سازمان صداوسیما تاکید کرد مذاکره‌کنندگان باید بدانند که مردم «جز یک انتقام جدی، روشن و قاطع، به چیز دیگری رضایت نخواهند داد.»ضرغامی حضور هواداران جمهوری اسلامی در مراسم تشییع جنازه و دفن علی خامنه‌ای را «تجلی مفهوم بعثت مردم» دانست و گفت آن‌ها با همه وجود از انتقام و خون‌خواهی سخن گفتند و با حضور میلیونی خود این پیام را به جهان رساندند که ایرانی‌ها به دنبال انتقام هستند و هرگز این موضوع را فراموش نمی‌کنند.https://iranintl.com/202607068914",
-    "html": "عزت‌الله ضرغامی، عضو شورای عالی فضای مجازی، گفت گفت‌وگوها «از باب اکل میته» است و اگر مذاکره‌ای انجام می‌شود، «از سر ناچاری» است.<br><br>او افزود: «حرف اول ما انتقام است؛ انتقامی که به‌گونه‌ای باشد که دشمنان را ادب کند و دل مردم را به خاطر داغی که بر آن‌ها وارد شده، آرام سازد.»<br><br>رییس پیشین سازمان صداوسیما تاکید کرد مذاکره‌کنندگان باید بدانند که مردم «جز یک انتقام جدی، روشن و قاطع، به چیز دیگری رضایت نخواهند داد.»<br><br>ضرغامی حضور هواداران جمهوری اسلامی در مراسم تشییع جنازه و دفن علی خامنه‌ای را «تجلی مفهوم بعثت مردم» دانست و گفت آن‌ها با همه وجود از انتقام و خون‌خواهی سخن گفتند و با حضور میلیونی خود این پیام را به جهان رساندند که ایرانی‌ها به دنبال انتقام هستند و هرگز این موضوع را فراموش نمی‌کنند.<br><br><a href=\"https://iranintl.com/202607068914\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607068914</a>",
-    "date": "2026-07-06T08:19:53+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/uDL6TRqzeaKKmbKWZWM2B0ENZQxOsvryZBIYC0y2Gkj77lBwSkmaxuJgGr8jCujfcFkueO4qCTN7FS-UVtY3lweatQvMJBA9xBn54PwArBKmLqDWqEQQGYsRZzMKycHWcAKdKauDVaOFi2NQ4nmqVPsX5L0yRuE66hEbcnFVwE73wQMqg8bY8Xzq1DJtm7lriDqvTkyg1z40ZCAn0iNRFGeRLcSmYp6WkUilgOGH1ilmeK1Kf9ZNAYqwp4JDv_FpzBI9Xx8-sZLhEc36mkxr0S3daegOTrIkX29r5GUmLydDj9FDMdslxpBVpyqHTZ0Mg25fJdbTnMYdTR7pe0TvRQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346021",
-    "timestamp": 1783325993000
-  },
-  {
-    "id": "newscenter2020/66548",
-    "channel": "newscenter",
-    "text": "شعار ها در مراسم تشییع: توافق نمیخوایم ، سر ترامپ رو میخوایم ✅ @newscenter",
-    "html": "شعار ها در مراسم تشییع: توافق نمیخوایم ، سر ترامپ رو میخوایم <br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-06T08:10:40+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/66548",
-    "timestamp": 1783325440000
-  },
-  {
-    "id": "pm_afshaa/95341",
-    "channel": "pm_afshaa",
-    "text": "احمدی نژاد هم بعد غیبت طولانیش پیداش شد💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
-    "html": "احمدی نژاد هم بعد غیبت طولانیش پیداش شد<br><br><blockquote><tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> <a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-06T07:55:55+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/SCrK7r68Y2bxpP2G4imwxuuD9oq9lIxV1aSYEB3LBhJLjHyJXgn1JF6BBrmN3Q6lBGb04ziZckuxURLd5jR_F3ffaeuWZxM3PPMW79XDbjD0EQrMFXkHDCnmzX6oHOsafYoAwo3TCCCKC7rtuyr9D2SaUuha1HRXM9R7aBxBrr5u8Cw8gFa1R3QOF2N6iyr8cKjr9q8DgbrYD8l-Sodog_v7AO92Yb6wgzHY5wQ4eeRkvDbI0A_jzPDO23t1GVXsw_Re17OLBsakVbJhvQ0Rqt1FQwrXmLCzsCTidd4wumCEygbGRjqF9bdgaarh9xMVHUYSXHVRaV6m-B07zeOP_w.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/95341",
-    "timestamp": 1783324555000
-  },
-  {
-    "id": "pm_afshaa/95340",
-    "channel": "pm_afshaa",
-    "text": "وحیدی فرمانده کل سپاه با موتور اومد 😂💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
-    "html": "وحیدی فرمانده کل سپاه با موتور اومد <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br><blockquote><tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> <a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-06T07:54:24+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/95340",
-    "timestamp": 1783324464000
-  },
-  {
-    "id": "IranintlTV/346020",
-    "channel": "IranintlTV",
-    "text": "جاویدنامان انقلاب ملی ایرانیان«عرشیا براری» ۱۸ دی‌ماه در اعتراضات شهر زنجان با شلیک مستقیم گلوله از سوی نیروهای سرکوب جمهوری اسلامی به قتل رسید. نامش در حافظه‌ این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.@iranintltv",
-    "html": "جاویدنامان انقلاب ملی ایرانیان<br>«عرشیا براری» ۱۸ دی‌ماه در اعتراضات شهر زنجان با شلیک مستقیم گلوله از سوی نیروهای سرکوب جمهوری اسلامی به قتل رسید. نامش در حافظه‌ این سرزمین می‌ماند و یادش چراغ راه آزادی‌خواهان است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-06T07:43:26+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346020",
-    "timestamp": 1783323806000
-  },
-  {
-    "id": "Dirty_Kids/393885",
-    "channel": "dirty_kids",
-    "text": "قورمه سبزی شیرازی سیب‌زمینی داره ؟ 😐@Dirty_Kids 👻",
-    "html": "قورمه سبزی شیرازی سیب‌زمینی داره ؟ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-06T07:41:03+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/NEukpMKbDrzhJ6eKqTCmP3RkezI1u1CXZWCFyii2cKuhg9OMmzTFcdhp4CLTNSFaP01pqoxAXy7gwOG1bJYR-Hr30aE5JQzkeKuwWY0OxbQ8YUvjzTPkTmT2s5537ZFsYLvNooTBaVAoEN3g6AjVuQEzJkUOuVpEYWyKsrAiudanOr6QDpwASbRTWU7vUwhTqYq8M2fEetOBZRQMgkfUE4zs8rngFO6XndEjkoO5W28k2fzMDOyAZVlNztEsMX2GIn3V6R9THjsRQmaYZ79yu7-dCl2yZWNaFUm-aczIJDEwe4M5U-KnprAPpTR3uz9LTb1hk-f5SmLCN8iLvCofBA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/dirty_kids/393885",
-    "timestamp": 1783323663000
-  },
-  {
-    "id": "Dirty_Kids/393886",
-    "channel": "dirty_kids",
-    "text": "سگ فلسطینی@Dirty_Kids 👻",
-    "html": "سگ فلسطینی<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-06T07:41:03+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/393886",
-    "timestamp": 1783323663000
-  },
-  {
-    "id": "IranintlTV/346019",
-    "channel": "IranintlTV",
-    "text": "مقام‌های پاکستان ابراز امیدواری کردند دور بعدی مذاکرات جمهوری اسلامی و ایالات متحده به‌زودی در اسلام‌آباد برگزار شود. هم‌زمان، منابع دیپلماتیک از احتمال سفر اسکندر مومنی، وزیر کشور جمهوری اسلامی، به پاکستان در روزهای آینده خبر داده‌اند.جواد همدانی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد@iranintltv",
-    "html": "مقام‌های پاکستان ابراز امیدواری کردند دور بعدی مذاکرات جمهوری اسلامی و ایالات متحده به‌زودی در اسلام‌آباد برگزار شود. هم‌زمان، منابع دیپلماتیک از احتمال سفر اسکندر مومنی، وزیر کشور جمهوری اسلامی، به پاکستان در روزهای آینده خبر داده‌اند.<br><br>جواد همدانی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-06T07:40:56+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346019",
-    "timestamp": 1783323656000
-  },
-  {
-    "id": "worldsmoments/100158",
-    "channel": "worldsmoments",
-    "text": "احمدی نژاد تو مراسم علی خامنه ای شرکت کرده. @worldsmomentsچت جی‌پی‌تی به زیبایی ایشون 8 از 10 داده بود😍",
-    "html": "احمدی نژاد تو مراسم علی خامنه ای شرکت کرده. @worldsmoments",
-    "date": "2026-07-06T07:29:01+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/100158",
-    "timestamp": 1783322941000
-  },
-  {
-    "id": "worldsmoments/100157",
-    "channel": "worldsmoments",
-    "text": "احمدی نژاد تو مراسم علی خامنه ای شرکت کرده.@worldsmoments",
-    "html": "احمدی نژاد تو مراسم علی خامنه ای شرکت کرده.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-06T07:18:20+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/qygkLSv9P5wLNPwZiFAKzwNF1b0AHYNhxw_xz_SCTv7rB1hhRA34RejTE1YkNDVI2RYvWfFY-7eolrtBzOm8Ky0mwjJtC6gAP7_Mb394vXB-KFqWmhml802H6GdW4twWP5hboUv0cIT9OeLN4Kw2e6pkTHC8MvQ8iWLKP5LBZkMa0v3R-aIC9AarMcDI4c7Lml4qWWGMGQZ6uEUJMU4odbjX6By23dTgAxsu2C4d8_RaYheexnYPBFGHV-6KJdFXCZvuwdk48i2JlnoNbF52hVr1gmjarg2-bLZAgmwL3s-CygOr4RuyxtfWDzyLWsnNnPeNi40Ei5CeKmg1RUYUtw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/worldsmoments/100157",
-    "timestamp": 1783322300000
-  },
-  {
-    "id": "newscenter2020/66547",
-    "channel": "newscenter",
-    "text": "حضور محمود احمدی نژاد در مراسم امروز✅ @newscenter",
-    "html": "حضور محمود احمدی نژاد در مراسم امروز<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-06T07:14:46+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/teWxZj-Hg0IwVCydqsqwHBzQnPksf9qr8DhmpfEwiWUjtZsM5cgWPOy8bzHZrq2zWYYysFO1BxzqxTuOcCZLTTWCTSB9O1UuFQS0Ph8_o9h1rS6B5vcmq0ACopDPTxkjoOgGWa8Y5lDzdZLD6b-1S1_V3evETBoh2myQc9neoFmxN_gqXhg92GiIvhep5_tFDbpSHy4lyPS0CILVfI0vU0RJaRaI4K55xjKNn8fnsleymvtM1eQR-meswfIu9DcmvStsao9BQRf19Dv9Ddk1zHh2Qnn9XOyoH59aryuUwXrCa8lPz7-LzGJ-DCnh3vWP1pV068gTvUXpk6Zn8G6IbQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/newscenter/66547",
-    "timestamp": 1783322086000
-  },
-  {
-    "id": "IranintlTV/346017",
-    "channel": "IranintlTV",
-    "text": "خبرگزاری فارس، وابسته به سپاه پاسداران، گزارش داد حسین نوری همدانی، مرجع تقلید حامی حکومت، در دیدار با جمعی از شرکت‌کنندگان در مراسم تشییع جنازه علی خامنه‌ای، دیکتاتور کشته‌شده ایران، گفت: «عاملان این جنایت بدانند که قصاص آنان قطعی است.»اسفند ۱۴۰۴ نیز مدیر دفتر نوری همدانی اعلام کرده بود این مرجع تقلید حامی جمهوری اسلامی در فتوایی تاکید کرده است بر هر مسلمانی در هر کجای جهان واجب است از عاملان کشته شدن علی خامنه‌ای انتقام بگیرد.او با اشاره به فتوای صادرشده گفته بود این موضع در چند مرحله بیان شده و «حکم جهاد در این‌باره صریح و روشن است.»https://iranintl.com/202607065749",
-    "html": "خبرگزاری فارس، وابسته به سپاه پاسداران، گزارش داد حسین نوری همدانی، مرجع تقلید حامی حکومت، در دیدار با جمعی از شرکت‌کنندگان در مراسم تشییع جنازه علی خامنه‌ای، دیکتاتور کشته‌شده ایران، گفت: «عاملان این جنایت بدانند که قصاص آنان قطعی است.»<br><br>اسفند ۱۴۰۴ نیز مدیر دفتر نوری همدانی اعلام کرده بود این مرجع تقلید حامی جمهوری اسلامی در فتوایی تاکید کرده است بر هر مسلمانی در هر کجای جهان واجب است از عاملان کشته شدن علی خامنه‌ای انتقام بگیرد.<br><br>او با اشاره به فتوای صادرشده گفته بود این موضع در چند مرحله بیان شده و «حکم جهاد در این‌باره صریح و روشن است.»<br><a href=\"https://iranintl.com/202607065749\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607065749</a>",
-    "date": "2026-07-06T07:01:19+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/RUULJGw_A74q0IbLbq6eL3FmQzfXnpoR5b9AlDZ_WYDi35GcvABLXM2eY-p6Cx1YJqXQN-CoqPDQ_dAqkzEb3Q7QpG5xKTzc27CiA4zlJtCevR08jIALA7y7biYK2gkRnKdhmcQYMtzxTR2BNqECrqVcDFSahifBUNHuL8NScxGpZcsl8WPl3r1LKWSDnO8KwWYwSs1F6JsegAf0_T9IhOedHxs2IkDdJeuzKae1Pj4oodh04ZN9MhTzrwMSsP_TiX4QGI2GrQTktR7F2Wb_QbCLj3eJRN487OBTBNPxTVIfwEaPv2wsL3Ijx2Idu2MfALdvBNA9fjcmCfRVcUq33A.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346017",
-    "timestamp": 1783321279000
-  },
-  {
-    "id": "IranintlTV/346016",
-    "channel": "IranintlTV",
-    "text": "ایمان آقایاری، تحلیل‌گر سیاسی، گفت تاکید حامیان مذاکره با آمریکا در جمهوری اسلامی بر خونخواهی علی خامنه‌ای، رویکردی ریاکارانه است؛ زیرا اگر قرار بر انتقام از عاملان کشته‌شدن او باشد، دلیلی برای مذاکره با طرفی که مسئول این اقدام است، وجود ندارد.@iranintltv",
-    "html": "ایمان آقایاری، تحلیل‌گر سیاسی، گفت تاکید حامیان مذاکره با آمریکا در جمهوری اسلامی بر خونخواهی علی خامنه‌ای، رویکردی ریاکارانه است؛ زیرا اگر قرار بر انتقام از عاملان کشته‌شدن او باشد، دلیلی برای مذاکره با طرفی که مسئول این اقدام است، وجود ندارد.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-06T06:58:54+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346016",
-    "timestamp": 1783321134000
-  },
-  {
-    "id": "newscenter2020/66546",
-    "channel": "newscenter",
-    "text": "بندر سیریک به وضعیت عادی برگشت✅ @newscenter",
-    "html": "<b>بندر سیریک به وضعیت عادی برگشت<br></b><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-06T06:53:19+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/66546",
-    "timestamp": 1783320799000
-  },
-  {
-    "id": "newscenter2020/66544",
-    "channel": "newscenter",
-    "text": "🏆 جام جهانی ⚽️⚽️ اسپانیا 🇪🇸✖️🇵🇹 پرتغال⏰ امشب ساعت 22:30🚨 ورزشگاه ای تی اند تی💰 در صورت پیش بینی اشتباه مسابقات جام جهانی ، 5️⃣میلیون ریال فری بت دریافت کنید🔥🎲 با وینرو همیشه راهی برای برد پیدا میکنی 🔊🎲 سایت وینرو با بیش از 400 گزینه متنوع برای پیش‌بینی 📊 ضرایب ویژه و رقابتی🎲 ثبت نام آسان و سریع کلیک  کنید 🎲🛍پیش‌بینی به ضرایب بالا🤩🤩🤩🤩 بونوس اولین واریز🤩🤩🤩بونوس واریز کریپتوتا🤩🤩🤩🤩 بونوس روی برگه‌های ترکیبی🎰 پخش زنده‌ی تمام مسابقات کلیک کنید💰 درگاه اختصاصی برای کاربران🔊اپلیکیشن حرفه ای 📱🔊 همین الان وارد شو و فرصت را از دست نده!📩 Winro.io         معتبرترین سایت ایران🎲🎲🎲🎲🎲📱 کانال اخبار و هدایــا 🌟r15🅰📩 @winro_io",
-    "html": "<tg-emoji emoji-id=\"5848266382084414957\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')\"><b>🏆</b></i></tg-emoji> جام جهانی&nbsp;<tg-emoji emoji-id=\"5282793667952681022\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji><br><tg-emoji emoji-id=\"5929051512876571349\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji> اسپانیا <tg-emoji emoji-id=\"5845988868301527782\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AAF09F87B8.png')\"><b>🇪🇸</b></i></tg-emoji><tg-emoji emoji-id=\"5776144638414952225\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C96.png')\"><b>✖️</b></i></tg-emoji><tg-emoji emoji-id=\"5846014921573146831\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B5F09F87B9.png')\"><b>🇵🇹</b></i></tg-emoji> پرتغال<br><tg-emoji emoji-id=\"5929429620322475562\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28FB0.png')\"><b>⏰</b></i></tg-emoji> امشب ساعت 22:30<br><tg-emoji emoji-id=\"5929521219089997602\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji> ورزشگاه ای تی اند تی<br><br><tg-emoji emoji-id=\"5929100892115574516\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji> در صورت پیش بینی اشتباه مسابقات جام جهانی ، <tg-emoji emoji-id=\"5771694571259958563\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/35E283A3.png')\"><b>5️⃣</b></i></tg-emoji>میلیون ریال فری بت دریافت کنید<tg-emoji emoji-id=\"4956499161319998529\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji><br><tg-emoji emoji-id=\"5929451567605358718\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji> با وینرو همیشه راهی برای برد پیدا میکنی <tg-emoji emoji-id=\"5928991074096782917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5929499963296849191\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><b> </b><a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>سایت وینرو</b></a><b> با بیش از 400 گزینه متنوع برای پیش‌بینی </b><br><tg-emoji emoji-id=\"4958506272551863292\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i></tg-emoji> <b>ضرایب ویژه و رقابتی</b><br><br><tg-emoji emoji-id=\"5929421288085923891\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji> <a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>ثبت نام آسان و سریع کلیک&nbsp; کنید</b></a> <tg-emoji emoji-id=\"5929421288085923891\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><br><tg-emoji emoji-id=\"5294167145079395967\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B8D.png')\"><b>🛍</b></i></tg-emoji>پیش‌بینی به ضرایب بالا<br><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6179462584568123415\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181611966591669227\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji> بونوس اولین واریز<br><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6179450197882442373\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181611966591669227\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji>بونوس واریز کریپتو<br>تا<tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181498532210414118\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6179450197882442373\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji><tg-emoji emoji-id=\"6181611966591669227\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')\"><b>🤩</b></i></tg-emoji> بونوس روی برگه‌های ترکیبی<br><tg-emoji emoji-id=\"5931516686665522361\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB0.png')\"><b>🎰</b></i></tg-emoji> <a href=\"https://winro.tv/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">پخش زنده‌ی تمام مسابقات </a><a href=\"https://winro.tv/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>کلیک کنید</b></a><br><tg-emoji emoji-id=\"5929100892115574516\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></tg-emoji> درگاه اختصاصی برای کاربران<br><tg-emoji emoji-id=\"5931437513238394200\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji><a href=\"https://api.winro.io/storage/app-release.apk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">اپلیکیشن حرفه ای </a><tg-emoji emoji-id=\"6019330475603004839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5928991074096782917\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji><a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b> همین الان وارد شو و فرصت را از دست نده!</b></a><br><tg-emoji emoji-id=\"5929177282403900588\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A9.png')\"><b>📩</b></i></tg-emoji> <a href=\"http://Winro.io/\" target=\"_blank\" rel=\"noopener\">Winro.io</a><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; معتبرترین سایت ایران<br></b><tg-emoji emoji-id=\"5929364796381076848\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929384763684036945\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929530238521322121\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929419093357633129\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><tg-emoji emoji-id=\"5929467106797034689\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji><br><tg-emoji emoji-id=\"5330237710655306682\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji> کانال اخبار و هدایــا <tg-emoji emoji-id=\"5981137088081301019\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i></tg-emoji>r15<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F85B0.png')\"><b>🅰</b></i><br><tg-emoji emoji-id=\"5929177282403900588\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A9.png')\"><b>📩</b></i></tg-emoji><b> </b><a href=\"https://t.me/winro_io\" target=\"_blank\">@winro_io</a>",
-    "date": "2026-07-06T06:53:13+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/Zrm89Fw6bevE_UtDjraXiceY4DvMdg5d2fDd0A_w6XQs-JPWkCf7VjduyuNeKWepgWNuNOnwW92Cnfjw-9ERTI_b5GG6odZ9TzRuGA9xW9IJmQnkaFdqkUqpDUGpPmC3hhlOJKGyVYfgEWRzxNJnVA1aIs_lvCDzVT6yAlmBrXijfdaVkxMKTT48NNgfEne6cOCHrj3LLXzjOe4oCXuWMocJbiNInvPZOlWnD_KlW7Xj4LENYXubDFeat1tcXPRzakbDypLa3OpPw0fi-ScL-QBtdDrCQdBJwXOVliA7AJBc2LJ6q1XFVZrTl5zJ8ZpNQcCG0uniwVE022FalIuvSQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/newscenter/66544",
-    "timestamp": 1783320793000
-  },
-  {
-    "id": "newscenter2020/66545",
-    "channel": "newscenter",
-    "text": "🔊 اپلیکیشن حرفه ای وینرو 📱✅ 0️⃣5️⃣ فری اسپین با واریز حداقل 5 میلیون تومان با اپلیکیشن ✅پخش زنده تمام مسابقات✅ 200% بونوس اولین واریز 🌐Telegram 🎲   🌐 winro.io 🎲",
-    "html": "<tg-emoji emoji-id=\"5931437513238394200\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948A.png')\"><b>🔊</b></i></tg-emoji> اپلیکیشن حرفه ای وینرو <tg-emoji emoji-id=\"6019330475603004839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <tg-emoji emoji-id=\"5771423202341303860\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/30E283A3.png')\"><b>0️⃣</b></i></tg-emoji><tg-emoji emoji-id=\"5771694571259958563\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/35E283A3.png')\"><b>5️⃣</b></i></tg-emoji> فری اسپین با واریز حداقل 5 میلیون تومان با اپلیکیشن <br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>پخش زنده تمام مسابقات<br><tg-emoji emoji-id=\"5931422330528996931\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>&nbsp;200% بونوس اولین واریز <br><br><tg-emoji emoji-id=\"5231489647946768652\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji><a href=\"https://t.me/+QthWrg_lxnc3MmE0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Telegram</a> <tg-emoji emoji-id=\"5929248909573496277\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji>&nbsp;&nbsp; <tg-emoji emoji-id=\"5188381825701021648\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji> <a href=\"https://winro.io/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">winro.io</a> <tg-emoji emoji-id=\"5929421288085923891\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB2.png')\"><b>🎲</b></i></tg-emoji>",
-    "date": "2026-07-06T06:53:13+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "app-release.apk",
-        "size": "4.5 MB"
-      }
-    ],
-    "link": "https://t.me/newscenter/66545",
-    "timestamp": 1783320793000
-  },
-  {
-    "id": "IranintlTV/346015",
-    "channel": "IranintlTV",
-    "text": "🔻تیم‌های فوتبال پرتغال و اسپانیا امشب در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ به مصاف یکدیگر می‌روند، به نظر شما کدام تیم به مرحله بعد صعود می‌کند؟🔹برای شرکت در این نظرسنجی به صفحه اینستاگرام ایران اینترنشنال ورزشی مراجعه کنید؛👇🏽https://www.instagram.com/p/DacFkIgC8fn/@iranintltvsport",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>تیم‌های فوتبال پرتغال و اسپانیا امشب در مرحله یک‌هشتم نهایی جام جهانی ۲۰۲۶ به مصاف یکدیگر می‌روند، به نظر شما کدام تیم به مرحله بعد صعود می‌کند؟<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>برای شرکت در این نظرسنجی به صفحه اینستاگرام ایران اینترنشنال ورزشی مراجعه کنید؛<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187F09F8FBD.png')\"><b>👇🏽</b></i><br><a href=\"https://www.instagram.com/p/DacFkIgC8fn/\" target=\"_blank\" rel=\"noopener\">https://www.instagram.com/p/DacFkIgC8fn/</a><br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
-    "date": "2026-07-06T06:51:04+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/gIgq2qlcWkJQODCl-S1tGoBMr9NzeWaSi6nPbYPqR0Z_T7JD9XOaZiiO1QbIiREzE470UyhhOeQ_eZpkk3YFP0GP2lSvFfHIOC0r0kN4pSUK7jIUhAc-UUuAN14E6ePg9d0dF23yTd3sqAFXkYlWYwlBFsi9YPkzeEuubccU2LZQ9sWJHgJ9-0zEdzuIIgZFGU17cbxkot4IQQ-d7lMWNsTKzuIorH0z2cvpWgpLG1jLw_YRNQMONcDJLcIvyGdh1dDx5q_YL2fj5flKXJP_4Ho_-DGZQq6a-TBCuTeF71Vpa8OvsZrxdF4E3GpojsbZL2D326rvQWn5QNZj6pKzkg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346015",
-    "timestamp": 1783320664000
-  },
-  {
-    "id": "mitivpn/17519",
-    "channel": "mitivpn",
-    "text": "🛡 کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفوننحوه اتصال داخل اندروید کلیک کن👉نحوه اتصال داخل آیفون کلیک کن👉⚡️ فیلترینگ شدید و نت ملی رو باهاش قورت بده🔹 کانفیگ نت ملی برای دریافت کلیک کن👉اینترنت آزاد برای همه, یا هیچکس T.me/MiTiVPN 🔹Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom",
-    "html": "<tg-emoji emoji-id=\"5773807909917956674\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BA1.png')\"><b>🛡</b></i></tg-emoji><b> کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفون</b><br><b><br></b><a href=\"https://t.me/Ads27279/42\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">نحوه اتصال داخل اندروید</a><b> کلیک کن</b><b><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji></b><b><br><br></b><a href=\"https://t.me/Ads27279/13\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">نحوه اتصال داخل آیفون</a><b> کلیک کن</b><b><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji></b><b><br><br></b><b><tg-emoji emoji-id=\"4990429866814866120\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji></b><b> فیلترینگ شدید و نت ملی رو باهاش قورت بده<br><br></b><b><tg-emoji emoji-id=\"5951811553895388029\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i></tg-emoji></b><b> </b><a href=\"https://t.me/mitivpnbot?start=1\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>کانفیگ نت ملی</b></a><b> برای دریافت کلیک کن</b><b><tg-emoji emoji-id=\"5415758949129404605\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i></tg-emoji></b><b><br><br>اینترنت آزاد برای همه, یا هیچکس <br><br></b><a href=\"http://T.me/MiTiVPN\" target=\"_blank\" rel=\"noopener\">T.me/MiTiVPN</a><b> </b><b><tg-emoji emoji-id=\"6003391783248073326\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i></tg-emoji></b><br><br><blockquote><a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote>",
-    "date": "2026-07-06T06:46:59+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "𝑪𝒐𝒏𝒇𝒊𝒈 𝑴𝒆𝒍𝒊🔥.npvt",
-        "size": "34 KB"
-      }
-    ],
-    "link": "https://t.me/mitivpn/17519",
-    "timestamp": 1783320419000
-  },
-  {
-    "id": "Dirty_Kids/393883",
-    "channel": "dirty_kids",
-    "text": "وقتی عرزشی از سرویس دهی راضی نیست ... دقیقاً همینیدحتی عرزشیه هم اگه بهش خوب نرسیداون پرچم تخمیتونو میندازه و میرهخاک بر سرتون کنن@Dirty_Kids 👻",
-    "html": "وقتی عرزشی از سرویس دهی راضی نیست ... <br>دقیقاً همینید<br>حتی عرزشیه هم اگه بهش خوب نرسید<br>اون پرچم تخمیتونو میندازه و میره<br>خاک بر سرتون کنن<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-06T06:40:11+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/CA-9NhLB5jvNHPJjUstX0k4N6tkp5QZDIQV_9ppbrCLfTrTzTZUrGl2-X6UaSRTcP5RD9bRPnJH4GjKotYwrW111p-ucBtf_-wRisJTOpyxr339cBQTVncTdhZxGBzufoUAhJzj2-CkNERnKkbM0nJqk823e4n70MFkpbpRrLjYh5k6UC__1QFUbM9weSIZBZU5lnBQJ_HerGi3sS7H239AoIZKcorxB2zc4zIpPK8vVro9sg8ZGDBqm37B0mwCZ6mC381qQF98E-S9ctsc7AiRrDzNwVGBpR9iQI3q60BdtSY2krfQH82bQjSNJHIyvPPNsMmagKSJ2xpnW1A7MGQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/dirty_kids/393883",
-    "timestamp": 1783320011000
-  },
-  {
-    "id": "Dirty_Kids/393884",
-    "channel": "dirty_kids",
-    "text": "اعتراف از زبان عوامل رژیم به خلوتی مراسم‌ موشعلیمیگه حتما خودتونو برسونید.😂@Dirty_Kids 👻",
-    "html": "اعتراف از زبان عوامل رژیم به خلوتی مراسم‌ موشعلی<br><br>میگه حتما خودتونو برسونید.<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-06T06:40:11+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/393884",
-    "timestamp": 1783320011000
-  },
-  {
-    "id": "Dirty_Kids/393882",
-    "channel": "dirty_kids",
-    "text": "چند روزه قالیباف و وحیدی و اژه‌ای حسابی مشغول مراسمن و وقت اضافه ندارن\"بنابراين\"مجتبی دیگه پیام نداده!@Dirty_Kids 👻",
-    "html": "چند روزه قالیباف و وحیدی و اژه‌ای حسابی مشغول مراسمن و وقت اضافه ندارن<br>\"بنابراين\"<br>مجتبی دیگه پیام نداده!<br><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-06T06:40:10+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/393882",
-    "timestamp": 1783320010000
-  },
-  {
-    "id": "newscenter2020/66543",
-    "channel": "newscenter",
-    "text": "پل چوبی تهران، امروز✅ @newscenter",
-    "html": "پل چوبی تهران، امروز<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-06T06:27:22+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/66543",
-    "timestamp": 1783319242000
-  },
-  {
-    "id": "persianvpnhub/35569",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 9ms#VLESS #VPN🕒 انتشار: 09:44 - 1405/04/15💡 منبع: گروه MahsaNetvless://89df6ef4-747b-8ec9-5221-52bf9adee5d9@ansooyefilter-rvg-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-rvg-production.up.railway.app&path=/ws/89df6ef4-747b-8ec9-5221-52bf9adee5d9&sni=ansooyefilter-rvg-production.up.railway.app&fp=chrome&alpn=http/1.1#AnsooyeFilter-%40ansooyefilter",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 9ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:44 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://89df6ef4-747b-8ec9-5221-52bf9adee5d9@ansooyefilter-rvg-production.up.railway.app:443?encryption=none&amp;security=tls&amp;type=ws&amp;host=ansooyefilter-rvg-production.up.railway.app&amp;path=/ws/89df6ef4-747b-8ec9-5221-52bf9adee5d9&amp;sni=ansooyefilter-rvg-production.up.railway.app&amp;fp=chrome&amp;alpn=http/1.1#AnsooyeFilter-%40ansooyefilter</pre>",
-    "date": "2026-07-06T06:18:08+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35569",
-    "timestamp": 1783318688000
-  },
-  {
-    "id": "persianvpnhub/35568",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 9ms#VLESS #VPN🕒 انتشار: 09:44 - 1405/04/15💡 منبع: گروه MahsaNetvless://1298d625-c278-5ac8-1e8f-2b4c6134decf@ansooyefilter-rvg-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=ansooyefilter-rvg-production.up.railway.app&path=/xhttp-siz10/packet-up/1298d625-c278-5ac8-1e8f-2b4c6134decf&sni=ansooyefilter-rvg-production.up.railway.app&fp=chrome&alpn=h2%2Chttp/1.1#AnsooyeFilter-%40ansooyefilter",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 9ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:44 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://1298d625-c278-5ac8-1e8f-2b4c6134decf@ansooyefilter-rvg-production.up.railway.app:443?encryption=none&amp;security=tls&amp;type=xhttp&amp;mode=packet-up&amp;host=ansooyefilter-rvg-production.up.railway.app&amp;path=/xhttp-siz10/packet-up/1298d625-c278-5ac8-1e8f-2b4c6134decf&amp;sni=ansooyefilter-rvg-production.up.railway.app&amp;fp=chrome&amp;alpn=h2%2Chttp/1.1#AnsooyeFilter-%40ansooyefilter</pre>",
-    "date": "2026-07-06T06:18:04+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35568",
-    "timestamp": 1783318684000
-  },
-  {
-    "id": "persianvpnhub/35567",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 9ms#VLESS #VPN🕒 انتشار: 09:44 - 1405/04/15💡 منبع: گروه MahsaNetvless://efaee0a8-05d0-8053-4564-29448e723938@ansooyefilter-rvg-production.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=ansooyefilter-rvg-production.up.railway.app&path=/xhttp-siz10/stream-up/efaee0a8-05d0-8053-4564-29448e723938&sni=ansooyefilter-rvg-production.up.railway.app&fp=chrome&alpn=h2%2Chttp/1.1#AnsooyeFilter-%40ansooyefilter",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 9ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:44 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://efaee0a8-05d0-8053-4564-29448e723938@ansooyefilter-rvg-production.up.railway.app:443?encryption=none&amp;security=tls&amp;type=xhttp&amp;mode=stream-up&amp;host=ansooyefilter-rvg-production.up.railway.app&amp;path=/xhttp-siz10/stream-up/efaee0a8-05d0-8053-4564-29448e723938&amp;sni=ansooyefilter-rvg-production.up.railway.app&amp;fp=chrome&amp;alpn=h2%2Chttp/1.1#AnsooyeFilter-%40ansooyefilter</pre>",
-    "date": "2026-07-06T06:18:00+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35567",
-    "timestamp": 1783318680000
-  },
-  {
-    "id": "persianvpnhub/35566",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ MTPROTO📍 لوکیشن: Iran 🇮🇷📶 پینگ: 1210ms#Proxy #MTProto🕒 انتشار: 09:27 - 1405/04/15💡 منبع: @makvaslimtg://proxy?server=zedmed.ir-vlue3.ir&port=443&secret=ee1603010200010001fc030386e24c3add7a65646d65642e69722d766c7565332e6972",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ MTPROTO<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Iran <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B7.png')\"><b>🇮🇷</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 1210ms<br><br><a href=\"?q=%23Proxy\">#Proxy</a> <a href=\"?q=%23MTProto\">#MTProto</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:27 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>tg://proxy?server=zedmed.ir-vlue3.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add7a65646d65642e69722d766c7565332e6972</pre>",
-    "date": "2026-07-06T06:17:55+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35566",
-    "timestamp": 1783318675000
-  },
-  {
-    "id": "persianvpnhub/35565",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ TROJAN📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#TROJAN #VPN🕒 انتشار: 09:27 - 1405/04/15💡 منبع: @makvaslimtrojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:27 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>trojan://humanity@www.ignitelimit.com:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;type=ws&amp;allowInsecure=1#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
-    "date": "2026-07-06T06:17:49+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35565",
-    "timestamp": 1783318669000
-  },
-  {
-    "id": "persianvpnhub/35564",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 1ms#VLESS #VPN🕒 انتشار: 09:27 - 1405/04/15💡 منبع: @makvaslimvless://3b715892-8610-4fdc-9086-647b36af5443@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3DTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D2048&security=none&encryption=none&host=cdn7-pro.postshup.ir&type=httpupgrade#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 1ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:27 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://3b715892-8610-4fdc-9086-647b36af5443@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3DTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=cdn7-pro.postshup.ir&amp;type=httpupgrade#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
-    "date": "2026-07-06T06:17:45+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35564",
-    "timestamp": 1783318665000
-  },
-  {
-    "id": "persianvpnhub/35563",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ TROJAN📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#TROJAN #VPN🕒 انتشار: 09:27 - 1405/04/15💡 منبع: @makvaslimtrojan://humanity@www.creationlong.org:443?security=tls&type=ws&sni=www.creationlong.org&path=/%2Fassignment#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:27 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>trojan://humanity@www.creationlong.org:443?security=tls&amp;type=ws&amp;sni=www.creationlong.org&amp;path=/%2Fassignment#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
-    "date": "2026-07-06T06:17:40+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35563",
-    "timestamp": 1783318660000
-  },
-  {
-    "id": "persianvpnhub/35562",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 155ms#VLESS #VPN🕒 انتشار: 09:27 - 1405/04/15💡 منبع: @makvaslimvless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@play.iranmedia.shop:23885?encryption=none&security=none&type=tcp&headerType=none#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 155ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:27 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@play.iranmedia.shop:23885?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
-    "date": "2026-07-06T06:17:36+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35562",
-    "timestamp": 1783318656000
-  },
-  {
-    "id": "persianvpnhub/35561",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 161ms#VLESS #VPN🕒 انتشار: 09:27 - 1405/04/15💡 منبع: @makvaslimvless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@gmr.mxvn.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=H4IsSivZoJT5AAzRIKzye6i7Sj2HfFFYuLsF07dI5DA&sid=7c4c6d1088076cfb&spx=%2F#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 161ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:27 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@gmr.mxvn.ir:443?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;sni=play.google.com&amp;fp=chrome&amp;pbk=H4IsSivZoJT5AAzRIKzye6i7Sj2HfFFYuLsF07dI5DA&amp;sid=7c4c6d1088076cfb&amp;spx=%2F#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
-    "date": "2026-07-06T06:17:31+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35561",
-    "timestamp": 1783318651000
-  },
-  {
-    "id": "persianvpnhub/35560",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: Türkiye 🇹🇷📶 پینگ: 183ms#VLESS #VPN🕒 انتشار: 09:27 - 1405/04/15💡 منبع: @makvaslimvless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@trr.mxvn.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=H4IsSivZoJT5AAzRIKzye6i7Sj2HfFFYuLsF07dI5DA&sid=7c4c6d1088076cfb&spx=%2F#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Türkiye <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B9F09F87B7.png')\"><b>🇹🇷</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 183ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:27 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://3e2cfe3a-01e4-43a5-b0d5-e532dc49a2d1@trr.mxvn.ir:443?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;sni=play.google.com&amp;fp=chrome&amp;pbk=H4IsSivZoJT5AAzRIKzye6i7Sj2HfFFYuLsF07dI5DA&amp;sid=7c4c6d1088076cfb&amp;spx=%2F#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
-    "date": "2026-07-06T06:17:27+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35560",
-    "timestamp": 1783318647000
-  },
-  {
-    "id": "persianvpnhub/35559",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: فرانسه 🇫🇷📶 پینگ: 140ms#VLESS #VPN🕒 انتشار: 09:05 - 1405/04/15💡 منبع: @NamiraConfigsvless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.37:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%AB%F0%9F%87%B7",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: فرانسه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 140ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 09:05 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/NamiraConfigs\" target=\"_blank\">@NamiraConfigs</a><br><br><pre>vless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.37:443?alpn=h2&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=api-6a20f558.noooo.win&amp;type=tcp#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%AB%F0%9F%87%B7</pre>",
-    "date": "2026-07-06T06:17:21+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35559",
-    "timestamp": 1783318641000
-  },
-  {
-    "id": "persianvpnhub/35558",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#VLESS #VPN🕒 انتشار: 08:14 - 1405/04/15💡 منبع: @NamiraConfigsvless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 08:14 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/NamiraConfigs\" target=\"_blank\">@NamiraConfigs</a><br><br><pre>vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.72.50:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=server-ir-7.ariyuz.org#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%BA%F0%9F%87%B8</pre>",
-    "date": "2026-07-06T06:17:17+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35558",
-    "timestamp": 1783318637000
-  },
-  {
-    "id": "persianvpnhub/35557",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#VLESS #VPN🕒 انتشار: 08:09 - 1405/04/15💡 منبع: @NamiraConfigsvless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%BA%F0%9F%87%B8",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 08:09 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/NamiraConfigs\" target=\"_blank\">@NamiraConfigs</a><br><br><pre>vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=%2Fodiyfws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=octopusss.net&amp;type=ws&amp;allowInsecure=0&amp;sni=octopusss.net#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%BA%F0%9F%87%B8</pre>",
-    "date": "2026-07-06T06:17:13+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35557",
-    "timestamp": 1783318633000
-  },
-  {
-    "id": "persianvpnhub/35556",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ TROJAN📍 لوکیشن: کلودفلر ☁️📶 پینگ: 1ms#TROJAN #VPN🕒 انتشار: 05:20 - 1405/04/15💡 منبع: @Outline_irtrojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%40outline_ir",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 1ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 05:20 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Outline_ir\" target=\"_blank\">@Outline_ir</a><br><br><pre>trojan://humanity@141.193.213.21:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#%40outline_ir</pre>",
-    "date": "2026-07-06T06:17:08+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35556",
-    "timestamp": 1783318628000
-  },
-  {
-    "id": "persianvpnhub/35555",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#VLESS #VPN🕒 انتشار: 05:17 - 1405/04/15💡 منبع: @Outline_irvless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=ios&type=ws&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#%40outline_ir",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 05:17 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Outline_ir\" target=\"_blank\">@Outline_ir</a><br><br><pre>vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&amp;security=none&amp;encryption=none&amp;host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&amp;fp=ios&amp;type=ws&amp;sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#%40outline_ir</pre>",
-    "date": "2026-07-06T06:17:04+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35555",
-    "timestamp": 1783318624000
-  },
-  {
-    "id": "persianvpnhub/35554",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 142ms#VLESS #VPN🕒 انتشار: 05:15 - 1405/04/15💡 منبع: @NamiraConfigsvless://95831d79-9479-421e-8ac6-72d5adf80c2d@sss-ab9040c5d6-sss.apps.ir-central1.arvancaas.ir:8080?path=%2F&security=none&encryption=none&type=ws#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%AE%F0%9F%87%B7",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 142ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 05:15 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/NamiraConfigs\" target=\"_blank\">@NamiraConfigs</a><br><br><pre>vless://95831d79-9479-421e-8ac6-72d5adf80c2d@sss-ab9040c5d6-sss.apps.ir-central1.arvancaas.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%E2%9C%A8%20@NamiraConfigs%20%7C%20%E2%9D%A4%EF%B8%8F%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%87%AE%F0%9F%87%B7</pre>",
-    "date": "2026-07-06T06:17:00+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35554",
-    "timestamp": 1783318620000
-  },
-  {
-    "id": "persianvpnhub/35553",
-    "channel": "persianvpnhub",
-    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#VLESS #VPN🕒 انتشار: 05:14 - 1405/04/15💡 منبع: @Outline_irvless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@mohammadrezakamraniseovaneshan.tarafe3vm.ir:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#%40outline_ir",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 05:14 - 1405/04/15<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Outline_ir\" target=\"_blank\">@Outline_ir</a><br><br><pre>vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@mohammadrezakamraniseovaneshan.tarafe3vm.ir:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#%40outline_ir</pre>",
-    "date": "2026-07-06T06:16:55+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/persianvpnhub/35553",
-    "timestamp": 1783318615000
-  },
-  {
-    "id": "newscenter2020/66542",
-    "channel": "newscenter",
-    "text": "آتلانتیک: ترامپ با حفظ مشاور مسالمت‌جو (ونس) و وزیر جنگ‌طلب (روبیو) چاقوی سوئیسی خود را برای هر سناریویی آماده کردهظاهر متناقض سیاست‌های واشنگتن نباید کسی را گمراه کند. سند تفاهم پیوند مستقیمی با بازارهای جهانی دارد.✅ @newscenter",
-    "html": "<b>آتلانتیک: ترامپ با حفظ مشاور مسالمت‌جو (ونس) و وزیر جنگ‌طلب (روبیو) چاقوی سوئیسی خود را برای هر سناریویی آماده کرده</b><br><br>ظاهر متناقض سیاست‌های واشنگتن نباید کسی را گمراه کند. سند تفاهم پیوند مستقیمی با بازارهای جهانی دارد.<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-06T06:09:36+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/66542",
-    "timestamp": 1783318176000
-  },
-  {
-    "id": "pm_afshaa/95339",
-    "channel": "pm_afshaa",
-    "text": "نیروهای حشد الشعبی و حزب‌الله وسط تهران💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom😁 @Pm_Afshaa",
-    "html": "نیروهای حشد الشعبی و حزب‌الله وسط تهران<br><br><blockquote><tg-emoji emoji-id=\"5997057187522812839\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A7.png')\"><b>💧</b></i></tg-emoji> <a href=\"http://Rainbet.com/\" target=\"_blank\" rel=\"noopener\">Rainbet.com</a> the #1 Non-KYC Crypto Casino &amp; Sportsbook <a href=\"https://t.me/rainbetcom\" target=\"_blank\">@rainbetcom</a></blockquote><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-06T05:49:06+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/95339",
-    "timestamp": 1783316946000
-  },
-  {
-    "id": "IranintlTV/346004",
-    "channel": "IranintlTV",
-    "text": "مهدی بیگی، عضو تحریریه ایران‌اینترنشنال، گفت با توجه به اظهارات مقام‌های جمهوری اسلامی و استفاده از نمادها و شعارهای انتقام‌جویانه در مراسم تشییع علی خامنه‌ای، حکومت می‌کوشد واقعه سیاسی کشته‌شدن او را به یک روایت مذهبی تبدیل کند.@iranintltv",
-    "html": "مهدی بیگی، عضو تحریریه ایران‌اینترنشنال، گفت با توجه به اظهارات مقام‌های جمهوری اسلامی و استفاده از نمادها و شعارهای انتقام‌جویانه در مراسم تشییع علی خامنه‌ای، حکومت می‌کوشد واقعه سیاسی کشته‌شدن او را به یک روایت مذهبی تبدیل کند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-06T05:10:04+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346004",
-    "timestamp": 1783314604000
-  },
-  {
-    "id": "newscenter2020/66541",
-    "channel": "newscenter",
-    "text": "ترامپ درحال مسخره کردن ملونی، نخست وزیر ایتالیا:✅ @newscenter",
-    "html": "ترامپ درحال مسخره کردن ملونی، نخست وزیر ایتالیا:<br><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-06T05:06:08+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/OqF-v-mYriCozCsqMe1yjDgtQp_nhOgkaFPvefFMvdbRdpmJJw20-Rx5BNRJB9tq_7ibZ_oPcpSAEBDm18f4n53rnquRR-tAaBAd5xBG7byvq5r95XWoIsXqUBcX3FDpec3opLuA_x5sWMxLRJB7Zraz870zE1MWt6m_h3EOb0wpV2V00YtONALDZVAT3pMYxjDEmzDmZ7AjyTbsptRhblEQ_zsaPAF3vo8z0MQBX1hx2OTINuuTo9hIs-lZBJZ67dUcYXfKfVbcEM1Ww_1lZdO2jzoTI7q9t5E1zSYjQuHq_AP--IaWuP4reudrmEhfYoF_r9mWCUx8Z1GEHGZnvw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/newscenter/66541",
-    "timestamp": 1783314368000
-  },
-  {
-    "id": "newscenter2020/66540",
-    "channel": "newscenter",
-    "text": "قسمت سوم از فصل سوم سریال جدید « خاندان اژدها » پیش‌درآمد (Prequel) سریال Game of Thrones (بازی تاج‌وتخت) منتشر شد🔥دانلود سریال✅ @newscenter",
-    "html": "<b>قسمت سوم از فصل سوم سریال جدید « خاندان اژدها » پیش‌درآمد (Prequel)</b> سریال <b><u>Game of Thrones</u> (بازی تاج‌وتخت) منتشر شد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></b><br><br><a href=\"https://t.me/+rQUM4Hs-uJMwZDc0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>دانلود سریال</b></a><b><br><br></b><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-06T05:02:51+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/n3CW5IsLeF8nIHvTNWzkXCz2C41--nXe00U5pH6DWQkFTAF4g6cbOc8rdVxazsOFbu02_mHIAj6H8F-3HnVdLjyV_gtDV6AR4bPR1txHCGzV9t5hVKeSagFcuSwT2eN2q6IYZP9jOHIqVi1vXV3guLZSBozS-e-kmK8uVEu8I292DtrFL9sLZAXdOp3QcYJEAjmtgabvc3P29K24k_foNel4I7LudoYkSgxFm8Em43P-lxuBQRe2gJ8vOx8uPHBrE6rDJcHtLWGp0mgAFSojgHG5EN_cWbFkufkMWwSjnFpS_NZsGQ8uJYdiVAfoyLyBdxI_GoYZSj4vlMD5Gb3l-w.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/newscenter/66540",
-    "timestamp": 1783314171000
-  },
-  {
-    "id": "IranintlTV/346003",
-    "channel": "IranintlTV",
-    "text": "مجید دوستعلی، نماینده مجلس در گفت‌وگو با خبرگزاری ایلنا گفت دشمن بر «تاب‌آوری مردم» و «اخلال در سیستم محاسباتی مسئولان» متمرکز شده است.https://iranintl.com/202607067964",
-    "html": "مجید دوستعلی، نماینده مجلس در گفت‌وگو با خبرگزاری ایلنا گفت دشمن بر «تاب‌آوری مردم» و «اخلال در سیستم محاسباتی مسئولان» متمرکز شده است.<br><a href=\"https://iranintl.com/202607067964\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607067964</a>",
-    "date": "2026-07-06T04:53:49+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/INkD3q0O7I9ZKzCMRr1WWWUb5nf_u0cwfXtkqkdkL-lMJq3XHKEfw5ZU0sVEZ_VQaA-uSJHkFmcKULWg3Eh6PGwe5Co3vvUbNIr6IGu01SUGTwPu10PBLW2eZDe1idUaYQsiC7_ML1f8pvnv6sYjCqqb7r3ATz0EczuQyHgiH1qtlGVvRRbBv58y8PFcdZFbbP5KAO4YU7QWjff5mrPpqUc-H0dI5slthuI6eiMAfPKTvUDeiil9YDLviCCmbREwYsFKpovngbXwHsHVoWlYVcUDcQ4lD-GAh4Ln-RL85BKtHLfTFNcOd6DI3TMjfSuv2aBOehVlUHAa7beG2aanFw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/346003",
-    "timestamp": 1783313629000
   }
 ]

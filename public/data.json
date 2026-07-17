@@ -1,5 +1,860 @@
 [
   {
+    "id": "IranintlTV/348124",
+    "channel": "IranintlTV",
+    "text": "ششمین شب حملات آمریکا به جمهوری اسلامی با هدف قرار گرفتن ده‌ها موضع نظامی، زیرساخت‌های برق و چند پل راهبردی در جنوب ایران همراه بود. لیلا مروتی، تحلیل‌گر سیاسی، می‌گوید هدف اصلی این حملات، مختل کردن شبکه پشتیبانی و لجستیک نظامی جمهوری اسلامی و افزایش فشار بر ساختار تصمیم‌گیری آن است. به گفته او، عقب‌نشینی حکومت تنها زمانی محتمل است که بقای خود را در معرض تهدید جدی ببیند.@iranintltv",
+    "html": "ششمین شب حملات آمریکا به جمهوری اسلامی با هدف قرار گرفتن ده‌ها موضع نظامی، زیرساخت‌های برق و چند پل راهبردی در جنوب ایران همراه بود. لیلا مروتی، تحلیل‌گر سیاسی، می‌گوید هدف اصلی این حملات، مختل کردن شبکه پشتیبانی و لجستیک نظامی جمهوری اسلامی و افزایش فشار بر ساختار تصمیم‌گیری آن است. به گفته او، عقب‌نشینی حکومت تنها زمانی محتمل است که بقای خود را در معرض تهدید جدی ببیند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-17T17:13:32+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348124",
+    "timestamp": 1784308412000
+  },
+  {
+    "id": "worldsmoments/102126",
+    "channel": "worldsmoments",
+    "text": "2 انفجار در بندرعباس@worldsmoments",
+    "html": "2 انفجار در بندرعباس<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-17T17:11:53+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102126",
+    "timestamp": 1784308313000
+  },
+  {
+    "id": "MatinSenPaii/4543",
+    "channel": "MatinSenPaii",
+    "text": "یه آزمایش خیلی جالب توی وبلاگ TryAI انجام شده. اومدن یه محیط ایزوله ساختن و به دو تا از قوی‌ترین مدل‌های هوش مصنوعی یعنی Claude Fable 5 و GPT-5.6 Sol، یه آهنگ (Uptown Funk از برونو مارس)، یه متن از لیریکس آهنگ، یه سری ابزار (مثل سرچ وب، دسترسی به APIهای تولید ویدیو و ابزار تدوین ffmpeg) و یه بودجه مشخص دادن. هدف این بود که مدل‌ها رو به حال خودشون رها کنن تا صفر تا صد یه موزیک ویدیو رو خودشون کارگردانی و تدوین کنن! هر مدل با دو تا بودجه‌ی ۲۵ دلاری و ۱۰۰ دلاری تست شد. نتایج و درس‌هایی که از این آزمایش گرفتن خیلی جالبه:1- آزادی عمل تو انتخاب ابزار: هر مدل روش متفاوتی رو پیش گرفت. مثلاً کلاد تو هر دو حالت فقط رفت سراغ تبدیل «متن به ویدیو» (Text-to-Video). اما مدل Sol تو بودجه‌ی ۲۵ دلاری، اول عکس ساخت و بعد عکس‌ها رو متحرک کرد (Image-to-Video) و تو بودجه‌ی ۱۰۰ دلاری همزمان از ۳ تا مدل ویدیویی مختلف برای ساختن شات‌هاش استفاده کرد.2- درک سطحی از شعر: هوش مصنوعی لیریکس رو خیلی لغوی و تحت‌الفظی می‌فهمه! مثلاً وقتی خواننده می‌خونه \"Make a dragon wanna retire\" (می‌خوام اژدها رو بازنشسته کنم)، هوش مصنوعی دقیقاً یه اژدهای واقعی میاره تو تصویر! 😂3- مشکل در ریتم و تدوین: با اینکه مدل‌ها با ابزار ffmpeg بیت (Beat) آهنگ رو پیدا کردن و کات‌ها رو روی ضرب آهنگ زدن، اما حرکات داخل ویدیو (مثل رقصیدن یا حرکت دوربین) اصلاً با تمپوی آهنگ هم‌خونی نداشت و یه‌کم تو ذوق می‌زد.4- کم‌کاری توی بازبینی: یکی از نقاط ضعف بزرگ مدل‌ها این بود که اصلاً خروجی کار خودشون رو نقد و اصلاح نمی‌کردن. یعنی وقتی یه شات رو تولید می‌کردن، همون رو می‌چسبوندن تو ویدیو و دیگه برنمی‌گشتن که افکت بهتری روش بندازن یا اگه بی‌کیفیت بود حذفش کنن. (به قول معروف چشم‌بسته تحویل می‌دادن).5- بودجه‌ی اضافی کمکی نکرد: دادن ۱۰۰ دلار بودجه واقعاً زیاد بود! هیچ‌کدوم از مدل‌ها نتونستن از تمام این ظرفیت استفاده کنن (نهایتاً حول‌وحوش ۳۶ تا ۴۸ دلار خرج کردن). می‌تونستن با این پول کلی عکس ثابت از کاراکترها بسازن تا مشکل تغییر قیافه‌ها تو طول ویدیو حل بشه، ولی هیچ‌کدوم به این راهکار فکر نکردن.6- هزینه‌های پنهان: با اینکه بودجه تولید ویدیو محدود بود، اما هزینه‌ی توکن‌های خود LLM برای کلاد به شدت گرون‌تر دراومد (حدود ۱۷ تا ۲۵ دلار فقط پول توکن)، در حالی که این هزینه برای مدل OpenAI زیر ۴ دلار بود. با این حال تیم سازنده به صورت سلیقه‌ای، خروجی ۱۰۰ دلاریِ کلاد رو بیشتر از بقیه پسندیدن.حرف آخر:هیچ‌کدوم از موزیک ویدیوهای نهایی شاهکار از آب درنیومدن و هنوز شکافِ بزرگی تو انسجام داستان، ثبات چهره‌ی کاراکترها و خلاقیت تدوین وجود داره. اما اینکه یه هوش مصنوعی خودش بره مدل ویدیویی انتخاب کنه، پرامپت بنویسه، ویدیو بسازه و با ابزارهای خط فرمان ادیتش کنه، یه کم ترسناک ولی باحاله! لینک مقاله اصلی با ویدیوها: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6سورس کد این پلتفرم (اگه می‌خواید خودتون تست کنید): https://github.com/hershalb/music-video-arenaهر 4 تا ویدئوش رو آپلود می‌کنم ببینید✉️ t.me/MatinSenPaii",
+    "html": "یه آزمایش خیلی جالب توی وبلاگ TryAI انجام شده. اومدن یه محیط ایزوله ساختن و به دو تا از قوی‌ترین مدل‌های هوش مصنوعی یعنی Claude Fable 5 و GPT-5.6 Sol، یه آهنگ (Uptown Funk از برونو مارس)، یه متن از لیریکس آهنگ، یه سری ابزار (مثل سرچ وب، دسترسی به APIهای تولید ویدیو و ابزار تدوین ffmpeg) و یه بودجه مشخص دادن. <br><br>هدف این بود که مدل‌ها رو به حال خودشون رها کنن تا صفر تا صد یه موزیک ویدیو رو خودشون کارگردانی و تدوین کنن! هر مدل با دو تا بودجه‌ی ۲۵ دلاری و ۱۰۰ دلاری تست شد. نتایج و درس‌هایی که از این آزمایش گرفتن خیلی جالبه:<br><br>1- آزادی عمل تو انتخاب ابزار: هر مدل روش متفاوتی رو پیش گرفت. مثلاً کلاد تو هر دو حالت فقط رفت سراغ تبدیل «متن به ویدیو» (Text-to-Video). اما مدل Sol تو بودجه‌ی ۲۵ دلاری، اول عکس ساخت و بعد عکس‌ها رو متحرک کرد (Image-to-Video) و تو بودجه‌ی ۱۰۰ دلاری همزمان از ۳ تا مدل ویدیویی مختلف برای ساختن شات‌هاش استفاده کرد.<br><br>2- درک سطحی از شعر: هوش مصنوعی لیریکس رو خیلی لغوی و تحت‌الفظی می‌فهمه! مثلاً وقتی خواننده می‌خونه \"Make a dragon wanna retire\" (می‌خوام اژدها رو بازنشسته کنم)، هوش مصنوعی دقیقاً یه اژدهای واقعی میاره تو تصویر! <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br><br>3- مشکل در ریتم و تدوین: با اینکه مدل‌ها با ابزار ffmpeg بیت (Beat) آهنگ رو پیدا کردن و کات‌ها رو روی ضرب آهنگ زدن، اما حرکات داخل ویدیو (مثل رقصیدن یا حرکت دوربین) اصلاً با تمپوی آهنگ هم‌خونی نداشت و یه‌کم تو ذوق می‌زد.<br><br>4- کم‌کاری توی بازبینی: یکی از نقاط ضعف بزرگ مدل‌ها این بود که اصلاً خروجی کار خودشون رو نقد و اصلاح نمی‌کردن. یعنی وقتی یه شات رو تولید می‌کردن، همون رو می‌چسبوندن تو ویدیو و دیگه برنمی‌گشتن که افکت بهتری روش بندازن یا اگه بی‌کیفیت بود حذفش کنن. (به قول معروف چشم‌بسته تحویل می‌دادن).<br><br>5- بودجه‌ی اضافی کمکی نکرد: دادن ۱۰۰ دلار بودجه واقعاً زیاد بود! هیچ‌کدوم از مدل‌ها نتونستن از تمام این ظرفیت استفاده کنن (نهایتاً حول‌وحوش ۳۶ تا ۴۸ دلار خرج کردن). می‌تونستن با این پول کلی عکس ثابت از کاراکترها بسازن تا مشکل تغییر قیافه‌ها تو طول ویدیو حل بشه، ولی هیچ‌کدوم به این راهکار فکر نکردن.<br><br>6- هزینه‌های پنهان: با اینکه بودجه تولید ویدیو محدود بود، اما هزینه‌ی توکن‌های خود LLM برای کلاد به شدت گرون‌تر دراومد (حدود ۱۷ تا ۲۵ دلار فقط پول توکن)، در حالی که این هزینه برای مدل OpenAI زیر ۴ دلار بود. با این حال تیم سازنده به صورت سلیقه‌ای، خروجی ۱۰۰ دلاریِ کلاد رو بیشتر از بقیه پسندیدن.<br><br>حرف آخر:<br>هیچ‌کدوم از موزیک ویدیوهای نهایی شاهکار از آب درنیومدن و هنوز شکافِ بزرگی تو انسجام داستان، ثبات چهره‌ی کاراکترها و خلاقیت تدوین وجود داره. اما اینکه یه هوش مصنوعی خودش بره مدل ویدیویی انتخاب کنه، پرامپت بنویسه، ویدیو بسازه و با ابزارهای خط فرمان ادیتش کنه، یه کم ترسناک ولی باحاله! <br><br>لینک مقاله اصلی با ویدیوها: <a href=\"https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\" target=\"_blank\" rel=\"noopener\">https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</a><br>سورس کد این پلتفرم (اگه می‌خواید خودتون تست کنید): <a href=\"https://github.com/hershalb/music-video-arena\" target=\"_blank\" rel=\"noopener\">https://github.com/hershalb/music-video-arena</a><br><br>هر 4 تا ویدئوش رو آپلود می‌کنم ببینید<br><br><tg-emoji emoji-id=\"5069150690295677651\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i></tg-emoji> <a href=\"http://t.me/MatinSenPaii\" target=\"_blank\" rel=\"noopener\">t.me/MatinSenPaii</a>",
+    "date": "2026-07-17T17:09:04+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/MatinSenPaii/4543",
+    "timestamp": 1784308144000
+  },
+  {
+    "id": "IranintlTV/348123",
+    "channel": "IranintlTV",
+    "text": "در حمله موشکی جمهوری اسلامی به مقر حزب «کومله کردستان ایران» در استان سلیمانیه اقلیم کردستان عراق، ۹ پیشمرگه این حزب کشته و سه نفر دیگر به‌شدت زخمی شدند. هم‌زمان، هشت پهپاد مهاجم نیز بر فراز شهر اربیل رهگیری و منهدم شدند.شبکه روداو به نقل از عبدالله آذربار، عضو دفتر سیاسی حزب کومله کردستان ایران، گزارش داد حمله موشکی صبح جمعه ۲۶ تیر به یکی از مقرهای این حزب در منطقه زرگویزله در استان سلیمانیه انجام شد.به گفته آذربار، این حمله حدود ساعت شش صبح با هشت موشک بزرگ سنگرشکن صورت گرفت: «سه موشک به مقر اصابت کرد و موجب تلفات شد و سه موشک دیگر نیز در همان منطقه فرود آمد.»او افزود حال سه عضو زخمی‌شده حزب وخیم است.",
+    "html": "در حمله موشکی جمهوری اسلامی به مقر حزب «کومله کردستان ایران» در استان سلیمانیه اقلیم کردستان عراق، ۹ پیشمرگه این حزب کشته و سه نفر دیگر به‌شدت زخمی شدند. هم‌زمان، هشت پهپاد مهاجم نیز بر فراز شهر اربیل رهگیری و منهدم شدند.<br><br>شبکه روداو به نقل از عبدالله آذربار، عضو دفتر سیاسی حزب کومله کردستان ایران، گزارش داد حمله موشکی صبح جمعه ۲۶ تیر به یکی از مقرهای این حزب در منطقه زرگویزله در استان سلیمانیه انجام شد.<br><br>به گفته آذربار، این حمله حدود ساعت شش صبح با هشت موشک بزرگ سنگرشکن صورت گرفت: «سه موشک به مقر اصابت کرد و موجب تلفات شد و سه موشک دیگر نیز در همان منطقه فرود آمد.»<br><br>او افزود حال سه عضو زخمی‌شده حزب وخیم است.",
+    "date": "2026-07-17T17:08:41+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/IZ6vzSwAqTd42ggXopR9AXZYoY7SDgKaBd_NLTv4DUK9Uk3pFRDdjT_0NszVTJkzxNsesSs8iFpL1wAum7rftt5C3bu_yWYhEQCkoc42e_EYlJtZH6t70pPw-yDxlKnL82cX9daLtViWcU8f6LCDhgMBwdFTA72eIKfaGhYZjpraj6SKvMAUDD2Z57ccIhpRL-HnGSG9Iv5LEP4SMesGB7MXQphj82h_FZKjBwMVRdT5kXADtQaAk_VNP3DarWnPx5qCbfMECNzqtrtvwWslCujUBBnvc4qCbqw-LjuUz1ZmNcJAzI0Mi8-Ma0RDJcP2eFBoWM3pNCkCT2hryWqdXw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348123",
+    "timestamp": 1784308121000
+  },
+  {
+    "id": "pm_afshaa/97247",
+    "channel": "pm_afshaa",
+    "text": "چه زود شروع شدبندر عباسو زدن😁 @Pm_Afshaa",
+    "html": "چه زود شروع شد<br><br>بندر عباسو زدن<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T17:08:08+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97247",
+    "timestamp": 1784308088000
+  },
+  {
+    "id": "IranintlTV/348122",
+    "channel": "IranintlTV",
+    "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره گرانی‌ها در ایران می‌گوید: «در یخچال خانه ما فقط رُب و نان باقی مانده با کمی روغن.»",
+    "html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره گرانی‌ها در ایران می‌گوید: «در یخچال خانه ما فقط رُب و نان باقی مانده با کمی روغن.»",
+    "date": "2026-07-17T17:01:54+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348122",
+    "timestamp": 1784307714000
+  },
+  {
+    "id": "Dirty_Kids/394828",
+    "channel": "dirty_kids",
+    "text": "وقتی زنت تو کارای DIY بهت کمک می‌کنه🤣🤣🤣@Dirty_Kids 👻",
+    "html": "وقتی زنت تو کارای DIY بهت کمک می‌کنه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')\"><b>🤣</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')\"><b>🤣</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')\"><b>🤣</b></i><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-17T17:00:07+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394828",
+    "timestamp": 1784307607000
+  },
+  {
+    "id": "Dirty_Kids/394827",
+    "channel": "dirty_kids",
+    "text": "در توییتر فارسی چه میگذرد🗿@Dirty_Kids 👻",
+    "html": "در توییتر فارسی چه میگذرد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F97BF.png')\"><b>🗿</b></i><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-17T16:59:48+00:00",
+    "images": [
+      "https://cdn1.telesco.pe/file/fTwBSTLOtpcO4Gn6okfMJgcgJSxEq5desc8y2Etn600_CkJFJGGnnFO8nb6Q0QyDDmAjpdAyB8R47m6oncGtE7-nl7Sd97xnyc1YAtEYpXPBubmRu2fnmBfD04FKKEKtCpZWYJDumLakfwNJ4Dtbr1WZI2_gtWjJ6PHn2vhmngvF8Q65Oiuh3aXcroyxEiOO42C1_WqOURsJGsTVffwxosTjS8FsnrlI-8rQ2V49WM7D9Hz6manB3zbXB8tecZy6D3pxpwGCrWkw9rgJ5HUPPCkcWfSkDF6DhWFwJf-51kdVFahXAfQqVQsykWFYQhnXhGt0UYQNLPm1oN1i2YOHGg.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394827",
+    "timestamp": 1784307588000
+  },
+  {
+    "id": "VahidOnline/77206",
+    "channel": "VahidOnline",
+    "text": "انتشار ویدئویی‌هایی از قرارگاه سپاه پاسداران در راسک نشان می‌دهد که در پی حمله هوایی آمریکا، سقف یک سوله بزرگ در این مجموعه به شدت آسیب دیده است.@VahidHeadline📡 @VahidOnline",
+    "html": "انتشار ویدئویی‌هایی از قرارگاه سپاه پاسداران در راسک نشان می‌دهد که در پی حمله هوایی آمریکا، سقف یک سوله بزرگ در این مجموعه به شدت آسیب دیده است.<br>@<a href=\"https://t.me/VahidHeadline/310666\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidHeadline</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
+    "date": "2026-07-17T16:59:21+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/VahidOnline/77206",
+    "timestamp": 1784307561000
+  },
+  {
+    "id": "worldsmoments/102125",
+    "channel": "worldsmoments",
+    "text": "و اینجا اینفلوئنسر استرالیایی سفیدپوست تیک تاکی رو داریم که میگه کابل خیلی شهر کولیه، اینجا همه چی نرماله، با طالبان خیلی بهم خوش گذشت، همه چی عالی بود @worldsmomentsنمیدونم فقط اونجایی که با حجاب و روبنده عکس گرفت و از نظرش همچین پوششی سوژه عکاسیه@worldsmoments",
+    "html": "و اینجا اینفلوئنسر استرالیایی سفیدپوست تیک تاکی رو داریم که میگه کابل خیلی شهر کولیه، اینجا همه چی نرماله، با طالبان خیلی بهم خوش گذشت، همه چی عالی بود @worldsmoments",
+    "date": "2026-07-17T16:58:12+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102125",
+    "timestamp": 1784307492000
+  },
+  {
+    "id": "worldsmoments/102124",
+    "channel": "worldsmoments",
+    "text": "و اینجا اینفلوئنسر استرالیایی سفیدپوست تیک تاکی رو داریم که میگهکابل خیلی شهر کولیه، اینجا همه چی نرماله، با طالبان خیلی بهم خوش گذشت، همه چی عالی بود@worldsmoments",
+    "html": "و اینجا اینفلوئنسر استرالیایی سفیدپوست تیک تاکی رو داریم که میگه<br><blockquote>کابل خیلی شهر کولیه، اینجا همه چی نرماله، با طالبان خیلی بهم خوش گذشت، همه چی عالی بود</blockquote><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-17T16:55:09+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102124",
+    "timestamp": 1784307309000
+  },
+  {
+    "id": "pm_afshaa/97246",
+    "channel": "pm_afshaa",
+    "text": "پدافند جمهوری اسلامی صبح روز ۹ اسفند:😁 @Pm_Afshaa",
+    "html": "پدافند جمهوری اسلامی صبح روز ۹ اسفند:<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T16:49:17+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97246",
+    "timestamp": 1784306957000
+  },
+  {
+    "id": "worldsmoments/102122",
+    "channel": "worldsmoments",
+    "text": "این عکس که این روز‌ها توی فضای مجازی وایرال شده مربوط به ازدواج اجباری نازگل ۱۴ ساله با این پیرمرد ۶۳ ساله شهردار یکی از شهرهای افغانستان و عضو طالبان هست که نازگل زن چهارمش بود. ناراحت کننده تر از این قضیه اینه که نازگل سه روز بعد از روز عروسی بخاطر ‌وایرال…ویدئو‌های وایرال شده از این فاجعه@worldsmomentsویدئو‌های وایرال شده از این فاجعه@worldsmoments",
+    "html": "این عکس که این روز‌ها توی فضای مجازی وایرال شده مربوط به ازدواج اجباری نازگل ۱۴ ساله با این پیرمرد ۶۳ ساله شهردار یکی از شهرهای افغانستان و عضو طالبان هست که نازگل زن چهارمش بود. ناراحت کننده تر از این قضیه اینه که نازگل سه روز بعد از روز عروسی بخاطر ‌وایرال…",
+    "date": "2026-07-17T16:42:58+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102122",
+    "timestamp": 1784306578000
+  },
+  {
+    "id": "IranintlTV/348121",
+    "channel": "IranintlTV",
+    "text": "جمعی از ایرانیان ساکن آلمان ۲۶ تیرماه با برگزاری تجمعی در هامبورگ، یاد سربازان کشته‌شده در ایران را گرامی داشته و سواستفاده جمهوری اسلامی از جان انسان‌ها به‌عنوان سپر انسانی را محکوم کردند.",
+    "html": "جمعی از ایرانیان ساکن آلمان ۲۶ تیرماه با برگزاری تجمعی در هامبورگ، یاد سربازان کشته‌شده در ایران را گرامی داشته و سواستفاده جمهوری اسلامی از جان انسان‌ها به‌عنوان سپر انسانی را محکوم کردند.",
+    "date": "2026-07-17T16:32:07+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348121",
+    "timestamp": 1784305927000
+  },
+  {
+    "id": "worldsmoments/102121",
+    "channel": "worldsmoments",
+    "text": "این عکس که این روز‌ها توی فضای مجازی وایرال شده مربوط به ازدواج اجباری نازگل ۱۴ ساله با این پیرمرد ۶۳ ساله شهردار یکی از شهرهای افغانستان و عضو طالبان هست که نازگل زن چهارمش بود.ناراحت کننده تر از این قضیه اینه که نازگل سه روز بعد از روز عروسی بخاطر ‌وایرال شدن این عکس توسط شوهر حرومزادش خفه میشه و کشته میشه💔وضعیت حقوق زنان توی خاورمیانه روز به روز داره بدتر میشه.@worldsmoments",
+    "html": "این عکس که این روز‌ها توی فضای مجازی وایرال شده مربوط به ازدواج اجباری نازگل ۱۴ ساله با این پیرمرد ۶۳ ساله شهردار یکی از شهرهای افغانستان و عضو طالبان هست که نازگل زن چهارمش بود.<br><b>ناراحت کننده تر از این قضیه اینه که نازگل سه روز بعد از روز عروسی بخاطر ‌وایرال شدن این عکس توسط شوهر حرومزادش خفه میشه و کشته میشه</b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9294.png')\"><b>💔</b></i><br>وضعیت حقوق زنان توی خاورمیانه روز به روز داره بدتر میشه.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-17T16:30:35+00:00",
+    "images": [
+      "https://cdn1.telesco.pe/file/c4eX19jQC_Tl7DHxW6sDTnDWeOes2LTkbErBQ0x-MusIDZJ_YheHawIsdC_g0GCaX-KRNnEXbDW9VUmeLn1FQhrhqdfoalgJaQMNTXcuib-PRqilpxZM5dtPqxeJme1G69dNFtb5_1C2zW2TSy1lexqBUfzlyMYls1P_1D0m0BBmPFQaEeLfOAQM3NIYdtS5Il-BhtfOg14UKoIXisxFmgMa1BtKbu3a_K8jPVYbeFeW2Ld0mW4HgYOZBk28eduMw1y0vod4v79HOE_F6cGbyBNGLFYPcUwbtvNoVywwUhIUajto5UVkpYHd7qu0w9ew_sWPzy_zofnGOr_UYeImbA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102121",
+    "timestamp": 1784305835000
+  },
+  {
+    "id": "pm_afshaa/97245",
+    "channel": "pm_afshaa",
+    "text": "🔴اکسیوس:ترامپ در حال بررسی گزینه‌هایی است که شامل حملات به زیرساخت‌های ایران، حملات بیشتر به تاسیسات هسته‌ای و همچنین سایت زیرزمینی \" کوه کلنگ\" می‌شود  😁 @Pm_Afshaaاکسیوس:مقامات دولتی ترامپ به اسرائیل اطلاع داده‌اند که ده‌ها فروند هواپیمای تانکر سوخت را به این کشور اعزام خواهند کرد.این اقدام در آستانه یک گسترش احتمالی عملیات نظامی علیه جمهوری اسلامی ایران صورت می‌گیرد😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>اکسیوس:ترامپ در حال بررسی گزینه‌هایی است که شامل حملات به زیرساخت‌های ایران، حملات بیشتر به تاسیسات هسته‌ای و همچنین سایت زیرزمینی \" کوه کلنگ\" می‌شود  <tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> @Pm_Afshaa",
+    "date": "2026-07-17T16:27:49+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97245",
+    "timestamp": 1784305669000
+  },
+  {
+    "id": "VahidOnline/77205",
+    "channel": "VahidOnline",
+    "text": "به گزارش اکسیوس، سه مقام آمریکایی و اسرائیلی اعلام کردند دولت آمریکا به اسرائیل اطلاع داده است که در آستانه احتمال گسترش عملیات نظامی علیه جمهوری اسلامی، ده‌ها هواپیمای سوخت‌رسان دیگر به این کشور اعزام خواهد کرد.به گفته مقام‌های اسرائیلی، ارتش آمریکا ترجیح می‌دهد این هواپیماها را از فرودگاه بن‌گوریون به پرواز درآورد، زیرا دیگر پایگاه‌های هوایی منطقه بیشتر در معرض حملات جمهوری اسلامی قرار دارند و برای هواپیماهای آمریکایی امنیت کمتری دارند.@VahidOOnLine📡 @VahidOnline",
+    "html": "به گزارش اکسیوس، سه مقام آمریکایی و اسرائیلی اعلام کردند دولت آمریکا به اسرائیل اطلاع داده است که در آستانه احتمال گسترش عملیات نظامی علیه جمهوری اسلامی، ده‌ها هواپیمای سوخت‌رسان دیگر به این کشور اعزام خواهد کرد.<br><br>به گفته مقام‌های اسرائیلی، ارتش آمریکا ترجیح می‌دهد این هواپیماها را از فرودگاه بن‌گوریون به پرواز درآورد، زیرا دیگر پایگاه‌های هوایی منطقه بیشتر در معرض حملات جمهوری اسلامی قرار دارند و برای هواپیماهای آمریکایی امنیت کمتری دارند.<br>@<a href=\"https://t.me/VahidOOnLine/250650\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidOOnLine</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
+    "date": "2026-07-17T16:24:12+00:00",
+    "images": [
+      "https://cdn1.telesco.pe/file/eYjoOVtyhY6A5qNkicoh2t_hsu6RHSS9M80obxen7Ckc-SAX8p-eu83IlSZbkwqzuOOX3dTOOZzsLPkhK7S2Rs7JwHLXevbvNmNtU9lq9WQ3g1TRdtnNVK3Hon0qSGPkSn9z2um6EQthP2MYfdQQQW6zYZdSa0qZADCEuoy_umJaVfb_b6NM47aeOy4clGxXUWv_ZmvVEwm6SSiJedMSmBgiEYc2vmJ_7m8Lad42T5v-Z2tSsj1V_Z0vlkTMKfJ0U9uPFyIDS6NtPcFImCNHzwidNyGFpKNT5TAhvy5Gc3anWPB4DJYkT_VO4Jynbn7-eeImPciTOwVf_1r6RYjEbA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/VahidOnline/77205",
+    "timestamp": 1784305452000
+  },
+  {
+    "id": "newscenter2020/67588",
+    "channel": "newscenter",
+    "text": "🔴 اکسیوس به نقل از مقامات آمریکایی: طی روزهای آینده ممکنه ترامپ دستور تشدید حملات علیه مواضع ایران رو صادر کنه.🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> اکسیوس به نقل از مقامات آمریکایی: طی روزهای آینده ممکنه ترامپ دستور تشدید حملات علیه مواضع ایران رو صادر کنه.<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-17T16:22:22+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/67588",
+    "timestamp": 1784305342000
+  },
+  {
+    "id": "IranintlTV/348120",
+    "channel": "IranintlTV",
+    "text": "به گزارش اکسیوس، سه مقام آمریکایی و اسرائیلی اعلام کردند دولت آمریکا به اسرائیل اطلاع داده است که در آستانه احتمال گسترش عملیات نظامی علیه جمهوری اسلامی، ده‌ها هواپیمای سوخت‌رسان دیگر به این کشور اعزام خواهد کرد.به گفته مقام‌های اسرائیلی، ارتش آمریکا ترجیح می‌دهد این هواپیماها را از فرودگاه بن‌گوریون به پرواز درآورد، زیرا دیگر پایگاه‌های هوایی منطقه بیشتر در معرض حملات جمهوری اسلامی قرار دارند و برای هواپیماهای آمریکایی امنیت کمتری دارند.https://iranintl.com/202607171203",
+    "html": "به گزارش اکسیوس، سه مقام آمریکایی و اسرائیلی اعلام کردند دولت آمریکا به اسرائیل اطلاع داده است که در آستانه احتمال گسترش عملیات نظامی علیه جمهوری اسلامی، ده‌ها هواپیمای سوخت‌رسان دیگر به این کشور اعزام خواهد کرد.<br><br>به گفته مقام‌های اسرائیلی، ارتش آمریکا ترجیح می‌دهد این هواپیماها را از فرودگاه بن‌گوریون به پرواز درآورد، زیرا دیگر پایگاه‌های هوایی منطقه بیشتر در معرض حملات جمهوری اسلامی قرار دارند و برای هواپیماهای آمریکایی امنیت کمتری دارند.<br><a href=\"https://iranintl.com/202607171203\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607171203</a>",
+    "date": "2026-07-17T16:22:18+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/kS8zIJydMqZEGMszCgi93Dvwq_yNmDugfuqq6hXclFVGc-SUOJ055nMGD9-tmTlCTdNBMn00y8yBCo2hhuWk9lRdsi62SNP1yDim0Qd6lfUxE2QfUMGI87jJRYoJt7BV0LqjfJmQOc4o08uEX6QqWfU85epmHhQRnc2IG3C-RtBnplUl8PpLMGBWNmFwzI44phlFBMIw2r02l1Ie7ug2FdpUcPI4Xz3YmIJKCnz-vT73TNn28eUN9UvDyOFmC_F5bQBxGzNA55wwa2y1cEBBg8k5yMmB1i_sFbtXRiXUoHmwE8zAEZvyiGHOYagUXPw6tCOxxjBqsgmIl84WEmoHKw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348120",
+    "timestamp": 1784305338000
+  },
+  {
+    "id": "pm_afshaa/97244",
+    "channel": "pm_afshaa",
+    "text": "🔴اکسیوس:ترامپ در حال بررسی گزینه‌هایی است که شامل حملات به زیرساخت‌های ایران، حملات بیشتر به تاسیسات هسته‌ای و همچنین سایت زیرزمینی \" کوه کلنگ\" می‌شود😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>اکسیوس:ترامپ در حال بررسی گزینه‌هایی است که شامل حملات به زیرساخت‌های ایران، حملات بیشتر به تاسیسات هسته‌ای و همچنین سایت زیرزمینی \" کوه کلنگ\" می‌شود<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T16:21:10+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97244",
+    "timestamp": 1784305270000
+  },
+  {
+    "id": "IranintlTV/348119",
+    "channel": "IranintlTV",
+    "text": "معاون سیاسی و امنیتی استانداری بوشهر از اصابت دو موشک به نفتکش «بلما ان آی ۲۲» در جزیره خارک خبر داد و گفت که این شناور پیش‌تر نیز هدف حمله قرار گرفته بود.این مقام استانداری بوشهر افزود: «دو روز پیش نیز این نفتکش مورد اصابت قرار گرفت تا از پهلوگیری آن در این پایانه صادراتی نفت جلوگیری شود.»معاون استاندار بوشهر اضافه کرد: «همچنین پنجشنبه شب و بامداد روز جمعه نیز چندین نقطه در بوشهر و یک نقطه در شهرستان دشتی مورد اصابت حملات دشمن آمریکایی قرار گرفتند.»https://iranintl.com/202607177797",
+    "html": "معاون سیاسی و امنیتی استانداری بوشهر از اصابت دو موشک به نفتکش «بلما ان آی ۲۲» در جزیره خارک خبر داد و گفت که این شناور پیش‌تر نیز هدف حمله قرار گرفته بود.<br><br>این مقام استانداری بوشهر افزود: «دو روز پیش نیز این نفتکش مورد اصابت قرار گرفت تا از پهلوگیری آن در این پایانه صادراتی نفت جلوگیری شود.»<br><br>معاون استاندار بوشهر اضافه کرد: «همچنین پنجشنبه شب و بامداد روز جمعه نیز چندین نقطه در بوشهر و یک نقطه در شهرستان دشتی مورد اصابت حملات دشمن آمریکایی قرار گرفتند.»<br><a href=\"https://iranintl.com/202607177797\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607177797</a>",
+    "date": "2026-07-17T16:15:55+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/GShogbgLRlCmXRfqKQXHSKddB57WehF8wAvzv2G5lLziWd5VGzFa5bGkvXvqqzG49YUBz3ZZqqPjM1ZTteejyVZa_HQybEeWeg3WhNBBSTEpIdAI5Z1cZuRBknlSDoRPHWRlxg33ZeyYUtrTC8i3PKFpr87NYbrJ2PQ-hHkq9coCjVkBSdN6fsfdjDExvEK50D7IF6zt5Li6EqIRTKX6AfMGYhC7E3t7-0A1vYh9ariSKjQXgC45MptkVMJiJL0pVAALcUnvZGyImgf8gcuEXlgpt9yrt9CI3q5SM4Lu_WRqO2ZlGxN8x-YI-WWVD0RNIusSivlytuFIHknj8-i_kw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348119",
+    "timestamp": 1784304955000
+  },
+  {
+    "id": "Dirty_Kids/394826",
+    "channel": "dirty_kids",
+    "text": "همینارو ببرید جنوب بجنگناین حق ما نبود. ایران سزاوار این تحقیر نبود که چنین کثافتی در قرن بیست و یکم از ایران منتشر شود.@Dirty_Kids 👻",
+    "html": "همینارو ببرید جنوب بجنگن<br><br><blockquote>این حق ما نبود. ایران سزاوار این تحقیر نبود که چنین کثافتی در قرن بیست و یکم از ایران منتشر شود.</blockquote><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-17T16:14:11+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394826",
+    "timestamp": 1784304851000
+  },
+  {
+    "id": "worldsmoments/102120",
+    "channel": "worldsmoments",
+    "text": "پرامپت رنگ موی آلبالویی 💋@Prompt",
+    "html": "پرامپت رنگ موی آلبالویی <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928B.png')\"><b>💋</b></i><br><a href=\"https://t.me/+JmlrmnVTj4QwMmE0\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>@Prompt</b></a>",
+    "date": "2026-07-17T16:13:56+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/Ndwh1qprTM2OPPmCRYRDAxBEkQU3rg4NVNspnktafBBUphNnXIF-zNaA0XNzMq3_MUp-G4otVOXbtSr9iLlyT30Lcx9jRfK-K5_yYvIaQB6STxDhKuhIxRQqS14nP7ZcGUDyGcvCybQmpOmMgpfJTenWX7hZG6gov2kH6ARxbyuPWTjGZjdc2ypp_VvN4lQCZVs8GV9IWrmzU2BXzCpRMw8-o_9I4519kMObdi7OXPabU4syJRFPpZB_ITojgsWuoudXWPRJqIRPtWr24yjw6ls0arKEko6Lt1S5N2UwSarq1ugIavB3NPYPqe_bZCnS9cCKq2S8FnJq6lqbQYo9Bg.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102120",
+    "timestamp": 1784304836000
+  },
+  {
+    "id": "Dirty_Kids/394824",
+    "channel": "dirty_kids",
+    "text": "🔴 متأسفانه دیروز مامورا ریختن خونه علی کلاته، و اونو دستگیر کردن.علی توی اعتراضات دی ماه حضور داشت و 6 ماه مخفیانه زندگی میکرد و بالاخره لو رفت.لحظه ای که مامورا ریختن خونه علی، علی میگه: عامل تمام بدبختی‌ها منم، دلار شده ۲۰۰ تومن تقصیر منه، ماشین گرون شده تقصیر منه، اصلا همه چی گردن من.@Dirty_Kids 👻🔴 متأسفانه دیروز مامورا ریختن خونه علی کلاته، و اونو دستگیر کردن.علی توی اعتراضات دی ماه حضور داشت و 6 ماه مخفیانه زندگی میکرد و بالاخره لو رفت.لحظه ای که مامورا ریختن خونه علی، علی میگه: عامل تمام بدبختی‌ها منم، دلار شده ۲۰۰ تومن تقصیر منه، ماشین گرون شده تقصیر منه، اصلا همه چی گردن من.@Dirty_Kids 👻",
+    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> متأسفانه دیروز مامورا ریختن خونه علی کلاته، و اونو دستگیر کردن.<br><br><blockquote>علی توی اعتراضات دی ماه حضور داشت و 6 ماه مخفیانه زندگی میکرد و بالاخره لو رفت.</blockquote><br><blockquote>لحظه ای که مامورا ریختن خونه علی، علی میگه: عامل تمام بدبختی‌ها منم، دلار شده ۲۰۰ تومن تقصیر منه، ماشین گرون شده تقصیر منه، اصلا همه چی گردن من.</blockquote><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i></div>",
+    "date": "2026-07-17T16:13:22+00:00",
+    "images": [
+      "https://cdn1.telesco.pe/file/DQv64J622xObDW5bIQUhoLcllkJ27BYchxqRhziG2ZVvLYCKzqZhSU5JxfJukrNIix5sTeyA4bnvREzaZGjOePHlsM8xddj3_wS4hiXwZvQf8ifkxrMWvYtpLukejh7ZfSEz2w6_IpyZOVX11kjxuzdFL7eByo2w_S-idMtlfm7B0FQqK85rPI0cBE6AWoHuGt_c7ChAKb9eVDM1AJ_Qj6bJA3HUUx20Lr_okERRCVvscJRf_IZxnEafzLQiYdlGHgcVq3oxcxLz_hf98kT4n7WwzlWCSA-AjXfOys7GUf0jzvWwrkin8M6MxicH26tdTJQzVLKMo3oWJCQEYDtokA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394824",
+    "timestamp": 1784304802000
+  },
+  {
+    "id": "IranintlTV/348118",
+    "channel": "IranintlTV",
+    "text": "شبکه روداو به نقل از عبدالله آذربار، عضو دفتر سیاسی حزب «کومله زحمتکشان کردستان ایران» گزارش داد در حمله موشکی صبح جمعه ۲۶ تیر جمهوری اسلامی به یکی از مقرهای این حزب در منطقه زرگویز سلیمانیه در اقلیم کردستان عراق، ۹ پیشمرگه کشته و سه عضو دیگر زخمی شدند که حال آن‌ها وخیم است.به گفته آذربار، این حمله حدود ساعت شش صبح با هشت موشک بزرگ سنگرشکن انجام شد؛ سه موشک به مقر اصابت کرد و موجب تلفات شد و سه موشک دیگر نیز در همان منطقه فرود آمد.روداو هویت پیشمرگه‌های کشته‌شده را کسری رحمان‌نژاد، رضا صادقی، سینا صفری، ذکریا فقیه حسن‌آقا، فرهاد قمری، یاسین کیانپور، احمد محمودی، سروش نصری و سیاوان نیک‌خواه اعلام کرد.حزب کومله زحمتکشان کردستان ایران یکی از احزاب اپوزیسیون کرد ایرانی مخالف جمهوری اسلامی است.هم‌زمان، دستگاه مبارزه با تروریسم اقلیم کردستان اعلام کرد اربیل نیز بامداد جمعه با هشت پهپاد هدف قرار گرفت و همه آن‌ها منهدم شدند.",
+    "html": "شبکه روداو به نقل از عبدالله آذربار، عضو دفتر سیاسی حزب «کومله زحمتکشان کردستان ایران» گزارش داد در حمله موشکی صبح جمعه ۲۶ تیر جمهوری اسلامی به یکی از مقرهای این حزب در منطقه زرگویز سلیمانیه در اقلیم کردستان عراق، ۹ پیشمرگه کشته و سه عضو دیگر زخمی شدند که حال آن‌ها وخیم است.<br><br>به گفته آذربار، این حمله حدود ساعت شش صبح با هشت موشک بزرگ سنگرشکن انجام شد؛ سه موشک به مقر اصابت کرد و موجب تلفات شد و سه موشک دیگر نیز در همان منطقه فرود آمد.<br><br>روداو هویت پیشمرگه‌های کشته‌شده را کسری رحمان‌نژاد، رضا صادقی، سینا صفری، ذکریا فقیه حسن‌آقا، فرهاد قمری، یاسین کیانپور، احمد محمودی، سروش نصری و سیاوان نیک‌خواه اعلام کرد.<br><br>حزب کومله زحمتکشان کردستان ایران یکی از احزاب اپوزیسیون کرد ایرانی مخالف جمهوری اسلامی است.<br><br>هم‌زمان، دستگاه مبارزه با تروریسم اقلیم کردستان اعلام کرد اربیل نیز بامداد جمعه با هشت پهپاد هدف قرار گرفت و همه آن‌ها منهدم شدند.",
+    "date": "2026-07-17T16:12:11+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/pSdkaeOLPFnxiQ20osBIZoJrV81fLMa0WYJaHbe8ATdQH9CQlFqiWkuIpBIRMKYwrKu-Ns2jfzMVKDso23-qvgR0neDId2aHcXnvHfnLwi4f2Wsg-ZNafvICtXjtUyEp2TLCdWVhX46-qtjQ1NBtzX_UIFOlq-r1rgqwtz46Pf9_xy7K3Xzdl0VcCeLiXBt28V1AwRpn11Jpc9w7hpuWJ_-cg-qnz-ps4SN8QifXfR3VMpBcEq4cnCR4Kt-R-lhCKyrj0PPb2NiQDZixW5XhoLn3lIcaq_RFqghIBom7ToamJ8TefWEpqIDmYnWyKelxbEteblSHsbMeRHfGWksvuA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348118",
+    "timestamp": 1784304731000
+  },
+  {
+    "id": "IranintlTV/348117",
+    "channel": "IranintlTV",
+    "text": "🔻تیم ملی فوتبال ایران در حالی در جام جهانی نتوانست دستاوردی کسب کند و از مرحله گروهی صعود نکرد که افرادی روی نیمکت تیم ملی به عنوان مربی حضور دارند که مدرک پورلایسنس را ندارند اما به عنوان دستیار اول قلعه‌نویی مشغول به کار هستند.🔹گفتگو با محمد تقوی، ایران‌اینترنشنال در هت‌تریک@iranintltvsport",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>تیم ملی فوتبال ایران در حالی در جام جهانی نتوانست دستاوردی کسب کند و از مرحله گروهی صعود نکرد که افرادی روی نیمکت تیم ملی به عنوان مربی حضور دارند که مدرک پورلایسنس را ندارند اما به عنوان دستیار اول قلعه‌نویی مشغول به کار هستند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>گفتگو با محمد تقوی، ایران‌اینترنشنال در هت‌تریک<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@iranintltvsport</a>",
+    "date": "2026-07-17T16:11:59+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348117",
+    "timestamp": 1784304719000
+  },
+  {
+    "id": "Dirty_Kids/394823",
+    "channel": "dirty_kids",
+    "text": "🏆 مسابقات جام جهانی 2026 ⚽️  🏛️ رومابت دنیای آفر ها و بونوس های ورزشی و کازینویی میباشد ✅  🎁 با شرطبندی روی مسابقات جام جهانی وارد تورنومنت 2.500.000.000 تومانی رومابت شوید ✅  🚨 همین حالا وارد حساب کاربری شوید و شرط مورد نظر خود را ثبت کنید 👇  🌐  https://…#پیشنهاد_ویژه رومابت ✅ بازی های #جام_جهانی رو پیشبینی کن و از هیجانش پول در بیار رفیق😍 ادرس ثبت نام رفقا 👇✅https://halvirox9371.barhttps://halvirox9371.barادرس کانال تلگرام 👇💠@RomaBet_official",
+    "html": "<tg-emoji emoji-id=\"5409008750893734809\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')\"><b>🏆</b></i></tg-emoji> مسابقات جام جهانی 2026 <tg-emoji emoji-id=\"5920123126271710465\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji>  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')\"><b>🏛️</b></i> رومابت دنیای آفر ها و بونوس های ورزشی و کازینویی میباشد <tg-emoji emoji-id=\"5805167944342178866\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i> با شرطبندی روی مسابقات جام جهانی وارد تورنومنت 2.500.000.000 تومانی رومابت شوید <tg-emoji emoji-id=\"5805167944342178866\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>  <tg-emoji emoji-id=\"5395695537687123235\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji> همین حالا وارد حساب کاربری شوید و شرط مورد نظر خود را ثبت کنید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i>  <tg-emoji emoji-id=\"5447410659077661506\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji>&nbsp; https://…",
+    "date": "2026-07-17T16:11:17+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394823",
+    "timestamp": 1784304677000
+  },
+  {
+    "id": "Dirty_Kids/394822",
+    "channel": "dirty_kids",
+    "text": "🏆 مسابقات جام جهانی 2026 ⚽️🏛️ رومابت دنیای آفر ها و بونوس های ورزشی و کازینویی میباشد ✅🎁 با شرطبندی روی مسابقات جام جهانی وارد تورنومنت 2.500.000.000 تومانی رومابت شوید ✅🚨 همین حالا وارد حساب کاربری شوید و شرط مورد نظر خود را ثبت کنید 👇🌐  https://halvirox9371.bar✅کانال تلگرامی #رومابت 👇G26🔵 @RomaBet_official",
+    "html": "<tg-emoji emoji-id=\"5409008750893734809\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F86.png')\"><b>🏆</b></i></tg-emoji> <b>مسابقات جام جهانی 2026 </b><tg-emoji emoji-id=\"5920123126271710465\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i></tg-emoji><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8F9B.png')\"><b>🏛️</b></i> رومابت دنیای آفر ها و بونوس های ورزشی و کازینویی میباشد <tg-emoji emoji-id=\"5805167944342178866\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E81.png')\"><b>🎁</b></i> <b>با شرطبندی روی مسابقات جام جهانی وارد تورنومنت 2.500.000.000 تومانی رومابت شوید </b><tg-emoji emoji-id=\"5805167944342178866\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5395695537687123235\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji> همین حالا وارد حساب کاربری شوید و شرط مورد نظر خود را ثبت کنید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><br><tg-emoji emoji-id=\"5447410659077661506\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji>&nbsp; <a href=\"https://halvirox9371.bar/\" target=\"_blank\" rel=\"noopener\">https://halvirox9371.bar</a><br><br><tg-emoji emoji-id=\"5913613755442272203\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji><b>کانال تلگرامی </b><a href=\"?q=%23%D8%B1%D9%88%D9%85%D8%A7%D8%A8%D8%AA\">#رومابت</a><b> </b><tg-emoji emoji-id=\"5470177992950946662\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji><br>G26<br><tg-emoji emoji-id=\"5017077798129369907\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B5.png')\"><b>🔵</b></i></tg-emoji> <a href=\"https://t.me/RomaBet_official\" target=\"_blank\">@RomaBet_official</a>",
+    "date": "2026-07-17T16:11:16+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394822",
+    "timestamp": 1784304676000
+  },
+  {
+    "id": "IranintlTV/348116",
+    "channel": "IranintlTV",
+    "text": "امیرحسین ثابتی، نماینده تهران در مجلس، گفت اشغال برخی جزایر ایران و نقاط کلیدی کشور زمانی ممکن است که پیش از آن زیرساخت‌های مواصلاتی آسیب دیده باشند، تا «دشمن» از طریق «گروه‌های تجزیه‌طلب» یا عملیات هلی‌برن بتواند آسان‌تر به اهداف خود برسد و در جابه‌جایی نیروهای نظامی جمهوری اسلامی اخلال ایجاد کند. ثابتی با اشاره به پایان جام جهانی، روزهای پیش رو را «بسیار حساس» توصیف کرد و از کسانی که به گفته او تصور می‌کردند توافق با آمریکا به پایان جنگ منجر می‌شود، انتقاد کرد. او گفت این توافق، برخلاف نظر رهبر جمهوری اسلامی، به کاهش قیمت نفت، ایجاد اختلاف در داخل کشور و طرح وعده‌های تحقق‌نیافته درباره مذاکره، پایان جنگ و لغو تحریم‌ها منجر شده است. او همچنین گفت در صورت وقوع حمله زمینی، جمهوری اسلامی توان پاسخگویی دارد. ثابتی در پایان خطاب به مسعود پزشکیان، و محمدباقر قالیباف، رییس مجلس شورای اسلامی، گفت مردم در انتظار تحقق وعده‌های پایان جنگ و لغو تحریم‌ها هستند و از آن‌ها خواست یا به این وعده‌ها عمل کنند یا بپذیرند که تشخیصشان نادرست بوده و رویکرد خود را تغییر دهند.https://iranintl.com/202607170933",
+    "html": "امیرحسین ثابتی، نماینده تهران در مجلس، گفت اشغال برخی جزایر ایران و نقاط کلیدی کشور زمانی ممکن است که پیش از آن زیرساخت‌های مواصلاتی آسیب دیده باشند، تا «دشمن» از طریق «گروه‌های تجزیه‌طلب» یا عملیات هلی‌برن بتواند آسان‌تر به اهداف خود برسد و در جابه‌جایی نیروهای نظامی جمهوری اسلامی اخلال ایجاد کند. <br><br>ثابتی با اشاره به پایان جام جهانی، روزهای پیش رو را «بسیار حساس» توصیف کرد و از کسانی که به گفته او تصور می‌کردند توافق با آمریکا به پایان جنگ منجر می‌شود، انتقاد کرد. <br><br>او گفت این توافق، برخلاف نظر رهبر جمهوری اسلامی، به کاهش قیمت نفت، ایجاد اختلاف در داخل کشور و طرح وعده‌های تحقق‌نیافته درباره مذاکره، پایان جنگ و لغو تحریم‌ها منجر شده است. <br><br>او همچنین گفت در صورت وقوع حمله زمینی، جمهوری اسلامی توان پاسخگویی دارد. <br><br>ثابتی در پایان خطاب به مسعود پزشکیان، و محمدباقر قالیباف، رییس مجلس شورای اسلامی، گفت مردم در انتظار تحقق وعده‌های پایان جنگ و لغو تحریم‌ها هستند و از آن‌ها خواست یا به این وعده‌ها عمل کنند یا بپذیرند که تشخیصشان نادرست بوده و رویکرد خود را تغییر دهند.<br><a href=\"https://iranintl.com/202607170933\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607170933</a>",
+    "date": "2026-07-17T16:10:40+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/swwX4QTjDzOYl5yYzwsP_KHEa1bEAiTgj7_RN8n4-g--wddAvJ4lNVKfM5t4dFbSGkTkc_SWbQfQ8QvNtEi1I3apTyRG4zCVDMr84no75ta0AVH_jOPs9VVf8N4K-Vtnmm4rn6eKjURVy3TdTlP77xLe_t1sunEO8TWM0BTIaBO4oLo4MURCvtCxNCKy7WLBNclhhJYx57zFiw-7oWAsfyrsX4R9qy_0IXSIZeZ_nB0QjsSctFkq2p57wkm3c8RBsHLe6fLvZOJecjKBK_ZanGAjDxgO_8WG01pgxjWl_CTE5ftAGLp0TF4UycFwx2CJc5nmE-fCC3fG8PSqSj1YNA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348116",
+    "timestamp": 1784304640000
+  },
+  {
+    "id": "persianvpnhub/38706",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 19:38 - 1405/04/26💡 منبع: گروه MahsaNet",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:38 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet",
+    "date": "2026-07-17T16:09:47+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@mi6vpn ⚡️⚡️⚡️.npvt",
+        "size": "4.3 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/38706",
+    "timestamp": 1784304587000
+  },
+  {
+    "id": "newscenter2020/67587",
+    "channel": "newscenter",
+    "text": "آکسیوس:سه مقام آمریکایی و اسرائیلی اعلام کردند: «دولت ترامپ پیش از گسترش احتمالی عملیات نظامی علیه ایران، به اسرائیل اطلاع داده است که ده‌ها هواپیمای سوخت‌رسانی دیگر به این کشور اعزام می‌کند.»🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
+    "html": "آکسیوس:سه مقام آمریکایی و اسرائیلی اعلام کردند: «دولت ترامپ پیش از گسترش احتمالی عملیات نظامی علیه ایران، به اسرائیل اطلاع داده است که ده‌ها هواپیمای سوخت‌رسانی دیگر به این کشور اعزام می‌کند.»<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-17T16:09:47+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/67587",
+    "timestamp": 1784304587000
+  },
+  {
+    "id": "persianvpnhub/38705",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: Poland 🇵🇱📶 پینگ: 116ms#VLESS #VPN🕒 انتشار: 19:35 - 1405/04/26💡 منبع: @makvaslimvless://a0d9d6f7-9f3c-450f-93a2-76ffd8651b5c@pol.mrsolo5323.ir:2053?mode=packet-up&path=%2F&security=reality&encryption=none&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Atrue%2C%22udpHop%22%3A%7B%22ports%22%3A%2220000-50000%22%2C%22interval%22%3A%225-10%22%7D%2C%22initStreamReceiveWindow%22%3A8388608%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22keepAlivePeriod%22%3A5%2C%22disablePathMTUDiscovery%22%3Atrue%2C%22maxIncomingStreams%22%3A1024%7D%7D&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=nUJ1k6Sb4Guh8dpD6ZE8Sm4SW4yzu-4Dfv1Om8fT4gk&fp=chrome&spx=%2F&type=xhttp&sni=play.google.com&sid=19d6a1fa4401#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Poland <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B5F09F87B1.png')\"><b>🇵🇱</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 116ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:35 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://a0d9d6f7-9f3c-450f-93a2-76ffd8651b5c@pol.mrsolo5323.ir:2053?mode=packet-up&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Atrue%2C%22udpHop%22%3A%7B%22ports%22%3A%2220000-50000%22%2C%22interval%22%3A%225-10%22%7D%2C%22initStreamReceiveWindow%22%3A8388608%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22keepAlivePeriod%22%3A5%2C%22disablePathMTUDiscovery%22%3Atrue%2C%22maxIncomingStreams%22%3A1024%7D%7D&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;pbk=nUJ1k6Sb4Guh8dpD6ZE8Sm4SW4yzu-4Dfv1Om8fT4gk&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=play.google.com&amp;sid=19d6a1fa4401#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+    "date": "2026-07-17T16:09:42+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38705",
+    "timestamp": 1784304582000
+  },
+  {
+    "id": "persianvpnhub/38704",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: فنلاند 🇫🇮📶 پینگ: 123ms#VLESS #VPN🕒 انتشار: 19:35 - 1405/04/26💡 منبع: @makvaslimvless://50db4e01-af0d-40a1-bb5d-3db0cfd70b58@rip1f.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: فنلاند <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87AE.png')\"><b>🇫🇮</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 123ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:35 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://50db4e01-af0d-40a1-bb5d-3db0cfd70b58@rip1f.pastilbastani.ir:443?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+    "date": "2026-07-17T16:09:38+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38704",
+    "timestamp": 1784304578000
+  },
+  {
+    "id": "persianvpnhub/38703",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: روسیه 🇷🇺📶 پینگ: 125ms#VLESS #VPN🕒 انتشار: 19:35 - 1405/04/26💡 منبع: @makvaslimvless://ecad47b0-249e-0009-adff-e3c8f02b1897@81.94.148.204:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=player.mediavitrina.ru&sid=43dcff53849b81e6#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: روسیه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')\"><b>🇷🇺</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 125ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:35 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a><br><br><pre>vless://ecad47b0-249e-0009-adff-e3c8f02b1897@81.94.148.204:8443?security=reality&amp;encryption=none&amp;pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=player.mediavitrina.ru&amp;sid=43dcff53849b81e6#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy</pre>",
+    "date": "2026-07-17T16:09:33+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38703",
+    "timestamp": 1784304573000
+  },
+  {
+    "id": "persianvpnhub/38702",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 19:35 - 1405/04/26💡 منبع: @makvaslim",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:35 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a>",
+    "date": "2026-07-17T16:09:29+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@farsiproxy.npvt",
+        "size": "15 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/38702",
+    "timestamp": 1784304569000
+  },
+  {
+    "id": "persianvpnhub/38701",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 19:35 - 1405/04/26💡 منبع: @makvaslim",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:35 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a>",
+    "date": "2026-07-17T16:09:24+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@farsiproxy.npvt",
+        "size": "2 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/38701",
+    "timestamp": 1784304564000
+  },
+  {
+    "id": "persianvpnhub/38700",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 19:35 - 1405/04/26💡 منبع: @makvaslim",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:35 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/makvaslim\" target=\"_blank\">@makvaslim</a>",
+    "date": "2026-07-17T16:09:19+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "@farsiproxy.npvt",
+        "size": "16.5 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/38700",
+    "timestamp": 1784304559000
+  },
+  {
+    "id": "persianvpnhub/38699",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: Seychelles 🇸🇨📶 پینگ: 2ms#VLESS #VPN🕒 انتشار: 19:34 - 1405/04/26💡 منبع: @Hope_Netvless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: Seychelles <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B8F09F87A8.png')\"><b>🇸🇨</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:34 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&amp;sni=ttgju.org&amp;type=ws&amp;host=hj-de.ttgju.org&amp;path=%2Fhajmi%3Fed%3D2560&amp;alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram</pre>",
+    "date": "2026-07-17T16:09:11+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38699",
+    "timestamp": 1784304551000
+  },
+  {
+    "id": "persianvpnhub/38698",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ TROJAN📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#TROJAN #VPN🕒 انتشار: 19:34 - 1405/04/26💡 منبع: @Hope_Nettrojan://tg-dns68@162.159.152.207:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:34 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>trojan://tg-dns68@162.159.152.207:443?security=tls&amp;type=ws&amp;sni=vip.putata.eu.org&amp;path=/?ed=2560&amp;host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram</pre>",
+    "date": "2026-07-17T16:09:07+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38698",
+    "timestamp": 1784304547000
+  },
+  {
+    "id": "persianvpnhub/38697",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ TROJAN📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#TROJAN #VPN🕒 انتشار: 19:34 - 1405/04/26💡 منبع: @Hope_Nettrojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&type=ws&sni=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&host=missyousir.segaro.tech#@Hope_Net-join-us-on-Telegram",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:34 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&amp;type=ws&amp;sni=missyousir.segaro.tech&amp;path=/OVmkPBATL0FijQ3AWVBo&amp;host=missyousir.segaro.tech#@Hope_Net-join-us-on-Telegram</pre>",
+    "date": "2026-07-17T16:08:59+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38697",
+    "timestamp": 1784304539000
+  },
+  {
+    "id": "persianvpnhub/38696",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: آمریکا 🇺🇸📶 پینگ: 2ms#VLESS #VPN🕒 انتشار: 19:28 - 1405/04/26💡 منبع: گروه MahsaNetvless://dc7b0174-8da2-e3a1-5ff1-f3460578ba32@ansooyefilter-channel-production-645b.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-channel-production-645b.up.railway.app&path=/ws/dc7b0174-8da2-e3a1-5ff1-f3460578ba32&sni=ansooyefilter-channel-production-645b.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8-%D8%A2%D9%86%D8%B3%D9%88%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%40ansooyefilter-WS-0B/%E2%88%9E",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آمریکا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:28 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: گروه MahsaNet<br><br><pre>vless://dc7b0174-8da2-e3a1-5ff1-f3460578ba32@ansooyefilter-channel-production-645b.up.railway.app:443?encryption=none&amp;security=tls&amp;type=ws&amp;host=ansooyefilter-channel-production-645b.up.railway.app&amp;path=/ws/dc7b0174-8da2-e3a1-5ff1-f3460578ba32&amp;sni=ansooyefilter-channel-production-645b.up.railway.app&amp;fp=chrome&amp;alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8-%D8%A2%D9%86%D8%B3%D9%88%DB%8C-%D9%81%DB%8C%D9%84%D8%AA%D8%B1-%40ansooyefilter-WS-0B/%E2%88%9E</pre>",
+    "date": "2026-07-17T16:08:55+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38696",
+    "timestamp": 1784304535000
+  },
+  {
+    "id": "persianvpnhub/38695",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: آلمان 🇩🇪📶 پینگ: 90ms#VLESS #VPN🕒 انتشار: 19:12 - 1405/04/26💡 منبع: @PrivateVPNsvless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.212:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: آلمان <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 90ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:12 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/PrivateVPNs\" target=\"_blank\">@PrivateVPNs</a><br><br><pre>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.219.212:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87A9F09F87AA.png')\"><b>🇩🇪</b></i>t.me/PrivateVPNs</pre>",
+    "date": "2026-07-17T16:08:51+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38695",
+    "timestamp": 1784304531000
+  },
+  {
+    "id": "persianvpnhub/38694",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ TROJAN📍 لوکیشن: کلودفلر ☁️📶 پینگ: 3ms#TROJAN #VPN🕒 انتشار: 19:09 - 1405/04/26💡 منبع: @Hope_Nettrojan://Watashi_VPN@104.18.13.229:2053?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/?ed=2560&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#@Hope_Net-join-us-on-Telegram",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ TROJAN<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 3ms<br><br><a href=\"?q=%23TROJAN\">#TROJAN</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 19:09 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>trojan://Watashi_VPN@104.18.13.229:2053?security=tls&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;path=/?ed=2560&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#@Hope_Net-join-us-on-Telegram</pre>",
+    "date": "2026-07-17T16:08:44+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38694",
+    "timestamp": 1784304524000
+  },
+  {
+    "id": "persianvpnhub/38693",
+    "channel": "persianvpnhub",
+    "text": "📂 فایل کانفیگ NapsternetV📍 لوکیشن: نامشخص#NapsternetV #Config #File🕒 انتشار: 18:54 - 1405/04/26💡 منبع: @Filtershekan_channel",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> فایل کانفیگ NapsternetV<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: نامشخص<br><br><a href=\"?q=%23NapsternetV\">#NapsternetV</a> <a href=\"?q=%23Config\">#Config</a> <a href=\"?q=%23File\">#File</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 18:54 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Filtershekan_channel\" target=\"_blank\">@Filtershekan_channel</a>",
+    "date": "2026-07-17T16:08:38+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "npvfile61 (1).npvt",
+        "size": "39.5 KB"
+      }
+    ],
+    "link": "https://t.me/persianvpnhub/38693",
+    "timestamp": 1784304518000
+  },
+  {
+    "id": "persianvpnhub/38692",
+    "channel": "persianvpnhub",
+    "text": "📂 کانفیگ VLESS📍 لوکیشن: کلودفلر ☁️📶 پینگ: 2ms#VLESS #VPN🕒 انتشار: 18:34 - 1405/04/26💡 منبع: @Hope_Netvless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.175:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2security#@Hope_Net-join-us-on-Telegram",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9382.png')\"><b>📂</b></i> کانفیگ VLESS<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i> لوکیشن: کلودفلر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29881.png')\"><b>☁️</b></i><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i> پینگ: 2ms<br><br><a href=\"?q=%23VLESS\">#VLESS</a> <a href=\"?q=%23VPN\">#VPN</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9592.png')\"><b>🕒</b></i> انتشار: 18:34 - 1405/04/26<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> منبع: <a href=\"https://t.me/Hope_Net\" target=\"_blank\">@Hope_Net</a><br><br><pre>vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.175:443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;path=%2Ftg%40zdyz2security#@Hope_Net-join-us-on-Telegram</pre>",
+    "date": "2026-07-17T16:08:33+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/persianvpnhub/38692",
+    "timestamp": 1784304513000
+  },
+  {
+    "id": "IranintlTV/348115",
+    "channel": "IranintlTV",
+    "text": "هم‌زمان با ادامه حملات متقابل جمهوری اسلامی و آمریکا، گزارش‌ها از موج تازه انفجارها در چند نقطه ایران و حملات موشکی جمهوری اسلامی به آن‌سوی خلیج فارس حکایت دارد.معاون امنیتی استاندار بوشهر اعلام کرد که چهار نقطه در این استان هدف پرتابه‌های «دشمن» قرار گرفته‌اند.ارزیابی شهیر شهیدثالث، تحلیل‌گر روابط بین‌الملل و مسائل ایران، و لیلا مروتی، تحلیل‌گر سیاسی، درباره تداوم تنش‌ها در تنگه هرمز و هدف آمریکا از حمله به مواضع نظامی جمهوری اسلامی در جنوب ایران@iranintltv",
+    "html": "هم‌زمان با ادامه حملات متقابل جمهوری اسلامی و آمریکا، گزارش‌ها از موج تازه انفجارها در چند نقطه ایران و حملات موشکی جمهوری اسلامی به آن‌سوی خلیج فارس حکایت دارد.<br><br>معاون امنیتی استاندار بوشهر اعلام کرد که چهار نقطه در این استان هدف پرتابه‌های «دشمن» قرار گرفته‌اند.<br><br>ارزیابی شهیر شهیدثالث، تحلیل‌گر روابط بین‌الملل و مسائل ایران، و لیلا مروتی، تحلیل‌گر سیاسی، درباره تداوم تنش‌ها در تنگه هرمز و هدف آمریکا از حمله به مواضع نظامی جمهوری اسلامی در جنوب ایران<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-17T16:07:37+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348115",
+    "timestamp": 1784304457000
+  },
+  {
+    "id": "pm_afshaa/97243",
+    "channel": "pm_afshaa",
+    "text": "🔴شاهزاده رضا پهلوی در مصاحبه با شبکه i24 فرانسه:رژیم ایران همچنان سفت‌وسخت به ایدئولوژی خودش چسبیده؛ چون رفاه و آینده مردم براش مهم نیست و فقط می‌خواد سرِ قدرت بمونه و به بقای خودش ادامه بده.سیاستشون هم اینه که همین طرز فکر رو با کمک حماس، حزب‌الله، حوثی‌ها و بقیه نیروهای نیابتی‌شون به کل خاورمیانه و حتی کشورهای غربی گسترش بدن😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>شاهزاده رضا پهلوی در مصاحبه با شبکه i24 فرانسه:رژیم ایران همچنان سفت‌وسخت به ایدئولوژی خودش چسبیده؛ چون رفاه و آینده مردم براش مهم نیست و فقط می‌خواد سرِ قدرت بمونه و به بقای خودش ادامه بده.<br>سیاستشون هم اینه که همین طرز فکر رو با کمک حماس، حزب‌الله، حوثی‌ها و بقیه نیروهای نیابتی‌شون به کل خاورمیانه و حتی کشورهای غربی گسترش بدن<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T16:04:49+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97243",
+    "timestamp": 1784304289000
+  },
+  {
+    "id": "IranintlTV/348114",
+    "channel": "IranintlTV",
+    "text": "محمدنبی موسوی‌فرد، امام جمعه اهواز گفت: «برای انتقام عهد می‌بندیم؛ این انتقام از یک یا دو نفر نیست، بلکه فهرستی از جنایتکاران را شامل می‌شود. این کار، ماموریتی الهی است و معنای آن روشن و غیرقابل تحریف است؛ جنایتکاران باید آرزوی مرگ آرام در بستر را با خود به گور ببرند.» او ادامه داد: «خروجی این انتقام، جهانی خواهد بود.»موسوی‌فرد اضافه کرد: «این تصور که از طریق مذاکره با آمریکا بتوانیم از بن‌بست اقتصادی خارج شویم، خطایی بزرگ محسوب می‌شود و این باور، مردود است.»https://iranintl.com/202607173708",
+    "html": "محمدنبی موسوی‌فرد، امام جمعه اهواز گفت: «برای انتقام عهد می‌بندیم؛ این انتقام از یک یا دو نفر نیست، بلکه فهرستی از جنایتکاران را شامل می‌شود. این کار، ماموریتی الهی است و معنای آن روشن و غیرقابل تحریف است؛ جنایتکاران باید آرزوی مرگ آرام در بستر را با خود به گور ببرند.» <br>او ادامه داد: «خروجی این انتقام، جهانی خواهد بود.»<br><br>موسوی‌فرد اضافه کرد: «این تصور که از طریق مذاکره با آمریکا بتوانیم از بن‌بست اقتصادی خارج شویم، خطایی بزرگ محسوب می‌شود و این باور، مردود است.»<br><a href=\"https://iranintl.com/202607173708\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607173708</a>",
+    "date": "2026-07-17T16:04:31+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/b1zHWOtiEqJrbJ6a4S9FXU9Lpg1_1fwI1PobDUzkw9ZFT9sbP0sMwliYafoqObV74NXi-h_CLXM8l3y_v2CLiPCzdlOXTorysyj0tKuDGwJselBNHp7PSVKeub6zN_-2aAjc08aRBNyuBnp1DbvBBMDs-HMyTWM3e1C_DOsfNs8koXsEXoC7ikMg-GnK4A8hiOjJDnS7pBhFQ4B0Dg2cMb0KYEpDUw-JVemReUXDpdjgKnBGeFR7X9RVa27CMXachKP8Y_ygf_WEWV0hkdMnZUnJeOzQ-IkhWijZfMnsMKrgbdsHTrUh6BVGAtHo9CHgEAUO7xEm1os-qCh-GCz62w.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348114",
+    "timestamp": 1784304271000
+  },
+  {
+    "id": "IranintlTV/348113",
+    "channel": "IranintlTV",
+    "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره گرانی‌های شدید در ایران می‌گوید: «در خانه جز نان چیزی برای خوردن نداریم.»",
+    "html": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال درباره گرانی‌های شدید در ایران می‌گوید: «در خانه جز نان چیزی برای خوردن نداریم.»",
+    "date": "2026-07-17T16:02:34+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348113",
+    "timestamp": 1784304154000
+  },
+  {
+    "id": "mizangorup/70532",
+    "channel": "mizangorup",
+    "text": "🔴 عرزشی ها هر روز پست تر از دیروز. شفا و تبرک از ماشین حمل دیکتاتور چلاق@mizangorup",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> عرزشی ها هر روز پست تر از دیروز. شفا و تبرک از ماشین حمل دیکتاتور چلاق<br><br><br><br><br><br><a href=\"https://t.me/mizangorup\" target=\"_blank\">@mizangorup</a>",
+    "date": "2026-07-17T16:02:30+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/LBD479OVS45FxkrtwMZcbmNlAt3ncihQMNr_gAXyI1D9pSf6AN2EaZKGC9NCWymZroS49PVoiKre8aKUQ1YaoA5340bSUPsACaV9vhxU_FPB1fAKfJTeN0WiU85eMRBfstOVO1xqwCGnunQGXFtx2QchH7_B0_-G7Z-nK8gc-vaZ4UWTmVS2aoO1zGewwoQ1Bpd3mKPSsXCGzHb6N4hGh8UtolVZCIicM7pRKZyJ_OlJyRl6mO-49pPMFcYHZvnQkAAcFMS2sS6gB_XBb5SH2e1mr8l0CxTiD0A3efdaQV6o-vvJhJ-BmUzUVqjdeRJwAyr434QsSCsrnicTRyiZiw.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/mizangorup/70532",
+    "timestamp": 1784304150000
+  },
+  {
+    "id": "IranintlTV/348112",
+    "channel": "IranintlTV",
+    "text": "🎧نسخه صوتی چرتکه: آیا بورس تهران گزینه سرمایه‌گذاری است؟@iranintlTV",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی چرتکه: آیا بورس تهران گزینه سرمایه‌گذاری است؟<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
+    "date": "2026-07-17T16:01:41+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "چرتکه - ۲۶ تیر",
+        "size": ""
+      }
+    ],
+    "link": "https://t.me/IranintlTV/348112",
+    "timestamp": 1784304101000
+  },
+  {
+    "id": "mizangorup/70531",
+    "channel": "mizangorup",
+    "text": "پاکستان موظفه به جمهوری اسلامی حمله کنه.🚨رویترز : پاکستان به جمهوری اسلامی هشدار داد که اگر جمهوری اسلامی به عربستان سعودی حمله کند، اسلام‌آباد این اقدام را به عنوان یک حمله مستقیم به خود تلقی خواهد کرد و احتمالاً به ایران نیز حمله خواهد کرد.@mizangorup",
+    "html": "پاکستان موظفه به جمهوری اسلامی حمله کنه.",
+    "date": "2026-07-17T15:59:11+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/mizangorup/70531",
+    "timestamp": 1784303951000
+  },
+  {
+    "id": "IranintlTV/348111",
+    "channel": "IranintlTV",
+    "text": "وزارت خارجه قطر حملات جمهوری اسلامی به خاک قطر، اردن، بحرین و کویت را به شدیدترین لحن محکوم کرد و آن را نقض آشکار حاکمیت کشورها، حقوق بین‌الملل و منشور سازمان ملل دانست. وزارت خارجه قطر اعلام کرد جمهوری اسلامی مسئول حقوقی حملات و پیامدهای آن است و افزود دوحه حق پاسخ مطابق حقوق بین‌الملل و ماده ۵۱ منشور سازمان ملل را برای خود محفوظ می‌داند. وزارت خارجه قطر خواستار توقف فوری همه حملات، جلوگیری از گسترش تنش، بازگشت به گفت‌وگو و پایبندی به تفاهم‌های حاصل از تلاش‌های دیپلماتیک شد.https://iranintl.com/202607174363",
+    "html": "وزارت خارجه قطر حملات جمهوری اسلامی به خاک قطر، اردن، بحرین و کویت را به شدیدترین لحن محکوم کرد و آن را نقض آشکار حاکمیت کشورها، حقوق بین‌الملل و منشور سازمان ملل دانست. <br><br>وزارت خارجه قطر اعلام کرد جمهوری اسلامی مسئول حقوقی حملات و پیامدهای آن است و افزود دوحه حق پاسخ مطابق حقوق بین‌الملل و ماده ۵۱ منشور سازمان ملل را برای خود محفوظ می‌داند. <br><br>وزارت خارجه قطر خواستار توقف فوری همه حملات، جلوگیری از گسترش تنش، بازگشت به گفت‌وگو و پایبندی به تفاهم‌های حاصل از تلاش‌های دیپلماتیک شد.<br><a href=\"https://iranintl.com/202607174363\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607174363</a>",
+    "date": "2026-07-17T15:58:39+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/SrmSaoUXehsWfOx33BiraYW7Oo_3fVkyE0WeOQaVjqP8kaccosyh7abOZ-gapJcrVrii9BzVTe5_TFCWTZaC7v3JYyK9a9OkIWlmhuTlmTF2f-XceM2Q05vM7E0RJWWaUBAnPnOb5E6pdbyqaL-clEOAeiUx6TxusX4eO2R-20hmxsdRAT6lfpFonxtJieUAGoBoAUGgFwN-IoauMAGdXWZeoWZHot29OSAJQ09dukd7he2zg1epMUwdKVHDMBO3zr6eqFrG--EwbB2BSGINxGOXPfR_2aU7tzjgSLXwZTd2nAp5jL8IpV4v6mVK87aRxO8_7LqXwhEZ3rjr-_mfZA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348111",
+    "timestamp": 1784303919000
+  },
+  {
+    "id": "IranintlTV/348110",
+    "channel": "IranintlTV",
+    "text": "🔻تیم ملی فوتبال ایران در حالی در جام جهانی ۴۸ تیمی نتوانست از گروه خود صعود کند که مهدی تاج، رییس فدراسیون فوتبال جمهوری اسلامی در مصاحبه‌ای گفت: «با وجود همه این مشکلات، تیم ملی نمایش قابل قبولی داشت و نتایج خوبی کسب کرد.»🔹توضیحات مزدک میرزایی، ایران‌اینترنشنال در هت‌تریک@iranintltvsport",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>تیم ملی فوتبال ایران در حالی در جام جهانی ۴۸ تیمی نتوانست از گروه خود صعود کند که مهدی تاج، رییس فدراسیون فوتبال جمهوری اسلامی در مصاحبه‌ای گفت: «با وجود همه این مشکلات، تیم ملی نمایش قابل قبولی داشت و نتایج خوبی کسب کرد.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>توضیحات مزدک میرزایی، ایران‌اینترنشنال در هت‌تریک<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">@iranintltvsport</a>",
+    "date": "2026-07-17T15:58:17+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348110",
+    "timestamp": 1784303897000
+  },
+  {
+    "id": "pm_afshaa/97242",
+    "channel": "pm_afshaa",
+    "text": "🔴شبکه 24 فرانسه: ایران از حزب‌الله و بقیه نیروهای هم‌پیمانش در منطقه خواسته است تا برای هرگونه تشدید قریب‌الوقوع درگیری‌ها آماده باشن😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>شبکه 24 فرانسه: ایران از حزب‌الله و بقیه نیروهای هم‌پیمانش در منطقه خواسته است تا برای هرگونه تشدید قریب‌الوقوع درگیری‌ها آماده باشن<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T15:57:08+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97242",
+    "timestamp": 1784303828000
+  },
+  {
+    "id": "IranintlTV/348109",
+    "channel": "IranintlTV",
+    "text": "چرتکه: آیا کف قیمت به سود سیگنال خرید است؟از شعار «مردم باید همه‌چیز را به بورس بسپارند» در سال نود و نه تا سقوطی که نیمی از ارزش شاخص را در کمتر از یک سال از بین برد، بورس تهران یک‌بار مسیرِ «قول دولتی، هجوم مردم، و سپس سقوط» را طی کرده است. در این قسمت چرتکه، محمد ماشین‌چیان با مرور این تجربه در کنار نسبت قیمت به سود و نمادهای بسته‌ی بورسی، بررسی می‌کند که آیا بورس تهران امروز ارزنده است؟قسمت کامل این برنامه در یوتیوب ایران‌اینترنشنال:https://youtu.be/IUL2Mo_CtTg@iranintltv",
+    "html": "چرتکه: آیا کف قیمت به سود سیگنال خرید است؟<br>از شعار «مردم باید همه‌چیز را به بورس بسپارند» در سال نود و نه تا سقوطی که نیمی از ارزش شاخص را در کمتر از یک سال از بین برد، بورس تهران یک‌بار مسیرِ «قول دولتی، هجوم مردم، و سپس سقوط» را طی کرده است. در این قسمت چرتکه، محمد ماشین‌چیان با مرور این تجربه در کنار نسبت قیمت به سود و نمادهای بسته‌ی بورسی، بررسی می‌کند که آیا بورس تهران امروز ارزنده است؟<br><br>قسمت کامل این برنامه در یوتیوب ایران‌اینترنشنال:<br><a href=\"https://youtu.be/IUL2Mo_CtTg\" target=\"_blank\" rel=\"noopener\">https://youtu.be/IUL2Mo_CtTg</a><br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+    "date": "2026-07-17T15:56:46+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348109",
+    "timestamp": 1784303806000
+  },
+  {
+    "id": "pm_afshaa/97241",
+    "channel": "pm_afshaa",
+    "text": "ثابتی :حملات شب گذشته امریکا به احتمال زیاد مقدمه حمله زمینی به کشور است😁 @Pm_Afshaa",
+    "html": "ثابتی :حملات شب گذشته امریکا به احتمال زیاد مقدمه حمله زمینی به کشور است<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T15:54:59+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97241",
+    "timestamp": 1784303699000
+  },
+  {
+    "id": "newscenter2020/67586",
+    "channel": "newscenter",
+    "text": "🔴 وزارت امور خارجه قطر: کشور قطر حق کامل خود را برای پاسخگویی به اقدامات تجاوزکارانه ايران، مطابق با مقررات حقوق بین‌الملل، حفظ می‌کند.🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> وزارت امور خارجه قطر: کشور قطر حق کامل خود را برای پاسخگویی به اقدامات تجاوزکارانه ايران، مطابق با مقررات حقوق بین‌الملل، حفظ می‌کند.<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-17T15:51:40+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/67586",
+    "timestamp": 1784303500000
+  },
+  {
+    "id": "IranintlTV/348108",
+    "channel": "IranintlTV",
+    "text": "🎧نسخه صوتی اخبار شبانگاهی | جمعه ۲۶ تیر@iranintlTV",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار شبانگاهی | جمعه ۲۶ تیر<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
+    "date": "2026-07-17T15:51:26+00:00",
+    "images": [],
+    "files": [
+      {
+        "name": "اخبار شبانگاهی | جمعه ۲۶ تیر",
+        "size": ""
+      }
+    ],
+    "link": "https://t.me/IranintlTV/348108",
+    "timestamp": 1784303486000
+  },
+  {
+    "id": "Dirty_Kids/394821",
+    "channel": "dirty_kids",
+    "text": "رویترز : پاکستان به جمهوری اسلامی هشدار داد که اگر جمهوری اسلامی به عربستان سعودی حمله کند، اسلام‌آباد این اقدام را به عنوان یک حمله مستقیم به خود تلقی خواهد کرد و احتمالاً به ایران نیز حمله خواهد کرد.@Dirty_Kids 👻",
+    "html": "رویترز :<br><br> پاکستان به جمهوری اسلامی هشدار داد که اگر جمهوری اسلامی به عربستان سعودی حمله کند، اسلام‌آباد این اقدام را به عنوان یک حمله مستقیم به خود تلقی خواهد کرد و احتمالاً به ایران نیز حمله خواهد کرد.<br><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-17T15:46:57+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394821",
+    "timestamp": 1784303217000
+  },
+  {
+    "id": "newscenter2020/67585",
+    "channel": "newscenter",
+    "text": "🔴 رویترز: پاکستان به ایران هشدار داد که اگه به عربستان حمله کنه، اسلام‌آباد اون حمله رو حمله به خودش میدونه!🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
+    "html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> رویترز: </b>پاکستان به ایران هشدار داد که اگه به عربستان حمله کنه، اسلام‌آباد اون حمله رو حمله به خودش میدونه!<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-17T15:46:16+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/67585",
+    "timestamp": 1784303176000
+  },
+  {
+    "id": "Dirty_Kids/394820",
+    "channel": "dirty_kids",
+    "text": "من: زندگی خودمه و به خودم مربوطه.مامانم:@Dirty_Kids 👻",
+    "html": "من: زندگی خودمه و به خودم مربوطه.<br><br>مامانم:<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
+    "date": "2026-07-17T15:45:39+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/dirty_kids/394820",
+    "timestamp": 1784303139000
+  },
+  {
+    "id": "worldsmoments/102119",
+    "channel": "worldsmoments",
+    "text": "پاکستان به جمهوری‌اسلامی هشدار داده اگه به عربستان حمله کنه، اون رو حمله به خودش میدونه و ممکنه به ایران حمله کنه!!!@worldsmoments",
+    "html": "پاکستان به جمهوری‌اسلامی هشدار داده اگه به عربستان حمله کنه، اون رو حمله به خودش میدونه و ممکنه به ایران حمله کنه!!!<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-17T15:42:32+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102119",
+    "timestamp": 1784302952000
+  },
+  {
+    "id": "pm_afshaa/97239",
+    "channel": "pm_afshaa",
+    "text": "🔴نادعلی، معاون فرهنگی سپاه تهران:خودروی حمل جنازه علی خامنه‌ای هر شب در یک میدان به نمایش در میاد.😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>نادعلی، معاون فرهنگی سپاه تهران:<b><br></b>خودروی حمل جنازه علی خامنه‌ای هر شب در یک میدان به نمایش در میاد.<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T15:38:31+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97239",
+    "timestamp": 1784302711000
+  },
+  {
+    "id": "IranintlTV/348107",
+    "channel": "IranintlTV",
+    "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، در کنفرانس خبری مشترک با صدراعظم آلمان، با اشاره به تفاهم‌نامه ۶۰ روزه میان جمهوری اسلامی و آمریکا، گفت: «یک ماه از این ۶۰ روز گذشته است و من از تهران می‌خواهم به آن احترام بگذارد.»مکرون گفت: «جمهوری اسلامی باید به آنچه امضا کرده پایبند باشد؛ یعنی بازگشایی تنگه هرمز و ازسرگیری گفت‌وگوها را ممکن سازد.»مکرون در ادامه از آمادگی پاریس برای کمک به بازگشایی تنگه هرمز خبر داد و گفت: «با سلطان عمان دیدار کردم و پیشنهاد اجرای این ماموریت در آب‌های عمان را مطرح کردم. تا آنجا که می‌دانم، تصمیم‌گیری درباره آب‌های عمان در اختیار جمهوری اسلامی ایران نیست.»https://iranintl.com/202607171547",
+    "html": "امانوئل مکرون، رییس‌جمهوری فرانسه، در کنفرانس خبری مشترک با صدراعظم آلمان، با اشاره به تفاهم‌نامه ۶۰ روزه میان جمهوری اسلامی و آمریکا، گفت: «یک ماه از این ۶۰ روز گذشته است و من از تهران می‌خواهم به آن احترام بگذارد.»<br><br>مکرون گفت: «جمهوری اسلامی باید به آنچه امضا کرده پایبند باشد؛ یعنی بازگشایی تنگه هرمز و ازسرگیری گفت‌وگوها را ممکن سازد.»<br><br>مکرون در ادامه از آمادگی پاریس برای کمک به بازگشایی تنگه هرمز خبر داد و گفت: «با سلطان عمان دیدار کردم و پیشنهاد اجرای این ماموریت در آب‌های عمان را مطرح کردم. تا آنجا که می‌دانم، تصمیم‌گیری درباره آب‌های عمان در اختیار جمهوری اسلامی ایران نیست.»<br><a href=\"https://iranintl.com/202607171547\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607171547</a>",
+    "date": "2026-07-17T15:33:40+00:00",
+    "images": [
+      "https://cdn4.telesco.pe/file/e1QELB8lfWlIXLQs4kRAUNpxHB8cOGUKBBCSgWoeaSTKSW67QIbQJ9I_XFanN0cYO8P67rrL_GcrEUvrCFElq0g7orKGHo76rRelVBdyMVvOLH34-X7URk7QRhDBfKvMDyJHU_3ZmK2WVLWIRPRJNKijKQFQJv7ViQYHjLX16Qm6cTM3Omr_TfAOBH_OZV6_0eVt29FD13GU1sr4MAeTsoI8rH3VG7TPLdQpqj-jSd19GioABanhWyRzkps-Dsqzm8dDAj1B9Op5E6mRWuuMNOnaEENVHZ4aithS_brlweyvdejfmCaAR-okJTDRV4t7S-3ttlnnVb1rW3DkEVkUzA.jpg"
+    ],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348107",
+    "timestamp": 1784302420000
+  },
+  {
+    "id": "IranintlTV/348106",
+    "channel": "IranintlTV",
+    "text": "ویدیوی منتشر شده در رسانه‌های اجتماعی نشان می‌دهد گروهی از هم‌خدمتی‌های پادگان آباده به سوی این پایگاه نظامی حرکت می‌کنند و یکی از آنها آرزو می‌کند که دوره سربازی تمام شود تا به زندگی عادی بازگردد.",
+    "html": "ویدیوی منتشر شده در رسانه‌های اجتماعی نشان می‌دهد گروهی از هم‌خدمتی‌های پادگان آباده به سوی این پایگاه نظامی حرکت می‌کنند و یکی از آنها آرزو می‌کند که دوره سربازی تمام شود تا به زندگی عادی بازگردد.",
+    "date": "2026-07-17T15:32:34+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348106",
+    "timestamp": 1784302354000
+  },
+  {
+    "id": "pm_afshaa/97238",
+    "channel": "pm_afshaa",
+    "text": "🔴سنتکام:در تاریخ 16 ژوئیه، نیروهای آمریکا با موفقیت برج مراقبت بندر شهید کلانتری چابهار رو که بخشی از شبکه نظارت دریایی در امتداد سواحل دریای عمان ایران بود، منهدم کردن. به ادعای سنتکام، سپاه پاسداران دهه‌ها از این شبکه برای رصد و هدف‌گیری کشتی‌های تجاری عبوری از تنگه هرمز استفاده میکرد.سنتکام همچنین مدعی شد که نابودی این برج، توانایی سپاه برای هماهنگی حملات علیه خدمه غیرنظامی کشتی‌ها رو کاهش میده و این حمله به حفظ آزادی کشتیرانی در آب‌های منطقه‌ای برای همه شناورها کمک میکنه؛ به‌جز کشتی‌هایی که به گفته آمریکا در تلاش برای نقض محاصره دریایی این کشور علیه ایران هستند.😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>سنتکام:<br><b><br></b>در تاریخ 16 ژوئیه، نیروهای آمریکا با موفقیت برج مراقبت بندر شهید کلانتری چابهار رو که بخشی از شبکه نظارت دریایی در امتداد سواحل دریای عمان ایران بود، منهدم کردن. به ادعای سنتکام، سپاه پاسداران دهه‌ها از این شبکه برای رصد و هدف‌گیری کشتی‌های تجاری عبوری از تنگه هرمز استفاده میکرد.<br><b><br></b><blockquote>سنتکام همچنین مدعی شد که نابودی این برج، توانایی سپاه برای هماهنگی حملات علیه خدمه غیرنظامی کشتی‌ها رو کاهش میده و این حمله به حفظ آزادی کشتیرانی در آب‌های منطقه‌ای برای همه شناورها کمک میکنه؛ به‌جز کشتی‌هایی که به گفته آمریکا در تلاش برای نقض محاصره دریایی این کشور علیه ایران هستند.</blockquote><br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T15:31:09+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97238",
+    "timestamp": 1784302269000
+  },
+  {
+    "id": "pm_afshaa/97237",
+    "channel": "pm_afshaa",
+    "text": "🔴رویترز: پاکستان درحال مذاکره با کویت برای یک توافق دفاعی گسترده در ازای همکاری در زمینه انرژی است.😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>رویترز: پاکستان درحال مذاکره با کویت برای یک توافق دفاعی گسترده در ازای همکاری در زمینه انرژی است.<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T15:29:36+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97237",
+    "timestamp": 1784302176000
+  },
+  {
+    "id": "pm_afshaa/97236",
+    "channel": "pm_afshaa",
+    "text": "🔴امام جمعه اردبیل:تنگه هرمز رو به «برمودا» و باب‌المندب رو به «دیوار ذوالقرنین» تبدیل میکنیم.😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>امام جمعه اردبیل:<b><br></b>تنگه هرمز رو به «برمودا» و باب‌المندب رو به «دیوار ذوالقرنین» تبدیل میکنیم.<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "date": "2026-07-17T15:28:36+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/pm_afshaa/97236",
+    "timestamp": 1784302116000
+  },
+  {
+    "id": "IranintlTV/348105",
+    "channel": "IranintlTV",
+    "text": "🗣روایت شما از زندگی در دوران پس از انقلاب ملی و جنگ- جمعه ۲۶ تیر:🔹از شهر اصفهان بهارستان پیام می‌دهم. جمعه از صبح ساعت ۸ تا ساعت ۳ بعد از ظهر نه برق داشتیم، نه گاز و نه آب.🔹من یک بازنشسته تامین اجتماعی هستم، با گذشت چهار ماه از سال جدید، با وجود این تورم زیاد حقوقم ۲۰ تومان است و خبری از افزایش حقوق ۶۰ درصدی که وعده داده بودند نیست. چطوری می‌شود با ۲۰ تومان تو ایران زندگی کرد. همه‌اش مقروض هستم.🔹مقام‌های جمهوری اسلامی می‌گویند مردم باید فشار اقتصادی را تحمل کنند تا به پاکستان و عراق برق صادر کنیم، چون پاکستان میانجی‌گری کرده، باید جبران کنیم... چرا باید مردم تاوان بدهند؟ راستی فراموش کردیم اول انقلاب گفتید آب‌، برق‌، نفت مجانی هست برای ملت ایران، که نبود.🔹آشغال‌استخوان‌هایی که قبلاً قصابی‌ها دور می‌ریختند شده کیلویی ۱۰۰ هزار تومان و فروش قصابی‌ها بیشتر از این نوع هست برای آبگوشت.🔹این روزها گرانی و تورم، مردم را به جنون کشانده. از طرفی هم این اجاره‌خانه‌ها از مبلغ کل حقوق اکثر مردم هم بیشتر شده، در همدان دیگر زیر ۲۰ میلیون تومان اجاره، خانه پیدا نمی‌شود.🔹من برنامه‌نویسم و کل کسب و کارم ماه‌هاست که قفل شده و نمی‌دانم چیکار کنم.🔹با انفجار سال گذشته و دو جنگ و محاصره تنگه هرمز، کل زندگی کسانی که در اسکله‌های رجایی و باهنر بندرعباس مشغول بودند نابود شده است.🔹به‌خاطر استخراج بیت‌کوین برق را در ایران جیره‌بندی می‌کنید، واریز می‌شود به کیف‌پول‌هایتان و از آن‌سو خزانه‌داری آمریکا این مبالغ را تحریم و بلوکه می‌کند. صادرات برق به کشورهای همسایه که اصلا حرفی ازش وسط نمی‌آید. بس کنید این چرخه باطل را.",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')\"><b>🗣</b></i><b>روایت شما از زندگی در دوران پس از انقلاب ملی و جنگ- جمعه ۲۶ تیر:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از شهر اصفهان بهارستان پیام می‌دهم. جمعه از صبح ساعت ۸ تا ساعت ۳ بعد از ظهر نه برق داشتیم، نه گاز و نه آب.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>من یک بازنشسته تامین اجتماعی هستم، با گذشت چهار ماه از سال جدید، با وجود این تورم زیاد حقوقم ۲۰ تومان است و خبری از افزایش حقوق ۶۰ درصدی که وعده داده بودند نیست. چطوری می‌شود با ۲۰ تومان تو ایران زندگی کرد. همه‌اش مقروض هستم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>مقام‌های جمهوری اسلامی می‌گویند مردم باید فشار اقتصادی را تحمل کنند تا به پاکستان و عراق برق صادر کنیم، چون پاکستان میانجی‌گری کرده، باید جبران کنیم... چرا باید مردم تاوان بدهند؟ راستی فراموش کردیم اول انقلاب گفتید آب‌، برق‌، نفت مجانی هست برای ملت ایران، که نبود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>آشغال‌استخوان‌هایی که قبلاً قصابی‌ها دور می‌ریختند شده کیلویی ۱۰۰ هزار تومان و فروش قصابی‌ها بیشتر از این نوع هست برای آبگوشت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این روزها گرانی و تورم، مردم را به جنون کشانده. از طرفی هم این اجاره‌خانه‌ها از مبلغ کل حقوق اکثر مردم هم بیشتر شده، در همدان دیگر زیر ۲۰ میلیون تومان اجاره، خانه پیدا نمی‌شود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>من برنامه‌نویسم و کل کسب و کارم ماه‌هاست که قفل شده و نمی‌دانم چیکار کنم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>با انفجار سال گذشته و دو جنگ و محاصره تنگه هرمز، کل زندگی کسانی که در اسکله‌های رجایی و باهنر بندرعباس مشغول بودند نابود شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به‌خاطر استخراج بیت‌کوین برق را در ایران جیره‌بندی می‌کنید، واریز می‌شود به کیف‌پول‌هایتان و از آن‌سو خزانه‌داری آمریکا این مبالغ را تحریم و بلوکه می‌کند. صادرات برق به کشورهای همسایه که اصلا حرفی ازش وسط نمی‌آید. بس کنید این چرخه باطل را.",
+    "date": "2026-07-17T15:24:32+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/IranintlTV/348105",
+    "timestamp": 1784301872000
+  },
+  {
+    "id": "worldsmoments/102118",
+    "channel": "worldsmoments",
+    "text": "🔴 مصاحبه شاهزاده رضا پهلوی با شبکه i24 فرانسه 🇫🇷 :رژیم ایران همچنان سفت‌وسخت به ایدئولوژی خودش چسبیده؛ چون رفاه و آینده مردم براش مهم نیست و فقط می‌خواد سرِ قدرت بمونه و به بقای خودش ادامه بده.سیاستشون هم اینه که همین طرز فکر رو با کمک حماس، حزب‌الله، حوثی‌ها و بقیه نیروهای نیابتی‌شون به کل خاورمیانه و حتی کشورهای غربی گسترش بدن.@worldsmoments",
+    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b> مصاحبه شاهزاده رضا پهلوی با شبکه i24 فرانسه</b> <b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87ABF09F87B7.png')\"><b>🇫🇷</b></i> :</b><br><br><blockquote><b>رژیم ایران همچنان سفت‌وسخت به ایدئولوژی خودش چسبیده؛ چون رفاه و آینده مردم براش مهم نیست و فقط می‌خواد سرِ قدرت بمونه و به بقای خودش ادامه بده.</b><br></blockquote><blockquote><b>سیاستشون هم اینه که همین طرز فکر رو با کمک حماس، حزب‌الله، حوثی‌ها و بقیه نیروهای نیابتی‌شون به کل خاورمیانه و حتی کشورهای غربی گسترش بدن.</b></blockquote><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
+    "date": "2026-07-17T15:17:55+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/worldsmoments/102118",
+    "timestamp": 1784301475000
+  },
+  {
+    "id": "newscenter2020/67584",
+    "channel": "newscenter",
+    "text": "سامانه هشدار زودهنگام سونامی آمریکا: پس از وقوع زمین‌لرزه‌ای به بزرگی ۷.۴ ریشتر در نزدیکی سواحل ایالت چیاپاس مکزیک، خطر وقوع سونامی وجود دارد.🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
+    "html": "سامانه هشدار زودهنگام سونامی آمریکا: پس از وقوع زمین‌لرزه‌ای به بزرگی ۷.۴ ریشتر در نزدیکی سواحل ایالت چیاپاس مکزیک، خطر وقوع سونامی وجود دارد.<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
+    "date": "2026-07-17T15:17:27+00:00",
+    "images": [],
+    "files": [],
+    "link": "https://t.me/newscenter/67584",
+    "timestamp": 1784301447000
+  },
+  {
     "id": "IranintlTV/348100",
     "channel": "IranintlTV",
     "text": "محمدرضا رضایی‌کوچی، رییس کمیسیون عمران مجلس، گفت: «اگر دشمن یک پل را هدف قرار دهد، ما دو پل از زیرساخت‌های آنها را هدف قرار خواهیم داد.»رضایی‌کوچی افزود: «نیروهای مسلح جمهوری اسلامی باید زیرساخت‌های کشورهایی را که با آمریکا همکاری می‌کنند، هدف قرار دهند.»https://iranintl.com/202607176782",
@@ -251,8 +1106,8 @@
   {
     "id": "VahidOnline/77204",
     "channel": "VahidOnline",
-    "text": "آمریکا: برج مراقبت چابهار را منهدم کردیمپست سنتکام ترجمه ماشین:در ۱۶ ژوئیه، نیروهای آمریکایی برج مراقبت بندر شهید کلانتری چابهار را با موفقیت منهدم کردند. این برج بخشی از شبکه نظارت دریایی در امتداد سواحل ایران در دریای عمان بود که سپاه پاسداران انقلاب اسلامی دهه‌ها از آن برای ردیابی و هدف قرار دادن کشتی‌های تجاری عبوری از تنگه هرمز استفاده می‌کرد.انهدام این برج مستقیماً توانایی سپاه پاسداران برای هماهنگی حملات علیه خدمه غیرنظامی بی‌گناه را تضعیف می‌کند. افزون بر این، این حمله از آزادی کشتیرانی در آب‌های منطقه برای همه شناورها محافظت می‌کند، به‌جز کشتی‌هایی که در تلاش‌اند محاصره دریایی جاری آمریکا علیه ایران را نقض کنند.CENTCOMپیش‌تر پیت هگست، وزیر جنگ آمریکا، این تصویر دریافتی رو بدون هیچ توضیحی توییت کرده بود.📡 @VahidOnline",
-    "html": "<b>آمریکا: برج مراقبت چابهار را منهدم کردیم</b><br><br>پست سنتکام ترجمه ماشین:<br>در ۱۶ ژوئیه، نیروهای آمریکایی برج مراقبت بندر شهید کلانتری چابهار را با موفقیت منهدم کردند. این برج بخشی از شبکه نظارت دریایی در امتداد سواحل ایران در دریای عمان بود که سپاه پاسداران انقلاب اسلامی دهه‌ها از آن برای ردیابی و هدف قرار دادن کشتی‌های تجاری عبوری از تنگه هرمز استفاده می‌کرد.<br><br>انهدام این برج مستقیماً توانایی سپاه پاسداران برای هماهنگی حملات علیه خدمه غیرنظامی بی‌گناه را تضعیف می‌کند. افزون بر این، این حمله از آزادی کشتیرانی در آب‌های منطقه برای همه شناورها محافظت می‌کند، به‌جز کشتی‌هایی که در تلاش‌اند محاصره دریایی جاری آمریکا علیه ایران را نقض کنند.<br><a href=\"https://x.com/CENTCOM/status/2078125131847594149\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">CENTCOM</a><br>پیش‌تر پیت هگست، وزیر جنگ آمریکا، <a href=\"https://t.me/VahidOnline/77183\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">این تصویر دریافتی</a> رو بدون هیچ توضیحی<a href=\"https://x.com/PeteHegseth/status/2077956182665302280\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> توییت کرده بود</a>.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
+    "text": "آمریکا: برج مراقبت چابهار را منهدم کردیم چون سپاه...پست سنتکام ترجمه ماشین:در ۱۶ ژوئیه، نیروهای آمریکایی برج مراقبت بندر شهید کلانتری چابهار را با موفقیت منهدم کردند. این برج بخشی از شبکه نظارت دریایی در امتداد سواحل ایران در دریای عمان بود که سپاه پاسداران انقلاب اسلامی دهه‌ها از آن برای ردیابی و هدف قرار دادن کشتی‌های تجاری عبوری از تنگه هرمز استفاده می‌کرد.انهدام این برج مستقیماً توانایی سپاه پاسداران برای هماهنگی حملات علیه خدمه غیرنظامی بی‌گناه را تضعیف می‌کند. افزون بر این، این حمله از آزادی کشتیرانی در آب‌های منطقه برای همه شناورها محافظت می‌کند، به‌جز کشتی‌هایی که در تلاش‌اند محاصره دریایی جاری آمریکا علیه ایران را نقض کنند.CENTCOMپیش‌تر پیت هگست، وزیر جنگ آمریکا، این تصویر دریافتی رو بدون هیچ توضیحی توییت کرده بود.📡 @VahidOnline",
+    "html": "<b>آمریکا: برج مراقبت چابهار را منهدم کردیم چون سپاه</b>...<br><br>پست سنتکام ترجمه ماشین:<br>در ۱۶ ژوئیه، نیروهای آمریکایی برج مراقبت بندر شهید کلانتری چابهار را با موفقیت منهدم کردند. این برج بخشی از شبکه نظارت دریایی در امتداد سواحل ایران در دریای عمان بود که سپاه پاسداران انقلاب اسلامی دهه‌ها از آن برای ردیابی و هدف قرار دادن کشتی‌های تجاری عبوری از تنگه هرمز استفاده می‌کرد.<br><br>انهدام این برج مستقیماً توانایی سپاه پاسداران برای هماهنگی حملات علیه خدمه غیرنظامی بی‌گناه را تضعیف می‌کند. افزون بر این، این حمله از آزادی کشتیرانی در آب‌های منطقه برای همه شناورها محافظت می‌کند، به‌جز کشتی‌هایی که در تلاش‌اند محاصره دریایی جاری آمریکا علیه ایران را نقض کنند.<br><a href=\"https://x.com/CENTCOM/status/2078125131847594149\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">CENTCOM</a><br>پیش‌تر پیت هگست، وزیر جنگ آمریکا، <a href=\"https://t.me/VahidOnline/77183\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">این تصویر دریافتی</a> رو بدون هیچ توضیحی<a href=\"https://x.com/PeteHegseth/status/2077956182665302280\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"> توییت کرده بود</a>.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
     "date": "2026-07-17T14:37:21+00:00",
     "images": [],
     "files": [],
@@ -514,8 +1369,8 @@
   {
     "id": "pm_afshaa/97235",
     "channel": "pm_afshaa",
-    "text": "🔴پاکستان به ایران هشدار داده که اگه به عربستان حمله کنه، اسلام‌آباد اون رو حمله به خودش تلقی میکنه و ممکنه به ایران حمله کنه.😁 @Pm_Afshaa",
-    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>پاکستان به ایران هشدار داده که اگه به عربستان حمله کنه، اسلام‌آباد اون رو حمله به خودش تلقی میکنه و ممکنه به ایران حمله کنه.<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
+    "text": "🔴رویترز: پاکستان به ایران هشدار داده که اگه به عربستان حمله کنه، اسلام‌آباد اون رو حمله به خودش تلقی میکنه و ممکنه به ایران حمله کنه.😁 @Pm_Afshaa",
+    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>رویترز: پاکستان به ایران هشدار داده که اگه به عربستان حمله کنه، اسلام‌آباد اون رو حمله به خودش تلقی میکنه و ممکنه به ایران حمله کنه.<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
     "date": "2026-07-17T14:24:24+00:00",
     "images": [],
     "files": [],
@@ -5059,826 +5914,5 @@
     "files": [],
     "link": "https://t.me/pm_afshaa/97182",
     "timestamp": 1784244782000
-  },
-  {
-    "id": "pm_afshaa/97181",
-    "channel": "pm_afshaa",
-    "text": "شلیک موشک از جم😁 @Pm_Afshaa",
-    "html": "شلیک موشک از جم<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T23:31:39+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97181",
-    "timestamp": 1784244699000
-  },
-  {
-    "id": "newscenter2020/67553",
-    "channel": "newscenter",
-    "text": "🚨 گزارش لحظه ای انفجارها👇https://t.me/+H8BbaWE2Ac80NTBk",
-    "html": "<tg-emoji emoji-id=\"4981038280872035186\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji> گزارش لحظه ای انفجارها<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><br><a href=\"https://t.me/+H8BbaWE2Ac80NTBk\" target=\"_blank\" rel=\"noopener\">https://t.me/+H8BbaWE2Ac80NTBk</a>",
-    "date": "2026-07-16T23:30:41+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/67553",
-    "timestamp": 1784244641000
-  },
-  {
-    "id": "VahidOnline/77171",
-    "channel": "VahidOnline",
-    "text": "پیام‌های دریافتی:سلام موشک از شهرستان جم استان بوشهر فرستادنسلام همین الان از جم موشک بلند شد(۲:۵۶)۵عدد موشک از جم به سمت خلیج ۲/۵۷سلام وحید جان از جم موشک بلند شدسلام همین الان پرتاب موشک از جم 2:57سلام وحیدجان الان ساعت ۲:۵۷ از جم موشک بلند شد نمیدونم به سمت کجاهمین الان ساعت ۲ و ۵۷ دقیقه موشک از جم بلند کردنستاد کل ارتش کویت اعلام کرد سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات موشکی و پهپادی جمهوری اسلامی هستند.ارتش کویت همچنین اعلام کرد صدای انفجارهای شنیده‌شده ناشی از رهگیری اهداف مهاجم توسط سامانه‌های پدافندی است و از شهروندان خواست دستورالعمل‌های ایمنی صادرشده از سوی مقام‌های ذی‌ربط را رعایت کنند.@VahidOOnLine پیش‌تر:وزارت کشور بحرین اعلام کرد آژیرهای هشدار در این کشور به صدا درآمده و از شهروندان و ساکنان خواست آرامش خود را حفظ کرده و به نزدیک‌ترین محل امن بروند.این هشدار در حالی صادر شد که پیش‌تر جمهوری اسلامی اعلام کرده بود پایگاه ناوگان پنجم آمریکا در بحرین را هدف حمله قرار داده است. مقام‌های بحرینی تاکنون درباره علت به صدا درآمدن آژیرها یا وقوع هرگونه حمله جزییات بیشتری منتشر نکرده‌اند.@VahidOOnLine 📡 @VahidOnline",
-    "html": "پیام‌های دریافتی:<br><br>سلام موشک از شهرستان جم استان بوشهر فرستادن<br><br>سلام همین الان از جم موشک بلند شد(۲:۵۶)<br><br>۵عدد موشک از جم به سمت خلیج ۲/۵۷<br><br>سلام وحید جان از جم موشک بلند شد<br><br>سلام همین الان پرتاب موشک از جم 2:57<br><br>سلام وحیدجان الان ساعت ۲:۵۷ از جم موشک بلند شد نمیدونم به سمت کجا<br><br>همین الان ساعت ۲ و ۵۷ دقیقه موشک از جم بلند کردن<br><br><blockquote expandable=\"\">ستاد کل ارتش کویت اعلام کرد سامانه‌های پدافند هوایی این کشور در حال مقابله با حملات موشکی و پهپادی جمهوری اسلامی هستند.<br><br>ارتش کویت همچنین اعلام کرد صدای انفجارهای شنیده‌شده ناشی از رهگیری اهداف مهاجم توسط سامانه‌های پدافندی است و از شهروندان خواست دستورالعمل‌های ایمنی صادرشده از سوی مقام‌های ذی‌ربط را رعایت کنند.<br>@<a href=\"https://t.me/VahidOOnLine/250506\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidOOnLine</a> </blockquote><br>پیش‌تر:<br><blockquote expandable=\"\">وزارت کشور بحرین اعلام کرد آژیرهای هشدار در این کشور به صدا درآمده و از شهروندان و ساکنان خواست آرامش خود را حفظ کرده و به نزدیک‌ترین محل امن بروند.<br><br>این هشدار در حالی صادر شد که پیش‌تر جمهوری اسلامی اعلام کرده بود پایگاه ناوگان پنجم آمریکا در بحرین را هدف حمله قرار داده است. مقام‌های بحرینی تاکنون درباره علت به صدا درآمدن آژیرها یا وقوع هرگونه حمله جزییات بیشتری منتشر نکرده‌اند.<br>@<a href=\"https://t.me/VahidOOnLine/250505\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">VahidOOnLine</a> </blockquote><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-07-16T23:27:57+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/VahidOnline/77171",
-    "timestamp": 1784244477000
-  },
-  {
-    "id": "worldsmoments/102040",
-    "channel": "worldsmoments",
-    "text": "🛑 حمله مجدد جمهوری اسلامی به بحرین.@worldsmoments",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> حمله مجدد جمهوری اسلامی به بحرین.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:27:11+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102040",
-    "timestamp": 1784244431000
-  },
-  {
-    "id": "worldsmoments/102039",
-    "channel": "worldsmoments",
-    "text": "سنتکام اعلام کرد تفنگداران دریایی آمریکا از یگان اعزامی یازدهم نیروی دریایی (11th MEU) در ۱۶ ژوئیه عملیات بازرسی و راستی‌آزمایی (هلی برن)را روی نفتکش M/T Wen Yao در دریای عمان انجام دادند. به گفته سنتکام، تاکنون نیروهای آمریکایی در چارچوب اجرای محاصره دریایی علیه ایران، ۳ کشتی تجاری را که قصد عبور از محاصره را داشتند تغییر مسیر داده‌اند، ۱ کشتی را به دلیل عدم تبعیت از دستورات از کار انداخته‌اند و ۱ کشتی دیگر را نیز برای اطمینان از اجرای کامل این محاصره بازرسی کرده‌اند. سنتکام همچنین مدعی شد تنگه هرمز و آب‌های اطراف آن همچنان برای کشتیرانی آزاد و باز است، به‌جز برای شناورهایی که قصد نقض محاصره دریایی آمریکا علیه ایران را داشته باشند@worldsmoments",
-    "html": "سنتکام اعلام کرد تفنگداران دریایی آمریکا از یگان اعزامی یازدهم نیروی دریایی (11th MEU) در <b>۱۶ ژوئیه</b> عملیات بازرسی و راستی‌آزمایی (هلی برن)را روی نفتکش <b>M/T Wen Yao</b> در دریای عمان انجام دادند. به گفته سنتکام، تاکنون نیروهای آمریکایی در چارچوب اجرای محاصره دریایی علیه ایران، <b>۳ کشتی تجاری</b> را که قصد عبور از محاصره را داشتند تغییر مسیر داده‌اند، <b>۱ کشتی</b> را به دلیل عدم تبعیت از دستورات از کار انداخته‌اند و <b>۱ کشتی دیگر</b> را نیز برای اطمینان از اجرای کامل این محاصره بازرسی کرده‌اند. سنتکام همچنین مدعی شد <b>تنگه هرمز و آب‌های اطراف آن همچنان برای کشتیرانی آزاد و باز است، به‌جز برای شناورهایی که قصد نقض محاصره دریایی آمریکا علیه ایران را داشته باشند</b><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:25:29+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102039",
-    "timestamp": 1784244329000
-  },
-  {
-    "id": "worldsmoments/102038",
-    "channel": "worldsmoments",
-    "text": "بندر یدونه زد ملت نیم متر پریدن@worldsmoments",
-    "html": "بندر یدونه زد ملت نیم متر پریدن<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:25:07+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102038",
-    "timestamp": 1784244307000
-  },
-  {
-    "id": "worldsmoments/102037",
-    "channel": "worldsmoments",
-    "text": "انفجار مجدد در بحرین @worldsmoments",
-    "html": "انفجار مجدد در بحرین <br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:24:45+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102037",
-    "timestamp": 1784244285000
-  },
-  {
-    "id": "IranintlTV/347979",
-    "channel": "IranintlTV",
-    "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | موج تازه حملات ایالات متحده به ایران برای پنجمین شب پیاپی@iranintlTV",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی برنامه با کامبیز حسینی | موج تازه حملات ایالات متحده به ایران برای پنجمین شب پیاپی<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
-    "date": "2026-07-16T23:24:36+00:00",
-    "images": [],
-    "files": [
-      {
-        "name": "برنامه با کامبیز حسینی - ۲۵ تیر",
-        "size": ""
-      }
-    ],
-    "link": "https://t.me/IranintlTV/347979",
-    "timestamp": 1784244276000
-  },
-  {
-    "id": "newscenter2020/67552",
-    "channel": "newscenter",
-    "text": "انفجارهای سنگین در بحرین و کویت🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
-    "html": "انفجارهای سنگین در بحرین و کویت<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-16T23:24:28+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/67552",
-    "timestamp": 1784244268000
-  },
-  {
-    "id": "worldsmoments/102036",
-    "channel": "worldsmoments",
-    "text": "یک مقام آمریکایی به وال‌استریت‌ژورنال :ما پل‌ها و یک پایگاه دریایی که جمهوری اسلامی از آن‌ها برای حمله به کشتی‌ها استفاده می‌کند، را بمباران کردیم.@worldsmoments",
-    "html": "<b>یک مقام آمریکایی به وال‌استریت‌ژورنال</b> :<br><blockquote>ما پل‌ها و یک پایگاه دریایی که جمهوری اسلامی از آن‌ها برای حمله به کشتی‌ها استفاده می‌کند، را بمباران کردیم.<br></blockquote><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:24:17+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102036",
-    "timestamp": 1784244257000
-  },
-  {
-    "id": "worldsmoments/102035",
-    "channel": "worldsmoments",
-    "text": "هواپیما عراقچی در حال خروج از کشور@worldsmoments",
-    "html": "<b>هواپیما عراقچی در حال خروج از کشور</b><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:22:58+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/EUzK5UbAwlzWvMAtBTR-ujQQCT2pHsxfcFSiJ20FWTPK1Uiopv80olURSW-9tJlPBhQa0u7CuHsAlAxGD0YeVNWGhUT3PtWd261crWL7GwVJ65r5G_0C-eP3hrGi0nzc6pm8GbFCCzFDfCKeT62-702Mhwf145d2R4xKWbV7mFWu25mfXx2e29t3T_BXH6ngiWOqciFgD5g-OTxm1Ntpe9g93Y23kCoHL4th0ri4CWeJ2xMbI6MBz2VUeCBjLRv6i7CD_U_ig11FcmPz78hkJ_QGMAk5AYD5Zz4YR__W43ee-5mp2jjnCnj35fhU3qGKdeyaq_QqsEhyRAzrG-98Ww.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102035",
-    "timestamp": 1784244178000
-  },
-  {
-    "id": "IranintlTV/347978",
-    "channel": "IranintlTV",
-    "text": "سازمان حقوق بشری «حال‌وش» با انتشار ویدیوهایی در کانال تلگرام خود از حمله آمریکا به مواضع جمهوری اسلامی در محدوده فرودگاه ایرانشهر در شامگاه پنج‌شنبه ۲۵ تیر خبر داد.به گزارش حال‌وش، در پی این حمله صدای انفجارهای پیاپی در منطقه شنیده شده و شعله‌های آتش و دود غلیظ مشاهده شده است.",
-    "html": "سازمان حقوق بشری «حال‌وش» با انتشار ویدیوهایی در کانال تلگرام خود از حمله آمریکا به مواضع جمهوری اسلامی در محدوده فرودگاه ایرانشهر در شامگاه پنج‌شنبه ۲۵ تیر خبر داد.<br>به گزارش حال‌وش، در پی این حمله صدای انفجارهای پیاپی در منطقه شنیده شده و شعله‌های آتش و دود غلیظ مشاهده شده است.",
-    "date": "2026-07-16T23:21:09+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347978",
-    "timestamp": 1784244069000
-  },
-  {
-    "id": "worldsmoments/102033",
-    "channel": "worldsmoments",
-    "text": "آژانس بین‌المللی انرژی :در صورت تداوم اختلال در عبور نفت و گاز از تنگه هرمز طی هفته‌های آینده، نگرانی‌ها درباره امنیت عرضه جهانی انرژی به‌طور جدی افزایش خواهد یافت.@worldsmoments",
-    "html": "<b>آژانس بین‌المللی انرژی</b> :<br><blockquote>در صورت تداوم اختلال در عبور نفت و گاز از تنگه هرمز طی هفته‌های آینده، نگرانی‌ها درباره امنیت عرضه جهانی انرژی به‌طور جدی افزایش خواهد یافت.<br></blockquote><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:20:38+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102033",
-    "timestamp": 1784244038000
-  },
-  {
-    "id": "worldsmoments/102034",
-    "channel": "worldsmoments",
-    "text": "علاوه بر اینترنت روانمم دچار اختلال شده.@worldsmoments",
-    "html": "علاوه بر اینترنت روانمم دچار اختلال شده.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:20:38+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102034",
-    "timestamp": 1784244038000
-  },
-  {
-    "id": "newscenter2020/67551",
-    "channel": "newscenter",
-    "text": "یک مقام آمریکایی به وال استریت ژورنال تأیید می‌کند: «ما در جریان موج حملات امشب به پل‌ها حمله کردیم. حمله به پل‌ها، تا حدی، با هدف مختل کردن خطوط تدارکاتی به بندرعباس بود که ایران از آن برای حمله به کشتی‌ها استفاده می‌کند.»🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
-    "html": "یک مقام آمریکایی به وال استریت ژورنال تأیید می‌کند: «ما در جریان موج حملات امشب به پل‌ها حمله کردیم. حمله به پل‌ها، تا حدی، با هدف مختل کردن خطوط تدارکاتی به بندرعباس بود که ایران از آن برای حمله به کشتی‌ها استفاده می‌کند.»<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-16T23:20:30+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/67551",
-    "timestamp": 1784244030000
-  },
-  {
-    "id": "worldsmoments/102032",
-    "channel": "worldsmoments",
-    "text": "وزارت انرژی جمهوری اسلامی :به دنبال حملات آمریکا، خطوط انتقال برق در بندرعباس و روستاهای اطراف آسیب دیده‌اند.@worldsmoments",
-    "html": "<b>وزارت انرژی جمهوری اسلامی</b> :<br><blockquote>به دنبال حملات آمریکا، خطوط انتقال برق در بندرعباس و روستاهای اطراف آسیب دیده‌اند.</blockquote><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:20:08+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102032",
-    "timestamp": 1784244008000
-  },
-  {
-    "id": "worldsmoments/102031",
-    "channel": "worldsmoments",
-    "text": "وال استریت ژورنال:حملات هوایی آمریکا به پل‌های ایرانبه نقل از یک مقام آمریکایی، روز پنجشنبه حملات هوایی آمریکا چندین پل در ایران را هدف قرار داد.@worldsmoments",
-    "html": "وال استریت ژورنال:حملات هوایی آمریکا به پل‌های ایران<br>به نقل از یک مقام آمریکایی، روز پنجشنبه حملات هوایی آمریکا چندین پل در ایران را هدف قرار داد.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:20:01+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102031",
-    "timestamp": 1784244001000
-  },
-  {
-    "id": "worldsmoments/102030",
-    "channel": "worldsmoments",
-    "text": "انفجار در بحرین @worldsmoments",
-    "html": "انفجار در بحرین <br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:19:50+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102030",
-    "timestamp": 1784243990000
-  },
-  {
-    "id": "newscenter2020/67550",
-    "channel": "newscenter",
-    "text": "هواپیمای عراقچی نصفه شب کجا میره؟🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
-    "html": "هواپیمای عراقچی نصفه شب کجا میره؟<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-16T23:16:48+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/olELp157zv6foxLrEeVV1c4TttHvsHagOjal_FraPV6fK7GQozyvq6v0H8PG6eZKoGq2SI9AfxaXU_vYPwEXYhHMvK953QA1_sgNArAqYj71zmJADEPanIEg_lpBfrqWl_2zJ5omAzHqsaijmktr_j_U0PVDDqe_vtaMIeCPZZKL6PECUdRAgHuTV2uosrj8ELLExK8PN02aEeeGh4tb4xdtlSbdDckelrVTBkWHxDBUHxZHCvwqrlbj_o9KepyfmCDF1p0dU-vZ8mx8TgWjcNhC9z0H4hdgd6y7egald6o7EVHBvwFCjJsjqJAxbOMjkrPPC8DscKIO5vcJs59J1Q.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/newscenter/67550",
-    "timestamp": 1784243808000
-  },
-  {
-    "id": "pm_afshaa/97180",
-    "channel": "pm_afshaa",
-    "text": "هواپیما عراقچی در حال خروج از کشور 😁 @Pm_Afshaa",
-    "html": "هواپیما عراقچی در حال خروج از کشور <br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T23:14:25+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/Qz-a44qsQGupx82dy-f9rSSME-P82BST8IWI0kITalMlbMlzE86o7YjscmQyOuDhNWJZbcJcYYdeDnxo6mWocQaUVU9n-NtHRm4xbTsmiEeeTefsMze5WIEkFdvnKzcYwe8hzyy1Om4jKOZxsx-Zjh6dZSFXxSJT36TOS81ldi3h7gMOu5xJSLBkEA_N01-r-JW80Ov7oAf7XLgnhJmiZeY719mPHXxzSNT6A03wxbYImYMMn5NslnxoJQEGO_Wyae1W9r5y5CbxIqLlFx7vHdCtmMCFBPOnqCpAH52YGbio-7gMKPk2DbyZg3E5YiMuarduRoy1HxnbrAnzXJA8vw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97180",
-    "timestamp": 1784243665000
-  },
-  {
-    "id": "worldsmoments/102027",
-    "channel": "worldsmoments",
-    "text": "انفجار در بحرین@worldsmoments",
-    "html": "انفجار در بحرین<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:10:23+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102027",
-    "timestamp": 1784243423000
-  },
-  {
-    "id": "pm_afshaa/97179",
-    "channel": "pm_afshaa",
-    "text": "انفجار در بحرین",
-    "html": "انفجار در بحرین",
-    "date": "2026-07-16T23:09:42+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97179",
-    "timestamp": 1784243382000
-  },
-  {
-    "id": "worldsmoments/102026",
-    "channel": "worldsmoments",
-    "text": "معاون استانداری بوشهر: در حملۀ دقایقی پیش به بوشهر چند فروند موشک دشمن آمریکایی به پایگاه هوایی و پایگاه دریایی بوشهر اصابت کرد.@worldsmoments",
-    "html": "معاون استانداری بوشهر: در حملۀ دقایقی پیش به بوشهر چند فروند موشک دشمن آمریکایی به پایگاه هوایی و پایگاه دریایی بوشهر اصابت کرد.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T23:08:50+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102026",
-    "timestamp": 1784243330000
-  },
-  {
-    "id": "IranintlTV/347977",
-    "channel": "IranintlTV",
-    "text": "وزارت خارجه فرانسه اعلام کرد تنها راه کاهش تنش، بازگشت به آتش‌بس و از سرگیری مذاکرات میان حکومت ایران و آمریکا است. پاریس تاکید کرد جمهوری اسلامی با حملات خود توافق آتش‌بس را نقض و زمینه تشدید درگیری‌ها را فراهم کرد.فرانسه همچنین خواستار بازگشایی تنگه هرمز شد و اعلام کرد همراه با عمان و شرکای اروپایی برای تضمین امنیت کشتیرانی و پاکسازی مین‌ها در این آبراه فعالیت می‌کند.وزارت خارجه فرانسه افزود هرگونه توافق احتمالی میان حکومت ایران و آمریکا باید منافع امنیتی اروپا را نیز در نظر بگیرد و بار دیگر حمله به زیرساخت‌های غیرنظامی را مغایر حقوق بین‌الملل دانست.https://iranintl.com/202607164891",
-    "html": "وزارت خارجه فرانسه اعلام کرد تنها راه کاهش تنش، بازگشت به آتش‌بس و از سرگیری مذاکرات میان حکومت ایران و آمریکا است. پاریس تاکید کرد جمهوری اسلامی با حملات خود توافق آتش‌بس را نقض و زمینه تشدید درگیری‌ها را فراهم کرد.<br><br>فرانسه همچنین خواستار بازگشایی تنگه هرمز شد و اعلام کرد همراه با عمان و شرکای اروپایی برای تضمین امنیت کشتیرانی و پاکسازی مین‌ها در این آبراه فعالیت می‌کند.<br><br>وزارت خارجه فرانسه افزود هرگونه توافق احتمالی میان حکومت ایران و آمریکا باید منافع امنیتی اروپا را نیز در نظر بگیرد و بار دیگر حمله به زیرساخت‌های غیرنظامی را مغایر حقوق بین‌الملل دانست.<br><a href=\"https://iranintl.com/202607164891\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607164891</a>",
-    "date": "2026-07-16T23:06:45+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/JqjgtQC2nPsFBwlcSxawoBBMob_eIf1wm4tNmcq7UkKF3xCgPajKi_f0xswgLhfVtom56lZRBkNfEDWB7YsvbVzoFfD7cqd-mQVAFY-_PfTWw-dbN4DhdhpO8ddjf9lw1FIQgw8VmNsTncgMxnCKGh3CyklrUBEUB0aXTiSufZIdy7umnWq9jtRahUqpQoFRoXusyXP1LYas2ch7vB7DNLbTngiJxezm6tVNjXM8oaNsfhcK3w1CzHzX-GZvj-KCTZLH7nFd1jgsGreQbZKFObsB26H-Dg4cPrDIdBBJkuh8d43q8dGrAbKSCLNXZz6mBqzt3c9nynOz9HBYu9-AvQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347977",
-    "timestamp": 1784243205000
-  },
-  {
-    "id": "pm_afshaa/97178",
-    "channel": "pm_afshaa",
-    "text": "پایگاه دریایی بوشهر 😁 @Pm_Afshaa",
-    "html": "پایگاه دریایی بوشهر <br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T23:05:22+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/DMhmYTJihymMmkDbGsg4h7W5ENNzkSC4AYA7q2E1MUwSYKztu0gpGgnzLx9DkQczhQCOsP8vlAPYjfq3I4sp8aFWUQqmYvrY_BgRIo7CNxUqKBLWBUop4yN4Szaw2E_9Iiv7URBHCl1UwkjrCJd9oKBbTOjVfNj0XBLuUOVMJTAdJes6E1zRvMCv6ihujQGijuYlODLb08jazBX2XdQjCJbarDAV4OO0cwVO4f3bdSAwgTggS1Ww0JENfhzPLpxQ_a76nJ5YNrR3OeAsm9UhcLdZYecmxHyIIgslTof47h9Ck-6fQl03dOi4yBJ8ABQLr1crQ3k1ruTNX-3crZberA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97178",
-    "timestamp": 1784243122000
-  },
-  {
-    "id": "worldsmoments/102019",
-    "channel": "worldsmoments",
-    "text": "فعال شدن پدافند در منطقه ارم شیراز@worldsmoments",
-    "html": "<b>فعال شدن پدافند در منطقه ارم شیراز</b><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:56:03+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102019",
-    "timestamp": 1784242563000
-  },
-  {
-    "id": "worldsmoments/102018",
-    "channel": "worldsmoments",
-    "text": "🚨 دقایقی پیش، پرتاب موشک‌های بالستیک از کرمانشاه انجام شد که هدف آن‌ها تجهیزات نظامی آمریکا در کویت بود. این عملیات با استفاده از پهپادهای شاهد-136 ایرانی همراه بود.@worldsmoments",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i> دقایقی پیش، پرتاب موشک‌های بالستیک از کرمانشاه انجام شد که هدف آن‌ها تجهیزات نظامی آمریکا در کویت بود. این عملیات با استفاده از پهپادهای شاهد-136 ایرانی همراه بود.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:55:44+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102018",
-    "timestamp": 1784242544000
-  },
-  {
-    "id": "IranintlTV/347976",
-    "channel": "IranintlTV",
-    "text": "بنا بر ویدیوی رسیده به ایران‌اینترنشنال، پل بندرعباس-کهورستان-لار، مسیر ارتباطی مهم میان بندرعباس و شیراز، روز پنج‌شنبه در حمله هوایی آمریکا در جنوب ایران هدف قرار گرفت.@iranintltv",
-    "html": "بنا بر ویدیوی رسیده به ایران‌اینترنشنال، پل بندرعباس-کهورستان-لار، مسیر ارتباطی مهم میان بندرعباس و شیراز، روز پنج‌شنبه در حمله هوایی آمریکا در جنوب ایران هدف قرار گرفت.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-16T22:55:42+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347976",
-    "timestamp": 1784242542000
-  },
-  {
-    "id": "IranintlTV/347975",
-    "channel": "IranintlTV",
-    "text": "وبسایت وای‌نت گزارش داد دولت مالزی اعلام کرده هر شهروند اسرائیلی که در این کشور شناسایی شود، فورا اخراج خواهد شد. عرفان قانعی‌فرد، تحلیل‌گر خاورمیانه، می‌گوید این تصمیم بیش از آنکه امنیتی باشد، اقدامی سیاسی برای مصرف داخلی و جلب حمایت جریان‌های اسلام‌گراست.@iranintltv",
-    "html": "وبسایت وای‌نت گزارش داد دولت مالزی اعلام کرده هر شهروند اسرائیلی که در این کشور شناسایی شود، فورا اخراج خواهد شد. عرفان قانعی‌فرد، تحلیل‌گر خاورمیانه، می‌گوید این تصمیم بیش از آنکه امنیتی باشد، اقدامی سیاسی برای مصرف داخلی و جلب حمایت جریان‌های اسلام‌گراست.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-16T22:55:34+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347975",
-    "timestamp": 1784242534000
-  },
-  {
-    "id": "IranintlTV/347974",
-    "channel": "IranintlTV",
-    "text": "دلار آمریکا روز پنج‌شنبه در برابر ارزهای اصلی تقویت شد؛ زیرا سرمایه‌گذاران با تشدید درگیری میان آمریکا و ایران، بار دیگر به این ارز به عنوان دارایی امن روی آوردند.قیمت نفت، با وجود کاهش ۰.۸ درصدی به ۸۴.۲۹ دلار برای هر بشکه، همچنان نزدیک به بالاترین سطح خود از اواسط ژوئن باقی ماند. نگرانی‌ها درباره عرضه انرژی پس از تشدید تنش‌ها میان آمریکا و ایران و درخواست تهران از حوثی‌های یمن برای آمادگی به منظور مختل کردن کشتیرانی در دریای سرخ، از عوامل حمایت‌کننده قیمت نفت عنوان شده است.شاخص دلار ۰.۳۱ درصد افزایش یافت و به ۱۰۰.۷۶ رسید، در حالی که یورو و پوند در برابر دلار تضعیف شدند. تحلیلگران می‌گویند وابستگی کمتر اقتصاد آمریکا به شوک‌های انرژی، در دوره‌های افزایش قیمت نفت، موجب تقویت جایگاه دلار به عنوان دارایی امن می‌شود.https://iranintl.com/202607163695",
-    "html": "دلار آمریکا روز پنج‌شنبه در برابر ارزهای اصلی تقویت شد؛ زیرا سرمایه‌گذاران با تشدید درگیری میان آمریکا و ایران، بار دیگر به این ارز به عنوان دارایی امن روی آوردند.<br><br>قیمت نفت، با وجود کاهش ۰.۸ درصدی به ۸۴.۲۹ دلار برای هر بشکه، همچنان نزدیک به بالاترین سطح خود از اواسط ژوئن باقی ماند. نگرانی‌ها درباره عرضه انرژی پس از تشدید تنش‌ها میان آمریکا و ایران و درخواست تهران از حوثی‌های یمن برای آمادگی به منظور مختل کردن کشتیرانی در دریای سرخ، از عوامل حمایت‌کننده قیمت نفت عنوان شده است.<br><br>شاخص دلار ۰.۳۱ درصد افزایش یافت و به ۱۰۰.۷۶ رسید، در حالی که یورو و پوند در برابر دلار تضعیف شدند. تحلیلگران می‌گویند وابستگی کمتر اقتصاد آمریکا به شوک‌های انرژی، در دوره‌های افزایش قیمت نفت، موجب تقویت جایگاه دلار به عنوان دارایی امن می‌شود.<br><a href=\"https://iranintl.com/202607163695\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607163695</a>",
-    "date": "2026-07-16T22:55:27+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/i-oY9C5-ekJAudTYIVIoHgGsZPrnWaaYFa0KCXOhjQS0A7tSvHJ02I5wq77lJ7pIEp_G8J3mpmm81NHePnUPW3-2NO3usPJmLiaOn_hNyioDecVdWqQtULpsrkE-4ROMG_JN0gqaMCKesKl0px9nNdFhs6aGtv0zK_Ha-eVMw5NeNYrctfVxFxAL245JGbpt3b5MavMonfJOqYfa0EYFnPTJFtiACxcZQM8-gd3n5clEEJqlS3BidAqP7T8qFf8Z1OH0KyaiMGhKZF-zF8rYjVf0SE_CfOoR8HRCeRuyf14PC2olM7kKPgMLLD041UyqS5qo9WOA2YwYancN7vsCLA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347974",
-    "timestamp": 1784242527000
-  },
-  {
-    "id": "worldsmoments/102017",
-    "channel": "worldsmoments",
-    "text": "ترامپ : هفته آینده خاورمیانه تغییر خواهد کرد و همه باید برای آن آماده باشند.@worldsmoments",
-    "html": "<b>ترامپ</b> : <b>هفته آینده خاورمیانه تغییر خواهد کرد و همه باید برای آن آماده باشند.</b><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:53:54+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102017",
-    "timestamp": 1784242434000
-  },
-  {
-    "id": "pm_afshaa/97177",
-    "channel": "pm_afshaa",
-    "text": "خبر رسید امتحانات نهایی تعویق خوردن و لغو شدن⭕️⭕️⭕️",
-    "html": "خبر رسید امتحانات نهایی تعویق خوردن و لغو شدن<tg-emoji emoji-id=\"6051102899902094178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><tg-emoji emoji-id=\"5764649398965379089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji><tg-emoji emoji-id=\"5765013706681360005\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i></tg-emoji>",
-    "date": "2026-07-16T22:53:39+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97177",
-    "timestamp": 1784242419000
-  },
-  {
-    "id": "worldsmoments/102016",
-    "channel": "worldsmoments",
-    "text": "🚨 گزارش اولیه از انفجار در شیراز تایید نمیشهصدا شنیدید؟@worldsmoments",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i> گزارش اولیه از انفجار در شیراز تایید نمیشه<br>صدا شنیدید؟<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:52:15+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102016",
-    "timestamp": 1784242335000
-  },
-  {
-    "id": "worldsmoments/102015",
-    "channel": "worldsmoments",
-    "text": "حملات به بوشهر هم تشدید شده و حتی میگن پل‌های اونجا رو هم دارن می‌زنن ‼️@worldsmoments",
-    "html": "<b>حملات به بوشهر هم تشدید شده و حتی میگن پل‌های اونجا رو هم دارن می‌زنن</b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:50:47+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102015",
-    "timestamp": 1784242247000
-  },
-  {
-    "id": "newscenter2020/67549",
-    "channel": "newscenter",
-    "text": "🚨 گزارش لحظه ای انفجارها👇https://t.me/+H8BbaWE2Ac80NTBk",
-    "html": "<tg-emoji emoji-id=\"4981038280872035186\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji> گزارش لحظه ای انفجارها<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><br><a href=\"https://t.me/+H8BbaWE2Ac80NTBk\" target=\"_blank\" rel=\"noopener\">https://t.me/+H8BbaWE2Ac80NTBk</a>",
-    "date": "2026-07-16T22:50:02+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/67549",
-    "timestamp": 1784242202000
-  },
-  {
-    "id": "IranintlTV/347973",
-    "channel": "IranintlTV",
-    "text": "جنوب ایران نکند جنوب لبنان شود!کارزار اعزام جبهه پایداری به جبهه‌های نور علیه باطل!از پشت تریبون، جنگ همیشه ساده‌تر به نظر می‌رسد. اما حالا هزاران نفر خواستار اعزام اعضای جبهه پایداری به جنوب ایران شده‌اند؛ همان‌جایی که مردم هر روز با صدای انفجار، قطعی برق و نگرانی زندگی می‌کنند.به نظر شما این مطالبه مردمی چه پاسخی خواهد گرفت؟کامبیز حسینی در «برنامه» به این موضوع می پردازد.«یک ایران صدای شما را می‌شنود»دوشنبه تا پنجشنبه ۱۱ شب تهراناز تلویزیون ایران اینترنشنالتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:https://youtu.be/EXe7aFyEKI4@iranintltv",
-    "html": "جنوب ایران نکند جنوب لبنان شود!<br>کارزار اعزام جبهه پایداری به جبهه‌های نور علیه باطل!<br><br>از پشت تریبون، جنگ همیشه ساده‌تر به نظر می‌رسد. اما حالا هزاران نفر خواستار اعزام اعضای جبهه پایداری به جنوب ایران شده‌اند؛ همان‌جایی که مردم هر روز با صدای انفجار، قطعی برق و نگرانی زندگی می‌کنند.<br><br>به نظر شما این مطالبه مردمی چه پاسخی خواهد گرفت؟<br><br>کامبیز حسینی در «برنامه» به این موضوع می پردازد.<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/EXe7aFyEKI4\" target=\"_blank\" rel=\"noopener\">https://youtu.be/EXe7aFyEKI4</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-16T22:49:53+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347973",
-    "timestamp": 1784242193000
-  },
-  {
-    "id": "IranintlTV/347972",
-    "channel": "IranintlTV",
-    "text": "فاتح بیرول، مدیر اجرایی آژانس بین‌المللی انرژی، هشدار داد اگر وضعیت عبور و مرور در تنگه هرمز و جنگ ایران در هفته‌های آینده بهبود نیابد، باید درباره امنیت عرضه نفت و گاز در سطح جهانی نگران بود.https://iranintl.com/202607160872",
-    "html": "فاتح بیرول، مدیر اجرایی آژانس بین‌المللی انرژی، هشدار داد اگر وضعیت عبور و مرور در تنگه هرمز و جنگ ایران در هفته‌های آینده بهبود نیابد، باید درباره امنیت عرضه نفت و گاز در سطح جهانی نگران بود.<br><a href=\"https://iranintl.com/202607160872\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607160872</a>",
-    "date": "2026-07-16T22:49:50+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/RSDZKzvvPTqfROURzMSQdX44nM1HDYaQwOryrq-5w56_C-VBslLCwOC7cqqNg9FrA2l-vjqMhmqFN886XhRL8XRBB3n7lRkip0pnB4h_twfcEDJLd59cX0QNgszn7cBR5i-ZMnEGNrr-s0uxIHb09FFw_5-n7oS8A-FUAzAI7HeNyhBom-cPBei9YHzTDNyPDwD5pdhBeOVRQJHWlAoofDgA7Z_lY02v-xHbmFzYFjgugGQQaRKraX0HqQiNeM25ASo67ayDpvpys5qSJxDxZ_6MdjYq9M8SLarZ6Tv5jY8PrLkjyDr8nd56Ke4fqwHnii7reTo4N2URhgT9pysOkA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347972",
-    "timestamp": 1784242190000
-  },
-  {
-    "id": "worldsmoments/102014",
-    "channel": "worldsmoments",
-    "text": "گزارش : شهرکرد صدا پدافند میاد انگار با تیر پهباد میزنن@worldsmoments",
-    "html": "گزارش : شهرکرد صدا پدافند میاد انگار با تیر پهباد میزنن<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:49:37+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102014",
-    "timestamp": 1784242177000
-  },
-  {
-    "id": "pm_afshaa/97176",
-    "channel": "pm_afshaa",
-    "text": "انفجار در خورموج بوشهر😁 @Pm_Afshaa",
-    "html": "انفجار در خورموج بوشهر<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T22:49:00+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97176",
-    "timestamp": 1784242140000
-  },
-  {
-    "id": "pm_afshaa/97175",
-    "channel": "pm_afshaa",
-    "text": "انفجار در بوشهر😁 @Pm_Afshaa",
-    "html": "انفجار در بوشهر<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T22:47:40+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97175",
-    "timestamp": 1784242060000
-  },
-  {
-    "id": "pm_afshaa/97174",
-    "channel": "pm_afshaa",
-    "text": "هگست وزیر جنگ امریکا: تنگه هرمز که هیچ اونا رو ریدنشونم کنترل ندارن😁 @Pm_Afshaa",
-    "html": "هگست وزیر جنگ امریکا: تنگه هرمز که هیچ اونا رو ریدنشونم کنترل ندارن<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T22:46:32+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97174",
-    "timestamp": 1784241992000
-  },
-  {
-    "id": "pm_afshaa/97173",
-    "channel": "pm_afshaa",
-    "text": "",
-    "html": "",
-    "date": "2026-07-16T22:45:29+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97173",
-    "timestamp": 1784241929000
-  },
-  {
-    "id": "worldsmoments/102013",
-    "channel": "worldsmoments",
-    "text": "پل جم سیراف مورد اصابت قرار گرفت@worldsmoments",
-    "html": "پل جم سیراف مورد اصابت قرار گرفت<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:44:24+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102013",
-    "timestamp": 1784241864000
-  },
-  {
-    "id": "worldsmoments/102012",
-    "channel": "worldsmoments",
-    "text": "🔴صدای انفجار در بوشهر@worldsmoments",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i>صدای انفجار در بوشهر<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:41:03+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102012",
-    "timestamp": 1784241663000
-  },
-  {
-    "id": "Dirty_Kids/394782",
-    "channel": "dirty_kids",
-    "text": "😤میخوای از پیش بینی فوتبال و شرط بندی پول دربیاری ؟!⚠️پس همین الان وارد کانال عمو بت باز شوچون بهت اموزش میده چطور پول دربیاری❗️💖اینجا میتونی روزانه درامد داشته باشی و سرمایت چندبرابر کنی پس از دستش نده و عضو شو امار سوداش چک‌کن😍👍عمو قدیمی کاره و خاک این کارو‌خورده کنارش باش و حرفه ای پول دربیار💵A25👍ادرس عضویت کانال vip:https://telegram.me/+S4-Z7foxZ7k2Yjk0https://telegram.me/+S4-Z7foxZ7k2Yjk0",
-    "html": "<tg-emoji emoji-id=\"4979249740525864097\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98A4.png')\"><b>😤</b></i></tg-emoji><b>میخوای از پیش بینی فوتبال و شرط بندی پول دربیاری ؟!</b><br><br><tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji>پس همین الان وارد کانال <b>عمو بت باز</b> شو<br>چون بهت اموزش میده چطور پول دربیاری<tg-emoji emoji-id=\"5274099962655816924\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5339156940389887325\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9296.png')\"><b>💖</b></i></tg-emoji>اینجا میتونی روزانه درامد داشته باشی و سرمایت چندبرابر کنی پس از دستش نده و عضو شو امار سوداش چک‌کن<tg-emoji emoji-id=\"5278234122081285421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i></tg-emoji><br><br><tg-emoji emoji-id=\"5337080053119336309\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji>عمو قدیمی کاره و خاک این کارو‌خورده کنارش باش و حرفه ای پول دربیار<tg-emoji emoji-id=\"5197434882321567830\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji><br>A25<br><tg-emoji emoji-id=\"5127470543674540818\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji>ادرس عضویت کانال vip:<br><a href=\"https://telegram.me/+S4-Z7foxZ7k2Yjk0\" target=\"_blank\" rel=\"noopener\">https://telegram.me/+S4-Z7foxZ7k2Yjk0</a><br><a href=\"https://telegram.me/+S4-Z7foxZ7k2Yjk0\" target=\"_blank\" rel=\"noopener\">https://telegram.me/+S4-Z7foxZ7k2Yjk0</a>",
-    "date": "2026-07-16T22:36:55+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394782",
-    "timestamp": 1784241415000
-  },
-  {
-    "id": "Dirty_Kids/394783",
-    "channel": "dirty_kids",
-    "text": "😤میخوای از پیش بینی فوتبال و شرط بندی پول دربیاری ؟!  ⚠️پس همین الان وارد کانال عمو بت باز شو چون بهت اموزش میده چطور پول دربیاری❗️  💖اینجا میتونی روزانه درامد داشته باشی و سرمایت چندبرابر کنی پس از دستش نده و عضو شو امار سوداش چک‌کن😍  👍عمو قدیمی کاره و خاک…این شبا جام جهانی بازی خوبی داره واسه سود گرفتن همین حالا عضو شو و از دست نده سود این شبا🔈https://telegram.me/+S4-Z7foxZ7k2Yjk0",
-    "html": "<tg-emoji emoji-id=\"4979249740525864097\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98A4.png')\"><b>😤</b></i></tg-emoji>میخوای از پیش بینی فوتبال و شرط بندی پول دربیاری ؟!  <tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji>پس همین الان وارد کانال عمو بت باز شو چون بهت اموزش میده چطور پول دربیاری<tg-emoji emoji-id=\"5274099962655816924\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>  <tg-emoji emoji-id=\"5339156940389887325\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9296.png')\"><b>💖</b></i></tg-emoji>اینجا میتونی روزانه درامد داشته باشی و سرمایت چندبرابر کنی پس از دستش نده و عضو شو امار سوداش چک‌کن<tg-emoji emoji-id=\"5278234122081285421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i></tg-emoji>  <tg-emoji emoji-id=\"5337080053119336309\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F918D.png')\"><b>👍</b></i></tg-emoji>عمو قدیمی کاره و خاک…",
-    "date": "2026-07-16T22:36:55+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394783",
-    "timestamp": 1784241415000
-  },
-  {
-    "id": "Dirty_Kids/394781",
-    "channel": "dirty_kids",
-    "text": "#بخوابیم@Dirty_Kids 👻",
-    "html": "<a href=\"?q=%23%D8%A8%D8%AE%D9%88%D8%A7%D8%A8%DB%8C%D9%85\">#بخوابیم</a><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-16T22:36:42+00:00",
-    "images": [
-      "https://cdn1.telesco.pe/file/As8Z8AjNLYYKXCTOGEyhZjBkrE5rlMg8Ik2nFaTS_T1pJTmrQiK9h02zqxLFIKMWkrKZrAlNoc9ca6x8Ven3jD5GmisoWrj1kV7EoaFCgUVJ-TGEJPsSR-D13jrOe2bgZ3Q0UY4OOgcaLcPUMQwNexLVHFs9PxC0hgSUi1nRWr8tEl6S-VFM3l0ajuHkUI7kqQDbs9DRKrynWOatZmqWra6wxYSZJIqKEClJolW0iwZwSKKA9_hW7fZIQQwoGPhdIbA0AXkqYr7JDj7aAqHz_gj06ogQMqTj2se5nS6Q61XAZJgvt-VgnOkwBkm9_-ficqzJgmvOdOy-aChTW6QIIw.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394781",
-    "timestamp": 1784241402000
-  },
-  {
-    "id": "Dirty_Kids/394780",
-    "channel": "dirty_kids",
-    "text": "خیلی تاثیرگذار بود@Dirty_Kids 👻",
-    "html": "خیلی تاثیرگذار بود<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-16T22:36:32+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394780",
-    "timestamp": 1784241392000
-  },
-  {
-    "id": "Dirty_Kids/394779",
-    "channel": "dirty_kids",
-    "text": "هر وقت دیدین انگشت اتهامتون سمت کسی غیر از جمهوری اسهالیه،  بدونید که پریدید بغل اخوند! 🤷🏻‍♀️I said what I said@Dirty_Kids 👻",
-    "html": "هر وقت دیدین انگشت اتهامتون سمت کسی غیر از جمهوری اسهالیه،  بدونید که پریدید بغل اخوند! <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4B7F09F8FBBE2808DE29980.png')\"><b>🤷🏻‍♀️</b></i><br><br>I said what I said<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-16T22:36:18+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394779",
-    "timestamp": 1784241378000
-  },
-  {
-    "id": "Dirty_Kids/394778",
-    "channel": "dirty_kids",
-    "text": "🔴معاون استانداری بوشهر: در حملۀ دقایقی پیش به بوشهر چند فروند موشک دشمن آمریکایی به پایگاه هوایی و پایگاه دریایی بوشهر اصابت کرد.🔴به بندر لنگه هم حمله شدش@Dirty_Kids 👻",
-    "html": "<tg-emoji emoji-id=\"5332667755906743671\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>معاون استانداری بوشهر: در حملۀ دقایقی پیش به بوشهر چند فروند موشک دشمن آمریکایی به پایگاه هوایی و پایگاه دریایی بوشهر اصابت کرد.<br><br><br><tg-emoji emoji-id=\"5332667755906743671\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji><b>به بندر لنگه</b> هم حمله شدش<br><br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-16T22:35:47+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394778",
-    "timestamp": 1784241347000
-  },
-  {
-    "id": "IranintlTV/347971",
-    "channel": "IranintlTV",
-    "text": "سنتکام خبر داد نیروهای آمریکایی شامگاه پنج‌شنبه به وقت ایران دور تازه حملات به مواضع جمهوری اسلامی را آغاز کردند. ارتش آمریکا اعلام کرد این حملات برای پنجمین شب پیاپی و با هدف تضعیف بیشتر توانایی‌های نظامی جمهوری اسلامی انجام می‌شود. گزارش امیر گیتی، خبرنگار ایران‌اینترنشنال@iranintltv",
-    "html": "سنتکام خبر داد نیروهای آمریکایی شامگاه پنج‌شنبه به وقت ایران دور تازه حملات به مواضع جمهوری اسلامی را آغاز کردند. ارتش آمریکا اعلام کرد این حملات برای پنجمین شب پیاپی و با هدف تضعیف بیشتر توانایی‌های نظامی جمهوری اسلامی انجام می‌شود. <br><br>گزارش امیر گیتی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-16T22:35:08+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347971",
-    "timestamp": 1784241308000
-  },
-  {
-    "id": "pm_afshaa/97172",
-    "channel": "pm_afshaa",
-    "text": "گزارش ها از انفجار در کویت😁 @Pm_Afshaa",
-    "html": "گزارش ها از انفجار در کویت<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T22:33:04+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97172",
-    "timestamp": 1784241184000
-  },
-  {
-    "id": "VahidOnline/77170",
-    "channel": "VahidOnline",
-    "text": "منابع حکومتی به نقل از استانداری هرمزگان:در ساعت ۰۱:۳۰ نقاطی در حوالی بندرلنگه مورد حمله آمریکا قرار گرفت.📡 @VahidOnline",
-    "html": "منابع حکومتی به نقل از استانداری هرمزگان:<br>در ساعت ۰۱:۳۰ نقاطی در حوالی بندرلنگه مورد حمله آمریکا قرار گرفت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A1.png')\"><b>📡</b></i> <a href=\"https://t.me/VahidOnline\" target=\"_blank\">@VahidOnline</a>",
-    "date": "2026-07-16T22:32:25+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/ZjLZfW4ZRMBRWDdPypoVkipcR50AhBB7DSppeRueQcIBtlB4rGoQA-OLQ2qUkrKqzM85hsExtIfjRAjjVoow4ISq6hoKLeYCbcvL0U3W-n2u5XClllVpDLsxQB--nCJUKHqMFsJGLakEqyiHiJDtLqxi9v_F6Gtl9VsmdxzUb0NqMkWO2wdSRwHZDnrFVshr7KgrTViI7_pjbvLn4MperWZiuP87oU--RZMA2seL5lxRsS6iIvCUzF-8MiGdas0WsLrvcgzAK6cTrM0P_FdlNbEPS91EPH7HxXfnL6TuP8mEgFMTLzmfAdmz1sRy4HF5cmhD03ktBzVoTloUQ1OjhQ.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/VahidOnline/77170",
-    "timestamp": 1784241145000
-  },
-  {
-    "id": "pm_afshaa/97171",
-    "channel": "pm_afshaa",
-    "text": "انگار پل ارتباطی جم سیرافو زدن",
-    "html": "انگار پل ارتباطی جم سیرافو زدن",
-    "date": "2026-07-16T22:31:36+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97171",
-    "timestamp": 1784241096000
-  },
-  {
-    "id": "IranintlTV/347970",
-    "channel": "IranintlTV",
-    "text": "گردان «العمالقه الجنوبیة» یمن، وابسته به ارتش این کشور، با انتشار ویدیویی در شبکه اجتماعی ایکس از کشف و توقیف یک محموله تخصصی شامل مواد و تجهیزات مورد استفاده در تولید تسلیحات در منطقه باب‌المندب خبر داد.به گفته این نیروها، این محموله که روز سه‌شنبه ۲۳ تیر توقیف شده بود، در حال انتقال تجهیزات برای شبه‌نظامیان حوثی در استان الحدیده بود.بر اساس اطلاعیه این گردان، محموله شامل دستگاه‌هایی برای ساخت پهپادها و بدنه راکت‌ها، قطعات موتور جت، قطعات یدکی و تجهیزات خمپاره‌اندازها و سلاح‌های تک‌تیرانداز، دستگاه‌های دقیق اندازه‌گیری و همچنین تجهیزات حفاری تونل، بالابرها و پرس‌های هیدرولیک مورد استفاده در صنایع نظامی بوده است.@iranintltv",
-    "html": "گردان «العمالقه الجنوبیة» یمن، وابسته به ارتش این کشور، با انتشار ویدیویی در شبکه اجتماعی ایکس از کشف و توقیف یک محموله تخصصی شامل مواد و تجهیزات مورد استفاده در تولید تسلیحات در منطقه باب‌المندب خبر داد.<br><br>به گفته این نیروها، این محموله که روز سه‌شنبه ۲۳ تیر توقیف شده بود، در حال انتقال تجهیزات برای شبه‌نظامیان حوثی در استان الحدیده بود.<br><br>بر اساس اطلاعیه این گردان، محموله شامل دستگاه‌هایی برای ساخت پهپادها و بدنه راکت‌ها، قطعات موتور جت، قطعات یدکی و تجهیزات خمپاره‌اندازها و سلاح‌های تک‌تیرانداز، دستگاه‌های دقیق اندازه‌گیری و همچنین تجهیزات حفاری تونل، بالابرها و پرس‌های هیدرولیک مورد استفاده در صنایع نظامی بوده است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-    "date": "2026-07-16T22:31:23+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347970",
-    "timestamp": 1784241083000
-  },
-  {
-    "id": "pm_afshaa/97170",
-    "channel": "pm_afshaa",
-    "text": "بندرعباس مردم اومدن تو خیابون😁 @Pm_Afshaa",
-    "html": "بندرعباس مردم اومدن تو خیابون<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T22:29:02+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97170",
-    "timestamp": 1784240942000
-  },
-  {
-    "id": "pm_afshaa/97169",
-    "channel": "pm_afshaa",
-    "text": "میکسمون عالی برد شد ✅💵✈️@Bet_Giantss",
-    "html": "<b>میکسمون عالی برد شد&nbsp;</b><b><tg-emoji emoji-id=\"5427009714745517609\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><tg-emoji emoji-id=\"5409048419211682843\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B5.png')\"><b>💵</b></i></tg-emoji></b><br><b><tg-emoji emoji-id=\"5454365533979825405\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji></b><a href=\"https://t.me/Bet_Giantss\" target=\"_blank\">@Bet_Giantss</a>",
-    "date": "2026-07-16T22:28:39+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/sW3NOY7qdgHi0M-QGsLl4xmsxs2gKihMpneClyIrLv3x1H5xKieBIQSqV3zAwOL8JBCRc7j7J-vThsOs83idHMirc0Hk6NDLn25jb_cPRaqh5h0BFpQ6fRzaopQ8X6i83rhuMAPHmYBj0c6mAX92hBoro9KZQTrsLGtvPhiEGOhDUQiO71dtoPwzerKyOkFgnpGnpfAW3RJegGNRNPykD_Rqx67Y70u_79k4LSqhLrIyJzGM5JdKssljTX14HmJw5-JtcxM7FhmBTvGZGIayQs0BQkSF4xDlGMIKkIPPijYBH1vZfEKLj7U1RnHd_aC87Pv0O5ORbjh0u3hq3oBlhA.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97169",
-    "timestamp": 1784240919000
-  },
-  {
-    "id": "pm_afshaa/97168",
-    "channel": "pm_afshaa",
-    "text": "پاکستان به جمهوری اسلامی هشدار داده که هرگونه حمله به عربستان سعودی، به عنوان یک حمله به خود پاکستان تلقی خواهد شد😁 @Pm_Afshaa",
-    "html": "پاکستان به جمهوری اسلامی هشدار داده که هرگونه حمله به عربستان سعودی، به عنوان یک حمله به خود پاکستان تلقی خواهد شد<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T22:27:08+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97168",
-    "timestamp": 1784240828000
-  },
-  {
-    "id": "pm_afshaa/97167",
-    "channel": "pm_afshaa",
-    "text": "پرتاب موشک از کرمانشاه",
-    "html": "پرتاب موشک از کرمانشاه",
-    "date": "2026-07-16T22:26:19+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97167",
-    "timestamp": 1784240779000
-  },
-  {
-    "id": "worldsmoments/102011",
-    "channel": "worldsmoments",
-    "text": "طبق گفته کاربران ، حمله موشکی و پهپادی سپاه از کرمانشاه@worldsmoments",
-    "html": "طبق گفته کاربران ، حمله موشکی و پهپادی سپاه از کرمانشاه<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:25:17+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102011",
-    "timestamp": 1784240717000
-  },
-  {
-    "id": "worldsmoments/102010",
-    "channel": "worldsmoments",
-    "text": "‼️ گزارش انفجار در خرم‌آباد و کرمانشاهتایید میشه؟@worldsmoments",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i> گزارش انفجار در خرم‌آباد و کرمانشاه<br>تایید میشه؟<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:22:59+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102010",
-    "timestamp": 1784240579000
-  },
-  {
-    "id": "Dirty_Kids/394777",
-    "channel": "dirty_kids",
-    "text": "از دقایقی قبل در بوشهر، بندرلنگه و شهر چگنی در لرستان نیز حملات و انفجارهایی رخ داده است.@Dirty_Kids 👻",
-    "html": "از دقایقی قبل در بوشهر، بندرلنگه و شهر چگنی در لرستان نیز حملات و انفجارهایی رخ داده است.<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-16T22:22:56+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/JNAVVP_OU-PX9ZDKuqmuwspPSyS9MijxKLtKenLAtxge-yLK2P7fUnshXOmEZFxslJkn-69HI8J27mbCr6UyARblmSg_oWmDhnI3ykLZvnwB4IeO85xBb8g0Vtr4xLLZR1JUNF32waMReZMWXPKEW9gG4sD-7bYYCD3in7KQ2urwKPxF63yeDlLh57W-h92bqbx2BQLGFlMB6oFYJbxe_LdBwS322eRlV8GdskGQYqVBPjlqVFkDNalG0zQYDo-2I5J8-DEWuC6at7UeBvJ_ofrv1D3sXQ6pkrLFSartImEiZ7Y43zAr4wTky1f-IRM0x0hXh01UlyisEglZeYVfDg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394777",
-    "timestamp": 1784240576000
-  },
-  {
-    "id": "worldsmoments/102009",
-    "channel": "worldsmoments",
-    "text": "استانداری بوشهر : در حملۀ دقایقی پیش به بوشهر چند موشک به پایگاه‌های هوایی و پایگاه دریایی بوشهر اصابت کرد.@worldsmoments",
-    "html": "<b>استانداری بوشهر</b> : در حملۀ دقایقی پیش به بوشهر چند موشک به پایگاه‌های هوایی و پایگاه دریایی بوشهر اصابت کرد.<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:22:34+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102009",
-    "timestamp": 1784240554000
-  },
-  {
-    "id": "worldsmoments/102008",
-    "channel": "worldsmoments",
-    "text": "فعال شدن دوباره‌ی پدافند هوایی در کویت@worldsmoments",
-    "html": "فعال شدن دوباره‌ی پدافند هوایی در کویت<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:22:21+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102008",
-    "timestamp": 1784240541000
-  },
-  {
-    "id": "Dirty_Kids/394776",
-    "channel": "dirty_kids",
-    "text": "سنتکام وارد یک نفتکش ایرانی شده. این ویدئو عملیاتشون رو نشون می‌ده.سنتکام در مورد محاصره دریایی ایرانتا امروز، نیروهای آمریکایی:۳ کشتی تجاری را که قصد عبور از محاصره را داشتند، تغییر مسیر داده‌اند؛۱ کشتی را که از اجرای دستورات سرپیچی کرده بود، از کار انداخته‌اند؛و ۱ کشتی را بازرسی و سوار شده‌اند تا از اجرای کامل محاصره دریایی جاری ایالات متحده علیه ایران اطمینان حاصل کنند.﻿@Dirty_Kids 👻",
-    "html": "<b>سنتکام وارد یک نفتکش ایرانی شده. این ویدئو عملیاتشون رو نشون می‌ده.</b><br><br><blockquote><b>سنتکام در مورد محاصره دریایی ای</b>ران<br>تا امروز، نیروهای آمریکایی:<br><br>۳ کشتی تجاری را که قصد عبور از محاصره را داشتند، تغییر مسیر داده‌اند؛<br>۱ کشتی را که از اجرای دستورات سرپیچی کرده بود، از کار انداخته‌اند؛<br>و ۱ کشتی را بازرسی و سوار شده‌اند تا از اجرای کامل محاصره دریایی جاری ایالات متحده علیه ایران اطمینان حاصل کنند.<br></blockquote>﻿<br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-16T22:22:18+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394776",
-    "timestamp": 1784240538000
-  },
-  {
-    "id": "worldsmoments/102007",
-    "channel": "worldsmoments",
-    "text": "گزارش صدای انفجار در بندر لنگه@worldsmoments",
-    "html": "گزارش صدای انفجار در بندر لنگه<br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:14:27+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102007",
-    "timestamp": 1784240067000
-  },
-  {
-    "id": "newscenter2020/67548",
-    "channel": "newscenter",
-    "text": "🔴 مهر: شنیده شدن صدای انفجارهای پی‌درپی در بندرلنگه🔻بامداد جمعه، صدای چندین انفجار در نقاطی از بندرلنگه شنیده شد که موجب نگرانی شهروندان این شهرستان شد.🦘RoobetThe #1 Crypto Casino & Sportsbook Join our Telegram for exclusive promo codeshttps://t.me/+Mv2beCnrwvBiNWRh✅ @newscenter",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> مهر: شنیده شدن صدای انفجارهای پی‌درپی در بندرلنگه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>بامداد جمعه، صدای چندین انفجار در نقاطی از بندرلنگه شنیده شد که موجب نگرانی شهروندان این شهرستان شد.<br><br><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA698.png')\"><b>🦘</b></i><a href=\"https://bit.ly/vrzesh\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Roobet</a><br>The #1 Crypto Casino &amp; Sportsbook <br>Join our Telegram for exclusive promo codes<br><a href=\"https://t.me/+Mv2beCnrwvBiNWRh\" target=\"_blank\" rel=\"noopener\">https://t.me/+Mv2beCnrwvBiNWRh</a></blockquote><br><tg-emoji emoji-id=\"4983335237971871543\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji> <a href=\"https://t.me/newscenter\" target=\"_blank\">@newscenter</a>",
-    "date": "2026-07-16T22:11:20+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/newscenter/67548",
-    "timestamp": 1784239880000
-  },
-  {
-    "id": "Dirty_Kids/394775",
-    "channel": "dirty_kids",
-    "text": "🔴 بخدا موندم چی بگم؛ دیشب توی تبریز یه نفر بخاطر اینکه کل پولشو رو برد انگلیس شرط بندی کرده بود و باخت، خودشو از طبقه ششم انداخت پایین و خودکشی کرد!@Dirty_Kids 👻",
-    "html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> بخدا موندم چی بگم؛ دیشب توی تبریز یه نفر بخاطر اینکه کل پولشو رو برد انگلیس شرط بندی کرده بود و باخت، خودشو از طبقه ششم انداخت پایین و خودکشی کرد!<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i>",
-    "date": "2026-07-16T22:09:08+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394775",
-    "timestamp": 1784239748000
-  },
-  {
-    "id": "IranintlTV/347969",
-    "channel": "IranintlTV",
-    "text": "قطر گزارش‌های منتشرشده در برخی رسانه‌های اسرائیلی مبنی بر موافقت دوحه با مشارکت در اقدام نظامی علیه ایران را رد و اعلام کرد: «طرح چنین ادعاهایی از سوی افرادی انجام می‌شود که می‌خواهند کشور را به درگیری بکشانند.» وزارت خارجه قطر تاکید کرد این کشور نه در گذشته و نه در آینده در هیچ اقدام نظامی علیه هیچ‌یک از کشورهای همسایه مشارکت نخواهد کرد.https://iranintl.com/202607160365",
-    "html": "قطر گزارش‌های منتشرشده در برخی رسانه‌های اسرائیلی مبنی بر موافقت دوحه با مشارکت در اقدام نظامی علیه ایران را رد و اعلام کرد: «طرح چنین ادعاهایی از سوی افرادی انجام می‌شود که می‌خواهند کشور را به درگیری بکشانند.»<br><br> وزارت خارجه قطر تاکید کرد این کشور نه در گذشته و نه در آینده در هیچ اقدام نظامی علیه هیچ‌یک از کشورهای همسایه مشارکت نخواهد کرد.<br><a href=\"https://iranintl.com/202607160365\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202607160365</a>",
-    "date": "2026-07-16T22:08:02+00:00",
-    "images": [
-      "https://cdn4.telesco.pe/file/r4LMUijPH6e-XopKDvCAwl6vqW23q8NHj1zvcvURUeC2AQOOQTsOHyQ9Lmyw_h-VIr6zgGD8OY3ajQUrA2nWZZoWWARZJowoYTclr-aVVlMwCN7yAePuKaVCZcRHoZ9NBMMqQ8BPp3yQe0_iIKgZ8SwT3HruzrwfS2O7-910nLZCjSv2rWU9U7mwyRKPH-7pTSrsNSGPSrqeOnEl_h0y9OIloubOQrZirxK2P5XS7SyH_JkPTSRrLrOaU1IN_ncbaHcPNw8hHWXesltZGOHRlz-ieJuPMFZMdOtaf4df8QYUI3E5sT8vwmtYP9fvxL26JfBezxQqWRj5TAbJL6gAcg.jpg"
-    ],
-    "files": [],
-    "link": "https://t.me/IranintlTV/347969",
-    "timestamp": 1784239682000
-  },
-  {
-    "id": "worldsmoments/102006",
-    "channel": "worldsmoments",
-    "text": "فوری/استانداری لرستان : دقایقی پیش یک نقطه از بخش ویسیان شهرستان چگنی مورد حمله دشمن قرار گرفت.@worldsmoments",
-    "html": "<b>فوری/استانداری لرستان : دقایقی پیش یک نقطه از بخش ویسیان شهرستان چگنی مورد حمله دشمن قرار گرفت.</b><br><a href=\"https://t.me/worldsmoments\" target=\"_blank\">@worldsmoments</a>",
-    "date": "2026-07-16T22:07:20+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/worldsmoments/102006",
-    "timestamp": 1784239640000
-  },
-  {
-    "id": "pm_afshaa/97166",
-    "channel": "pm_afshaa",
-    "text": "🔴استانداری لرستان: دقایقی پیش یک نقطه از بخش ویسیان شهرستان چگنی مورد حمله دشمن قرار گرفت.😁 @Pm_Afshaa",
-    "html": "<tg-emoji emoji-id=\"5314800906703740421\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>استانداری لرستان: دقایقی پیش یک نقطه از بخش ویسیان شهرستان چگنی مورد حمله دشمن قرار گرفت.<br><br><tg-emoji emoji-id=\"6021677967288050433\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i></tg-emoji> <a href=\"https://t.me/Pm_Afshaa\" target=\"_blank\">@Pm_Afshaa</a>",
-    "date": "2026-07-16T22:04:58+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/pm_afshaa/97166",
-    "timestamp": 1784239498000
-  },
-  {
-    "id": "Dirty_Kids/394773",
-    "channel": "dirty_kids",
-    "text": "بوشهر رو همچنان دارن سنگین میزنن:@Dirty_Kids 👻بوشهر رو همچنان دارن سنگین میزنن:@Dirty_Kids 👻",
-    "html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">بوشهر رو همچنان دارن سنگین میزنن:<br><br><br><a href=\"https://t.me/Dirty_Kids\" target=\"_blank\">@Dirty_Kids</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91BB.png')\"><b>👻</b></i></div>",
-    "date": "2026-07-16T22:04:26+00:00",
-    "images": [],
-    "files": [],
-    "link": "https://t.me/dirty_kids/394773",
-    "timestamp": 1784239466000
   }
 ]
